@@ -29,4 +29,4 @@ people: [Lazzaroni, Curtis, Elgar, Geoffrey, Miss Thomas]
 
 **People:** Lazzaroni, Curtis, Elgar, Geoffrey, Miss Thomas  
 
-**Transcriber's note:** Lower lines on July 19 are very hard to read and overlap with bleed-through. 'Renewed my new passport' interpreted from PASSPORT in block capitals. Several names uncertain.
+**Transcriber's note:** Heavy soft grey bleed-through in original, erased in bleed-suppressed version. Lower lines on July 19 overlap and partly run off the right edge; readings uncertain. 'PASSPORT' written in large block capitals (real, sharp).

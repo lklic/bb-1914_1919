@@ -22,11 +22,11 @@ places: [Tarragona, Valencia]
 
 ## May 16 — Friday
 
-> leave[?] at Valencia[?]
-> All day touring
+> [illegible] at Valencia[?]
+> All day journey[?]
 > VALENCIA
 > Palace Hotel
 
 **Places:** Tarragona, Valencia  
 
-**Transcriber's note:** Large block capitals TARRAGON(A) and VALENCIA mark travel through Spain. May 16 line above 'All day touring' is faint and uncertain. Bleed-through pencil ignored.
+**Transcriber's note:** Upward arrow drawn before TARRAGON. Large block capitals TARRAGON(A) and VALENCIA mark travel through Spain. May 16 line above 'All day journey' is faint and uncertain. Bleed-through pencil ghosts ignored.

@@ -6,7 +6,7 @@ side: right
 spread: 12
 page_type: entry
 location: Paris
-places: [4 Ave. Malakoff (Paris)]
+places: [4 Ave. Malakoff]
 people: [Mrs. Scott, Rosa]
 ---
 
@@ -25,9 +25,13 @@ people: [Mrs. Scott, Rosa]
 
 ## February 15 — Saturday
 
+> *(no writing)*
+
+### Other writing on page
+
 > G.
 
-**Places:** 4 Ave. Malakoff (Paris)  
+**Places:** 4 Ave. Malakoff  
 **People:** Mrs. Scott, Rosa  
 
-**Transcriber's note:** Avenue Malakoff is in Paris, confirming Paris location. Feb 15 has only a 'G.' jotting (likely at bottom of facing area).
+**Transcriber's note:** Avenue Malakoff is in Paris, confirming location. Faint marks below the Feb 15 header in the original are bleed-through (gone in suppressed image) - ignored. A lone 'G.' is written low in the left margin, kept as loose_text. Feb 15 has no real handwriting.

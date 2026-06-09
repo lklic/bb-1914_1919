@@ -17,16 +17,19 @@ places: [Beaulieu, Cap Ferrat, Hotel Cap Ferrat]
 
 *(printed: Shrove Tuesday.)*
 
-> 1. Sen Cap[?]
+> 1. See Cap[?]
 
 ## March 5 — Wednesday
 
 *(printed: Ash Wednesday.)*
 
-> 8.20 Left for
-> Beaulieu
+> 8.2[0] Left for
+> Beaulieu[?]
+
+### Other writing on page
+
 > Hotel Cap Ferrat
 
 **Places:** Beaulieu, Cap Ferrat, Hotel Cap Ferrat  
 
-**Transcriber's note:** March 4 entry has '8.20' and 'Left for Beaulieu' written across/above the March 5 header; placement ambiguous. First line under March 4 reads '1. Sen Cap[?]' (uncertain). 'Hotel Cap Ferrat' written in pencil at bottom of page. Some faint pencil and mirror-reversed bleed-through ignored.
+**Transcriber's note:** Heavy bleed-through; soft ghost lines under March 5 ignored. '8.20 Left for Beaulieu' written diagonally over the March 5 header. 'Hotel Cap Ferrat' at bottom confirmed in bleed-suppressed image.

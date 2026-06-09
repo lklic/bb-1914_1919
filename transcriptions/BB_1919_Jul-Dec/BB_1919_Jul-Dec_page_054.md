@@ -33,4 +33,4 @@ people: [V. Sackville, Gigholi[?]]
 **Places:** Borgo S. Sepolcro, Perugia  
 **People:** V. Sackville, Gigholi[?]  
 
-**Transcriber's note:** V. Sackville written above the Oct 16 header. 'Neah.' uncertain (possibly abbreviation); 'Heritage' in quotes possibly a book/work title. Bleed-through pencil ignored.
+**Transcriber's note:** 'V. Sackville-' written above the Oct 16 header. 'Neah.[?] "Heritage"' uncertain (the quoted word likely a book/work title). 'Borgo S. Sepol-/cro' and 'Perugia' in block capitals under Oct 17. Faint pencil bleed-through present but ignored.

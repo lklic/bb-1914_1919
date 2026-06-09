@@ -5,20 +5,20 @@ page: 72
 side: right
 spread: 36
 page_type: entry
-location: Siena
+location: Settignano (Florence)
 places: [Villa Medici]
-people: [Lady Annabel O'Niel[?]]
+people: [Cecila, Lady Annabal O'Niel]
 ---
 
 # BB_1919_Jul-Dec — page 72 (right)
 
-*Location: **Siena***
+*Location: **Settignano (Florence)***
 
 ## November 21 — Friday
 
 *(printed: 23rd Sunday after Trinity)*
 
-> The Lorenzetti[?]
+> The Lorenzetti
 > Villa Medici
 > Cecila[?]
 
@@ -26,10 +26,10 @@ people: [Lady Annabel O'Niel[?]]
 
 *(printed: 3h. 20m., aft.)*
 
-> Lady Annabel
-> O'Niel[?]
+> Lady Annabal[?]
+> O'Niel
 
 **Places:** Villa Medici  
-**People:** Lady Annabel O'Niel[?]  
+**People:** Cecila, Lady Annabal O'Niel  
 
-**Transcriber's note:** Black ink. 'The Lorenzetti' continues from facing page (the Lorenzetti painters). 'Cecila' uncertain. Surname read as O'Niel/O'Neill, uncertain. Bleed-through ignored.
+**Transcriber's note:** Black ink. 'The Lorenzetti' continues the entry begun on the facing page (the Lorenzetti painters). 'Cecila' uncertain. Surname read O'Niel/O'Neill. Faint bleed-through under the Saturday entry ignored.

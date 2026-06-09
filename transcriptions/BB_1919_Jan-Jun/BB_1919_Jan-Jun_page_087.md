@@ -16,7 +16,7 @@ people: [Duqua d'Infantado[?], Lotfallah Bey[?], Curl[?]]
 
 ## June 20 — Friday
 
-> 1.30 Villaire[?]ja
+> 1.30 Villaireja[?]
 > with us.
 > Duqua d'Infantado[?]
 > 9. Lotfallah Bey[?]
@@ -32,4 +32,4 @@ people: [Duqua d'Infantado[?], Lotfallah Bey[?], Curl[?]]
 **Places:** Madrid  
 **People:** Duqua d'Infantado[?], Lotfallah Bey[?], Curl[?]  
 
-**Transcriber's note:** In Madrid. Several names uncertain. 'Villaire[?]ja' may be a personal/place name. 'Lotfallah Bey' uncertain. Faint pencil/bleed-through at bottom not transcribed.
+**Transcriber's note:** In Madrid. Several names uncertain. 'Villaireja[?]' may be a personal/place name. Faint diagonal bleed-through in original (and a faint '7.30 ...' at bottom) not present in suppressed image; ignored.

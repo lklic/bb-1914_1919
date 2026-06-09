@@ -15,17 +15,17 @@ people: [L. Venturi[?]]
 
 ## November 7 — Friday
 
-*(printed: 11h. 35m., aft.)*
+*(printed: O 11h. 35m., aft.)*
 
 > Adam's[?] Sh. Michel[?]
-> + Charles[?]
+> + Charkes[?]
 
 ## November 8 — Saturday
 
-> Daddi[?] falls
+> Daddi[?] falls[?]
 > domna[?]
 > L. Venturi[?]
 
 **People:** L. Venturi[?]  
 
-**Transcriber's note:** Ink entries on both days. Nov 7 mentions Adam[?] / Michel[?] / Charles[?] - uncertain. Nov 8 'L. Venturi' likely the art historian Lionello Venturi. Faint mirror-reversed bleed-through ignored at lower edge.
+**Transcriber's note:** Dark ink entries on both days. Nov 7 has a faint scratchy pencil line below the ink (real but illegible). Nov 8 'L. Venturi' likely the art historian Lionello Venturi; 'Daddi' possibly the painter Bernardo Daddi. Readings of the cursive proper names are uncertain. Faint mirror-reversed bleed-through at the lower edge is ignored.

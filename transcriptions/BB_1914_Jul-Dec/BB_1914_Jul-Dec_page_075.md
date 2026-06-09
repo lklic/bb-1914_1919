@@ -5,14 +5,14 @@ page: 75
 side: left
 spread: 38
 page_type: entry
-location: Genoa / Pisa to I Tatti
+location: Genoa
 places: [Genoa, Viareggio]
 people: [Laura Gropallo[?], Guido Cagnola]
 ---
 
 # BB_1914_Jul-Dec — page 75 (left)
 
-*Location: **Genoa / Pisa to I Tatti***
+*Location: **Genoa***
 
 ## December 1 — Tuesday
 
@@ -36,4 +36,4 @@ people: [Laura Gropallo[?], Guido Cagnola]
 **Places:** Genoa, Viareggio  
 **People:** Laura Gropallo[?], Guido Cagnola  
 
-**Transcriber's note:** BB at Genoa Dec 1, lunch with Laura Gropallo, dinner with Guido Cagnola. Dec 2 lunched somewhere (Serli?), then to Viareggio, Hotel Royal. Some surnames uncertain; bleed-through visible at right edge.
+**Transcriber's note:** Dec 1 at Genoa: lunch with Laura Gropallo, dinner with Guido Cagnola. Dec 2 lunched (Serli?), Hotel name uncertain, then Viareggio, Hotel Royal. Some surnames uncertain. Heavy bleed-through suppressed; handwriting confirmed in clean version.

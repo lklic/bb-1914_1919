@@ -5,13 +5,13 @@ page: 83
 side: left
 spread: 42
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Mme & Mlle. Giuliani[?], Strong[?], Countess Crawing[?]]
+location: Florence
+people: [Mme & Mlle Giuliani, Strong, Countess Gravina]
 ---
 
 # BB_1914_Jul-Dec — page 83 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 17 — Thursday
 
@@ -22,10 +22,8 @@ people: [Mme & Mlle. Giuliani[?], Strong[?], Countess Crawing[?]]
 
 ## December 18 — Friday
 
-> [illegible]
-> [illegible]
-> Countess Crawing[?]
+> Countess Gravina[?]
 
-**People:** Mme & Mlle. Giuliani[?], Strong[?], Countess Crawing[?]  
+**People:** Mme & Mlle Giuliani, Strong, Countess Gravina  
 
-**Transcriber's note:** Pencil, faint and partly obscured by show-through. Right edge of left page is cut off, truncating names. Dec 17: tea with someone (Strong?). Dec 18 lines very faint.
+**Transcriber's note:** Pencil, faint, right edge of leaf truncates names. Heavy bleed-through in original; only strokes confirmed in bleed-suppressed image transcribed. A faint horizontal line under the Dec 18 header is bleed-through and ignored.

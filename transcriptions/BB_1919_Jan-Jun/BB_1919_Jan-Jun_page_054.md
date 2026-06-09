@@ -15,15 +15,13 @@ people: [Rosa, Mrs. Vanderwelde, Donnah, Mary, Putzi[?], Paul of Serbia]
 
 ## April 15 — Tuesday
 
-*(printed: 8h. 25m., morn.)*
+*(printed: O 8h. 25m., morn.)*
 
 > 4 Ital. Exhib -
 > Mng. de Luedes[?]
 > 8. Rosa
 
 ## April 16 — Wednesday
-
-*(printed: Good Friday.)*
 
 > Mrs. Vanderwelde[?]
 > & Donnah to lunch
@@ -32,4 +30,4 @@ people: [Rosa, Mrs. Vanderwelde, Donnah, Mary, Putzi[?], Paul of Serbia]
 
 **People:** Rosa, Mrs. Vanderwelde, Donnah, Mary, Putzi[?], Paul of Serbia  
 
-**Transcriber's note:** Printed 'Good Friday' note appears under April 16 (calendar placement). Italian Exhibition reference at 4 o'clock. Several names uncertain; pencil bleed-through ignored.
+**Transcriber's note:** April 15 lines clearly confirmed in bleed-suppressed image; April 16 lines are faint pencil, confirmed but read with moderate uncertainty. A faint printed 'Good Friday' sub-note may appear under April 16. Pencil bleed-through ignored.

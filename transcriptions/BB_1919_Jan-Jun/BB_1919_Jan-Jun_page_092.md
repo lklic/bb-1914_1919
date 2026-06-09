@@ -6,7 +6,7 @@ side: right
 spread: 46
 page_type: entry
 location: Santiago de Compostela
-places: [Santiago, Coruña, Ribadeo]
+places: [SANTIAGO, CORUÑA, Ribadeo]
 ---
 
 # BB_1919_Jan-Jun — page 92 (right)
@@ -23,6 +23,6 @@ places: [Santiago, Coruña, Ribadeo]
 > Ribadeo. Hotel
 > Ferrocarrilana[?]
 
-**Places:** Santiago, Coruña, Ribadeo  
+**Places:** SANTIAGO, CORUÑA, Ribadeo  
 
-**Transcriber's note:** Continuing through Galicia. 'Ribadeo. Hotel Ferrocarrilana' (railway hotel) noted at bottom. Bleed-through (OVIEDO etc.) ignored.
+**Transcriber's note:** Continuing through Galicia. 'Ribadeo. Hotel Ferrocarrilana' (railway hotel) noted at bottom. Bleed-through (OVIEDO etc.) in original suppressed in clean version; ignored.

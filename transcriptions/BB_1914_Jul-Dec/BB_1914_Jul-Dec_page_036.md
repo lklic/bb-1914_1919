@@ -5,17 +5,15 @@ page: 36
 side: right
 spread: 18
 page_type: entry
-location: Ford Place / London
+location: Ford
 people: [Ford, Geoffrey, Adrian Stephen, Karin]
 ---
 
 # BB_1914_Jul-Dec — page 36 (right)
 
-*Location: **Ford Place / London***
+*Location: **Ford***
 
 ## September 18 — Friday
-
-*(printed: 15th Sunday after Trinity)*
 
 > Ford
 > Geoffrey
@@ -26,11 +24,11 @@ people: [Ford, Geoffrey, Adrian Stephen, Karin]
 *(printed: 9h. 33m., aft.)*
 
 > Ford
-> Usher's "Pan-Ger-
-> manism"
+> Usher's "Pau-Ger-
+> manicus"[?]
 > Adrian Stephen
 > & Karin
 
 **People:** Ford, Geoffrey, Adrian Stephen, Karin  
 
-**Transcriber's note:** Sept 18 notes 'Yule's Marco Polo' (the Henry Yule edition). Sept 19 notes Usher's 'Pan-Germanism' and names Adrian Stephen & Karin. Printed liturgical note on Sept 18 partly obscured by show-through.
+**Transcriber's note:** Bleed-through visible in original (faint mirror printed headers and cursive) but suppressed image confirms only the dark ink lines transcribed. 'Yule's Marco Polo' = Henry Yule's edition. Adrian Stephen and Karin (Costelloe) Stephen.

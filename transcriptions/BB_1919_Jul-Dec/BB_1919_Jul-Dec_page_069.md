@@ -26,4 +26,4 @@ people: [Lady Anabel O'Neil, Mlle. Lavalle[?]]
 
 **People:** Lady Anabel O'Neil, Mlle. Lavalle[?]  
 
-**Transcriber's note:** Two day entries with names of people met. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** Two day entries with names of people. Faint mirror-reversed bleed-through near Nov 16 header (absent in bleed-suppressed image) ignored.

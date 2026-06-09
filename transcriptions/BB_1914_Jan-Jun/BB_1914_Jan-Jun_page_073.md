@@ -5,32 +5,26 @@ page: 73
 side: left
 spread: 37
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Mr Lucas[?], Croswell[?]]
+location: Florence
+people: [Croswell]
 ---
 
 # BB_1914_Jan-Jun — page 73 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 27 — Wednesday
 
 *(printed: Derby.)*
 
-> E. H. L. [illegible] a lett.
-> ham[?]
-> Mr Lucas[?] [illegible]
+> *(no writing)*
 
 ## May 28 — Thursday
 
-*(printed: Queen's Birthday)*
-
-> [illegible]
-
-### Other writing on page
+*(printed: Queen's Birthday. Empire Day.)*
 
 > Croswell to din[?]
 
-**People:** Mr Lucas[?], Croswell[?]  
+**People:** Croswell  
 
-**Transcriber's note:** Hard pencil; much mirror-reversed bleed-through obscures the page. May 27 lines partly legible; lower line written across the bottom margin reads 'Croswell to din[?]' (a dinner engagement). Printed sub-notes: 'Derby.' under May 27; 'Queen's Birthday' under May 28.
+**Transcriber's note:** Heavy mirror-reversed bleed-through fills the upper half of the page; it is absent from the bleed-suppressed image and is NOT transcribed. The only real dark ink is the bold cursive line at the bottom of the page: 'Croswell to din[e]'.

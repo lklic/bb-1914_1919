@@ -6,7 +6,7 @@ side: left
 spread: 11
 page_type: entry
 location: Paris
-people: [Ferguson, Earl Hamilton, Dubos, Venizelos]
+people: [Ferguson, Carl Hamilton, Dubos, Venizelos[?]]
 ---
 
 # BB_1919_Jul-Dec — page 21 (left)
@@ -17,21 +17,21 @@ people: [Ferguson, Earl Hamilton, Dubos, Venizelos]
 
 *(printed: O 5h. 40m., aft.)*
 
-> 11.30 ? Lapporin[?]
-> 1. ?
+> 11.30 } Lapporin[?]
+> 1.
 > Ferguson to
 > tea
 > Q[?].
 
 ## August 12 — Tuesday
 
-*(printed: Grouse Shooting Begins)*
+*(printed: Grouse Shooting begins.)*
 
-> Earl Hamilton
-> This is to lunch
+> Carl Hamilton[?]
+> This is to lunch[?]
 > 5. Dubos.
-> 8.30 Venizelos
+> 8.30 Venizelos[?]
 
-**People:** Ferguson, Earl Hamilton, Dubos, Venizelos  
+**People:** Ferguson, Carl Hamilton, Dubos, Venizelos[?]  
 
-**Transcriber's note:** Heavy mirror-reversed bleed-through across the page. Several words uncertain: '11.30 Lapporin[?]' on first line. 'Earl Hamilton' and 'This is to lunch' under Aug 12. Venizelos likely the Greek statesman; appointment at 8.30.
+**Transcriber's note:** Heavy mirror-reversed bleed-through in original (e.g. 'SAUCE'); only sharp dark ink confirmed in suppressed image transcribed. Several words uncertain: '11.30 Lapporin[?]'. 'Carl Hamilton' the collector; 'This is to lunch' under Aug 12. '8.30 Venizelos[?]' (could also read Versailles).

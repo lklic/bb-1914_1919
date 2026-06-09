@@ -24,4 +24,4 @@ places: [Burgos]
 
 **Places:** Burgos  
 
-**Transcriber's note:** Heavy mirror-reversed bleed-through (LOGRONO, NAJERA, ESTELLA, PAMPLONA, etc.) ignored. He is in Burgos, staying at Hotel Norte[?].
+**Transcriber's note:** Heavy mirror-reversed bleed-through ghosts (PALENCIA, NAJERA, LOGRONO, ESTELLA, PAMPLONA) visible in original, all suppressed and ignored. Real writing: BURGOS in block capitals on both days, plus a cursive hotel name 'Hotel Norte[?]' under July 8 (uncertain).

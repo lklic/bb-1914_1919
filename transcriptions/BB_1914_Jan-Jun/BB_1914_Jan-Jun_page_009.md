@@ -6,7 +6,8 @@ side: left
 spread: 5
 page_type: entry
 location: New York
-people: [Hewitt, Seligmann[?], Robinson, Grace[?], Mrs. Pemb. Jones]
+places: [Vernon, Colony Club]
+people: [Hewitt, F. Seligmann, Robinson, B. G., Grace[?], Mrs. Pemb. Jones]
 ---
 
 # BB_1914_Jan-Jun — page 9 (left)
@@ -17,17 +18,18 @@ people: [Hewitt, Seligmann[?], Robinson, Grace[?], Mrs. Pemb. Jones]
 
 > 11 Vernon
 > Lunch Hewitt 1
-> Seligmann[?]
+> F. Seligmann
 > Dine Robinson 8
 
 ## January 16 — Friday
 
 > Lunch B. G -
 > 4.00 Osteopath
-> 4.30 Colony Club
-> Dinner B & Grace[?] dine wth[?]
+> 4.30 Colony Club .
+> Dinner B Grace[?] dine wth[?]
 > Mrs. Pemb. Jones 10
 
-**People:** Hewitt, Seligmann[?], Robinson, Grace[?], Mrs. Pemb. Jones  
+**Places:** Vernon, Colony Club  
+**People:** Hewitt, F. Seligmann, Robinson, B. G., Grace[?], Mrs. Pemb. Jones  
 
-**Transcriber's note:** Pencil entries. Ink blot near 'Seligmann'. 'B. G' and 'B' likely abbreviations for companions. Osteopath and Colony Club appointments. Probably in New York (Colony Club, Vernon, Pembroke Jones).
+**Transcriber's note:** Day headers and handwriting confirmed in bleed-suppressed image. An ink blot sits over the start of the 'F. Seligmann' line. An under-leaf is visible at the left edge ('Jan...') but is not part of this spread.

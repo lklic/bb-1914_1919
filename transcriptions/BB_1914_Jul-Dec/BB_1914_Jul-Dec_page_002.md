@@ -6,7 +6,7 @@ side: right
 spread: 1
 page_type: entry
 location: Paris
-places: [2 Quai de Bourbon]
+places: [21 Quai de Bourbon]
 people: [Paolini[?], Royall Tyler, Lillie[?], Hubert[?], Edith[?]]
 ---
 
@@ -18,18 +18,18 @@ people: [Paolini[?], Royall Tyler, Lillie[?], Hubert[?], Edith[?]]
 
 > 10.15 Paolini[?]
 > Royall Tyler
-> 2 / Quai de Bourbon
+> 21 Quai de Bourbon
 > 5.30 [illegible]
 > 8 Lillie[?] [illegible]
 
 ## July 5 — Sunday
 
-*(printed: 4th Sunday after Trinity)*
+*(printed: 4th Sunday after Trinity.)*
 
-> Lunch[?] Hubert[?]
-> Dine Edith[?]
+> lunch Hubert[?]
+> dine Edith[?]
 
-**Places:** 2 Quai de Bourbon  
+**Places:** 21 Quai de Bourbon  
 **People:** Paolini[?], Royall Tyler, Lillie[?], Hubert[?], Edith[?]  
 
-**Transcriber's note:** Paris appointments. Royall Tyler fairly clear. Times noted (2/, 5.30, 8). Several names uncertain due to pencil, strikethroughs and heavy bleed-through.
+**Transcriber's note:** Paris appointments. Royall Tyler fairly clear. Times noted (5.30, 8). The 5.30 line is struck through. Purple ink-stamp ghost and heavy bleed-through on original ignored. Sunday entries faint but present in suppressed image.

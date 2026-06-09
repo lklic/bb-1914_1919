@@ -6,7 +6,7 @@ side: left
 spread: 8
 page_type: entry
 location: Paris
-people: [Lucy, Miss Hask[?], Cole Porter, Locke[?], Polignac[?], Linda]
+people: [Lucy, Miss Hare[?], Cole Porter, Lockie[?], Polignac, Linda]
 ---
 
 # BB_1919_Jan-Jun — page 15 (left)
@@ -15,10 +15,10 @@ people: [Lucy, Miss Hask[?], Cole Porter, Locke[?], Polignac[?], Linda]
 
 ## January 27 — Monday
 
-> 1. Lucy, Miss Hask[?]
-> & Cole Porter & Locke[?]
-> 5 M[illegible]
-> Polignac[?]
+> 1. Lucy, Miss Hare[?]
+> & Cole Porter, Lockie[?]
+> 5 [illegible struck through]
+> 5 Polignac
 > 8 G.
 
 ## January 28 — Tuesday
@@ -26,8 +26,8 @@ people: [Lucy, Miss Hask[?], Cole Porter, Locke[?], Polignac[?], Linda]
 *(printed: 3rd Sunday after Epiphany)*
 
 > Club
-> & Linda
+> 8 Linda
 
-**People:** Lucy, Miss Hask[?], Cole Porter, Locke[?], Polignac[?], Linda  
+**People:** Lucy, Miss Hare[?], Cole Porter, Lockie[?], Polignac, Linda  
 
-**Transcriber's note:** Pencil notes, partly struck through on the line near Jan 27/28. 'Cole Porter' reading plausible. The '5' line is crossed out. Some show-through/bleed visible but ignored.
+**Transcriber's note:** Heavy bleed-through on original (mirror-reversed printed sub-notes and faint ghost script); suppressed version confirms only the lines transcribed. One line near top of Jan 27 block is struck through and illegible. Numbers (1, 5, 8) indicate appointment hours.

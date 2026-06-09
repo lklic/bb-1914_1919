@@ -5,19 +5,19 @@ page: 66
 side: right
 spread: 33
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Strong, Lubbock]
 ---
 
 # BB_1914_Jan-Jun — page 66 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 13 — Wednesday
 
 *(printed: 5th Sunday after Easter)*
 
-> dine[?]
+> Same[?]
 > Tea with Strong
 > Lubbock
 

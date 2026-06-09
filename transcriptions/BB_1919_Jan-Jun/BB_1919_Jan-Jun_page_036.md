@@ -6,7 +6,7 @@ side: right
 spread: 18
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-places: [Hotel des Pins[?]]
+places: [Hotel du Parc, St. Francois[?]]
 ---
 
 # BB_1919_Jan-Jun — page 36 (right)
@@ -19,10 +19,10 @@ places: [Hotel des Pins[?]]
 
 ## March 11 — Tuesday
 
-> Hotel des Pins[?]
-> St. Francis[?]
-> Mr[?]
+> Hotel du Parc
+> St. Francois[?]
+> N.Y.[?]
 
-**Places:** Hotel des Pins[?]  
+**Places:** Hotel du Parc, St. Francois[?]  
 
-**Transcriber's note:** March 10 appears blank (faint marks are bleed-through). March 11 lines uncertain: 'Hotel des Pins', then an uncertain word possibly 'St. Francis' or a name, then a short illegible word.
+**Transcriber's note:** March 10 is blank (only faint bleed-through ghosts in original, gone in suppressed version). March 11 has dark ink: 'Hotel du Parc / St. Francois / N.Y.' - last line is a short flourish, reading uncertain.

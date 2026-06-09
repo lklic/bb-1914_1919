@@ -5,33 +5,30 @@ page: 49
 side: left
 spread: 25
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford, Arundel Park]
-people: [Thornly Gibson, Karin Adrian[?]]
+people: [Thornly Gibson[?], Karin Adrian[?]]
 ---
 
 # BB_1914_Jul-Dec — page 49 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## October 10 — Saturday
 
 > Ford
-> [illegible]
-> [illegible]
-> Thornly Gibson
+> Thornly Gibson[?]
 > Karin Adrian[?]
 
 ## October 11 — Sunday
 
 *(printed: 18th Sunday after Trinity.)*
 
-> Ford
-> Melford Abbey[?]
+> Forde
 > Arundel Park
 > second[?] walk
 
 **Places:** Ford, Arundel Park  
-**People:** Thornly Gibson, Karin Adrian[?]  
+**People:** Thornly Gibson[?], Karin Adrian[?]  
 
-**Transcriber's note:** Pencil and ink mixed; heavy show-through from facing page. 'Ford' written boldly in ink both days (likely the place Ford, Sussex). Several faint pencil lines under Oct 10 illegible. 'Melford Abbey' and 'Karin Adrian' uncertain.
+**Transcriber's note:** Heavy show-through from facing pages in the original; only dark on-page strokes transcribed (confirmed in bleed-suppressed image). 'Ford' written boldly both days (place: Ford, West Sussex). Names under Oct 10 uncertain. A faint 'Melford Abbey[?]' line in the original over Oct 11 is soft/ghosted and likely bleed-through, omitted.

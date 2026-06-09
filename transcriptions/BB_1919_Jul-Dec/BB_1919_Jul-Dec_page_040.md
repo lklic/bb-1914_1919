@@ -6,7 +6,7 @@ side: right
 spread: 20
 page_type: entry
 location: Amiens
-places: [Amiens]
+places: [AMIENS]
 ---
 
 # BB_1919_Jul-Dec — page 40 (right)
@@ -19,10 +19,10 @@ places: [Amiens]
 
 ## September 19 — Friday
 
-*(printed: 14th Sunday after Trinity)*
+*(printed: 14th Sunday after Trinity.)*
 
 > AMIENS
 
-**Places:** Amiens  
+**Places:** AMIENS  
 
-**Transcriber's note:** Both days marked simply 'AMIENS' in block capitals. Heavy mirror-reversed bleed-through visible (e.g. 'EDITH WHARTON', 'EXTRA EXAMINATIONS') ignored.
+**Transcriber's note:** Both days marked simply 'AMIENS' in block capitals - the only real ink. Strong mirror-reversed bleed-through in original (e.g. 'EDITH WHARTON', 'Beauvais') is erased in bleed-suppressed image and ignored. Left edge cut off in scan.

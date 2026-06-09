@@ -7,7 +7,7 @@ spread: 16
 page_type: entry
 location: Baltimore
 places: [Baltimore]
-people: [Miss Dawson[?]]
+people: [Mrs Dawson]
 ---
 
 # BB_1914_Jan-Jun — page 31 (left)
@@ -16,7 +16,7 @@ people: [Miss Dawson[?]]
 
 ## March 4 — Wednesday
 
-> 5. Miss Dawson[?]
+> 5. Mrs Dawson
 
 ## March 5 — Thursday
 
@@ -25,6 +25,6 @@ people: [Miss Dawson[?]]
 > Baltimore
 
 **Places:** Baltimore  
-**People:** Miss Dawson[?]  
+**People:** Mrs Dawson  
 
-**Transcriber's note:** Faint pencil bleed-through ignored. The March 4 entry 'Miss Dawson' is uncertain. 'Baltimore' under March 5 written large in ink.
+**Transcriber's note:** Heavy bleed-through ghosts above and below the real lines; bleed-suppressed image confirms only '5. Mrs Dawson' (under Mar 4) and 'Baltimore' (under Mar 5) are real. '5.' likely a time. 'Baltimore' written large.

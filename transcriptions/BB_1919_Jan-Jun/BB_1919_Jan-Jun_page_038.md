@@ -25,11 +25,11 @@ people: [Duke of Connaught]
 *(printed: St. Patrick's Day.)*
 
 > Tea at Maryland
-> Iroux[?], Duke
+> Troux[?], Duke
 > of Connaught
 > etc.
 
 **Places:** Maryland  
 **People:** Duke of Connaught  
 
-**Transcriber's note:** March 14 marked 'Bad'. March 15: tea at Maryland with the Duke of Connaught and others; first name before 'Duke' uncertain (Iroux[?]). Printed liturgical notes appear under printed headers; some faint mirror text ignored.
+**Transcriber's note:** March 14 marked 'Bad' (dark ink). March 15: tea at Maryland with the Duke of Connaught and others; the word before 'Duke' is uncertain (Troux[?]). Faint mirror/forward bleed-through above and across both days ignored.

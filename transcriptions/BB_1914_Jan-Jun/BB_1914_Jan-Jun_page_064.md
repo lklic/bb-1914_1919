@@ -5,12 +5,12 @@ page: 64
 side: right
 spread: 32
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 ---
 
 # BB_1914_Jan-Jun — page 64 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 9 — Saturday
 
@@ -25,4 +25,4 @@ location: Settignano (I Tatti, Florence)
 > *(no writing)*
 
 
-**Transcriber's note:** Pencil writing is present but appears almost entirely as mirror-reversed bleed-through from the facing leaf and is not legible in normal orientation. Nothing reliably transcribable on this side. [illegible]
+**Transcriber's note:** Original shows faint soft cursive (some mirror-reversed) but it is absent from the bleed-suppressed image, so it is bleed-through. No real on-page handwriting. Page blank.

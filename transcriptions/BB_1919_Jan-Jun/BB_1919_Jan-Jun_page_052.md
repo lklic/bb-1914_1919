@@ -6,8 +6,7 @@ side: right
 spread: 26
 page_type: entry
 location: Hyeres
-places: [Paris]
-people: [Margaret Catchpole, Cobbold[?]]
+people: [Cobbold, Margaret Catchpole]
 ---
 
 # BB_1919_Jan-Jun — page 52 (right)
@@ -18,22 +17,15 @@ people: [Margaret Catchpole, Cobbold[?]]
 
 *(printed: Palm Sunday.)*
 
-> Cobbolds[?] Mar-
+> Cobbold's[?] Mar-
 > garet Catch-
 > pole
-> 5 Boungts[?]
+> 5 Bourget[?]
 
 ## April 12 — Saturday
 
-> [illegible]
+> Fenouillet[?]
 
-### Other writing on page
+**People:** Cobbold, Margaret Catchpole  
 
-> PARIS
-> L. Hesbourg[?]
-> Funoiulleh[?]
-
-**Places:** Paris  
-**People:** Margaret Catchpole, Cobbold[?]  
-
-**Transcriber's note:** April 11 printed note 'Palm Sunday' though dated Friday (printed liturgical note). Hand reads 'Cobbolds[?] Margaret Catchpole' (Margaret Catchpole is title of a Richard Cobbold novel) then '5 Boungts[?]'. PARIS appears in block capitals (faint, possibly partly show-through but appears written on this side). Several loose words uncertain; bleed-through present.
+**Transcriber's note:** April 11 printed liturgical note 'Palm Sunday.' Hand reads 'Cobbold's[?] Margaret Catchpole' (Margaret Catchpole is the title of a Richard Cobbold novel), then '5 Bourget[?]'. Under April 12 the original shows a reversed block 'PARIS' and a faint line resembling 'L. Vauxcelles' but these are SOFT and absent in the suppressed image = bleed-through, NOT transcribed. Only the dark cursive 'Fenouillet[?]' near the bottom is real on-page writing.

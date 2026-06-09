@@ -29,4 +29,4 @@ places: [Valencia, Alicante]
 
 **Places:** Valencia, Alicante  
 
-**Transcriber's note:** Berenson at Valencia, then travels to Alicante. Heavy mirror-reversed bleed-through ignored.
+**Transcriber's note:** Berenson at Valencia, then travels to Alicante. Heavy mirror-reversed bleed-through ignored; dark strokes confirmed in bleed-suppressed image. ALICANTE in block capitals.

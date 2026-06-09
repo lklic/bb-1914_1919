@@ -5,26 +5,26 @@ page: 77
 side: left
 spread: 39
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [American consul, Geoffry Cecil]
+location: Florence
+people: [American Consul, Geoffry Cecil]
 ---
 
 # BB_1914_Jul-Dec — page 77 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 5 — Saturday
 
-> American consul
-> Geoffry[?] Cecil
-> v Wasins[?]
+> American Consul
 
 ## December 6 — Sunday
 
-*(printed: 2nd Sunday in Advent)*
+*(printed: 2nd Sunday in Advent.)*
 
-> [illegible]
+> Geoffry[?] Cecil
+> v Wasin[?]
+> S
 
-**People:** American consul, Geoffry Cecil  
+**People:** American Consul, Geoffry Cecil  
 
-**Transcriber's note:** Pencil entries, faint. 'Geoffry Cecil' uncertain reading; word below ('Wasins'?) illegible. Dec 6 has only a faint pencil flourish. Heavy mirror-reversed bleed-through ignored.
+**Transcriber's note:** Ink/pencil entries confirmed in bleed-suppressed image. 'American Consul' under Dec 5. 'Geoffry Cecil' with a smaller inserted word/'v Wasin' below it sits just above the Dec 6 header; reading uncertain. A flourish ('S') under Dec 6. Heavy bluish bleed-through across page ignored.

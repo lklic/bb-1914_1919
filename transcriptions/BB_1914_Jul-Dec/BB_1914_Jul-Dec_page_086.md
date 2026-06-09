@@ -5,13 +5,13 @@ page: 86
 side: right
 spread: 43
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Gravina, Houghton, Henderson]
 ---
 
 # BB_1914_Jul-Dec — page 86 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 23 — Wednesday
 
@@ -23,13 +23,11 @@ people: [Gravina, Houghton, Henderson]
 
 ## December 24 — Thursday
 
-*(printed: 8h. 25m., morn. (moon phase))*
+*(printed: 8h. 25m., morn. (moon phase); Bank Holiday.)*
 
-> Frank Holm[?]
-> Bony[?]
-> Henderson Schick[?]
+> Henderson Seikrieg[?]
 > & War.
 
 **People:** Gravina, Houghton, Henderson  
 
-**Transcriber's note:** Pencil. 'Tea with Gravina' and 'Houghton dined here' fairly clear. December 24 entries faint: 'Henderson Schick & War' bottom line; earlier lines very uncertain. The printed 'Christmas Day' note actually belongs near Dec 25; here printed sub-notes are partly visible.
+**Transcriber's note:** Bleed-through present but the listed dark lines are confirmed in the bleed-suppressed image. 'Tea with Gravina' and 'Houghton dined / here' are clear. The faint earlier lines under Dec 24 ('Frank...', etc.) are bleed-through; only the bottom 'Henderson Seikrieg[?] & War.' is real. Second word of that line uncertain (possibly 'Seekrieg'/sea-war).

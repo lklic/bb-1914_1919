@@ -6,8 +6,6 @@ side: left
 spread: 24
 page_type: entry
 location: Hyeres
-places: [Toulon[?]]
-people: [A. Salomon[?], Edward[?]]
 ---
 
 # BB_1919_Jan-Jun — page 47 (left)
@@ -18,17 +16,14 @@ people: [A. Salomon[?], Edward[?]]
 
 *(printed: 4th Sunday in Lent.)*
 
-> Evacuos[?]
-> above Toulon[?]
+> *(no writing)*
 
 ## April 2 — Wednesday
 
-> Kappa[?], A. Salo-
-> monpas[?] Edward[?]
-> Qassiz[?] - Rama-
-> tul[?]
+> Καππα, Α Σαλο-
+> μηρα ισωσ[?] λ' οπε[?]
+> Qassun[?] - Rama-
+> tul
 
-**Places:** Toulon[?]  
-**People:** A. Salomon[?], Edward[?]  
 
-**Transcriber's note:** Pencil, very hard to read. Heavy mirror-reversed bleed-through ignored. Names on April 2 highly uncertain; possibly transliterated/foreign names.
+**Transcriber's note:** April 1 area in the original shows soft ghost script ('Evenos / above ...') that is gone/very faint in the bleed-suppressed image - bleed-through, not transcribed; April 1 left blank. April 2 has real writing mixing Greek and Latin letters; readings highly uncertain.

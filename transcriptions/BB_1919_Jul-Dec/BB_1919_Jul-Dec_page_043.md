@@ -6,7 +6,7 @@ side: left
 spread: 22
 page_type: entry
 location: Bourges
-people: [Algar[?], Zölner[?], W. Buckler]
+people: [Algar, S. W. Buckler]
 ---
 
 # BB_1919_Jul-Dec — page 43 (left)
@@ -17,14 +17,14 @@ people: [Algar[?], Zölner[?], W. Buckler]
 
 *(printed: 4h. 34m., morn.)*
 
-> 1. Algar[?]
+> 1. Algar
 > Zölner[?]
 
 ## September 25 — Thursday
 
-> 8. W. Buckler to
+> S. W. Buckler to
 > dine w. me.
 
-**People:** Algar[?], Zölner[?], W. Buckler  
+**People:** Algar, S. W. Buckler  
 
-**Transcriber's note:** Sept 25: W. Buckler to dine with me. Heavy bleed-through (mirror-reversed) across both day blocks; ignored. Sept 24 hand line 'Zölner' uncertain.
+**Transcriber's note:** Sept 25: S. W. Buckler to dine with me. Heavy bleed-through (some mirror-reversed) across both day blocks in original; ignored — only dark ink confirmed in bleed-suppressed image transcribed. Sept 24 second hand line uncertain.

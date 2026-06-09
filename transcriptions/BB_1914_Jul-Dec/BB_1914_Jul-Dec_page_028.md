@@ -5,14 +5,14 @@ page: 28
 side: right
 spread: 14
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Arundel Park]
 people: [Ford, Scott, Karin, Grace, Pierce]
 ---
 
 # BB_1914_Jul-Dec — page 28 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 2 — Wednesday
 
@@ -29,4 +29,4 @@ people: [Ford, Scott, Karin, Grace, Pierce]
 **Places:** Arundel Park  
 **People:** Ford, Scott, Karin, Grace, Pierce  
 
-**Transcriber's note:** Pencil. 'Karin & Grace' likely Karin Costelloe (BB's stepdaughter's circle) and Grace. Last word of that line uncertain ('& Pierce[?]'). Bleed-through ignored.
+**Transcriber's note:** Ink. 'Karin & Grace' likely Karin Costelloe and Grace; last word of that line uncertain ('& Pierce[?]'). Bluish bleed-through in original ignored.

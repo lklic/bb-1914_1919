@@ -29,4 +29,4 @@ places: [Rougemont, Fontenay, Dijon, Citeaux, Dole]
 
 **Places:** Rougemont, Fontenay, Dijon, Citeaux, Dole  
 
-**Transcriber's note:** Printed day headers both read 'August 16' but are Friday and Saturday respectively; the Friday header is likely a misprint or BB used it for Aug 15. Travel itinerary through Burgundy/Franche-Comte. First line uncertain: appears 'Rougemont' with note about sculpted main portal. Heavy mirror-reversed bleed-through ignored.
+**Transcriber's note:** Both printed day headers read 'August 16' (Friday / Saturday); the Friday entry is one day off (likely Aug 15). Travel itinerary through Burgundy / Franche-Comte. First line uncertain: appears 'Rougemont' with note about a sculpted main portal. Heavy bleed-through (some mirror-reversed) suppressed in clean image and ignored.

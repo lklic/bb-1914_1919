@@ -15,9 +15,9 @@ places: [Aix, Costabella, St. Raphael, Nice, Hotel Cecil]
 
 ## November 27 — Friday
 
-> Aix lunch[?]
-> Costabella[?], Mt[?]
-> Bouygues[?].
+> Aix lunch
+> Costabella[?], via[?]
+> Bouquet[?] .
 
 ## November 28 — Saturday
 
@@ -27,4 +27,4 @@ places: [Aix, Costabella, St. Raphael, Nice, Hotel Cecil]
 
 **Places:** Aix, Costabella, St. Raphael, Nice, Hotel Cecil  
 
-**Transcriber's note:** Travel along the French Riviera. Several words uncertain on Nov 27 (Costabella, Bouygues). Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** Travel along the French Riviera. Several words uncertain on Nov 27 (Costabella, last word). Faint soft bleed-through present in original but absent in bleed-suppressed image, so ignored; only the dark cursive lines transcribed.

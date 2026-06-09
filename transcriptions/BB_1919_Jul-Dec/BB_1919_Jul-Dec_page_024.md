@@ -20,22 +20,18 @@ places: [Dole, Chissey, Arbois, Poligny, Baume-les-Messieurs, Bourg-en-Bresse]
 > DOLE
 > cHISSEY abbey.
 > Roman interior[?]
-> v unusi[?] facad[?].
+> v unus[?] facad[?].
 > Arbois, Poligny
 > Baume les Mes-
-> sieurs[?] tou[?] le
+> sieurs. tou[t] le
 
 ## August 18 — Monday
 
-*(printed: (3h. 56m., aft.))*
+*(printed: 3h. 56m., aft.)*
 
 > BOURG en
-> Bresse [?]
-
-### Other writing on page
-
-> NANCY[?]
+> Bresse (?)
 
 **Places:** Dole, Chissey, Arbois, Poligny, Baume-les-Messieurs, Bourg-en-Bresse  
 
-**Transcriber's note:** Continuing Franche-Comte / Burgundy tour. Chissey abbey (Romanesque interior, unusual facade?). Arbois, Poligny, Baume-les-Messieurs noted. Bottom of page has large pencil scrawl 'NANCY[?]' over heavy bleed-through which is mostly ignored. Some lines uncertain due to faint pencil.
+**Transcriber's note:** Continuing Franche-Comte / Burgundy tour. 'DOLE' at top is the header carried over from the left-page Saturday entry. Chissey abbey (Romanesque interior, unusual facade?). Arbois, Poligny, Baume-les-Messieurs noted. Lower half of page has large faint pencil ghost letters (NANCY-like forms) that are bleed-through and not transcribed.

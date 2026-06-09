@@ -5,28 +5,26 @@ page: 54
 side: right
 spread: 27
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Baron [illegible], Edward Spelyer[?], Dvorak, Sambon]
+location: Florence
+people: [Baron St [illegible], Edward Spelyer[?], Dvorak, Sambon]
 ---
 
 # BB_1914_Jan-Jun — page 54 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## April 19 — Sunday
 
 *(printed: 1st Sunday after Easter.)*
 
-> Baron S[?] umn[?]
+> Baron St [illegible]
 > Edward Spelyer[?]
 > Dvorak
 
 ## April 20 — Monday
 
 > Sambon
-> [illegible]
-> [illegible]
 
-**People:** Baron [illegible], Edward Spelyer[?], Dvorak, Sambon  
+**People:** Baron St [illegible], Edward Spelyer[?], Dvorak, Sambon  
 
-**Transcriber's note:** Pencil. 'Dvorak' likely Max Dvorak (art historian). 'Sambon' likely Arthur/Jules Sambon (antiquities dealer). Lower lines on April 20 illegible amid bleed-through.
+**Transcriber's note:** Pencil. Bleed-through below April 20 in original; suppressed image shows only 'Sambon' as real on-page writing.

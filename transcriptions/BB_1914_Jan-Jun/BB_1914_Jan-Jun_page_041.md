@@ -19,7 +19,6 @@ people: [Kahn, Rockefeller[?], Huntington[?], Vanderbilt, Lamb[?], Longworth[?]]
 
 > lunch Kahn
 > 8 East 68 St
-> Rockefeller[?] 8
 
 ## March 25 — Wednesday
 

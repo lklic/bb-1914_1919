@@ -19,8 +19,8 @@ people: [Marjorie[?], Rachel[?], Ray, Edith]
 *(printed: 5h. 48m., aft.)*
 
 > Ford
-> Brother. Marjorie[?]
-> Rachel[?] &
+> . Brakhan[?]. Marjorie
+> Strachey[?] &
 > Ray
 
 ## September 13 — Sunday

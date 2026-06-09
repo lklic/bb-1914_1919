@@ -5,31 +5,31 @@ page: 15
 side: left
 spread: 8
 page_type: entry
-location: Esher / Oxford
-places: [Belgrave Road, Ford Place]
-people: [Bunyon[?], Lubbock[?], Mrs. Kahn[?]]
+location: Ford
+places: [118 Belgrave Road, Ford Place]
+people: [Bunyou[?], Sybil[?], Grace Lozane[?], Mrs. Karu[?]]
 ---
 
 # BB_1914_Jul-Dec — page 15 (left)
 
-*Location: **Esher / Oxford***
+*Location: **Ford***
 
 ## July 30 — Thursday
 
 *(printed: Goodwood Cup.)*
 
-> Cuc[?] 1.30 ??
-> Bunyon[?] 118 Bel-
+> Cra[?] 1.30. ??
+> Bunyou[?] 118 Bel-
 > grave Road
 
 ## July 31 — Friday
 
-> Lubbock[?]
+> Sybil[?]
 > Ford Place
 > Grace Lozane[?]
-> Mrs. Kahn[?]
+> Mrs. Karu[?]
 
-**Places:** Belgrave Road, Ford Place  
-**People:** Bunyon[?], Lubbock[?], Mrs. Kahn[?]  
+**Places:** 118 Belgrave Road, Ford Place  
+**People:** Bunyou[?], Sybil[?], Grace Lozane[?], Mrs. Karu[?]  
 
-**Transcriber's note:** Heavy mirror-reversed bleed-through across the page. July 30 first line and the name following 1.30 are uncertain. 'Bunyon 118 Belgrave Road' appears to be an address. July 31 entries hard to read; 'Lubbock' and 'Mrs. Kahn' are tentative.
+**Transcriber's note:** Heavy bleed-through across the leaf; only the dark cursive strokes confirmed in the bleed-suppressed image were transcribed. '118 Belgrave Road' is an address. July 31 names are tentative due to the difficult hand.

@@ -5,13 +5,14 @@ page: 46
 side: right
 spread: 23
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
+places: [Ford]
 people: [Adrian, Barbara, Mrs. Bowen]
 ---
 
 # BB_1914_Jul-Dec — page 46 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## October 4 — Sunday
 
@@ -28,6 +29,7 @@ people: [Adrian, Barbara, Mrs. Bowen]
 > sailing & Brown[?]
 > Tea with Mrs. Bowen[?]
 
+**Places:** Ford  
 **People:** Adrian, Barbara, Mrs. Bowen  
 
-**Transcriber's note:** Still at Ford. 'Adrian nearly drowned sailing'. Barbara leaves; sailing; tea with Mrs. Bowen[?]. Several words uncertain.
+**Transcriber's note:** Still at Ford. 'Adrian nearly drowned sailing'. Barbara leaves; sailing; tea with Mrs. Bowen[?]. Several words uncertain. Bleed-through present in original, ignored.

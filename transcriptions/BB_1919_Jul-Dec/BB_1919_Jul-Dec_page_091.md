@@ -6,7 +6,7 @@ side: left
 spread: 46
 page_type: entry
 location: Settignano (Florence)
-people: [Davidsohn, W. Ross]
+people: [Davidsohn, Wm. Ross]
 ---
 
 # BB_1919_Jul-Dec — page 91 (left)
@@ -19,10 +19,10 @@ people: [Davidsohn, W. Ross]
 
 ## December 30 — Tuesday
 
-*(printed: D 5h. 25m., morn)*
+*(printed: D 5h. 25m., morn.)*
 
-> W. Ross
+> Wm. Ross
 
-**People:** Davidsohn, W. Ross  
+**People:** Davidsohn, Wm. Ross  
 
-**Transcriber's note:** Two day entries. Dec 29: name 'Davidsohn' (likely Robert Davidsohn). Dec 30: 'W. Ross'. Printed sub-note under Dec 30 partly obscured. Considerable mirror-reversed bleed-through ignored.
+**Transcriber's note:** Heavy soft bleed-through ghosts in original on both day blocks; suppressed image confirms only the two dark hand entries. Davidsohn likely Robert Davidsohn (historian of Florence).

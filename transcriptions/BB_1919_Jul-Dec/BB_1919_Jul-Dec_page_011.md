@@ -6,7 +6,7 @@ side: left
 spread: 6
 page_type: entry
 location: Senlis
-places: [Senlis, Clermont, Cambronne, Beauvais]
+places: [SENLIS, Clermont, Cambronne, Beauvais]
 people: [Wilma Bassano, Kingsley Porter]
 ---
 
@@ -19,9 +19,9 @@ people: [Wilma Bassano, Kingsley Porter]
 *(printed: 5th Sunday after Trinity)*
 
 > Wilma Bassano[?]
-> Kingsley Porter
+> Kingsley Porters
 > et Joyaux, Co
-> Hari[?]
+> tear[?]
 > SENLIS
 
 ## July 23 — Wednesday
@@ -32,7 +32,7 @@ people: [Wilma Bassano, Kingsley Porter]
 > Cambronne[?]
 > Beauvais
 
-**Places:** Senlis, Clermont, Cambronne, Beauvais  
+**Places:** SENLIS, Clermont, Cambronne, Beauvais  
 **People:** Wilma Bassano, Kingsley Porter  
 
-**Transcriber's note:** Second line under July 22 appears struck through. 'Wilma Bassano' uncertain. He is travelling around Senlis with the Kingsley Porters, visiting nearby towns.
+**Transcriber's note:** Heavy bleed-through behind handwriting. Second line under July 22 ('Kingsley Porters') is struck through. SENLIS in large block capitals; PORTERS also in block capitals on July 23. Touring around Senlis with the Kingsley Porters.

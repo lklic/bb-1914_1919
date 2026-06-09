@@ -23,4 +23,4 @@ location: Paris
 > *(no writing)*
 
 
-**Transcriber's note:** No handwriting on this side; only printed headers. Visible faint text is mirror-reversed bleed-through from adjacent leaves and was ignored.
+**Transcriber's note:** No handwriting on this side; only printed headers in the bleed-suppressed image. Faint marks in the original are bleed-through from adjacent leaves and were ignored.

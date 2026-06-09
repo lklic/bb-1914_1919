@@ -17,17 +17,15 @@ people: [Cossé[?], Ludke[?], Thomas, Miss Tova[?]]
 
 *(printed: 2nd Sunday after Epiphany)*
 
-> [illegible]
 > 5 Cossé[?]
 > 8.15 Ludke[?]
 
 ## January 18 — Saturday
 
 > 1. Thomas (at Lau-
-> ren[?]
-> 3 [illegible]
+> rent[?]
 > 7.45 Miss Tova[?]
 
 **People:** Cossé[?], Ludke[?], Thomas, Miss Tova[?]  
 
-**Transcriber's note:** Pencil hand with heavy bleed-through. Right margin shows printed calendar column numbers (2,9,16,23,30 / 6,13,27 / 4,18,5). 'Cossé', 'Ludke', 'Miss Tova' all uncertain.
+**Transcriber's note:** Printed liturgical note for Jan 17 partly obscured by bleed. Faint bleed-through in the middle of the page ignored. Right margin has a printed calendar number column (2/9/16/23/30 ... 6/13/27 ... 4/18/5).

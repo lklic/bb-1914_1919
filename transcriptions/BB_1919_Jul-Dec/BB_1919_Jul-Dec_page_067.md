@@ -26,4 +26,4 @@ people: [Fernande, Ciglioli[?], Geoffrey]
 
 **People:** Fernande, Ciglioli[?], Geoffrey  
 
-**Transcriber's note:** Ink names only. Heavy mirror-reversed pencil bleed-through on right side ignored. 'Ciglioli' uncertain (possibly Giglioli).
+**Transcriber's note:** Only the dark ink names are real; soft cursive bleed-through on the right side of the original is absent in the bleed-suppressed image and ignored. 'Ciglioli' uncertain (possibly Giglioli).

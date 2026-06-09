@@ -7,7 +7,6 @@ spread: 10
 page_type: entry
 location: Saint-Brice-sous-Foret
 places: [St. Brice]
-people: [Tobi[?]]
 ---
 
 # BB_1919_Jul-Dec — page 20 (right)
@@ -16,17 +15,15 @@ people: [Tobi[?]]
 
 ## August 9 — Saturday
 
-> St. BRICE
-> Tobi[?] to lunch
-> [illegible]
+> St BRICE
+> robi[?] to lunch
 
 ## August 10 — Sunday
 
 *(printed: 8th Sunday after Trinity)*
 
-> [illegible]
+> *(no writing)*
 
 **Places:** St. Brice  
-**People:** Tobi[?]  
 
-**Transcriber's note:** Still at St. Brice. Aug 9 notes someone to lunch (reading 'Tobi' uncertain). Aug 10 entry is largely obscured by heavy mirror-reversed show-through from the facing leaf and is essentially illegible.
+**Transcriber's note:** Aug 9 has block-cap 'St BRICE' and a line reading 'robi[?] to lunch', both confirmed real in suppressed image. Everything below that and all of Aug 10 is faint bleed-through (mirror/forward ghosts), not transcribed; Aug 10 is effectively blank.

@@ -5,14 +5,14 @@ page: 62
 side: right
 spread: 31
 page_type: entry
-location: Ford Place / London
+location: London
 places: [Covent Garden, old Bond Street, Waterloo, London]
 people: [Sybil, Mary, Sanderson, Mrs. Austin]
 ---
 
 # BB_1914_Jul-Dec — page 62 (right)
 
-*Location: **Ford Place / London***
+*Location: **London***
 
 ## November 5 — Thursday
 
@@ -37,4 +37,4 @@ people: [Sybil, Mary, Sanderson, Mrs. Austin]
 **Places:** Covent Garden, old Bond Street, Waterloo, London  
 **People:** Sybil, Mary, Sanderson, Mrs. Austin  
 
-**Transcriber's note:** Opera box at Covent Garden (Box 56). Several names and addresses uncertain. 'Coltieri Sanderson' tentative. Closing with 6.05 Waterloo suggests train departure.
+**Transcriber's note:** Opera box at Covent Garden (Box 56). 'Coltieri Sanderson' possibly Cobden-Sanderson. Some lines struck through. Faint bleed-through in original suppressed in clean image; only confirmed dark strokes transcribed. Several names/addresses uncertain. Closes with 6.05 Waterloo (train departure).

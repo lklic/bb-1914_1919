@@ -18,15 +18,15 @@ people: [Larnach[?], Cuevas de Vera, Aubin[?], Hewitt[?], Mrs J. Harriman]
 > 1. Larnach[?]
 > 5 Cuevas de Vera
 > at the d. Aubin[?]
-> [illegible] dine Hewitt[?]
+> [struck] dine Hewitt[?]
 
 ## January 14 — Tuesday
 
 > 1. Cuevas
 > 5.30 [illegible]
-> 8. [illegible] Hewitt[?]
+> 8. [struck] Hewitt[?]
 > 8. Mrs J. Harriman
 
 **People:** Larnach[?], Cuevas de Vera, Aubin[?], Hewitt[?], Mrs J. Harriman  
 
-**Transcriber's note:** Pencil. Printed page header reads 'January 13 ... Monday' (printed as 'January 18' but sequence is 13) and 'January 14 ... Tuesday'. Several struck-through lines. Names uncertain; 'Cuevas de Vera' (the Marquesa de Cuevas) appears twice. Bleed-through ignored.
+**Transcriber's note:** Pencil. Printed header for the Monday day prints 'January 18' but the running sequence is January 13; second header is 'January 14 ... Tuesday'. Several struck-through lines. Names uncertain; 'Cuevas de Vera' appears twice. Bleed-through ignored.

@@ -6,7 +6,7 @@ side: left
 spread: 18
 page_type: entry
 location: Chartres
-people: [Mrs. Wae[?]nbak[?], du Cossa[?], Mrs. Kirk[?], Mrs. Shield[?], Lizzaroni[?], Ronald Storrs, Abel Bonnard[?]]
+people: [Mme. du Cossé[?], Ronald Storrs, Abel Bonnard[?]]
 ---
 
 # BB_1919_Jul-Dec — page 35 (left)
@@ -15,20 +15,18 @@ people: [Mrs. Wae[?]nbak[?], du Cossa[?], Mrs. Kirk[?], Mrs. Shield[?], Lizzaron
 
 ## September 8 — Monday
 
-> 1. Mrs. Wae[?]nbak[?]
-> Wmr[?]. du Cossa[?]
-> & Girls[?] & [illegible]
-> & Mrs. Kirk[?]
-> & Mrs. Shield[?]
+> 1. Mrs. Mai[?]bach[?]
+> Mme[?]. du Cossé[?]
+> & Girls & dg ten[?]
+> & Mr. Ring[?]
+> & Mrs. Shirl[?]
 
 ## September 9 — Tuesday
 
-*(printed: 12th Sunday after Trinity.)*
-
-> Lizzaroni[?]
+> Lazzaroni
 > Ronald Storrs
 > Abel Bonnard[?]
 
-**People:** Mrs. Wae[?]nbak[?], du Cossa[?], Mrs. Kirk[?], Mrs. Shield[?], Lizzaroni[?], Ronald Storrs, Abel Bonnard[?]  
+**People:** Mme. du Cossé[?], Ronald Storrs, Abel Bonnard[?]  
 
-**Transcriber's note:** Pencil. Heavy bleed-through of a sketch/loop from facing page. Names uncertain; reading 'Ronald Storrs' (the British administrator) fairly confidently.
+**Transcriber's note:** Pencil. Heavy soft bleed-through (a large oval/loop ghost and faint cursive) appears in the original but is erased in the bleed-suppressed image; only the dark cursive names listed are real. Surnames under Sep 8 are uncertain. 'Ronald Storrs' read fairly confidently.

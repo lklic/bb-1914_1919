@@ -6,7 +6,8 @@ side: right
 spread: 17
 page_type: entry
 location: Washington
-people: [Uncle H. Adams, H. White, Mrs. Chanler, R. S. Hunt, Hales]
+places: [1812]
+people: [Uncle H. Adams, H. White[?], Mrs. Chanler, R. S. Hunt[?], Hales[?]]
 ---
 
 # BB_1914_Jan-Jun — page 34 (right)
@@ -24,11 +25,10 @@ people: [Uncle H. Adams, H. White, Mrs. Chanler, R. S. Hunt, Hales]
 
 ## March 11 — Wednesday
 
-*(printed: 3rd Sunday in Lent.)*
-
 > lunch H. Adams
 > Tea Hales[?]
 
-**People:** Uncle H. Adams, H. White, Mrs. Chanler, R. S. Hunt, Hales  
+**Places:** 1812  
+**People:** Uncle H. Adams, H. White[?], Mrs. Chanler, R. S. Hunt[?], Hales[?]  
 
-**Transcriber's note:** Still in Washington presumably. 'Mrs. Chanler 1812' likely an address. Several names uncertain (White, Hunt, Hales).
+**Transcriber's note:** Still in Washington. Bleed-through ghosts throughout original (a faint sub-note under March 11 in original is bleed-through, not a real liturgical note); only dark strokes transcribed. 'R. S. Hunt[?]' squeezed above March 11 header. '1812' likely an address for Mrs. Chanler. Several names uncertain (White, Hunt, Hales).

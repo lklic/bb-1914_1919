@@ -5,13 +5,13 @@ page: 90
 side: right
 spread: 45
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Crivelli]
 ---
 
 # BB_1914_Jul-Dec — page 90 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 31 — Thursday
 

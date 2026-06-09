@@ -5,12 +5,13 @@ page: 71
 side: left
 spread: 36
 page_type: entry
-location: Siena
+location: Settignano (Florence)
+places: [Barna]
 ---
 
 # BB_1919_Jul-Dec — page 71 (left)
 
-*Location: **Siena***
+*Location: **Settignano (Florence)***
 
 ## November 19 — Wednesday
 
@@ -20,7 +21,8 @@ location: Siena
 ## November 20 — Thursday
 
 > a di tioli[?]
-> The Lorenzettis[?]
+> The Lorenzetti"
 
+**Places:** Barna  
 
-**Transcriber's note:** Black ink. 'Barna' likely refers to Barna da Siena (painter). Heavy mirror-reversed bleed-through ignored. Several words uncertain; 'a di tioli' unclear.
+**Transcriber's note:** Black ink. 'Barna' likely refers to Barna da Siena (painter). Heavy bleed-through ghosts in original ignored; only dark strokes confirmed in bleed-suppressed image transcribed. First line of Nov 20 uncertain.

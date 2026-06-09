@@ -15,14 +15,14 @@ people: [Mrs. Ross, Loeser, Michael]
 
 ## October 10 — Friday
 
-> Mrs: Ross
+> Mrs: Ross 217.
 > Loeser to dine[?]
 
 ## October 11 — Saturday
 
-> Michael His[?]toire[?]
-> de l'Art.
+> Michael His[?]toire
+> de l' Art.
 
 **People:** Mrs. Ross, Loeser, Michael  
 
-**Transcriber's note:** Pencil and ink mixed. Heavy mirror-reversed bleed-through across the page (ignored). 'Loeser to dine' uncertain. Second day appears to reference an art-history matter ('Histoire de l'Art').
+**Transcriber's note:** Ink. Heavy bleed-through ghosts (some mirror-reversed) surround the real ink and are ignored. 'Loeser to dine' uncertain; numbers after Ross look like 217. Second day references an art-history matter ('Histoire de l'Art').

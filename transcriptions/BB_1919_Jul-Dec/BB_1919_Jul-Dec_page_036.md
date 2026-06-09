@@ -18,12 +18,11 @@ places: [Chartres]
 *(printed: O 3h. 54m., morn.)*
 
 > CHARTRES
-> [illegible]
 
 ## September 11 — Thursday
 
-> CHARTRES
+> CHARTR[ES]
 
 **Places:** Chartres  
 
-**Transcriber's note:** CHARTRES written in large block capitals on both days (Sept 11 partly cut at right margin, reads 'CHARTR[ES]'). Strong mirror-reversed bleed-through ('MARY', 'Hoffman?') ignored. Some faint pencil between the capitals on Sept 10 illegible under bleed-through.
+**Transcriber's note:** CHARTRES written in large block capitals on both days (Sep 11 written large, last letters trail off / cut at right margin, reads 'CHARTR[ES]'). All the faint cursive and the mirror-reversed 'MARY' / 'Hofmann?' ghosts are bleed-through and absent in the suppressed image; ignored.

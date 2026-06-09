@@ -7,7 +7,7 @@ spread: 44
 page_type: entry
 location: Madrid
 places: [Madrid]
-people: [Mary Vadillo[?], Nun. de Croisex[?]]
+people: [Mary Vadillo[?], Mme. de Croisex[?]]
 ---
 
 # BB_1919_Jan-Jun — page 88 (right)
@@ -26,9 +26,9 @@ people: [Mary Vadillo[?], Nun. de Croisex[?]]
 ## June 23 — Monday
 
 > 1.45 with
-> Nun. de Croisex[?]
+> Mme. de Croisex[?]
 
 **Places:** Madrid  
-**People:** Mary Vadillo[?], Nun. de Croisex[?]  
+**People:** Mary Vadillo[?], Mme. de Croisex[?]  
 
-**Transcriber's note:** Still in Madrid. Names uncertain. 'Nun. de Croisex' uncertain (possibly Nuncio/papal nuncio de Croise[?]). Faint pencil and reversed bleed-through ('SALAMANCA' reversed) ignored.
+**Transcriber's note:** Still in Madrid. Names uncertain. Reversed bleed-through ('SALAMANCA' mirror-ghost) and other soft scrawls in original ignored; only sharp strokes from suppressed image transcribed.

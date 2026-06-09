@@ -6,8 +6,8 @@ side: left
 spread: 1
 page_type: entry
 location: Paris
-places: [5 Rue Montalembert]
-people: [Mme. de Bryode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre]
+places: [5 Rue Montalembert[?]]
+people: [Mme. de Brigode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre]
 ---
 
 # BB_1914_Jul-Dec — page 1 (left)
@@ -17,9 +17,9 @@ people: [Mme. de Bryode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre]
 ## July 2 — Thursday
 
 > 12.45
-> Lunch[?] at 1 o'clock
-> Mme. de Bryode[?]
-> 5 Rue Montalembert
+> [illegible] at 1 o'clock
+> Mme. de Brigode[?]
+> 5 Rue Montalembert[?]
 > 3.45 Mme. de B[illegible]
 > Henry Adams
 
@@ -29,7 +29,7 @@ people: [Mme. de Bryode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre]
 > of Lillie[?]
 > Mme. de Ludre
 
-**Places:** 5 Rue Montalembert  
-**People:** Mme. de Bryode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre  
+**Places:** 5 Rue Montalembert[?]  
+**People:** Mme. de Brigode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre  
 
-**Transcriber's note:** Paris appointments. Several names uncertain due to pencil and bleed-through. 'Mme. de Bryode' uncertain reading. 'Chavannes' and 'Lillie' uncertain.
+**Transcriber's note:** Paris appointments. Heavy grey/blue bleed-through across both day blocks; only dark strokes confirmed in the bleed-suppressed image transcribed. The 3.45 line is partly struck through. Several names uncertain.

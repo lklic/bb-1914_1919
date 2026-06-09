@@ -6,7 +6,7 @@ side: right
 spread: 5
 page_type: entry
 location: Paris
-people: [Bassiano, Mary, Lassiano, Woods, Francis Blunt]
+people: [Mary, Bassiano, Lassiano, Woods, Francis Blunt]
 ---
 
 # BB_1919_Jul-Dec — page 10 (right)
@@ -15,20 +15,19 @@ people: [Bassiano, Mary, Lassiano, Woods, Francis Blunt]
 
 ## July 20 — Sunday
 
-*(printed: 5th Sunday after Trinity. moon 11h. 3m., morn.)*
+*(printed: 5th Sunday after Trinity. ( 11h. 3m., morn.)*
 
-> 1 Bassiano[?]
+> Bassiano[?] (struck through)
 > 5 MARY LEAVES
 > 8.15 [illegible]
 
 ## July 21 — Monday
 
-> 10.45 [illegible]
 > 1. Lassiano[?]
-> 4.30 with [illegible] Woods[?]
+> 4.30 in [illegible] Woods[?]
 > 8.15 [illegible]
-> [illegible] Francis Blunt[?]
+> Ave! Francis Blunt[?]
 
-**People:** Bassiano, Mary, Lassiano, Woods, Francis Blunt  
+**People:** Mary, Bassiano, Lassiano, Woods, Francis Blunt  
 
-**Transcriber's note:** 'MARY LEAVES' in block capitals, with '5' before it (5 o'clock). First line '1 Bassiano' struck through. Monday lines heavily obscured by pencil and bleed-through; many words illegible.
+**Transcriber's note:** 'MARY LEAVES' in large block capitals (real, sharp), preceded by '5'. A struck-through name 'Bassiano' above it. Heavy bleed-through in lower half, erased in bleed-suppressed version. Monday lines confirmed real but heavily overwritten and largely illegible.

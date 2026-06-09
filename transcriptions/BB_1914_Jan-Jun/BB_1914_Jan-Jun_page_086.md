@@ -5,13 +5,13 @@ page: 86
 side: right
 spread: 43
 page_type: entry
-location: Cremona
+location: Modena
 places: [Torrechiara, S. Donnino, Castell'Arquato, Cortemaggiore, Cremona, Piacenza]
 ---
 
 # BB_1914_Jan-Jun — page 86 (right)
 
-*Location: **Cremona***
+*Location: **Modena***
 
 ## June 22 — Monday
 

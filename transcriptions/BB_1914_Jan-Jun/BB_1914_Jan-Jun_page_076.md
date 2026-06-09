@@ -5,13 +5,13 @@ page: 76
 side: right
 spread: 38
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Trbie[?], Lucan[?]]
 ---
 
 # BB_1914_Jan-Jun — page 76 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 2 — Tuesday
 
@@ -28,4 +28,4 @@ people: [Trbie[?], Lucan[?]]
 
 **People:** Trbie[?], Lucan[?]  
 
-**Transcriber's note:** Pencil, faint. 'Drove with Trbie[?]'; June 3 'Lucan[?] & his wife to tea'. First word of June 3 uncertain ('Bann'?). Heavy bleed-through ignored.
+**Transcriber's note:** Pencil/ink cursive. 'Drove with Trbie[?]'; June 3 'Lucan[?] & his wife to tea'. Heavy soft bleed-through (forward and mirror) across the page ignored; only dark strokes confirmed in suppressed image transcribed.

@@ -6,7 +6,7 @@ side: right
 spread: 39
 page_type: entry
 location: Seville
-places: [Cordoba, Madinat az-Zahra]
+places: [CORDOBA, St. Geronimo, Madinat az-Zahra, Cordoba]
 ---
 
 # BB_1919_Jan-Jun — page 78 (right)
@@ -16,7 +16,7 @@ places: [Cordoba, Madinat az-Zahra]
 ## June 2 — Monday
 
 > CORDOBA.
-> St. Geronimo[?]
+> St. Geronimo
 > Madinat az-
 > Zahra
 
@@ -27,6 +27,6 @@ places: [Cordoba, Madinat az-Zahra]
 > Cordoba
 > del Merito[?]
 
-**Places:** Cordoba, Madinat az-Zahra  
+**Places:** CORDOBA, St. Geronimo, Madinat az-Zahra, Cordoba  
 
-**Transcriber's note:** St. Geronimo[?] likely San Jeronimo (monastery near Madinat az-Zahra). 'Madinat az-Zahra' = the Medina Azahara ruins outside Cordoba. Last line under June 3 reads 'del Merito[?]' uncertain. Faint pencil bleed-through ignored.
+**Transcriber's note:** Soft pencil bleed-through visible in original but absent in bleed-suppressed image, ignored. 'St. Geronimo' = San Jeronimo; 'Madinat az-Zahra' = the Medina Azahara ruins outside Cordoba. Last line under June 3 reads 'del Merito[?]', uncertain.

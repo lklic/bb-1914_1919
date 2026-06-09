@@ -23,13 +23,12 @@ places: [St. Paul de Varax, Tournus, Sergé-la-Ville, Cluny, Bois-Ste-Marie]
 
 ## August 20 — Wednesday
 
-> Sergé-la Ville
-> (This was burned[?] (2nd)
+> Sergé- la Velle[?]
+> (this cap burned[?] (2nd)
 > CLUNY
 > Bois- St. Marie
-> my litty being like the cont.[?]
-> [illegible]
-> Chateau[?] [illegible]
+> my litty being 1k m. eve.[?]
+> Chateau[?] du[?] thip[?]
 
 **Places:** St. Paul de Varax, Tournus, Sergé-la-Ville, Cluny, Bois-Ste-Marie  
 

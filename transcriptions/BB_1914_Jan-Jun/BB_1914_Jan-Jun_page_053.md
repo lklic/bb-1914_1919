@@ -5,30 +5,32 @@ page: 53
 side: left
 spread: 27
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Placci, Lucie[?], Brockwell[?], Hapgood]
+location: Florence
+places: [Brockwell[?]]
+people: [Placci, Lucie[?], Hapgood, Sybil[?], Agnes[?], Nannie[?]]
 ---
 
 # BB_1914_Jan-Jun — page 53 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## April 17 — Friday
 
 *(printed: 7h. 52m., morn.)*
 
 > lunch Placci
-> tea Lucie[?] in[?]
+> tea Lucie[?] u[?]
 > Brockwell[?]
 > ak.
 
 ## April 18 — Saturday
 
 > lunch Hapgood
-> tea Orbil[?]
-> Doing Aqua[?]
-> & Vacui[?]
+> tea Sybil[?]
+> Deia[?] Agnes[?]
+> & Nannie[?]
 
-**People:** Placci, Lucie[?], Brockwell[?], Hapgood  
+**Places:** Brockwell[?]  
+**People:** Placci, Lucie[?], Hapgood, Sybil[?], Agnes[?], Nannie[?]  
 
-**Transcriber's note:** Pencil. Several words uncertain. 'Brockwell' may refer to art historian Maurice Brockwell. Heavy bleed-through across the page.
+**Transcriber's note:** Pencil. Several words uncertain. Heavy bleed-through in original; suppressed image confirms the transcribed lines only.

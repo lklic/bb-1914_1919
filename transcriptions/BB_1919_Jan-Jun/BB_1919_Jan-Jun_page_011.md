@@ -6,8 +6,8 @@ side: left
 spread: 6
 page_type: entry
 location: Paris
-places: [19 Rue Spontini, Passy]
-people: [Lindsay, Pershing, Rosa, Martynov[?]]
+places: [19 Rue Spontini, Passy (Paris)]
+people: [Lindsay, Pershing, Rosa, Martynov[?], Gr. Duke Jorgen[?]]
 ---
 
 # BB_1919_Jan-Jun — page 11 (left)
@@ -27,9 +27,9 @@ people: [Lindsay, Pershing, Rosa, Martynov[?]]
 > Spontini, Passy
 > 51 - 23
 > 5. Martynov[?].
-> 9. Toko Jongen[?]
+> Gr. Duke Jorgen[?]
 
-**Places:** 19 Rue Spontini, Passy  
-**People:** Lindsay, Pershing, Rosa, Martynov[?]  
+**Places:** 19 Rue Spontini, Passy (Paris)  
+**People:** Lindsay, Pershing, Rosa, Martynov[?], Gr. Duke Jorgen[?]  
 
-**Transcriber's note:** Day entries for Jan 19-20. Faint mirror-reversed bleed-through ignored. 'Club' uncertain; phone number 51-23 noted. Several names uncertain.
+**Transcriber's note:** Day entries for Jan 19-20. Faint mirror/forward bleed-through across the middle is ignored (absent in bleed-suppressed). 'Club' and final-line name uncertain; '51-23' likely a phone number.

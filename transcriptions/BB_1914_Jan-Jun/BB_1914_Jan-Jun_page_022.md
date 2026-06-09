@@ -38,4 +38,4 @@ people: [Eugene Meyer[?], Balle[?], Mary]
 **Places:** Mount Kisco  
 **People:** Eugene Meyer[?], Balle[?], Mary  
 
-**Transcriber's note:** He appears to be at Mount Kisco (written 'Mount Kisko'). 'Mary at philadelphia' written vertically up the right margin. Names Eugene Meyer and Balle uncertain. 'Bengaqu' repeated, uncertain.
+**Transcriber's note:** Bleed-through in original confirmed against bleed-suppressed image. 'Mary at philadelphia' is written vertically up the right margin. 'Mount Kisko' = Mount Kisco, NY. Names Eugene Meyer and Balle uncertain.

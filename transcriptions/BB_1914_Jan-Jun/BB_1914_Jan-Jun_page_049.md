@@ -5,14 +5,14 @@ page: 49
 side: left
 spread: 25
 page_type: entry
-location: Maisons-Laffitte / Paris
+location: Paris
 places: [Maison Lafitte]
 people: [Tyler, Cossé[?]]
 ---
 
 # BB_1914_Jan-Jun — page 49 (left)
 
-*Location: **Maisons-Laffitte / Paris***
+*Location: **Paris***
 
 ## April 9 — Thursday
 
@@ -31,4 +31,4 @@ people: [Tyler, Cossé[?]]
 **Places:** Maison Lafitte  
 **People:** Tyler, Cossé[?]  
 
-**Transcriber's note:** April 9 lists names Tyler and La Cossé. April 10 (Good Friday) mentions Maison Lafitte and a cab fare. Last two lines are uncertain pencil. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** April 9 lists names Tyler and La Cossé. April 10 (Good Friday) mentions Maison Lafitte; last two lines uncertain pencil. Faint blue bleed-through across the page (suppressed in clean image) ignored.

@@ -20,9 +20,7 @@ location: Beaulieu-sur-Mer / Saint-Jean-Cap-Ferrat
 
 *(printed: 1st Sunday in Lent. 5h. 14m. moon)*
 
-> [illegible]
-> [illegible]
-> [illegible]
+> *(no writing)*
 
 
-**Transcriber's note:** Mostly faint pencil that is very hard to read; much appears to be mirror-reversed bleed-through which was ignored. The few normally-oriented pencil scrawls under March 7 are illegible.
+**Transcriber's note:** Bleed-suppressed image shows only printed date headers; all faint script in the original (some mirror-reversed) is bleed-through. Page is blank of real handwriting.

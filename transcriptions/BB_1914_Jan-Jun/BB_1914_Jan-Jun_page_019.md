@@ -23,13 +23,13 @@ people: [Mrs. C. Jones[?], Mrs. Scott, Mrs. Markoe[?]]
 
 ## February 9 — Monday
 
-> Laura[?] Mc Lacy[?]
+> [illegible] Mc Lacy[?]
 > Mrs. Markoe[?] 5 p.m.
 > 37 Park Ave.
-> Dine Kuhn[?]
+> Dine [illegible]
 > 8.
 
 **Places:** 37 Park Ave.  
 **People:** Mrs. C. Jones[?], Mrs. Scott, Mrs. Markoe[?]  
 
-**Transcriber's note:** Pencil and ink. Heavy show-through and crossed-out lines on Feb 9. Several names uncertain. Park Ave. address suggests New York.
+**Transcriber's note:** Pencil and ink. Heavy bleed-through in original; transcribed only strokes confirmed dark in bleed-suppressed image. First line of Feb 9 is struck through / scribbled out and largely illegible. Park Ave. address suggests New York.

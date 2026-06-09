@@ -7,7 +7,7 @@ spread: 18
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
 places: [Monte Carlo]
-people: [Morgenthau[?], Busseo[?]]
+people: [Morgenthau, Busseo[?]]
 ---
 
 # BB_1919_Jan-Jun — page 35 (left)
@@ -16,18 +16,18 @@ people: [Morgenthau[?], Busseo[?]]
 
 ## March 8 — Saturday
 
-> Morgenthau's[?]
+> Morgenthau's
 > book
 
 ## March 9 — Sunday
 
-*(printed: 1st Sunday in Lent. 3h. 14m., morn.)*
+*(printed: 1st Sunday in Lent. D 3h. 14m., morn.)*
 
 > Monte Carlo
 > Cabek[?] with
 > Busseo[?]
 
 **Places:** Monte Carlo  
-**People:** Morgenthau[?], Busseo[?]  
+**People:** Morgenthau, Busseo[?]  
 
-**Transcriber's note:** Hand line under March 8 'Morgenthau's book' is uncertain. March 9 lines partly run below into the next day's space; 'Cabek with Busseo' uncertain reading.
+**Transcriber's note:** Real pencil writing confirmed in bleed-suppressed image. 'Morgenthau's book' written in the space between the two day headers. Last two lines under March 9 are hard to read; 'Cabek' and 'Busseo' uncertain.

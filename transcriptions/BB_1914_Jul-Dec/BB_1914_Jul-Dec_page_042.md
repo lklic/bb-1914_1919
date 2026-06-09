@@ -5,13 +5,13 @@ page: 42
 side: right
 spread: 21
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 people: [Ford, Lacy wills[?], Adrian, Karin, Des. McCarthy[?], Nina Lang, Char.]
 ---
 
 # BB_1914_Jul-Dec — page 42 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 26 — Saturday
 

@@ -16,16 +16,13 @@ location: Paris
 
 *(printed: 5th Sunday after Trinity.)*
 
-> [illegible]
+> *(no writing)*
 
 ## July 13 — Monday
 
 *(printed: 7h. 52m. morn.)*
 
-> [illegible]
-> [illegible]
-> [illegible] 8.30
-> 10.30[?] [illegible]
+> *(no writing)*
 
 
-**Transcriber's note:** Faint pencil. The text under July 12 is largely mirror-reversed bleed-through from the facing page and was not transcribed. Below July 13 a few times/notes are faintly visible but mostly illegible.
+**Transcriber's note:** Original photo shows heavy mirror-reversed bleed-through ghosts; bleed-suppressed image confirms only the printed headers and sub-notes, no real handwriting. Page is blank.

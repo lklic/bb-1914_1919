@@ -5,25 +5,25 @@ page: 58
 side: right
 spread: 29
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Mostow[?] Price[?]]
+location: Florence
+people: [Mostow[?] Pieira[?]]
 ---
 
 # BB_1914_Jan-Jun — page 58 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## April 27 — Monday
 
-> Mostow[?] Price[?]
+> Mostow[?] Pieira[?]
 > after lunch
-> da Kovan[?] Pha[?]
-> found with Arbe[?]
+> da Konvar[?] Pfaff[?]
+> [illegible]
 
 ## April 28 — Tuesday
 
 > *(no writing)*
 
-**People:** Mostow[?] Price[?]  
+**People:** Mostow[?] Pieira[?]  
 
-**Transcriber's note:** Pencil, cursive, very hard to read. Bleed-through over printed headers ignored. Readings of handwriting under April 27 are highly uncertain.
+**Transcriber's note:** Pencil, cursive, very hard to read. Light bleed-through over headers suppressed cleanly. Only the dark block under April 27 is real; readings highly uncertain.

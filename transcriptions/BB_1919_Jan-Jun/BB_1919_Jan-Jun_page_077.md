@@ -6,7 +6,7 @@ side: left
 spread: 39
 page_type: entry
 location: Seville
-places: [Seville, Cordoba]
+places: [SEVILLE, cordoba]
 ---
 
 # BB_1919_Jan-Jun — page 77 (left)
@@ -26,6 +26,6 @@ places: [Seville, Cordoba]
 > SEVILLE
 > cordoba
 
-**Places:** Seville, Cordoba  
+**Places:** SEVILLE, cordoba  
 
-**Transcriber's note:** Strong mirror-reversed bleed-through of 'SEVILLE' from the other side; ignored. The handwritten SEVILLE under May 31 has an arrow/flourish to the right.
+**Transcriber's note:** Heavy mirror-reversed bleed-through ghosts of SEVILLE from the facing leaf, ignored. Only the sharp dark block-capital SEVILLE (under each header) and lowercase 'cordoba' confirmed in the bleed-suppressed image are transcribed.

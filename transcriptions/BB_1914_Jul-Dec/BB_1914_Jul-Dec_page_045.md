@@ -5,14 +5,14 @@ page: 45
 side: left
 spread: 23
 page_type: entry
-location: Ford Place, Arundel (Sussex)
-places: [Chichester]
+location: Ford
+places: [Chichester, Ford]
 people: [Sybil, Karin, Oliver]
 ---
 
 # BB_1914_Jul-Dec — page 45 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## October 2 — Friday
 
@@ -30,7 +30,7 @@ people: [Sybil, Karin, Oliver]
 > Sybil leaves
 > Karin & Oliver[?]
 
-**Places:** Chichester  
+**Places:** Chichester, Ford  
 **People:** Sybil, Karin, Oliver  
 
-**Transcriber's note:** At Ford (Ford, Sussex). Repeated 'Ford' heading. Sybil arrives then leaves; Karin and Oliver mentioned. 'Yule's Marco Polo' likely Henry Yule's edition. Some words uncertain; show-through present but ignored.
+**Transcriber's note:** At Ford. Repeated 'Ford' heading. Sybil arrives then leaves; Karin and Oliver. 'Yule's Marco Polo' likely Henry Yule's edition. Several words uncertain. Heavy bleed-through ghosts present in original but only sharp dark strokes transcribed.

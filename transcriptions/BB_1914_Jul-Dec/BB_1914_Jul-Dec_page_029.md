@@ -5,29 +5,29 @@ page: 29
 side: left
 spread: 15
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford Place]
-people: [Sidney Webb, Warren Lewis[?], Mrs Leigh Smith, Robert Bridges]
+people: [Sidney Webb, Warren Lewis, Mrs Leigh Smith, Robert Bridges]
 ---
 
 # BB_1914_Jul-Dec — page 29 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 4 — Friday
 
 *(printed: O 2h. 1m., aft.)*
 
-> Sidney Webb
-> Warren . Lewis
+> Sidney Webb[?]
+> Warren . Lewis[?]
 
 ## September 5 — Saturday
 
-> Mrs . Leigh Smith
-> Robert . Bridges
+> Mrs . Leigh Smith[?]
+> Robert . Bridges[?]
 > Ford Place
 
 **Places:** Ford Place  
-**People:** Sidney Webb, Warren Lewis[?], Mrs Leigh Smith, Robert Bridges  
+**People:** Sidney Webb, Warren Lewis, Mrs Leigh Smith, Robert Bridges  
 
-**Transcriber's note:** Ink (later pencil for Sep 5). 'Warren . Lewis' uncertain. 'Mrs Leigh Smith' likely. Robert Bridges (poet laureate) plausible given the company. Ford Place in Sussex. Heavy mirror bleed-through ignored.
+**Transcriber's note:** Ink. Heavy soft blue-grey bleed-through across page, confirmed not real in suppressed version. 'Warren . Lewis' uncertain. Robert Bridges (poet laureate) plausible given company. Ford Place in Sussex.

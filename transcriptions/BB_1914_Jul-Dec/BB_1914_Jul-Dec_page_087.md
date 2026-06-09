@@ -5,13 +5,13 @@ page: 87
 side: left
 spread: 44
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Henderson, Sickert[?], Mme. Luchaire[?], Countess, Manfredo Gravina[?]]
+location: Florence
+people: [Henderson, Sickert[?], Mme. Luchaire, Countess Gravina, Manfredo Gravina]
 ---
 
 # BB_1914_Jul-Dec — page 87 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 25 — Friday
 
@@ -19,7 +19,7 @@ people: [Henderson, Sickert[?], Mme. Luchaire[?], Countess, Manfredo Gravina[?]]
 
 > Henderson Sickert[?]
 > & War.
-> Böös[?] & Naini[?]
+> Boys[?] & Naini[?]
 
 ## December 26 — Saturday
 
@@ -27,10 +27,10 @@ people: [Henderson, Sickert[?], Mme. Luchaire[?], Countess, Manfredo Gravina[?]]
 
 > finish Henderson
 > Delany[?] & War
-> Mme. Luchaire[?] to tea.
+> Mme. Luchaire to tea.
 > Countess & Manfredo
-> Gravina[?] to dine
+> Gravina to dine
 
-**People:** Henderson, Sickert[?], Mme. Luchaire[?], Countess, Manfredo Gravina[?]  
+**People:** Henderson, Sickert[?], Mme. Luchaire, Countess Gravina, Manfredo Gravina  
 
-**Transcriber's note:** Heavy bleed-through in mirror-reversed faint pencil; ignored. References to 'War' likely WWI. Several names uncertain.
+**Transcriber's note:** Heavy faint blue-grey bleed-through across both day blocks; ignored. Only sharp dark pencil confirmed in the bleed-suppressed image transcribed. References to 'War' likely WWI.

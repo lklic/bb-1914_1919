@@ -6,7 +6,7 @@ side: right
 spread: 5
 page_type: entry
 location: New York
-people: [Lehman[?], Mrs. Lilley[?]]
+people: [Lehmann[?], Mrs. Lilley[?], B]
 ---
 
 # BB_1914_Jan-Jun — page 10 (right)
@@ -15,20 +15,18 @@ people: [Lehman[?], Mrs. Lilley[?]]
 
 ## January 17 — Saturday
 
-*(printed: [moon note] 0h. 30m. morn.)*
+*(printed: 0h. 30m. morn.)*
 
-> [illegible]
-> [illegible]
-> 7.30 & 8 - G
+> 7.30 8.G
 
 ## January 18 — Sunday
 
 *(printed: 2nd Sunday after Epiphany.)*
 
-> Lunch Lehman[?]
+> Lunch Lehmann[?]
 > Dine Mrs. Lilley[?]
 > Dinner B
 
-**People:** Lehman[?], Mrs. Lilley[?]  
+**People:** Lehmann[?], Mrs. Lilley[?], B  
 
-**Transcriber's note:** Faint pencil, heavily faded with show-through. Jan 17 lines largely illegible. Likely New York.
+**Transcriber's note:** Heavy soft bleed-through across the Jan 17 section in the original photo; the bleed-suppressed image confirms only '7.30 8.G' as real ink under that header. The two faint lines above it are bleed-through and are NOT transcribed. Sunday lines confirmed real.

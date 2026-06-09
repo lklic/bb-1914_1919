@@ -6,7 +6,8 @@ side: left
 spread: 26
 page_type: entry
 location: Hyeres
-people: [Pierre Mille[?], Cocteau[?]]
+places: [de Bonne Esperance]
+people: [J. Ramaila, Pierre Mille, Cocteau]
 ---
 
 # BB_1919_Jan-Jun — page 51 (left)
@@ -16,17 +17,18 @@ people: [Pierre Mille[?], Cocteau[?]]
 ## April 9 — Wednesday
 
 > J. Ramaila[?]
-> Vie[?] Politigine[?]
+> Via[?] Pontigine[?]
 > de Gambetta.
 
 ## April 10 — Thursday
 
-> Pierre-Mille[?] Nani[?]
-> Eddine[?] r Lor[?]
+> Pierre-Mille's[?] Nani[?]
+> Eddine[?] & Lou[?]
 > Epoone[?]
-> Cocteaus[?] Cap[?]
-> de Bonne Esperan[?]
+> Cocteau's[?] Cap
+> de Bonne Esperance
 
-**People:** Pierre Mille[?], Cocteau[?]  
+**Places:** de Bonne Esperance  
+**People:** J. Ramaila, Pierre Mille, Cocteau  
 
-**Transcriber's note:** Handwriting in ink, hard to read. April 9 looks like an address (Via/Vie Politigine de Gambetta). April 10 lists names of people met/dined with, including possibly Pierre Mille and Cocteau; 'Cap de Bonne Esperance' (Cape of Good Hope) uncertain.
+**Transcriber's note:** Ink cursive, confirmed dark in suppressed image. April 9 appears to be a name and address (de Gambetta). April 10 lists names; 'Cap de Bonne Esperance' (Cape of Good Hope) uncertain. Faint bleed-through in original (printed sub-note ghost, right-margin ghosts) ignored.

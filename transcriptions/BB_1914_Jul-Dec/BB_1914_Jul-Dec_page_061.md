@@ -5,14 +5,14 @@ page: 61
 side: left
 spread: 31
 page_type: entry
-location: Ford Place / London
+location: London
 places: [Mayfair, Hyde Park Gate, London]
 people: [Lady Lewis, Eva, Mary, Lady Cunard, Lady Charles Beresford, Lady Herbert]
 ---
 
 # BB_1914_Jul-Dec — page 61 (left)
 
-*Location: **Ford Place / London***
+*Location: **London***
 
 ## November 3 — Tuesday
 
@@ -25,7 +25,6 @@ people: [Lady Lewis, Eva, Mary, Lady Cunard, Lady Charles Beresford, Lady Herber
 > Lucchi[?]
 > with Lady Cunard
 > Mayfair 199[?]
-> Eddie[?] Plee[?]
 
 ## November 4 — Wednesday
 
@@ -37,4 +36,4 @@ people: [Lady Lewis, Eva, Mary, Lady Cunard, Lady Charles Beresford, Lady Herber
 **Places:** Mayfair, Hyde Park Gate, London  
 **People:** Lady Lewis, Eva, Mary, Lady Cunard, Lady Charles Beresford, Lady Herbert  
 
-**Transcriber's note:** London social engagements. Times and appointments. Some words uncertain; 'Lucchi' and 'Eddie Plee' tentative. 'Cook 17 Hyde Park Gate' likely an address/dinner location.
+**Transcriber's note:** London social engagements with times and appointments. Heavy blue-green bleed-through in original (faint, soft script), all suppressed in the clean image; only sharp dark pencil transcribed. There is a vertical pencil scrawl/brace down the left margin near the gutter (not legible words). 'Lucchi' and 'Mayfair 199' tentative. 'Cook 17 Hyde Park Gate' likely a dinner address.

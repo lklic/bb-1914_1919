@@ -5,27 +5,27 @@ page: 56
 side: right
 spread: 28
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Benn.[?], Cherryper[?], Strong[?]]
+location: Florence
+people: [Benn[?], Cherryper[?], Strong]
 ---
 
 # BB_1914_Jan-Jun — page 56 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## April 23 — Thursday
 
-*(printed: St. George's Day. ● 11h 32m. morn.)*
+*(printed: St. George's Day. 11h 32m. morn.)*
 
-> Benn. Cherryper[?]
-> Strong[?]
+> Benn. Cherryper[?].
+> Strong
 
 ## April 24 — Friday
 
 *(printed: 2nd Sunday after Easter.)*
 
-> [illegible]
+> +
 
-**People:** Benn.[?], Cherryper[?], Strong[?]  
+**People:** Benn[?], Cherryper[?], Strong  
 
-**Transcriber's note:** April 24 has mostly bleed-through (mirror-reversed) and a faint pencil mark; little legible writing actually on this side. 'Strong' may be Mrs. Eugenie Strong.
+**Transcriber's note:** April 23 names confirmed real in bleed-suppressed image. April 24 is essentially blank apart from a small cross/plus mark and a faint '1'-like stroke; the heavy mirror-reversed text in the original lower half is bleed-through and not transcribed. 'Strong' may be Mrs. Eugenie Strong.

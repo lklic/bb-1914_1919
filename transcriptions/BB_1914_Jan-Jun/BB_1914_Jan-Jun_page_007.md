@@ -21,11 +21,11 @@ places: [Montreal, New York]
 
 ## January 12 — Monday
 
-*(printed: O 5h. 9m., morn:)*
+*(printed: O 5h. 9m., morn.)*
 
 > New York
 > Biltei[?]
 
 **Places:** Montreal, New York  
 
-**Transcriber's note:** Travel from Montreal to New York. The word under New York ('Biltei[?]' or possibly a hotel name like 'Biltmore') is uncertain. Faint mirror bleed-through ignored.
+**Transcriber's note:** Travel from Montreal to New York. Word under 'New York' uncertain (possibly a hotel name, e.g. 'Biltm[ore]'). Faint bleed-through ghosts ignored; suppressed image confirms only the dark real lines.

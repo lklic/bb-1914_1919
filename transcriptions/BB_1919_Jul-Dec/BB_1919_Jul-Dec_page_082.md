@@ -28,4 +28,4 @@ people: [Gravina, Acton[?], Geoffrey, Sybil[?], Hanra[?]]
 
 **People:** Gravina, Acton[?], Geoffrey, Sybil[?], Hanra[?]  
 
-**Transcriber's note:** Faint pencil bleed-through ignored. 'Tea Acton' uncertain. Last line 'L. Hanra y s' largely illegible. 'Sybil' uncertain.
+**Transcriber's note:** Faint pencil bleed-through between lines ignored; dark ink lines confirmed in bleed-suppressed image. Last line 'L. Hanra y s' largely illegible.

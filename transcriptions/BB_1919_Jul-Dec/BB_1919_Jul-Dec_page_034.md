@@ -6,7 +6,7 @@ side: right
 spread: 17
 page_type: entry
 location: Paris
-people: [Willy Buckler, Prince[?] Paul, Mme. de Ludre[?], Renault[?]]
+people: [Willy Buckler, Prince[?] Paul, Mme. de Ludre[?], Reinach[?]]
 ---
 
 # BB_1919_Jul-Dec — page 34 (right)
@@ -26,8 +26,8 @@ people: [Willy Buckler, Prince[?] Paul, Mme. de Ludre[?], Renault[?]]
 *(printed: 12th Sunday after Trinity.)*
 
 > 1/ Mme. de Ludre[?]
-> Renault[?].
+> Reinach[?].
 
-**People:** Willy Buckler, Prince[?] Paul, Mme. de Ludre[?], Renault[?]  
+**People:** Willy Buckler, Prince[?] Paul, Mme. de Ludre[?], Reinach[?]  
 
-**Transcriber's note:** Sept 6 names circled in ink with an arrow. 'Prince Paul' and 'Place' uncertain. Mme. de Ludre and Renault tentative readings.
+**Transcriber's note:** Sept 6 names enclosed in a large hand-drawn ink loop with an arrow pointing up in the left margin. 'Prince Paul' and 'Place' uncertain. Bleed-through present but suppressed image confirms the dark handwriting.

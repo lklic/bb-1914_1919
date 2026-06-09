@@ -6,7 +6,7 @@ side: left
 spread: 41
 page_type: entry
 location: Settignano (Florence)
-people: [Brewster, Strong, Lawk[?], Loeser, Placci]
+people: [Brewster, Strong, Loeser, Placci]
 ---
 
 # BB_1919_Jul-Dec — page 81 (left)
@@ -19,13 +19,13 @@ people: [Brewster, Strong, Lawk[?], Loeser, Placci]
 
 > Brewster
 > tea with
-> Strong & Lawk[?]
+> Strong & Sanh[?]
 
 ## December 10 — Wednesday
 
 > Loesers.
 > Placci
 
-**People:** Brewster, Strong, Lawk[?], Loeser, Placci  
+**People:** Brewster, Strong, Loeser, Placci  
 
-**Transcriber's note:** Top edge shows mirror-reversed bleed-through ignored. 'Strong & Lawk' uncertain; could be 'Strong & Sands'. 'Loesers' likely refers to Charles Loeser.
+**Transcriber's note:** Heavy mirror-reversed bleed-through along top edge ignored. Real ink lines confirmed in bleed-suppressed image. 'Strong & Sanh[?]' uncertain. 'Loesers' likely Charles Loeser.

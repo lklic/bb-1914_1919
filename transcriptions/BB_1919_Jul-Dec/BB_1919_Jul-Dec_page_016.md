@@ -6,8 +6,8 @@ side: right
 spread: 8
 page_type: entry
 location: Versailles
-places: [Versailles]
-people: [Hyde]
+places: [VERSAILLES]
+people: [Hyde, Elino[?]]
 ---
 
 # BB_1919_Jul-Dec — page 16 (right)
@@ -16,7 +16,7 @@ people: [Hyde]
 
 ## August 1 — Friday
 
-*(printed: Wild Fowl Shooting begins)*
+*(printed: Wild Fowl Shooting begins.)*
 
 > VERSAILLES
 > dine with Hyde
@@ -26,10 +26,10 @@ people: [Hyde]
 *(printed: Bank Holiday)*
 
 > VERSAILLES
-> dine here[?]. Elino[?]
+> dine here[?], Elino[?]
 > Algur[?], [illegible]
 
-**Places:** Versailles  
-**People:** Hyde  
+**Places:** VERSAILLES  
+**People:** Hyde, Elino[?]  
 
-**Transcriber's note:** VERSAILLES in large block capitals both days. Lower handwriting faint and partly obscured by bleed-through; names uncertain.
+**Transcriber's note:** Aug 1: faint pencil 'VERSAILLES' (confirmed in suppressed) and 'dine with Hyde'. Aug 2: dark-ink block-capital 'VERSAILLES' clearly real, plus a cursive line 'dine here, Elino / Algur, ...'. Lower names uncertain; faint corner scribbles are bleed-through and ignored.

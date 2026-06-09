@@ -6,7 +6,7 @@ side: right
 spread: 6
 page_type: entry
 location: Senlis
-places: [Senlis, Rully, Raray, Chaalis, St. Leu, Beaumont]
+places: [SENLIS, Raray, Chaalis, St. Leu, Beaumont]
 ---
 
 # BB_1919_Jul-Dec — page 12 (right)
@@ -23,11 +23,13 @@ places: [Senlis, Rully, Raray, Chaalis, St. Leu, Beaumont]
 
 ## July 25 — Friday
 
+*(printed: 6th Sunday after Trinity)*
+
 > SENLIS
-> St. Leu[?]
+> St. Leu
 > Beaumont
-> St. Rose[?]
+> S. Rosa[?]
 
-**Places:** Senlis, Rully, Raray, Chaalis, St. Leu, Beaumont  
+**Places:** SENLIS, Raray, Chaalis, St. Leu, Beaumont  
 
-**Transcriber's note:** SENLIS written above the July 24 header as a place heading. 'with Gillas' uncertain. 'St. Rose' on last line uncertain. Touring villages and abbeys near Senlis (Raray, Chaalis abbey).
+**Transcriber's note:** SENLIS in large block capitals above each day header. 'Rully' line ends in a long trailing flourish. Bleed-through present but suppressed image confirms listed hand lines. Touring villages and abbeys near Senlis (Raray, Chaalis abbey, St-Leu, Beaumont).

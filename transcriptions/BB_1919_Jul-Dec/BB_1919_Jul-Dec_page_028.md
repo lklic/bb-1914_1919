@@ -23,8 +23,8 @@ people: [Mrs. Harriman, Algar Mejski[?], Royall Tyler]
 
 > 1.15 Algar Mejski[?]
 > 5 Mrs. Harriman
-> 8 Royall Tyler
+> 8 Royall Tyler.
 
 **People:** Mrs. Harriman, Algar Mejski[?], Royall Tyler  
 
-**Transcriber's note:** Appointments in Paris: lunch/meetings with Mrs. Harriman and Royall Tyler. 'Algar Mejski' uncertain. Numbers are times of day appointments.
+**Transcriber's note:** Appointments in Paris with times: lunch/meetings with Mrs. Harriman and Royall Tyler. 'Algar Mejski' uncertain. Mid-page bleed-through ghosts suppressed; real entries are the appointment lines.

@@ -6,7 +6,7 @@ side: left
 spread: 45
 page_type: entry
 location: Salamanca
-places: [Madrid, Avila, Salamanca]
+places: [MADRID, AVILA, SALAMANCA]
 ---
 
 # BB_1919_Jan-Jun — page 89 (left)
@@ -15,7 +15,7 @@ places: [Madrid, Avila, Salamanca]
 
 ## June 24 — Tuesday
 
-*(printed: Quarter Day)*
+*(printed: Quarter Day.)*
 
 > MADRID
 
@@ -27,6 +27,6 @@ places: [Madrid, Avila, Salamanca]
 > AVILA &
 > SALAMANCA
 
-**Places:** Madrid, Avila, Salamanca  
+**Places:** MADRID, AVILA, SALAMANCA  
 
-**Transcriber's note:** Leaves Madrid by car at 10.30 for Avila and Salamanca. City names in block capitals.
+**Transcriber's note:** Some soft bleed-through ghosts in the middle band, ignored. Handwriting confirmed in bleed-suppressed image.

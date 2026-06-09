@@ -6,7 +6,7 @@ side: right
 spread: 24
 page_type: entry
 location: Paris
-people: [Golubew[?], Reinach[?], Hewitt[?]]
+people: [Golubew, Reinach, Hewitt]
 ---
 
 # BB_1914_Jan-Jun — page 48 (right)
@@ -16,13 +16,14 @@ people: [Golubew[?], Reinach[?], Hewitt[?]]
 ## April 7 — Tuesday
 
 > Golubew[?]
-> Reinach[?]
+> Reinach
 
 ## April 8 — Wednesday
 
-> [illegible]
-> Hewitt[?]
+*(printed: Good Friday. / O 1h. 28m. aft.)*
 
-**People:** Golubew[?], Reinach[?], Hewitt[?]  
+> Hewitt
 
-**Transcriber's note:** Names of people met; readings uncertain. Heavy bleed-through; printed sub-notes for Good Friday / Easter Day appear mirror-reversed (bleed-through) and ignored.
+**People:** Golubew, Reinach, Hewitt  
+
+**Transcriber's note:** Bleed-suppressed confirms 'Golubew', 'Reinach', 'Hewitt' as real ink; the rest of the page is bleed-through. Printed Good Friday sub-note partly bled from facing leaf.

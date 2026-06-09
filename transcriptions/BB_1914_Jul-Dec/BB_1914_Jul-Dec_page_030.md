@@ -5,14 +5,14 @@ page: 30
 side: right
 spread: 15
 page_type: entry
-location: Ford Place, Arundel (Sussex)
-places: [Ford, Persian Garden, Arundel Park, London]
-people: [Clausen[?], Florence[?], Percy, Fielding, Keynes[?]]
+location: Ford
+places: [Ford, Arundel Park, London]
+people: [Clausen[?], Percy, Feilding, Keynes]
 ---
 
 # BB_1914_Jul-Dec — page 30 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 6 — Sunday
 
@@ -20,18 +20,18 @@ people: [Clausen[?], Florence[?], Percy, Fielding, Keynes[?]]
 
 > Ford
 > Clausen[?] . Florence[?]
-> + . Persian Garden
+> to[?] . Persian Garden[?]
 > Arundel Park
 
 ## September 7 — Monday
 
-> Ford . Tukens[?]
-> Birken[?] + Percy
-> Fielding.
+> Ford . Tickner[?]
+> Birrell[?] + Percy
+> Feilding.
 > London
-> Keynes Money[?]
+> Keynes[?] dinner[?]
 
-**Places:** Ford, Persian Garden, Arundel Park, London  
-**People:** Clausen[?], Florence[?], Percy, Fielding, Keynes[?]  
+**Places:** Ford, Arundel Park, London  
+**People:** Clausen[?], Percy, Feilding, Keynes  
 
-**Transcriber's note:** Pencil/ink mix. Several names very uncertain: 'Clausen Florence', 'Tukens', 'Birken', 'Keynes Money'. Arundel Park (Sussex) clear. Mirror bleed-through ignored.
+**Transcriber's note:** Ink/pencil mix. Heavy bleed-through suppressed. Several names very uncertain: 'Clausen Florence', 'Tickner', 'Birrell', 'Keynes dinner'. Arundel Park (Sussex) clear.

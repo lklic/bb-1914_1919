@@ -17,19 +17,19 @@ people: [Reinach, Linda, Lucien Henraux, Edith, S. Reinach, Gauvain]
 
 *(printed: Easter Monday (Bank Holiday).)*
 
-> Reinach Locuse[?]
+> Reinach Lorenz[?]
 > 12.30 de Conse[?]
 > 3. Linda
 > Lucien Henraux
-> 8.15 Edith[?]
+> 8.15 Edith
 
 ## April 22 — Tuesday
 
 > 10.30 S. Reinach
-> 1. Gauvain[?] Bru[?]
-> Le[?]
+> 1. Gauvain[?] Brux[?]
+> Les[?]
 > & Roz[?]
 
 **People:** Reinach, Linda, Lucien Henraux, Edith, S. Reinach, Gauvain  
 
-**Transcriber's note:** Pencil and ink. April 21 has struck-through line at top. Several words uncertain. '& Roz' written near bottom edge.
+**Transcriber's note:** Pencil and ink confirmed in bleed-suppressed image. April 21 top line and '10.30 S. Reinach' are struck through. Several words uncertain. '& Roz' written faintly near bottom edge but present in suppressed image.

@@ -5,13 +5,13 @@ page: 79
 side: left
 spread: 40
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Guido, Placci]
 ---
 
 # BB_1914_Jul-Dec — page 79 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 9 — Wednesday
 
@@ -27,4 +27,4 @@ people: [Guido, Placci]
 
 **People:** Guido, Placci  
 
-**Transcriber's note:** Pencil. Heavy mirror-reversed bleed-through from facing page ignored. 'Placci to lunch' uncertain.
+**Transcriber's note:** Pencil. Heavy bleed-through (some mirror-reversed) ignored; confirmed against bleed-suppressed image. 'Placci to lunch' uncertain.

@@ -6,7 +6,8 @@ side: left
 spread: 39
 page_type: entry
 location: Settignano (Florence)
-people: [Cox]
+places: [Monte Leixxio[?]]
+people: [Cox, Gravina, Mme Frisching[?]]
 ---
 
 # BB_1919_Jul-Dec — page 77 (left)
@@ -18,17 +19,18 @@ people: [Cox]
 *(printed: Queen Alexandra's Birthday.)*
 
 > Cox leaves
-> Gracinia[?], Wme[?]
+> Gravina, Mme
 > Frisching[?].
-> Walk to Tree
+> Walk to Tree[?]
 
 ## December 2 — Tuesday
 
 *(printed: 1st Sunday in Advent. St. Andrew's Day)*
 
-> Moak Leinxico[?]
+> Monte Leixxio[?]
 > [illegible]
 
-**People:** Cox  
+**Places:** Monte Leixxio[?]  
+**People:** Cox, Gravina, Mme Frisching[?]  
 
-**Transcriber's note:** Pencil/ink. Dec 1 has darker ink lines. Several words uncertain. Faint bleed-through across page ignored.
+**Transcriber's note:** Heavy bleed-through behind the dark ink, but the day entries are sharp dark ink confirmed in the suppressed image.

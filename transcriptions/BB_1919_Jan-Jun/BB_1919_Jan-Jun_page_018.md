@@ -21,8 +21,8 @@ people: [Rosa]
 
 ## February 3 — Monday
 
-> 8 Rosa
+> S Rosa
 
 **People:** Rosa  
 
-**Transcriber's note:** The line '8 Rosa' (a time and a name) sits above the Feb 3 header. Faint mirror-reversed bleed-through text ignored.
+**Transcriber's note:** Only real handwriting is 'S Rosa' (small mark before it), placed above the Feb 3 header. Many faint blue-grey ghost lines elsewhere are bleed-through, gone in the suppressed image.

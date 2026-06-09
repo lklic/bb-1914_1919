@@ -6,8 +6,8 @@ side: left
 spread: 8
 page_type: entry
 location: Versailles
-places: [Versailles]
-people: [Carola, Elsie]
+places: [VERSAILLES, Volnay[?]]
+people: [Carola[?], Elsie]
 ---
 
 # BB_1919_Jul-Dec — page 15 (left)
@@ -16,7 +16,7 @@ people: [Carola, Elsie]
 
 ## July 30 — Wednesday
 
-> 12.30 Jen Carola
+> 12.30 Jen, Carola[?]
 > Volnay[?]
 > 2. H. Kewell[?]
 > Elsie & r[?]
@@ -24,12 +24,9 @@ people: [Carola, Elsie]
 
 ## July 31 — Thursday
 
-> VERSAILLES
-> May[?] Pre[?]
-> Mary[?] [illegible]
-> [illegible]
+> *(no writing)*
 
-**Places:** Versailles  
-**People:** Carola, Elsie  
+**Places:** VERSAILLES, Volnay[?]  
+**People:** Carola[?], Elsie  
 
-**Transcriber's note:** Pencil and ink. Heavy bleed-through and overlapping pencil makes lower lines of July 31 hard to read. VERSAILLES written large in block capitals both days.
+**Transcriber's note:** July 30 has dark-ink notes (12.30 lunch, 2 o'clock appointment), large script 'Elsie', and block-capital 'VERSAILLES' straddling the July 31 header. Below the July 31 line the original shows a faint 'VERSAILLES', 'RAMBO...' and cursive lines, but these are gone/very faint in the bleed-suppressed image = bleed-through, not transcribed. July 31 itself has no real on-page writing.

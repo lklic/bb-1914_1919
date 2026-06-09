@@ -5,34 +5,34 @@ page: 43
 side: left
 spread: 22
 page_type: entry
-location: RMS Olympic (at sea, North Atlantic)
-places: [Olympic]
-people: [La Farguna[?], Hudson[?], David[?]]
+location: At sea (RMS Olympic)
+places: [Salzburg[?]]
+people: [Duc de La[illegible], Ludwig[?]]
 ---
 
 # BB_1914_Jan-Jun — page 43 (left)
 
-*Location: **RMS Olympic (at sea, North Atlantic)***
+*Location: **At sea (RMS Olympic)***
 
 ## March 28 — Saturday
 
 > Olympic
-> sgaled[?] 9 a.m.
+> sailed 10 a.m.
 > from 5.30 a.m.
-> Salisbury[?]
-> Dine La Farguna[?]
+> Salzburg[?]
+> Duc de La[illegible]
 
 ## March 29 — Sunday
 
 *(printed: 5th Sunday in Lent.)*
 
 > Olympic
-> lunch Hudson[?]
-> & consul[?] wife
-> Cosil[?] & Ichlum[?]
-> Dine David[?]
+> lunch Ludwig[?]
+> & concert[?]
+> Cosi[?] & [illegible]
+> Dine [illegible]
 
-**Places:** Olympic  
-**People:** La Farguna[?], Hudson[?], David[?]  
+**Places:** Salzburg[?]  
+**People:** Duc de La[illegible], Ludwig[?]  
 
-**Transcriber's note:** Aboard the Olympic (steamship). Handwriting very hard to read; several names uncertain. Heavy bleed-through from facing pages ignored.
+**Transcriber's note:** Heavy bleed-through ghosts in original but absent in bleed-suppressed image; ignored. 'Olympic' written large at top of each day (likely RMS Olympic). Several entries struck through with diagonal lines.

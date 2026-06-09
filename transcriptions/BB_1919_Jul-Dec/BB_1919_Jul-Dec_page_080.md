@@ -17,19 +17,16 @@ people: [Hohenlohe]
 
 *(printed: 2nd Sunday in Advent. O 10h. 4m., morn.)*
 
-> Berliner[?] Legend[?]
-> Cliques[?] III &
-> [illegible]
+> Cheques[?] III &
 
 ## December 8 — Monday
 
-> [illegible]
 > Hohenlohe
 
 ### Other writing on page
 
-> Berliner[?] Legend[?]
+> Bedier's[?] Legends[?]
 
 **People:** Hohenlohe  
 
-**Transcriber's note:** Top line written above the Dec 7 printed header. Much faint mirror-reversed bleed-through ignored. Several lines illegible.
+**Transcriber's note:** 'Bedier's Legends' written above the Dec 7 printed header at top of page. Heavy pencil bleed-through fills the middle of both day cells (faint cursive, partly mirror-reversed) and is absent in the suppressed image - excluded. Only the dark 'Cheques III &' line and 'Hohenlohe' are real handwriting.

@@ -6,7 +6,7 @@ side: left
 spread: 44
 page_type: entry
 location: Paris
-people: [Mme. de Cossé[?]]
+people: [Mme. de Cossé]
 ---
 
 # BB_1914_Jan-Jun — page 87 (left)
@@ -21,15 +21,8 @@ people: [Mme. de Cossé[?]]
 
 ## June 25 — Thursday
 
-*(printed: 5h. 53m.)*
+> Mme. de Cossé
 
-> Cleewith[?] of Sir
-> Cosse[?]
+**People:** Mme. de Cossé  
 
-### Other writing on page
-
-> Mme. de Cossé[?]
-
-**People:** Mme. de Cossé[?]  
-
-**Transcriber's note:** Page badly affected by mirror-reversed bleed-through from the facing leaf (e.g. reversed 'Coronation Day' and printed liturgical note under June 25). Most handwriting on this side is very faint pencil and largely illegible; only the name at the bottom ('Mme. de Cossé[?]') is reasonably clear.
+**Transcriber's note:** Heavy bleed-through fills the upper portion of both day blocks in the original (plus a reversed printed liturgical/astronomical note); the bleed-suppressed image shows this is all ghosting, not real ink. The only real handwriting is the dark line 'Mme. de Cossé' near the bottom, placed under June 25.

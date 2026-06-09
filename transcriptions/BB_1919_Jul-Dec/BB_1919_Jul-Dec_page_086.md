@@ -6,8 +6,8 @@ side: right
 spread: 43
 page_type: entry
 location: Settignano (Florence)
-places: [Rheims, S. Margherita ai Monti]
-people: [Thornley Gibson]
+places: [Rheims Cathedral, S. Margherita ai Monti]
+people: [du duc de Berri, Thornely Gibson]
 ---
 
 # BB_1919_Jul-Dec — page 86 (right)
@@ -18,20 +18,20 @@ people: [Thornley Gibson]
 
 *(printed: 4th Sunday in Advent)*
 
-> Très Riches Heures
+> Trés Riches Heures
 > du duc de Berri
 > Rheims
 > Cathedral
 
 ## December 20 — Saturday
 
-> Thornley Gibson
+> Thornely Gibson
 > arrive a
 > S. Margherita ai
 > Monti te[?]
-> Sea[?] note[?] Loese[?]
+> [illegible] Loese[?]
 
-**Places:** Rheims, S. Margherita ai Monti  
-**People:** Thornley Gibson  
+**Places:** Rheims Cathedral, S. Margherita ai Monti  
+**People:** du duc de Berri, Thornely Gibson  
 
-**Transcriber's note:** Dec 19: references to the 'Très Riches Heures du duc de Berry' manuscript and 'Rheims Cathedral' (likely scholarly/reading notes rather than travel). Dec 20: 'Thornley Gibson arrive a' (arrives); then 'S. Margherita ai Monti'; last lines very uncertain, possibly a reference to Loeser. Bleed-through visible.
+**Transcriber's note:** Dec 19 in ink, written from the top across the printed header: 'Trés Riches Heures du duc de Berri', then 'Rheims Cathedral' (manuscript/cathedral reading or study notes). Dec 20: 'Thornely Gibson arrive a', 'S. Margherita ai Monti...'; the final line(s) are very uncertain, possibly ending in a reference to Loeser. Pencil bleed-through present but the ink writing is clear in the suppressed image.

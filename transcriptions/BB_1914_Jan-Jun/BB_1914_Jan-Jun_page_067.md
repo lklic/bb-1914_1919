@@ -5,17 +5,17 @@ page: 67
 side: left
 spread: 34
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Bruce Richmond[?], Sybil[?]]
+location: Florence
+people: [Bruce Richmond, Sybil]
 ---
 
 # BB_1914_Jan-Jun — page 67 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 15 — Friday
 
-> Bruce Richmond[?]
+> Bruce Richmond
 > Sybil Lochay[?]
 
 ## May 16 — Saturday
@@ -24,6 +24,6 @@ people: [Bruce Richmond[?], Sybil[?]]
 
 > *(no writing)*
 
-**People:** Bruce Richmond[?], Sybil[?]  
+**People:** Bruce Richmond, Sybil  
 
-**Transcriber's note:** Faint pencil. Several show-through / bleed lines ignored. 'Bruce Richmond' fairly clear; second name on May 15 reads like 'Sybil Lochay'[?]. Under May 16 only ghostly bleed-through, not transcribed.
+**Transcriber's note:** Two ink lines under May 15 confirmed in bleed-suppressed image. 'Bruce Richmond' fairly clear; second name reads like 'Sybil Lochay'[?]. Original shows much faint grey/blue bleed-through across the page (not transcribed).

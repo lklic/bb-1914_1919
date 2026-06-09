@@ -6,8 +6,8 @@ side: left
 spread: 27
 page_type: entry
 location: London
-places: [London]
-people: [Sybil, Gibson]
+places: [Terrace, London]
+people: [Sybil, Gibson[?]]
 ---
 
 # BB_1914_Jul-Dec — page 53 (left)
@@ -19,20 +19,19 @@ people: [Sybil, Gibson]
 *(printed: 19th Sunday after Trinity.)*
 
 > Lord[?]
-> Sybil[?]
-> [illegible]
-> Teodorli[?] Gibson[?]
+> Sybil
+> Tea with[?] Gibson[?]
 
 ## October 19 — Monday
 
 *(printed: 6h. 34m., morn.)*
 
-> Monkard[?] up park[?]
+> Morland[?] up park[?]
 > Sybil to 3F
 > 11 upper[?] Terrace
-> Lancdon[?]
+> London
 
-**Places:** London  
-**People:** Sybil, Gibson  
+**Places:** Terrace, London  
+**People:** Sybil, Gibson[?]  
 
-**Transcriber's note:** Pencil entries, faint and hard to read. Strong mirror bleed-through from facing page. 'Lancdon' on last line likely 'London'. 'Monkard up park' uncertain. Printed 'Fox Hunting' note partly visible at edge near Oct 19 header.
+**Transcriber's note:** Faint pencil. Heavy bleed-through ghosts (faint blue strokes upper-right and center) in original, suppressed in clean image. Printed 'Fox Hunting' note partly visible at edge near Oct 19 header. Several words uncertain.

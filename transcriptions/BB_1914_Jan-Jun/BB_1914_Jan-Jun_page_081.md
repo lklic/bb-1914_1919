@@ -5,13 +5,13 @@ page: 81
 side: left
 spread: 41
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Mrs. Strong, Loie[?], Nello, Mc Clellan, Florence[?], Lubbock, Countess Serristori]
 ---
 
 # BB_1914_Jan-Jun — page 81 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 12 — Friday
 

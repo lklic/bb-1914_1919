@@ -7,7 +7,7 @@ spread: 13
 page_type: entry
 location: Autun
 places: [Charlieu, Montceaux-l'Etoile, Paray-le-Monial, Perrecy, Autun, Saulieu]
-people: [Agostino di Duccio[?]]
+people: [Agostino di Duccio]
 ---
 
 # BB_1919_Jul-Dec — page 26 (right)
@@ -17,12 +17,12 @@ people: [Agostino di Duccio[?]]
 ## August 21 — Thursday
 
 > CHARLIEU
-> like a 12th cent.[?]
-> Agostino di Duccio[?]
+> like a 12th cent.
+> Agostino di Duccio
 > MONTSEAU L'ETOIL[E]
-> 12th cent. [illegible]
+> 12 c. cent. facade[?]
 > PARAY-LE-MONIAL
-> PERRECY[?]
+> PERRECY
 > AUTUN
 
 ## August 22 — Friday
@@ -33,6 +33,6 @@ people: [Agostino di Duccio[?]]
 > SAULIEU
 
 **Places:** Charlieu, Montceaux-l'Etoile, Paray-le-Monial, Perrecy, Autun, Saulieu  
-**People:** Agostino di Duccio[?]  
+**People:** Agostino di Duccio  
 
-**Transcriber's note:** Continuing the Burgundy church tour. AUTUN written across the printed August 22 header and repeated below. Bleed-through ignored.
+**Transcriber's note:** Continuing the Burgundy church tour. AUTUN written across the printed August 22 header and repeated below. Block-capital town names confirmed in bleed-suppressed image; faint bleed-through ghosts ignored.

@@ -20,11 +20,11 @@ people: [Mma. Schifung[?]]
 
 ## November 18 — Tuesday
 
-> Malg[?]. Ark[?] Religi-
-> eux au Mosqua tya[?]
+> Malg.[?] Ark[?] Religi-
+> eux au Mosqua tge[?]
 > Mma. Schifung[?]
 
 **Places:** Angelis[?]  
 **People:** Mma. Schifung[?]  
 
-**Transcriber's note:** Nov 18 lines uncertain; appears to reference religious figures and a mosque. Bleed-through ignored.
+**Transcriber's note:** Nov 18 lines uncertain; appear to reference religious matter and a mosque. Heavy scribbled bleed-through across the leaf in original; only dark strokes confirmed in bleed-suppressed image transcribed.

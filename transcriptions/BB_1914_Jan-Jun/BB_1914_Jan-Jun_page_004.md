@@ -6,7 +6,7 @@ side: right
 spread: 2
 page_type: entry
 location: Montreal
-places: [Lexington, Montreal, Ross Museum]
+places: [Lexington, Ross Museum]
 ---
 
 # BB_1914_Jan-Jun — page 4 (right)
@@ -21,12 +21,8 @@ places: [Lexington, Montreal, Ross Museum]
 
 *(printed: Epiphany.)*
 
-> p. m. Ross Museum
+> p.m. Ross Museum
 
-### Other writing on page
+**Places:** Lexington, Ross Museum  
 
-> Montreal[?]
-
-**Places:** Lexington, Montreal, Ross Museum  
-
-**Transcriber's note:** Faint blue/grey 'Montreal' text appears in several spots and is largely bleed-through; one occurrence in normal orientation noted in loose_text. 'Ross Museum' likely the McCord/Ross collection in Montreal. '1.51' may be a train time.
+**Transcriber's note:** Handwriting confirmed in bleed-suppressed image. Faint 'Montreal' ghosts in the original are bleed-through and ignored. '1.51' likely a train time.

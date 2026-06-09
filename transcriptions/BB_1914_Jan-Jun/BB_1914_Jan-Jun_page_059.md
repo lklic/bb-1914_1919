@@ -5,22 +5,22 @@ page: 59
 side: left
 spread: 30
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 ---
 
 # BB_1914_Jan-Jun — page 59 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## April 29 — Wednesday
 
-> [illegible]
+> *(no writing)*
 
 ## April 30 — Thursday
 
-*(printed: 5th Sunday after Easter)*
+*(printed: 2nd Sunday after Easter.)*
 
 > *(no writing)*
 
 
-**Transcriber's note:** Faint pencil writing appears under April 29 but is largely ghostly/bleed-through and mirror-reversed; only a few normally-oriented strokes are present and not confidently legible. Bottom-of-page faint pencil also appears to be show-through. Printed sub-note under April 30 reads '5th Sunday after Easter' (faint).
+**Transcriber's note:** Heavy bleed-through in the original photo (faint soft cursive ghosts under April 29 and at bottom of page), but the bleed-suppressed image shows only printed headers and faint specks, no sharp dark on-page strokes. Page is blank of real handwriting.

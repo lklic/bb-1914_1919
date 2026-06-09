@@ -15,7 +15,7 @@ people: [Mary, Algar, d'Alba[?], S. Reinach, Storrs, Gauvain[?]]
 
 ## September 14 — Sunday
 
-*(printed: 13th Sunday after Trinity)*
+*(printed: 13th Sunday after Trinity.)*
 
 > MARY
 > 1. Algar. d' Alba[?]
@@ -30,4 +30,4 @@ people: [Mary, Algar, d'Alba[?], S. Reinach, Storrs, Gauvain[?]]
 
 **People:** Mary, Algar, d'Alba[?], S. Reinach, Storrs, Gauvain[?]  
 
-**Transcriber's note:** Pencil. 'd' Alba' uncertain. 'S. Reinach' likely Salomon Reinach. 'Storrs' likely Ronald Storrs. Several words illegible (Brueghes/Markie line). Heavy show-through from other side ignored.
+**Transcriber's note:** Pencil/ink, confirmed against bleed-suppressed image. Heavy mirror bleed-through in original, ignored. 'S. Reinach' likely Salomon Reinach. 'Storrs' likely Ronald Storrs. Several words uncertain on the Breughes/Markie line.

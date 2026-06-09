@@ -22,8 +22,8 @@ places: [Baltimore]
 ## March 7 — Saturday
 
 > Baltimore
-> Balto.[?]
+> Balt.
 
 **Places:** Baltimore  
 
-**Transcriber's note:** Printed liturgical note for March 6 partly obscured by mirror bleed-through. 'Baltimore' written large in ink on both days; the second short word under March 7 may be an abbreviation 'Balto.' (uncertain). Much faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** Strong bleed-through in gutter and mid-page; bleed-suppressed image confirms 'Baltimore' under Mar 6 and 'Baltimore' (with 'Balt.' below) under Mar 7 as real dark strokes. Printed sub-note under Mar 6 appears mirror-reversed in the image.

@@ -15,7 +15,7 @@ places: [Kingsley Park[?]]
 
 ## February 6 — Thursday
 
-> 8. Poly Hall[?]
+> 8. Poly Note[?]
 
 ## February 7 — Friday
 
@@ -26,4 +26,4 @@ places: [Kingsley Park[?]]
 
 **Places:** Kingsley Park[?]  
 
-**Transcriber's note:** Pencil and ink appointments with times. 'Kingsley Park' uncertain. Bleed-through ignored.
+**Transcriber's note:** Faint bleed-through ignored. '7.30 Kingsley Park' written large in cursive at bottom. The '8. Poly Note[?]' line sits above the Feb 7 header so belongs to Feb 6.

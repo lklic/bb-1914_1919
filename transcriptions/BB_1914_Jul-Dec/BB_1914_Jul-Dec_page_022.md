@@ -5,18 +5,18 @@ page: 22
 side: right
 spread: 11
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Chichester, Bosham]
 people: [Ford]
 ---
 
 # BB_1914_Jul-Dec — page 22 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## August 21 — Friday
 
-*(printed: 0h. 27m., aft.; 11th Sunday after Trinity)*
+*(printed: 0h. 27m., aft.)*
 
 > Ford
 
@@ -29,4 +29,4 @@ people: [Ford]
 **Places:** Chichester, Bosham  
 **People:** Ford  
 
-**Transcriber's note:** Aug 22: travel/sights to Chichester and Bosham. Heavy mirror-reversed bleed-through across both days (ignored). 'Scott'-like word at right is show-through, not transcribed.
+**Transcriber's note:** Aug 22: Chichester and Bosham (travel/sights). Heavy bleed-through across both days, ignored; only dark strokes confirmed in the bleed-suppressed image transcribed.

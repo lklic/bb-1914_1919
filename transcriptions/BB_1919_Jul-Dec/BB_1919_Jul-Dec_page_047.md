@@ -18,7 +18,7 @@ people: [Rohan Chabot, Curtis[?], Colefax[?], Landor[?], Carl Hamilton, Tyler, W
 *(printed: 8h. 37m., morn.)*
 
 > Hopwell[?]
-> 3. Rohan Chabot
+> 3. Rohan Chabot[?]
 > Curtis[?], Sir
 > Martins[?] Colefax[?]
 > Landor[?]
@@ -32,4 +32,4 @@ people: [Rohan Chabot, Curtis[?], Colefax[?], Landor[?], Carl Hamilton, Tyler, W
 
 **People:** Rohan Chabot, Curtis[?], Colefax[?], Landor[?], Carl Hamilton, Tyler, Whitney[?], Bliss  
 
-**Transcriber's note:** Pencil/ink entries with heavy show-through. Several names uncertain. 'Carl Hamilton' written large across the page. Final line includes block-capital BLISS.
+**Transcriber's note:** Pencil/ink entries with heavy bleed-through (confirmed not-real in suppressed image). 'Carl Hamilton' written large across the page. Final line includes block-capital BLISS. Several names uncertain.

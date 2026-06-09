@@ -27,4 +27,4 @@ people: [Orpen[?]]
 
 **People:** Orpen[?]  
 
-**Transcriber's note:** Feb 18 blank. Above the Feb 19 header is a small pencilled 'G.' (uncertain). Under Feb 19 a single pencil line, possibly a name 'Orpen' (William Orpen?) followed by an unclear abbreviation. Faint bluish marks elsewhere are bleed-through and not transcribed.
+**Transcriber's note:** Feb 18 blank. A small pencilled 'G.' (uncertain) sits above-left of the Feb 19 header (confirmed real in suppressed image). Under Feb 19 a single line, possibly a name 'Orpen' (William Orpen?) followed by an unclear abbreviation. Reading uncertain. Faint bleed-through elsewhere ignored.

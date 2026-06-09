@@ -5,26 +5,24 @@ page: 85
 side: left
 spread: 43
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Loeser, Lionello Venturi]
 ---
 
 # BB_1914_Jul-Dec — page 85 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 21 — Monday
 
-> Mrs & Mlle Lewis[?]
-> Loeser & Maclar[?]
+> Loeser & Marais[?]
 
 ## December 22 — Tuesday
 
 *(printed: 4th Sunday in Advent.)*
 
 > Lionello Venturi
-> Lucha[?] Massiar[?]
 
 **People:** Loeser, Lionello Venturi  
 
-**Transcriber's note:** Pencil, faint. December 21 lines uncertain; first appears 'Mrs & Mlle Lewis'. December 22 has 'Lionello Venturi' fairly clear; final pencil line at bottom is very faint and uncertain.
+**Transcriber's note:** Heavy blue bleed-through in original. The bleed-suppressed image keeps only two dark cursive lines: 'Loeser & Marais[?]' under Dec 21 and 'Lionello Venturi' under Dec 22. The top 'Mrs & Mlle...' line and the faint bottom line seen in the original are bleed-through and not transcribed.

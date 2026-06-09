@@ -23,4 +23,4 @@ location: Montreal
 > *(no writing)*
 
 
-**Transcriber's note:** No handwriting on this page; both day slots blank. Faint marks at top and sides are bleed-through/show-through.
+**Transcriber's note:** No handwriting. Bleed-suppressed image shows only printed headers; page is blank apart from faint bleed-through visible in the original.

@@ -6,7 +6,7 @@ side: right
 spread: 4
 page_type: entry
 location: New York
-people: [Griswold[?], Hapgood]
+people: [Eno[?], Griswold, Hapgood, Elsie[?]]
 ---
 
 # BB_1914_Jan-Jun — page 8 (right)
@@ -15,16 +15,16 @@ people: [Griswold[?], Hapgood]
 
 ## January 13 — Tuesday
 
-> Lunch Euo[?]. 1.15
-> Dine Griswold[?]
+> Lunch Eno[?]. 1.15
+> Dine Griswold
 
 ## January 14 — Wednesday
 
 > Lunch Hapgood
-> 5? S.G.
-> dine Eleck[?] 8?
+> 5 S.G.[?]
+> dine Elsie[?] 8
 > dinner B
 
-**People:** Griswold[?], Hapgood  
+**People:** Eno[?], Griswold, Hapgood, Elsie[?]  
 
-**Transcriber's note:** Appointments: lunch and dine engagements. Several words uncertain ('Euo', 'Eleck', 'S.G.'). Heavy pencil bleed-through across the page ignored.
+**Transcriber's note:** Social engagements: lunches and dinners. Times noted: 1.15, 8. Some words uncertain ('Eno', 'S.G.', 'Elsie'). Heavy pencil bleed-through across the page ignored; suppressed image confirms the real dark ink lines.

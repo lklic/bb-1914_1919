@@ -21,4 +21,4 @@ location: Saint-Jean-Cap-Ferrat
 > Bad
 
 
-**Transcriber's note:** Both days marked only 'Bad'. Faint mirror-reversed bleed-through from facing pages ignored.
+**Transcriber's note:** Both days marked only 'Bad' in dark ink. Faint cursive bleed-through from facing pages ignored.

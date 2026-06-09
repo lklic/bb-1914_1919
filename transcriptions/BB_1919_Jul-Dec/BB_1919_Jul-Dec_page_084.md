@@ -19,10 +19,10 @@ people: [Santayana, Mrs. Ross]
 
 ## December 16 — Tuesday
 
-> Santayana
+> Santayana[?]
 > lunch[?], Mrs.
 > Ross
 
 **People:** Santayana, Mrs. Ross  
 
-**Transcriber's note:** 'Tosca' (opera) on Dec 15. Dec 16 entry: 'Santayana' then 'lunch[?] Mrs. Ross'. Some heavy bleed-through ignored.
+**Transcriber's note:** 'Tosca' (opera) on Dec 15. Dec 16: 'Santayana' then 'lunch[?] Mrs. Ross'. Heavy bleed-through around the Dec 15 entry ignored; only dark ink transcribed.

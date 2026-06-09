@@ -17,4 +17,4 @@ location: Paris
 > MEMORANDA
 
 
-**Transcriber's note:** Printed 'MEMORANDA' header at top in normal orientation. The rest of the page shows mirror-reversed bleed/show-through of a printed 'POSTAL RATES' table (Letters, Postcards, Printed Paper Rate, Parcel Post, Postal Orders, Telegrams, Sailors/Soldiers and the Air Force) from the facing leaf; not transcribed as it is reversed show-through, not writing on this side. No Berenson handwriting present.
+**Transcriber's note:** Printed 'MEMORANDA' header at top in normal orientation. The rest of the page is mirror-reversed bleed/show-through of a printed 'POSTAL RATES' table (Letters, Postcards, Printed Paper Rate, Parcel Post, Postal Orders, Telegrams, Sailors/Soldiers and the Air Force) from the facing leaf. Bleed-suppressed image confirms only the printed header and faint ghosts; no Berenson handwriting on this side.

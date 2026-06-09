@@ -6,7 +6,7 @@ side: right
 spread: 18
 page_type: entry
 location: Washington
-places: [National Museum, Bryn Mawr, Philadelphia]
+places: [Nat. Museum, Bryn Mawr, Philadelphia]
 people: [Adams, Johnson]
 ---
 
@@ -26,9 +26,8 @@ people: [Adams, Johnson]
 
 > lunch Johnson
 > Philadelphia
-> Bryn = Mawr
 
-**Places:** National Museum, Bryn Mawr, Philadelphia  
+**Places:** Nat. Museum, Bryn Mawr, Philadelphia  
 **People:** Adams, Johnson  
 
-**Transcriber's note:** National Museum (Washington), lunch with Adams, then to Bryn Mawr. Sunday lunch with Johnson, Philadelphia / Bryn Mawr. Bottom line 'Bryn = Mawr' is faint pencil, written on this side.
+**Transcriber's note:** Nat. Museum (Washington), lunch with Adams, then to Bryn Mawr. Sunday lunch with Johnson at Philadelphia. A faint grey bottom line resembling 'Bryn = Mawr' is soft and largely absent in the bleed-suppressed image, so treated as bleed-through and not transcribed.

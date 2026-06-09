@@ -23,4 +23,4 @@ location: Settignano (Florence)
 > *(no writing)*
 
 
-**Transcriber's note:** Only faint, mirror-reversed bleed-through text visible on this side; no clear handwriting actually written on this page in normal orientation. Left blank for both days.
+**Transcriber's note:** In the bleed-suppressed image the marks under both days are faint, broken, dotty traces with no sharp on-page strokes - bleed-through from adjacent leaves, not real writing. Both days treated as blank.

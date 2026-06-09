@@ -23,4 +23,4 @@ location: Paris
 > *(no writing)*
 
 
-**Transcriber's note:** Both day entries appear blank in BB's hand. The faint bluish marks visible on this leaf (under Feb 16, and scattered across the page) are mirror-reversed show-through/bleed-through from the facing page and are not transcribed. Printed liturgical/astronomical sub-notes under Feb 16 are partly obscured by show-through.
+**Transcriber's note:** Heavy bleed-through ghosts visible in the original under both headers; the bleed-suppressed image confirms no sharp on-page handwriting. Both days blank apart from printed headers. Printed sub-notes under Feb 16 partly obscured by show-through.

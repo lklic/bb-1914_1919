@@ -7,7 +7,6 @@ spread: 9
 page_type: entry
 location: New York
 places: [New Haven]
-people: [Lewisohn[?]]
 ---
 
 # BB_1914_Jan-Jun — page 18 (right)
@@ -16,10 +15,10 @@ people: [Lewisohn[?]]
 
 ## February 6 — Friday
 
-*(printed: Septuagesima)*
+*(printed: Septuagesima.)*
 
 > Lunch ?
-> Tea Lewisohn[?]
+> Tea Serada[?] }
 > [illegible struck-through]
 > [illegible struck-through]
 
@@ -29,6 +28,5 @@ people: [Lewisohn[?]]
 > leave 4.09
 
 **Places:** New Haven  
-**People:** Lewisohn[?]  
 
-**Transcriber's note:** Day-entry page. Some lines under Feb 6 are struck through and illegible. Feb 7 records a trip to New Haven (arrive 10.02, leave 4.09). Heavy bleed-through ignored.
+**Transcriber's note:** Day-entry page. Two lines under Feb 6 are heavily struck through and illegible. Feb 7 records New Haven trip: arrive 10.02, leave 4.09. Heavy bleed-through ignored.

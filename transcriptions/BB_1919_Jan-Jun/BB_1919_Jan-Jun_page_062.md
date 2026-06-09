@@ -34,4 +34,4 @@ people: [Lucy Hyatt[?], Cranborne[?], Frankfurter, Tyrrell[?], Morgenthau[?], Ma
 
 **People:** Lucy Hyatt[?], Cranborne[?], Frankfurter, Tyrrell[?], Morgenthau[?], Mallet, Thornely[?]  
 
-**Transcriber's note:** Bleed-through ignored. Several names uncertain. 'LEAVE at 7.15' suggests departure by train. Morgenthau and Frankfurter suggest Paris Peace Conference context.
+**Transcriber's note:** Bleed-through ignored. Several names uncertain. 'LEAVE at 7.15' (written large) suggests departure by train. Morgenthau and Frankfurter suggest Paris Peace Conference context.

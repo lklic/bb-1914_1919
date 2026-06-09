@@ -16,7 +16,7 @@ people: [Alb. Thomas, Isvolsky, Brunhes]
 
 ## January 25 — Saturday
 
-> 1. G. r Alb. Thomas
+> 1. G. x Alb. Thomas
 > 5 Isvolsky 9 Rue
 > de Solitay[?]
 > 8. G. Brunhes
@@ -31,4 +31,4 @@ people: [Alb. Thomas, Isvolsky, Brunhes]
 **Places:** 9 Rue de Solitay[?], Quai de Bourbon  
 **People:** Alb. Thomas, Isvolsky, Brunhes  
 
-**Transcriber's note:** Ink/pencil mix. 'Alb. Thomas' likely Albert Thomas. 'Isvolsky' = Alexander Izvolsky (Russian diplomat). 'Brunhes' a name. Addresses given in rue/quai. He is in Paris. Faint bleed-through ignored.
+**Transcriber's note:** 'Alb. Thomas' likely Albert Thomas; 'Isvolsky' = Alexander Izvolsky (Russian diplomat). Faint grey bleed-through across page ignored. Bottom 'G. ?' faint but confirmed in suppressed image.

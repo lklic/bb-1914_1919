@@ -20,10 +20,10 @@ people: [Norton]
 
 ## March 29 — Saturday
 
-> "Norton join[?]
+> "Norton joins
 > us
 
 **Places:** Bourges  
 **People:** Norton  
 
-**Transcriber's note:** March 28: 'Bourges' written large in ink. March 29: 'Norton join us' (last word uncertain). Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** March 28: 'Bourges' written large. March 29: 'Norton joins us'. Heavy faint bleed-through in original ignored; suppressed image confirms only these strokes.

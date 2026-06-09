@@ -7,7 +7,7 @@ spread: 9
 page_type: entry
 location: Versailles
 places: [Versailles]
-people: [Mrs Calver[?], Alf. Thomas, Rosa Shield[?]]
+people: [Alf. Thomas, Rosa Sheild[?]]
 ---
 
 # BB_1919_Jul-Dec — page 18 (right)
@@ -17,22 +17,22 @@ people: [Mrs Calver[?], Alf. Thomas, Rosa Shield[?]]
 ## August 5 — Tuesday
 
 > 1. Hubsch[?] Aoffa[?], [illegible]
-> [illegible] (Mrs Calver[?]
+> [illegible] (Mme Calveu[?]
 > [illegible] Alf. Thomas
-> Velitzkos[?] Gran[?]
+> Veli[illegible]es . Tean[?]
 > [illegible]
-> Rosa Shield[?]
+> [illegible] Rosa Sheild[?]
 
 ## August 6 — Wednesday
 
-> deauls[?] [illegible]
-> [illegible] [illegible]
-> 23 [illegible] er. [illegible]llo[?]
-> VERSAILLES
 > [illegible]
-> [illegible] r [illegible] to din[?]
+> [illegible] Mech[?]
+> [illegible]er. [illegible]llo[?]
+> VERSAILLE[S]
+> [illegible]
+> Time & Place to[?] dine[?]
 
 **Places:** Versailles  
-**People:** Mrs Calver[?], Alf. Thomas, Rosa Shield[?]  
+**People:** Alf. Thomas, Rosa Sheild[?]  
 
-**Transcriber's note:** Right page. Aug 5 lists names of people met. Aug 6 has a large 'VERSAILLES' written across the page with a large X struck through the section; surrounding text largely illegible. People names uncertain.
+**Transcriber's note:** Aug 5 lists names of people. Aug 6 has 'VERSAILLE(S)' in large block capitals with a large diagonal X struck through the section; surrounding text overwritten and largely illegible. Real dark strokes confirmed against the bleed-suppressed image; uncertain words marked.

@@ -6,7 +6,7 @@ side: left
 spread: 10
 page_type: entry
 location: Paris
-people: [Nakelis[?]]
+people: [Natalie[?], Salvemini[?], Visconti[?]]
 ---
 
 # BB_1919_Jan-Jun — page 19 (left)
@@ -15,16 +15,16 @@ people: [Nakelis[?]]
 
 ## February 4 — Tuesday
 
-> 11. Nakelis[?]
-> 12.45, Pouch, Henn[?]
-> 1.30 Trroy[?]
+> 11. Natalie[?]
+> 12.45, Pearch, Heim[?]
+> 7.30 Tivoy[?]
 
 ## February 5 — Wednesday
 
-> 1 Salytania[?]
-> 2 others, Viscocch[?]
+> 1 Salvemini +
+> 2 others, Visconti[?]
 > 8. G.
 
-**People:** Nakelis[?]  
+**People:** Natalie[?], Salvemini[?], Visconti[?]  
 
-**Transcriber's note:** Pencil appointments with times. Several names uncertain. Heavy bleed-through ignored.
+**Transcriber's note:** Heavy bleed-through in original; only dark on-page strokes confirmed in bleed-suppressed image kept. The 12.45 line appears struck through. '8. G.' at the bottom is real.

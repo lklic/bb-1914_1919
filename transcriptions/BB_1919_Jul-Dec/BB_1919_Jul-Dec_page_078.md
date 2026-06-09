@@ -15,13 +15,12 @@ people: [Acton]
 
 ## December 3 — Wednesday
 
-> [illegible]
+> *(no writing)*
 
 ## December 4 — Thursday
 
-> [illegible]
 > Acton
 
 **People:** Acton  
 
-**Transcriber's note:** Most pencil writing on this page is mirror-reversed bleed-through from the facing leaf and is ignored. Only the dark ink 'Acton' at lower left of Dec 4 reads as genuine writing on this side.
+**Transcriber's note:** Almost all visible writing on this page is mirror-reversed bleed-through (faint/fragmentary in the suppressed image) and ignored. Only the dark bold 'Acton' at the lower left is real on-page ink confirmed in the suppressed image; placed under the Dec 4 Thursday header.

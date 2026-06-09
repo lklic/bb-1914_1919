@@ -23,9 +23,9 @@ places: [Barcelona, Tarrasa, Pedralbes, Museo del Parque]
 
 ## May 10 — Saturday
 
-> Pedralbes etc
-> - so close
-> to Sirmona[?]
+> Pedralbes No-
+> -way so close
+> to dinner[?]
 > Museo del
 > Parque
 
@@ -35,4 +35,4 @@ places: [Barcelona, Tarrasa, Pedralbes, Museo del Parque]
 
 **Places:** Barcelona, Tarrasa, Pedralbes, Museo del Parque  
 
-**Transcriber's note:** 'Barcelona' written at top of page above the May 9 header. May 9: Cathedral, Tarrasa (Terrassa). May 10: Pedralbes, Museo del Parque (Barcelona). 'Sirmona' uncertain. Bleed-through (e.g. reversed 'Tarrasa') ignored.
+**Transcriber's note:** 'Barcelona' written at top of page above the May 9 header. May 9: Cathedral, Tarrasa (Terrassa). May 10: Pedralbes, Museo del Parque (Barcelona). Mirror-reversed bleed-through (e.g. reversed 'Tarrasa') ignored.

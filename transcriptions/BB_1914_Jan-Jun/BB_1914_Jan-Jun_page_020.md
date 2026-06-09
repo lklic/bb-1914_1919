@@ -6,7 +6,7 @@ side: right
 spread: 10
 page_type: entry
 location: New York
-people: [Miss Bryce, A. Johnson[?], Mathews[?]]
+people: [Miss Bryce, A. Johnson[?]]
 ---
 
 # BB_1914_Jan-Jun — page 20 (right)
@@ -17,18 +17,14 @@ people: [Miss Bryce, A. Johnson[?], Mathews[?]]
 
 *(printed: O 5h. 35m., aft.)*
 
-> 1.30 Mathews[?]
+> 1.30 [illegible]
 > Miss Bryce 5 p.m.
 > Dine A. Johnson[?]
 
 ## February 11 — Wednesday
 
-> Maud Kiss[?]
-> 1.15 Mariac[?]
-> Mrs. [illegible] 5 p.m.
-> 8.30
-> [illegible] Singher[?]
+> [illegible]
 
-**People:** Miss Bryce, A. Johnson[?], Mathews[?]  
+**People:** Miss Bryce, A. Johnson[?]  
 
-**Transcriber's note:** Pencil and ink, very faint with strong show-through. Feb 11 entries largely illegible. Names uncertain.
+**Transcriber's note:** Pencil and ink, very faint with strong bleed-through. Feb 11 has only a single sweeping dark scrawl near the bottom confirmed in the bleed-suppressed image (signature-like, illegible); the soft midpage lines are bleed-through and omitted.

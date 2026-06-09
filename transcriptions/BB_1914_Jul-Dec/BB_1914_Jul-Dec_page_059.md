@@ -5,28 +5,26 @@ page: 59
 side: left
 spread: 30
 page_type: entry
-location: Brighton / Ford Place (Sussex)
-places: [London]
-people: [Zangwill, Lord G[?]]
+location: Ford
+people: [Lord, Zangwill[?], Rosen[?], Ford[?]]
 ---
 
 # BB_1914_Jul-Dec — page 59 (left)
 
-*Location: **Brighton / Ford Place (Sussex)***
+*Location: **Ford***
 
 ## October 30 — Friday
 
-> Lord G[?]
+> Lord
 > Zangwill[?] to
 > lunch
-> Roses Portrait &
-> Sketches
+> Rosen[?] Portrait &
+> sketches[?]
 
 ## October 31 — Saturday
 
-> London[?]
+> Ford[?]
 
-**Places:** London  
-**People:** Zangwill, Lord G[?]  
+**People:** Lord, Zangwill[?], Rosen[?], Ford[?]  
 
-**Transcriber's note:** Pencil. Heavy bleed-through. 'Zangwill' likely Israel Zangwill; 'Roses Portrait & Sketches' uncertain. First word after the dots in header is illegible printed/bled text.
+**Transcriber's note:** Pencil. Heavy blue bleed-through in original confirmed absent in bleed-suppressed scan and ignored. 'Zangwill' likely Israel Zangwill. Line after 'Lord' continues but largely bleed-through.

@@ -5,25 +5,27 @@ page: 79
 side: left
 spread: 40
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Lina[?]]
 ---
 
 # BB_1914_Jan-Jun — page 79 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 8 — Monday
 
-*(printed: 5h. 18m., morn.)*
+*(printed: O 5h. 18m., morn.)*
 
 > Lina to stay[?]
 
 ## June 9 — Tuesday
 
+*(printed: Trinity Sunday.)*
+
 > Lina
-> Strike[?]
+> strike[?]
 
 **People:** Lina[?]  
 
-**Transcriber's note:** Short pencil entries. 'Lina' appears both days, uncertain. Second word June 9 illegible, possibly 'Strike'. Heavy bleed-through ignored.
+**Transcriber's note:** Short pencil entries confirmed dark in the bleed-suppressed image. 'Lina' appears both days, uncertain. Second word under June 9 uncertain ('strike'?). Heavy blue-green bleed-through ignored. The printed sub-note 'Trinity Sunday' under June 9 is faint.

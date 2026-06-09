@@ -5,22 +5,22 @@ page: 72
 side: right
 spread: 36
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [E. H. L. de C.[?], Schl.[?], Yashkow[?]]
+location: Florence
+people: [E. H. C. de C., Schl.]
 ---
 
 # BB_1914_Jan-Jun — page 72 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 25 — Monday
 
 *(printed: 2h. 35m., morn.)*
 
-> E. H. L. de C. & Schl.[?]
+> E. H. C. de C. & Schl.
 > leave.
-> We dine[?] to[?] tea[?]
-> Yashkow[?] to dine[?]
+> We dinner to her[?]
+> Teakows[?] to dine
 
 ## May 26 — Tuesday
 
@@ -28,6 +28,6 @@ people: [E. H. L. de C.[?], Schl.[?], Yashkow[?]]
 
 > *(no writing)*
 
-**People:** E. H. L. de C.[?], Schl.[?], Yashkow[?]  
+**People:** E. H. C. de C., Schl.  
 
-**Transcriber's note:** Ink. Lines under May 25 hard to read; initials 'E. H. L. de C.' uncertain. 'leave' clear. Following two lines partly obscured by bleed-through, readings tentative. May 26 blank.
+**Transcriber's note:** Ink. Initials in first line uncertain. 'leave.' clear. Following two lines partly obscured, readings tentative. Faint blue bleed-through across middle/lower page ignored. May 26 blank.

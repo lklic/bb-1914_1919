@@ -5,13 +5,13 @@ page: 48
 side: right
 spread: 24
 page_type: entry
-location: Wimborne / Stonehenge (Dorset & Wiltshire)
-places: [Stonehenge, Salisbury, Romsey, Ford Place]
+location: Stapleton House
+places: [Stonehenge, Salisbury, Romsey, Ford Place, Ford]
 ---
 
 # BB_1914_Jul-Dec — page 48 (right)
 
-*Location: **Wimborne / Stonehenge (Dorset & Wiltshire)***
+*Location: **Stapleton House***
 
 ## October 8 — Thursday
 
@@ -22,10 +22,10 @@ places: [Stonehenge, Salisbury, Romsey, Ford Place]
 
 ## October 9 — Friday
 
-*(printed: 18th Sunday after Trinity)*
+*(printed: 13th Sunday after Trinity)*
 
 > Ford[?]
 
-**Places:** Stonehenge, Salisbury, Romsey, Ford Place  
+**Places:** Stonehenge, Salisbury, Romsey, Ford Place, Ford  
 
-**Transcriber's note:** Sightseeing tour of Wiltshire/Hampshire: Stonehenge, Salisbury, Romsey, Ford Place. Oct 9 has a single faint word 'Ford'. Faint pencil at bottom is bleed-through.
+**Transcriber's note:** Sightseeing: Stonehenge, Salisbury, Romsey, Ford Place. Oct 9 a single word 'Ford'. Printed Trinity sub-note partly obscured. Mirror-reversed marks lower on page are bleed-through, ignored.

@@ -5,13 +5,13 @@ page: 72
 side: right
 spread: 36
 page_type: entry
-location: Macon / Lyon (Burgundy & Rhone)
+location: Macon
 places: [Macon, Lyons, Valence, Avignon]
 ---
 
 # BB_1914_Jul-Dec — page 72 (right)
 
-*Location: **Macon / Lyon (Burgundy & Rhone)***
+*Location: **Macon***
 
 ## November 25 — Wednesday
 

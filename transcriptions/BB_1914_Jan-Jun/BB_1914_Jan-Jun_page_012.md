@@ -6,8 +6,8 @@ side: right
 spread: 6
 page_type: entry
 location: New York
-places: [Rockefeller Inst., 66th Ave.[?]]
-people: [Burroughs, Sherrills[?], Miss Lan[?], Prince [illegible]]
+places: [Rockefeller Inst., 66th Ave.]
+people: [Burroughs, Sherrills, Miss Sands]
 ---
 
 # BB_1914_Jan-Jun — page 12 (right)
@@ -17,17 +17,17 @@ people: [Burroughs, Sherrills[?], Miss Lan[?], Prince [illegible]]
 ## January 21 — Wednesday
 
 > Lunch Burroughs
-> Tea Sherrills[?]
-> Dine Miss Lan[illegible]
+> Tea Sherrills
+> Dine Miss Sands[?]
 
 ## January 22 — Thursday
 
-> 11 Rockefeller Inst.
-> Took of[?] 6.66 th[?]
+> 11 Rockeffler[?] Inst.
+> Took q 6.66 th
 > Ave. A.
-> Dine Prince [illegible]
+> Dine Prince Po[?]
 
-**Places:** Rockefeller Inst., 66th Ave.[?]  
-**People:** Burroughs, Sherrills[?], Miss Lan[?], Prince [illegible]  
+**Places:** Rockefeller Inst., 66th Ave.  
+**People:** Burroughs, Sherrills, Miss Sands  
 
-**Transcriber's note:** Pencil. Mentions Rockefeller Institute and a numbered address (66th / Ave.), suggesting New York City. 'Dine Prince...' partly illegible at bottom edge.
+**Transcriber's note:** Bleed-through ghosts visible under handwriting in original; suppressed image confirms the dark lines transcribed. 'Rockeffler' likely Rockefeller Institute. Last word of Jan 22 uncertain (cut at gutter/edge).

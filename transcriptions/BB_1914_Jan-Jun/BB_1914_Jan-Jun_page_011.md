@@ -6,7 +6,7 @@ side: left
 spread: 6
 page_type: entry
 location: New York
-people: [Fletcher, Hutches[?], Hentley[?], Anna Magaa[?], Harden[?]]
+people: [Fletcher, Harden]
 ---
 
 # BB_1914_Jan-Jun — page 11 (left)
@@ -18,17 +18,17 @@ people: [Fletcher, Hutches[?], Hentley[?], Anna Magaa[?], Harden[?]]
 *(printed: ( 0h. 30m., morn.)*
 
 > 1 Hutches'[?]
-> Duca Fletcher 8
-> dinner B
+> Dine Fletcher 8
+> dinner [B]
 
 ## January 20 — Tuesday
 
-> 1 Hentley[?] 9 say[?]
-> ngton Hot[?]
-> Tea Anna Magaa[?]
-> Duke Harden[?]
-> 9 p.m. B
+> 1 Hewitt[?] q day[?]
+> ngton Ho[?]
+> Tea Aung Nogga[?]
+> Dine Harden
+> 9 p.m [B]
 
-**People:** Fletcher, Hutches[?], Hentley[?], Anna Magaa[?], Harden[?]  
+**People:** Fletcher, Harden  
 
-**Transcriber's note:** Pencil, very faint. Day headers clear. Handwriting partly illegible with heavy bleed-through. 'B' appears to be his shorthand mark following dinner entries. Several names uncertain.
+**Transcriber's note:** Heavy bleed-through ghosts in original; suppressed version confirms only the dark pencil lines transcribed. The 'Sunday after Epiphany' text near the Jan 20 header is mirror-reversed bleed-through and ignored. Several hand words very uncertain due to scrawled script. [B] is his recurring boxed-B shorthand mark after dinner entries.

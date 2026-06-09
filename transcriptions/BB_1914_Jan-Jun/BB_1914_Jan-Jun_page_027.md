@@ -30,4 +30,4 @@ people: [Miss Laud[?], Mrs. Van Rensaller[?], Mrs. Griswold, Boyce[?]]
 
 **People:** Miss Laud[?], Mrs. Van Rensaller[?], Mrs. Griswold, Boyce[?]  
 
-**Transcriber's note:** Two day entries. Names uncertain; 'Van Rensaller' likely Van Rensselaer. 'B engaged' beneath. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** Two day entries. Names uncertain; 'Van Rensaller' likely Van Rensselaer. '(B engaged' beneath. Faint bleed-through ignored.

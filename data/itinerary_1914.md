@@ -1,76 +1,91 @@
-# Bernard Berenson — 1914 Itinerary (reconstructed from the pocket diaries)
+# Bernard Berenson — 1914 Itinerary
 
-Two pocket diaries cover the year: **Jan–Jun** (45 spreads) and **Jul–Dec** (45 spreads).
-Locations are inferred from continuity (settled periods with recurring local names = one base city) and from explicit travel cues (block-capital place names, "leave for X", hotel names, train times). Where the diary only lists people/appointments, the surrounding base city is carried forward.
+Reconstructed from the 1914 pocket diaries (two books, 45 spreads each). Berenson was based at Villa I Tatti, Settignano (Florence). In 1914 he spent the first quarter on a North American tour, crossed back to Europe in April, summered in England (Ford Place, Sussex), and returned to Florence in December via Paris and the Riviera.
 
----
+## North American tour (January – March)
 
-## January – June 1914
+- **Jan 5–6 — En route / Montreal area, Canada.** Train (Lexington 1.51); visit to the Ross/Redpath Museum.
+- **Jan 9–11 — Montreal, Canada.** Settled in Montreal.
+- **Jan 12 – Mar 27 — New York, United States (home base).** Continuous round of lunches, teas and dinners with collectors and society figures: Colony Club, Rockefeller Institute, Mrs. Otto Kahn, Havemeyer, Morgan, the Hewitts, Laniers, Seligmann, Frelinghuysen, Flexner, the Vanderbilts. Interrupted by several excursions:
+  - **Feb 7 — New Haven** (day trip, arr. 10.02, dep. 4.09).
+  - **Feb 14–15 — Mount Kisco, NY** (weekend with Eugene Meyer).
+  - **Feb 20–23 — Detroit** (visiting collector Charles Lang Freer).
+  - **Feb 26–27 — Northampton, Mass.** (Smith College area).
+  - **Mar 1–7 — Baltimore** (Jacobs, Cary, Thomas; Mrs. Dawson).
+  - **Mar 8–14 — Washington, D.C.** (1731 I St.; Henry Adams, Jusserand, Senator Lodge, Library of Congress, National Museum).
+  - **Mar 15–20 — Bryn Mawr / Philadelphia** (Widener collection, Longue Vue).
+  - **Mar 24–27 — back in New York** before sailing.
 
-| Dates | Place | Country | Notes |
-|---|---|---|---|
-| (endpaper) | — | — | Address memoranda: London (Hyde Park Gardens) and New York (Murray Hill, 104 E. 40th, Fifth Ave / Plaza). No location. |
-| Jan 5 – Jan 11 | **Montreal** | Canada | Arrives by train (Jan 5); visits the Ross/Redpath Museum (McGill). Settled in Montreal Jan 9–11. |
-| Jan 12 – Feb 13 | **New York City** | USA | Departs Montreal Jan 12. Intense social/professional round: Rockefeller Institute, J. P. Morgan, Otto Kahn, Havemeyer, Hewitt, the Colony Club, Mrs Pembroke Jones, Lanier, Flexner. **Feb 7:** day trip to New Haven (arr. 10.02, leave 4.09). |
-| Feb 14 – Feb 15 | **Mount Kisco, NY** | USA | Weekend at Mount Kisco with Eugene Meyer. (Mary noted at Philadelphia.) |
-| Feb 16 – Feb 19 | **New York City** | USA | Back in NY: Mrs Lanier, Mrs Sloane, Havemeyer. |
-| Feb 20 – Feb 23 | **Detroit, MI** | USA | Train to Detroit (Feb 20); Feb 21–23 with **Charles Lang Freer** (the Freer collection). |
-| Feb 24 – Feb 27 | **Northampton, MA** | USA | Appointments, then Northampton (Smith College town). |
-| Feb 28 – Mar 7 | **Baltimore, MD** | USA | To Baltimore Mar 1 (Agnes); Jacobs, Cary, "Thomas" (M. Carey Thomas), Miss Dawson. |
-| Mar 8 – Mar 14 | **Washington, DC** | USA | Staying with **Uncle Henry Adams**; Jusserand, Henry White, Mrs Chanler, Senator Lodge. Mar 13 Congressional Library; Mar 14 National Museum. |
-| Mar 15 – Mar 23 | **Bryn Mawr / Philadelphia, PA** | USA | Bryn Mawr through Mar 20 (Widener collection); Philadelphia society (Longue Vue, Lanier) Mar 21–23. |
-| Mar 24 – Mar 27 | **New York City** | USA | Final NY days: Kahn (8 East 68 St), Rockefeller, Vanderbilt, Hewitt, Bryce. Preparing to sail. |
-| Mar 28 – Apr 3 | **RMS *Olympic*** (North Atlantic) | at sea | Sailed Mar 28 on the *Olympic*; six days of shipboard lunches/dinners. Landed 11 p.m. Apr 3. |
-| Apr 4 – Apr 11 | **Paris** | France | Paris 5.30 a.m. Apr 4 (Schlumberger, Seligmann). Louvre/Écouen, Goloubew, S. Reinach, Royall Tyler; Apr 10 Maisons-Laffitte; Apr 11 Mrs Lodge (55 Ave Marceau). |
-| Apr 12 – Apr 16 | **Saint-Jean-Cap-Ferrat (Villa Sylvia)** | France | At Ralph Curtis's Villa Sylvia on the Riviera; day trips to Grasse and Monaco (with Lady Harbeck). |
-| Apr 17 – Jun 20 | **Settignano — Villa I Tatti (Florence)** | Italy | Home. Long settled period; Florentine circle: Placci, Mrs (Janet) Ross, Eugénie Strong, Countess Serristori, Lubbock, Hapgood, Sambon, Prof. T. W. Arnold, the Harrachs; dinners at Fiesole and at the Serristori. (Several May spreads blank — presumed at home.) |
-| Jun 21 – Jun 23 | **Emilia tour → Cremona / Piacenza** | Italy | Jun 21 leave via Boscolungo, sleep Modena; Jun 22 art tour (Torrechiara, Castell'Arquato, Cortemaggiore) to Cremona (Hotel Roma); Jun 23 Cremona, Piacenza. |
-| Jun 24 – Jul 1 | **Paris** | France | Transition to Paris (Jun 24–27, appointments with Mme de Cossé, Mrs Vanderbilt, Edith); Jun 28 Bassiano lunch, Reinach; Jun 29 Cercle de l'Union; through Jul 1. *(Jun 24–27 travel routing not stated — lower confidence.)* |
+## Atlantic crossing & France (late March – April)
 
----
+- **Mar 28 – Apr 3 — At sea aboard RMS Olympic.** Sailed from New York 10 a.m. Mar 28; landed evening Apr 3.
+- **Apr 4–11 — Paris, France.** Schlumberger, Seligmann, Royall Tyler, Reinach, Golubew; excursions to Ecouen and Maisons-Laffitte; Mrs. Lodge (55 Ave. Marceau).
+- **Apr 12–15 — Villa Sylvia, Saint-Jean-Cap-Ferrat (Riviera), France.** Ralph Curtis's villa; excursions to Grasse and Monaco.
 
-## July – December 1914
+## Florence — spring/summer residence (mid-April – June)
 
-| Dates | Place | Country | Notes |
-|---|---|---|---|
-| Jul 2 – Jul 13 | **Paris** | France | Mme de Bryode (5 Rue Montalembert), Henry Adams, Chavannes, Mme de Ludre, Royall Tyler (Quai de Bourbon), Durrieu, Mrs Cameron, 74 Ave Malakoff. |
-| Jul 14 – Jul 25 | **London** | UK | Crossed to London. Mayfair social whirl: Dover St, Brook St, Grosvenor Sq, Kensington Palace, Mary Crawshay, Mrs Otto Kahn, Mrs Astor, Lady Ripon, Lady Lewis, the Asquiths, 17 Hyde Park Gate. |
-| Jul 26 – Jul 29 | **Esher / Oxford** | UK | Jul 26 Mrs Hunter lunch (George Moore, Ronald Storrs, Nancy Cunard); Jul 27 to **Esher** (dine & sleep with Cook); Jul 28–29 Oxford / Headington (Waterhouse). |
-| Jul 30 – early Nov | **Ford Place, near Arundel (Sussex)** | UK | His base for the WWI-outbreak autumn. Constant local life and excursions: Chichester, Bosham, Amberley, Arundel Park, Goodwood, Shoreham, Lewes, Brighton. Regular companions: Geoffrey Scott, Logan Pearsall Smith, the Zangwills, Walter Raleigh, Robert Bridges, Sidney Webb, Adrian Stephen & Karin (who become engaged), Desmond McCarthy. Much wartime reading (Pan-Germanism, Bülow's *Imperial Germany*, Yule's *Marco Polo*). |
-| (within above) Aug 20 | Buckhurst (the Bensons) | UK | Overnight from Ford. |
-| (within above) Sep 8–15 | London / 25 Grosvenor Place | UK | Trips up to town (Duveen, Lady Cunard; **Henry James** to lunch Sep 15) interleaved with Ford. |
-| Oct 6 – Oct 9 | **Wimborne / Salisbury Plain** | UK | Excursion with Logan & Mrs Wimborne to Stapleton House, Blandford (Dorset); Oct 8 Stonehenge, Salisbury, Romsey; back to Ford. |
-| Oct 18 – Oct 25 | **London** | UK | Town stays: Eugénie Strong (91 Lancaster Gate), C. Phillips, Mrs Astor, Walter Berry (156 Strand), Lady Lewis; back to Ford Oct 25 (tea with Sir Hubert Parry). |
-| Oct 26 | Brighton / Lewes | UK | With Zangwill to Kropotkin's at Brighton; tea with Warren at Lewes. |
-| Oct 31 – Nov 6 | **London** | UK | Lady Cunard, Lady Beresford, Covent Garden box, old Bond Street; Nov 6 6.05 from Waterloo. |
-| Nov 7 – Nov 8 | Richmond / Hampton Court | UK | Lunch with Sybil at Hampton Court; Otto, Mary Crawshay, Mrs Astor. |
-| Nov 9 – Nov 10 | **Folkestone → Dieppe** (Channel crossing) | UK→France | Motored to Folkestone Nov 9; crossed to Dieppe Nov 10 (Grand Hotel). |
-| Nov 11 – Nov 22 | **Paris** | France | Nov 11 Dieppe → Rouen (Hotel de la Poste) → Paris (53 Rue de Varenne). Mrs Lucy, Ralph Curtis, Mme de Cossé, Schlumberger, Mme de Ludre, the Blisses, Seligmann, S. Reinach, Comtesse Murat, Duchesse de Clermont-Tonnerre, V. Bérard. |
-| Nov 23 – Nov 26 | **Motor tour: Burgundy & Rhône** | France | Nov 23 leave Paris 10 a.m. via Fontainebleau to Auxerre; Nov 24 Vézelay, Avallon, Autun, Chagny, Mâcon; Nov 25 Mâcon → Lyon; Nov 26 Lyon, Valence, Avignon (Palais des Papes, the Rocher by moonlight). |
-| Nov 27 – Nov 30 | **Riviera → into Italy** | France→Italy | Nov 27 Aix, Costabella; Nov 28 St-Raphaël, **Nice** (Hotel Cécil); Nov 29 Villa Sylvia, cross into Italy, San Remo (Hotel Royal); Nov 30 Alassio, Genoa (Hotel Miramare). |
-| Dec 1 – Dec 3 | Genoa → Viareggio → Pisa | Italy | Dec 1 Genoa (Laura Gropallo, Guido Cagnola); Dec 2 Viareggio (Hotel Royal); Dec 3 Pisa (Campo Santo, Cathedral), then home. |
-| Dec 3 – Jan 1 | **Settignano — Villa I Tatti (Florence)** | Italy | Home for the rest of the year. Geoffrey Scott & Cecil, Mrs Ross, Guido Cagnola, Placci, Salvemini, Lionello Venturi, Loeser, O. Gutekunst, Maraini, the Gravinas, Severini; study of Vivarini and Crivelli. |
+- **Apr 16 – Jun 20 — Florence (Villa I Tatti, Settignano), Italy.** Long settled period: scholarly work and a steady stream of visitors — Placci, Hapgood, the Strongs, Mrs. Janet Ross, Lubbock, Countess Serristori, the Harrachs, Mme. de Cosse & Schlumberger (who arrive in May), Bruce Richmond, Lionello Venturi, McClellan. (Diary largely blank early-mid May, but the recurring local circle confirms continuous residence.)
+
+## Northern-Italy motor tour (late June)
+
+- **Jun 21 — Depart I Tatti** via Boscolungo (Apennine pass), sleeping at **Modena**.
+- **Jun 22 — Torrechiara, Borgo San Donnino (Fidenza), Castell'Arquato, Cortemaggiore, to Cremona** (Hotel Roma).
+- **Jun 23 — Cremona, Piacenza.**
+
+## Paris (late June – mid-July)
+
+- **c. Jun 24 – Jul 7 — Paris, France.** Mme. de Cosse, Bing, Mrs. Vanderbilt, Bassiano, Reinach, Cercle de l'Union, Henry Adams, Royall Tyler (21 Quai de Bourbon), Mme. de Ludre, Mrs. Cameron, the Blisses.
+
+## England — summer residence (mid-July – November)
+
+- **Jul 14 – c. Jul 24 — London, United Kingdom.** Intense social season: Dover St., Grosvenor Sq., Lady Ripon, Lady Cunard, Mrs. Astor, the Asquiths, Mary Crawshay, Mrs. Otto Kahn, opera, G. Moore, Nancy Cunard; day trips to Esher and Oxford/Headington.
+- **c. Jul 25 – early Nov — Ford Place, near Arundel, West Sussex (home base).** Settled summer/autumn residence: reading, writing, boating and rides around the Arun valley; constant guests — Geoffrey Scott, the Zangwills, Walter Raleigh, Duncan Grant, Adrian Stephen (who becomes engaged to Karin), Desmond McCarthy, Sidney Webb, Robert Bridges, Henry James. Frequent local outings to Chichester, Bosham, Amberley, Arundel Park, Goodwood, Shoreham. Excursions away from Ford:
+  - **early Sep & mid-Sep — London** (Duveen, Huntington, 25 Grosvenor Place with Edith; Henry James to lunch).
+  - **Oct 6–8 — Dorset/Wiltshire tour** with Logan: Stapleton House, Wimborne/Blandford, then Stonehenge, Salisbury, Romsey, back to Ford.
+  - **c. Oct 18–24 — London** (11 Upper Terrace, Hampstead; Eugenie Strong, Burlington Fine Arts, Walter Berry, Lady Lewis).
+  - **Oct 26 — Brighton & Lewes** (Kropotkin; Warren).
+  - **early Nov — London** (Lady Cunard, Cook at 17 Hyde Park Gate, Covent Garden).
+
+## Return to Italy via France (November – December)
+
+- **Nov 9 — Motor to Folkestone; Nov 10 — cross to Dieppe** (Grand Hotel).
+- **Nov 11 — Dieppe → Rouen (Hotel de la Poste) → Paris, 7 p.m.** (53 Rue de Varenne).
+- **Nov 11–22 — Paris, France.** Ralph Curtis, Mrs. Lucy, Seligmann, Reinach, the Blisses, Comtesse Murat, Duchesse de Clermont-Tonnerre, Mme. de Cosse, Edith Wharton.
+- **Nov 23 — Leave Paris 10 a.m., motor tour south:** Sens, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Cluny, **Macon** (Nov 24).
+- **Nov 25 — Macon → Lyon; Nov 26 — Lyon, Valence, Avignon** (Palais des Papes by moonlight).
+- **Nov 27 — Aix lunch; Nov 28 — St. Raphael, to Nice** (Hotel Cecil).
+- **Nov 29 — Lunch Villa Sylvia, cross into Italy:** San Remo (Hotel Royal); **Nov 30** Alassio, Genoa (Hotel Miramar).
+- **Dec 1–2 — Genoa** (Laura Gropallo, Guido Cagnola); then **Viareggio** (Hotel Royal).
+- **Dec 3 — Pisa** (Campo Santo & Cathedral), **arrive I Tatti 4:30 p.m.**
+
+## Florence — winter residence (December)
+
+- **Dec 3 – Dec 31 (into Jan 1, 1915) — Florence (Villa I Tatti), Italy.** Settled: connoisseurship work on the Vivarini and Crivelli; visitors Guido Cagnola, Placci, Salvemini, Lionello Venturi, Loeser, the Gravinas, Mrs. Ross, the Strongs; wide war-related reading (Henderson, Steed's *Hapsburg Monarchy*).
 
 ---
 
 ## Uncertainties & corrections
 
-**Place corrections made (garbled / contextual):**
-- **"Ross Museum" → Redpath Museum (McGill), Montreal** — BB was in Montreal those days; "Ross" likely the Ross-funded McGill building.
-- **"Olympic" (recurring across Mar 28 – Apr 3) → RMS *Olympic*** — a ship, not a place; marks the transatlantic crossing.
-- **"Ludre" (Apr 5) → Louvre (likely)** — garbled; fits the Paris art-circle context. ("Mme de Ludre" elsewhere is a real person and kept as-is.)
-- **"Villa Sylvia" → Saint-Jean-Cap-Ferrat** — Ralph Curtis's Riviera villa; confirmed by adjacent Grasse/Monaco.
-- **"Sington Palace" (Jul 16) → Kensington Palace.**
-- **"Bladford" (Oct 6) → Blandford, Dorset** (near Wimborne).
-- **"S. Donnino" (Jun 22) → Borgo San Donnino (Fidenza)**; **"Pargia" → Parma (likely)** on the Emilia route.
-- **"T. Tatti" (Dec 3–4) → I Tatti**, BB's villa at Settignano.
+**Place-name corrections applied**
+- "Ross Museum" (Jan 6) → likely the Redpath Museum, McGill, Montreal (BB is in Montreal these days). *Medium confidence.*
+- "Mount Kisko" → **Mount Kisco**, NY.
+- "Ecouen[?]" → **Ecouen** (chateau north of Paris).
+- "Maison Lafitte" → **Maisons-Laffitte** (near Paris).
+- "Villa Sylvia" → **Villa Sylvia, Saint-Jean-Cap-Ferrat** (Ralph Curtis's Riviera villa).
+- "S. Donnino" → **Borgo San Donnino (Fidenza)**; "Arquato" → **Castell'Arquato** (Jun 22 route).
+- "Folkstone" → **Folkestone**, Kent.
+- "Boham[?]" → **Bosham**, West Sussex.
+- "Lyons" → **Lyon**.
+- "Ford Place" → **Ford, near Arundel, West Sussex** (BB's rented summer house).
+- "Salzburg[?]" (Mar 28, aboard the Olympic) — treated as a personal name, **not** a place; BB was mid-Atlantic.
 
-**Genuinely unclear spreads / low confidence:**
-- **Jan–Jun s001** — endpaper address list only; no datable location.
-- **Jan–Jun s030–s032 (Apr 29 – May 10)** — blank pages; location assumed I Tatti by continuity, not stated.
-- **Jan–Jun s024 (Apr 5–8)** — "Ludre" reading uncertain; Paris base is secure, the specific Louvre reading is not.
-- **Jan–Jun s044 (Jun 24–27)** — the move from Italy to Paris is inferred from the shift in named contacts; exact travel route/dates not recorded. Lowest-confidence transition in the year.
-- **Jul–Dec s008 (Jul 26–29)** — split between Esher and Oxford/Headington; single primary place is approximate.
-- **Jul–Dec s017–s018, s027, s031** — alternating London/Ford day-by-day; assigned the dominant place per spread.
-
-**Note on the long settled periods:** Apr 17 – Jun 20 (I Tatti) and Jul 30 – early Nov (Ford Place) are inferred from recurring local names, resident companions, and absence of travel verbs; individual day lines listing only visitors are carried under the standing base.
+**Genuinely unclear spreads / readings**
+- **Jan-Jun s2 (Jan 5–6):** "Lexington 1.51 / Ross Museum." Could read as Lexington, Mass. (Boston area) rather than en route to Montreal. Placed under Montreal for sequence continuity; *medium confidence.*
+- **Jan-Jun s14 (Feb 24–27):** Northampton confirmed for Feb 26–27; the Feb 24–25 calls likely still New York or a return leg — *medium confidence.*
+- **Jan-Jun s29 (Apr 25–28):** "Sorrento[?]" appears amid a settled Florence period; treated as a misread name, not travel.
+- **Jan-Jun s43 (Jun 21):** "Pargia[?]" on the Boscolungo–Modena road is unresolved (possibly Pievepelago/Pavullo).
+- **Jan-Jun s44 (Jun 24–27):** Return to Paris inferred from context (Mme. de Cosse, Bing, Mrs. Vanderbilt) bridging the Italian tour and the documented early-July Paris stay; *medium confidence.*
+- **Jul-Dec s3 (Jul 8–13):** Blank; placed in Paris with the London crossing at spread end — *low confidence.*
+- **Jul-Dec s18 (Sep 17):** "Daenmark[?]" is a reading/book reference, not a journey.
+- **Jul-Dec s20:** Entries duplicate s19 (Sep 20–23) — a transcription overlap, same Ford Place residence.
+- **Jul-Dec s24 (Oct 6–8):** Dorset/Wilts touring places confirmed; "Melford Abbay[?]" unresolved (possibly Milton Abbey, Dorset).

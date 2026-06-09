@@ -6,7 +6,8 @@ side: left
 spread: 24
 page_type: entry
 location: Paris
-people: [Cossa[?], Schluenley[?], Dubo[?]]
+places: [Ecouen[?]]
+people: [Cosse, Schlumberger, Dubos]
 ---
 
 # BB_1914_Jan-Jun — page 47 (left)
@@ -18,15 +19,16 @@ people: [Cossa[?], Schluenley[?], Dubo[?]]
 *(printed: Palm Sunday.)*
 
 > Ludre[?]
-> Ecouren[?] with[?]
-> Cossa' & Schluenley[?]
+> Ecouen[?] with
+> Cosse[?] & Schlumberg[?]
 > Shield[?]
 
 ## April 6 — Monday
 
-> Dubo.
+> Dubos,
 > Ludre[?]
 
-**People:** Cossa[?], Schluenley[?], Dubo[?]  
+**Places:** Ecouen[?]  
+**People:** Cosse, Schlumberger, Dubos  
 
-**Transcriber's note:** Handwriting very hard to read; much bleed-through. Names uncertain.
+**Transcriber's note:** Heavy bleed-through in original; bleed-suppressed confirms the dark cursive lines as real. Names uncertain.

@@ -6,7 +6,7 @@ side: left
 spread: 28
 page_type: entry
 location: Paris
-places: [Princes Park[?]]
+places: [Princes Park, Salis[bury?]]
 people: [L. Vandervelde[?], g. Pownall[?]]
 ---
 
@@ -28,11 +28,10 @@ people: [L. Vandervelde[?], g. Pownall[?]]
 > with Mrs[?] to
 > Luddey[?] & lunch
 > with Ros[?]
-> Princes Park[?]
-> [illegible]
+> Princes Park
 > Crawford[?], Salis[?]
 
-**Places:** Princes Park[?]  
+**Places:** Princes Park, Salis[bury?]  
 **People:** L. Vandervelde[?], g. Pownall[?]  
 
-**Transcriber's note:** Pencil. Several lines faint and overwritten; lower portion difficult. Heavy mirror bleed-through ignored.
+**Transcriber's note:** Pencil. Several lines under Good Friday faint and overwritten; lower portion difficult. Heavy bleed-through ghosts in mid-page ignored (only dark on-page strokes transcribed).

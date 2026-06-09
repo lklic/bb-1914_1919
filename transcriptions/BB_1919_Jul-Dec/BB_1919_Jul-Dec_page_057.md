@@ -21,10 +21,10 @@ people: [Paolini, de Nicola]
 
 *(printed: 8h. 40m., aft.)*
 
-> dus de Thierat[?]
+> dus de Thievres[?]
 > Paolini
 > de Nicola
 
 **People:** Paolini, de Nicola  
 
-**Transcriber's note:** Ink writing straddles the Oct 22/23 area. 'dus de Thierat' uncertain (possibly Duc de Thievres[?]). Heavy mirror-reversed bleed-through (SPELLO, FOLIGNO, AREZZO, ROME) ignored. de Nicola likely Giuseppe de Nicola, art scholar/superintendent in Florence.
+**Transcriber's note:** First ink line written above the Oct 23 header; assigned to Oct 23. 'dus de Thievres' uncertain. Heavy mirror-reversed bleed-through (SPELLO, FOLIGNO, AREZZO, ROME) appears in the original but is absent/faint in the bleed-suppressed image and is NOT transcribed. de Nicola likely Giacomo de Nicola, art scholar.

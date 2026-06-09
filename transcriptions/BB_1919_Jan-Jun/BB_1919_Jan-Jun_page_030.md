@@ -6,7 +6,7 @@ side: right
 spread: 15
 page_type: entry
 location: Paris
-places: [10 Rue d'Anjou]
+places: [10 Rue d'Anjou, La Rochefoucauld]
 people: [Isvolsky[?], Cochran, La Rochefoucauld]
 ---
 
@@ -24,7 +24,7 @@ people: [Isvolsky[?], Cochran, La Rochefoucauld]
 > Rue d'Anjou
 > La Rochefoucauld)
 
-**Places:** 10 Rue d'Anjou  
+**Places:** 10 Rue d'Anjou, La Rochefoucauld  
 **People:** Isvolsky[?], Cochran, La Rochefoucauld  
 
-**Transcriber's note:** Feb 26 has a name Isvolsky[?]. Feb 27: appointment 12.45 with Cochran at 10 Rue d'Anjou; also La Rochefoucauld. Address suggests Paris. Faint show-through ignored.
+**Transcriber's note:** Feb 26 has a single name, Isvolsky[?] (floats just above the Feb 27 header). Feb 27: appointment 12.45 with Cochran at 10 Rue d'Anjou; also La Rochefoucauld). Heavy faint bleed-through in original erased in clean version and ignored.

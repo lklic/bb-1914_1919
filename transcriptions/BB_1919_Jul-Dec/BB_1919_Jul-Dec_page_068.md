@@ -6,7 +6,7 @@ side: right
 spread: 34
 page_type: entry
 location: Settignano (Florence)
-people: [Geoffrey]
+people: [Gravina, Geoffrey]
 ---
 
 # BB_1919_Jul-Dec — page 68 (right)
@@ -23,6 +23,6 @@ people: [Geoffrey]
 
 > Geoffrey
 
-**People:** Geoffrey  
+**People:** Gravina, Geoffrey  
 
-**Transcriber's note:** 'Gravina' written in ink (could be a surname or place). Faint pencil lines above and below are mostly mirror bleed-through and not transcribed.
+**Transcriber's note:** 'Gravina' (dark ink) belongs to the Nov 13 entry though it sits just above the Nov 14 header. Faint pencil lines under the Nov 13 header are bleed-through (only scattered specks survive in the bleed-suppressed image) and not transcribed.

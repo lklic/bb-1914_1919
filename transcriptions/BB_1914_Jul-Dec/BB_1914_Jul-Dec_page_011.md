@@ -7,7 +7,7 @@ spread: 6
 page_type: entry
 location: London
 places: [37 Dover Street]
-people: [Asquiths, Mrs. Astor]
+people: [Asquiths, Mrs. Astor[?], Eugenie[?]]
 ---
 
 # BB_1914_Jul-Dec — page 11 (left)
@@ -18,7 +18,7 @@ people: [Asquiths, Mrs. Astor]
 
 > Asquiths[?]
 > 6.30 Rivi[?]
-> 8 Bywater[?]
+> 8  Bywater[?]
 
 ## July 23 — Thursday
 
@@ -29,6 +29,6 @@ people: [Asquiths, Mrs. Astor]
 > 7.45 Mrs. Astor[?]
 
 **Places:** 37 Dover Street  
-**People:** Asquiths, Mrs. Astor  
+**People:** Asquiths, Mrs. Astor[?], Eugenie[?]  
 
-**Transcriber's note:** London engagements. First names and surnames uncertain due to faint pencil and heavy bleed-through. 'Rivi' and 'Bywater' uncertain. '1.30 Eugenie' and '7.45 Mrs. Astor' best guesses.
+**Transcriber's note:** Heavy mirror/forward bleed-through ghosts across both halves, ignored. Dark ink confirmed in bleed-suppressed version: appointment notes with times. 'Rivi' and 'Bywater' uncertain.

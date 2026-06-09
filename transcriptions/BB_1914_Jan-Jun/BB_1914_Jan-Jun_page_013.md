@@ -18,14 +18,13 @@ people: [Chapman, Frelinghuysen[?], Kahn[?]]
 *(printed: 3rd Sunday after Epiphany.)*
 
 > 1 Chapman 325
-> N. 8
-> 5  B.
+> 5  B.  N. 8 2 5
 > Dine Frelinghuysen[?]
 > Dinner B
 
 ## January 28 — Wednesday
 
-*(printed: C h. 54m, morn.)*
+*(printed: C h. 54m. morn.)*
 
 > 1.30 Winterop[?]
 > 1 a Curling[?]

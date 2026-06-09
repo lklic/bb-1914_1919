@@ -6,7 +6,7 @@ side: right
 spread: 37
 page_type: entry
 location: Granada
-places: [Alhambra, Granada, Capella Real, Cartuja]
+places: [Alhambra, Capella Real, Cartuja, GRANADA]
 people: [duquesa de S. Pedro[?]]
 ---
 
@@ -31,7 +31,7 @@ people: [duquesa de S. Pedro[?]]
 > duqsa[?] de
 > S. Pedro[?]
 
-**Places:** Alhambra, Granada, Capella Real, Cartuja  
+**Places:** Alhambra, Capella Real, Cartuja, GRANADA  
 **People:** duquesa de S. Pedro[?]  
 
-**Transcriber's note:** Capella Real (Capilla Real, Royal Chapel) and Cartuja (the Charterhouse/Cartuja monastery) in Granada. GRANADA in block capitals May 26. Bottom lines uncertain, appear to read 'duqsa de / S. Pedro' (duchess of San Pedro?).
+**Transcriber's note:** Capella Real (Capilla Real, Royal Chapel) and Cartuja (Charterhouse) of Granada. GRANADA in block capitals under May 26. Bottom lines uncertain, appear to read 'duqsa de / S. Pedro' (duquesa de San Pedro?). Printed fore-edge number 4185. Faint bleed-through ghosts ignored.

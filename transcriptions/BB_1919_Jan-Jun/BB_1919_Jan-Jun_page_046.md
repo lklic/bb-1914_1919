@@ -18,7 +18,7 @@ people: [Frank Robertson, Bismarck]
 
 *(printed: 4th Sunday in Lent.)*
 
-> lunch[?] e Frank
+> lunch w Frank
 > Robertson's
 > Bismarck.
 
@@ -32,4 +32,4 @@ people: [Frank Robertson, Bismarck]
 **Places:** Abbaye de Th[?]rouet[?]  
 **People:** Frank Robertson, Bismarck  
 
-**Transcriber's note:** March 30: first word uncertain ('lunch'?), then 'e Frank Robertson's Bismarck.' March 31: 'Abbaye de Th-rouet[?]' uncertain, possibly Abbaye de Thouars/Theronet. Heavy bleed-through ignored.
+**Transcriber's note:** March 30: 'lunch w Frank Robertson's Bismarck.' (readings somewhat uncertain). March 31: 'Abbaye de Th-' continuing 'rouet'(?) on next line; place name uncertain. Bleed-through ignored.

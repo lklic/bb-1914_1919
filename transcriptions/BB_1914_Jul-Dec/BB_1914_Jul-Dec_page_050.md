@@ -5,17 +5,18 @@ page: 50
 side: right
 spread: 25
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford, Chichester[?], Goodwood House]
+people: [Mary]
 ---
 
 # BB_1914_Jul-Dec — page 50 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## October 12 — Monday
 
-*(printed: moon 9h. 33m., morn.)*
+*(printed: 9h. 33m., morn.)*
 
 > Ford
 > Finished Hirst's[?]
@@ -26,9 +27,10 @@ places: [Ford, Chichester[?], Goodwood House]
 ## October 13 — Tuesday
 
 > Ford
-> Mary goes to town[?]
+> Mary goes to town
 > [illegible]
 
 **Places:** Ford, Chichester[?], Goodwood House  
+**People:** Mary  
 
-**Transcriber's note:** Ink over faint pencil show-through. 'Finished Hirst's' and 'Chichester' uncertain. Last line under Oct 13 illegible pencil. Mary = Mary Berenson.
+**Transcriber's note:** Ink over faint pencil show-through, suppressed in clean image. 'Finished Hirst's' and 'Chichester' uncertain. Last line under Oct 13 illegible. Mary = Mary Berenson.

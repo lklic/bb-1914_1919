@@ -18,19 +18,17 @@ people: [Hernandez]
 
 *(printed: Academy opens.)*
 
-> Cathedral & worth[?]
+> Cathedral & group[?]
 > of publ. buildings
-> visited[?]
-> [illegible]
+> near it
 
 ## May 6 — Tuesday
 
-*(printed: 11h. 34m., aft. / King's Accession.)*
+*(printed: D 11h. 34m., aft. King's Accession.)*
 
-> S. Anna[?] }
-> S. Maria } with
-> Pork[?] } M.
-> } Tarkad[?]
+> S. Anna[?] } with
+> S. Maria } M.
+> Pork[?] } Tarkad[?]
 > Collection Gra-
 > se[?] Hernandez
 > Padalbey[?]
@@ -38,4 +36,4 @@ people: [Hernandez]
 **Places:** Cathedral, S. Anna, S. Maria  
 **People:** Hernandez  
 
-**Transcriber's note:** Still in Barcelona. May 5: cathedral and public buildings visited; heavily obscured by pencil scrawl and bleed-through. May 6: churches (S. Anna, S. Maria) with someone ("M."?), and Collection / Coleccion Hernandez. Several words very uncertain; some lines bracketed together.
+**Transcriber's note:** Still in Barcelona. May 5: cathedral & group of public buildings near it; heavy pencil scrawl/bleed-through below, suppressed image confirms only the three dark ink lines. May 6: churches (S. Anna, S. Maria), Collection / Coleccion Hernandez. Several words very uncertain; lines bracketed together.

@@ -5,14 +5,14 @@ page: 35
 side: left
 spread: 18
 page_type: entry
-location: Ford Place / London
-places: [Danmark[?]]
-people: [Ford, Geoffrey Scott, Geoffrey]
+location: Ford
+places: [Daenmark[?]]
+people: [Ford, Geoffrey Scott]
 ---
 
 # BB_1914_Jul-Dec — page 35 (left)
 
-*Location: **Ford Place / London***
+*Location: **Ford***
 
 ## September 16 — Wednesday
 
@@ -23,10 +23,10 @@ people: [Ford, Geoffrey Scott, Geoffrey]
 
 > Ford
 > Geoffrey
-> Goes en[?] Two Visit[?]
-> to Danmark[?]
+> Goes & Two Visit[?]
+> to Daenmark[?]
 
-**Places:** Danmark[?]  
-**People:** Ford, Geoffrey Scott, Geoffrey  
+**Places:** Daenmark[?]  
+**People:** Ford, Geoffrey Scott  
 
-**Transcriber's note:** Repeated names Ford and Geoffrey (Geoffrey Scott). Last two lines of Sept 17 uncertain, possibly 'Goes ... Two Visit to Danmark'.
+**Transcriber's note:** Heavy bleed-through across both days in original; only sharp dark ink confirmed in bleed-suppressed image transcribed. Last two lines of Sept 17 hard to read.

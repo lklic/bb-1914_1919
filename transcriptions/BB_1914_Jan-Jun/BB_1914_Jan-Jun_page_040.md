@@ -18,7 +18,7 @@ people: [Elsie, Chapman, Mrs. Lanier, Battle[?]]
 
 *(printed: 4th Sunday in Lent.)*
 
-> Lunch Elsie 1.30
+> lunch Elsie 1.30
 > Tea Longue Vue
 > Dine Battle[?]
 
@@ -30,8 +30,9 @@ people: [Elsie, Chapman, Mrs. Lanier, Battle[?]]
 > 325 N. 82 d[?]
 > 3.15 Mrs. Lanier
 > Dine Battle[?]
+> c
 
 **Places:** Longue Vue, 325 N. 82d[?]  
 **People:** Elsie, Chapman, Mrs. Lanier, Battle[?]  
 
-**Transcriber's note:** March 22: lunch with Elsie 1.30, tea at Longue Vue, dine with Battle[?]. March 23: '1 Chapman', address '325 N. 82d[?]', 3.15 Mrs. Lanier, dine Battle[?]. A small printed 'c' in lower right margin. Heavy mirror bleed-through ignored.
+**Transcriber's note:** March 22: lunch with Elsie 1.30, tea at Longue Vue, dine Battle[?]. March 23: '1 Chapman', address '325 N. 82d[?]', 3.15 Mrs. Lanier, dine Battle[?]. Small 'c' in lower right margin. Heavy bleed-through ignored; handwriting confirmed by bleed-suppressed image.

@@ -5,13 +5,13 @@ page: 41
 side: left
 spread: 21
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 people: [Ford, Sabia Fairchild, Geoffrey Scott]
 ---
 
 # BB_1914_Jul-Dec — page 41 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 24 — Thursday
 

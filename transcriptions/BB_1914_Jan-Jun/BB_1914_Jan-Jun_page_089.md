@@ -24,12 +24,12 @@ people: [Bassiano, Reinach, Lisa[?]]
 
 ## June 29 — Monday
 
-> 11 Lisa[?] x[?]
-> lunch[?]
+> 11 Lisa[?] x
+> [illegible]
 > Cercle de l'Union[?]
 > 8.15 Ch. Audi[?]
 
 **Places:** Cercle de l'Union[?]  
 **People:** Bassiano, Reinach, Lisa[?]  
 
-**Transcriber's note:** Pencil and ink. June 28 names fairly clear (Bassiano, Reinach); middle word uncertain. June 29 lower lines faint and partly obscured by show-through; 'Cercle de l'Union' and an evening 8.15 appointment uncertain.
+**Transcriber's note:** Pencil/ink. June 28 names fairly clear (Bassiano, Reinach); middle word uncertain. June 29 lower lines faint and partly obscured; 'Cercle de l'Union' and evening 8.15 appointment uncertain. Faint bleed-through in original washed out in suppressed image.

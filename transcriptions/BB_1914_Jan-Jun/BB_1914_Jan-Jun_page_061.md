@@ -5,12 +5,12 @@ page: 61
 side: left
 spread: 31
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 ---
 
 # BB_1914_Jan-Jun — page 61 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 3 — Sunday
 

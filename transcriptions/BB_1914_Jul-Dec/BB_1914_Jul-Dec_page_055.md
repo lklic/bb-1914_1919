@@ -6,8 +6,8 @@ side: left
 spread: 28
 page_type: entry
 location: London
-places: [London, Strand, 46 Cumberland Place]
-people: [C. Phillips, Mrs. Astor, Cassel, Leonie, Walter Berry, Lady Lewis]
+places: [46 Cumberland Place, 156 Strand]
+people: [C. Phillips, Mrs. Astor, Cassel, Leonie, Hare-Naylor, Walter Berry, Sybel, Lady Lewis]
 ---
 
 # BB_1914_Jul-Dec — page 55 (left)
@@ -24,14 +24,14 @@ people: [C. Phillips, Mrs. Astor, Cassel, Leonie, Walter Berry, Lady Lewis]
 
 ## October 23 — Friday
 
-> lunch with Place[?] -
-> Mayes[?] & Walter Berry
+> lunch with Hare[?] -
+> Naylor[?] & Walter Berry
 > Sybel[?] 156 Strand
 > [illegible]
 > Lady Lewis
-> Selina[?] E. Phil[?]
+> dine E. Phil[?]
 
-**Places:** London, Strand, 46 Cumberland Place  
-**People:** C. Phillips, Mrs. Astor, Cassel, Leonie, Walter Berry, Lady Lewis  
+**Places:** 46 Cumberland Place, 156 Strand  
+**People:** C. Phillips, Mrs. Astor, Cassel, Leonie, Hare-Naylor, Walter Berry, Sybel, Lady Lewis  
 
-**Transcriber's note:** Pencil entries, heavily affected by bleed-through. Many names uncertain. October 22: lunch with C. Phillips, Mrs. Astor, Cassel; 5.30 appointment with Leonie at 46 Cumberland Place; '"Deva" Watts'. October 23: lunch, Walter Berry, an address '156 Strand', Lady Lewis.
+**Transcriber's note:** Pencil entries with heavy bluish bleed-through; only the dark strokes confirmed in the bleed-suppressed image transcribed. Many names uncertain. Oct 22: lunch C. Phillips, Mrs. Astor, Cassel; 5.30 Leonie at 46 Cumberland Place; '"Deva" Watts'. Oct 23: lunch with Hare-Naylor[?] & Walter Berry; an address 156 Strand; Lady Lewis.

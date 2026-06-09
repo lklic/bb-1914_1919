@@ -5,13 +5,13 @@ page: 40
 side: right
 spread: 20
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford]
 ---
 
 # BB_1914_Jul-Dec — page 40 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 22 — Tuesday
 
@@ -26,4 +26,4 @@ places: [Ford]
 
 **Places:** Ford  
 
-**Transcriber's note:** At Ford. Reading Bulow's 'Imperial Germany'. Wrote to H.D. (probably Hannah/Mary's circle).
+**Transcriber's note:** Handwriting confirmed in bleed-suppressed image. 'Ford' recurs as a header. Reading Bulow's 'Imperial Germany' (Bernhard von Bulow). 'Wrote to H. D.' - initials uncertain but clear ink.

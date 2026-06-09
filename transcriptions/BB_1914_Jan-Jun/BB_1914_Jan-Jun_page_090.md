@@ -6,7 +6,7 @@ side: right
 spread: 45
 page_type: entry
 location: Paris
-people: [Walter, Charles[?], Bliss, Hewitt[?]]
+people: [Walter, Aymer[?], Charles[?], Bliss]
 ---
 
 # BB_1914_Jan-Jun — page 90 (right)
@@ -15,26 +15,25 @@ people: [Walter, Charles[?], Bliss, Hewitt[?]]
 
 ## June 30 — Tuesday
 
-*(printed: D 7h. 25m., aft.)*
+*(printed: 7h. 25m., aft.)*
 
-> 12.30 Feby Jam[?] 5
-> Ria[illegible]
-> 3 Mrs[?] Edw[?] her
-> do Derbor[?]
-> 6 [illegible] at Pillar[?]
+> 12.30 Filippo Tarug[?] 5
+> [illegible]
+> 3 with[?] Edgehill[?]
+> do Derbot[?]
+> 6 Aymer[?] at Pillar[?]
 > Walter
 
 ## July 1 — Wednesday
 
-*(printed: 4th Sunday after Trinity. [printed, partly faded])*
+*(printed: 4th Sunday after Trinity. [printed, faded])*
 
 > 12.30 Cosen[?] F.[?]
 > Charles[?]
-> [illegible] alb[?] (Aix[?])
-> 5 Bliss 4 ave: Hen[?]
-> Moins[?], [illegible], Sloan[?]
-> Hewitt[?] [illegible]
+> [illegible] (Aix[?])
+> 5 Bliss 4 ave: Harw[?]
+> Massey[?] [illegible]
 
-**People:** Walter, Charles[?], Bliss, Hewitt[?]  
+**People:** Walter, Aymer[?], Charles[?], Bliss  
 
-**Transcriber's note:** Heavily overwritten pencil with strong show-through and blue ghosting; many words uncertain or illegible. Times (12.30, 3, 6, 5) legible. Names tentative: Walter clear; Bliss, Charles, Hewitt uncertain.
+**Transcriber's note:** Heavily overwritten pencil with strong blue ghosting/bleed-through across both days (a printed '4th Sunday after Trinity' ghosts under July 1). Times (12.30, 3, 6, 5) legible; many names uncertain. Walter clear.

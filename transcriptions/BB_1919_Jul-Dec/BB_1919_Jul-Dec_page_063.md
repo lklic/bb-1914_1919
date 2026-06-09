@@ -6,7 +6,7 @@ side: left
 spread: 32
 page_type: entry
 location: Settignano (Florence)
-people: [Bussy[?], Anrep[?], Coutinis[?]]
+people: [Bussy, Coutinis[?]]
 ---
 
 # BB_1919_Jul-Dec — page 63 (left)
@@ -15,16 +15,15 @@ people: [Bussy[?], Anrep[?], Coutinis[?]]
 
 ## November 3 — Monday
 
-> BUSSYs[?] back[?]
-> Bicker II[?]
+> BUSSYs back[?]
+> Bidier II[?]
 
 ## November 4 — Tuesday
 
 *(printed: 20th Sunday after Trinity)*
 
-> Anrep[?]
 > Coutinis[?]
 
-**People:** Bussy[?], Anrep[?], Coutinis[?]  
+**People:** Bussy, Coutinis[?]  
 
-**Transcriber's note:** Pencil and ink mixed; heavy bleed-through from facing pages. 'BUSSYs back' and 'Bicker II' uncertain. 'Coutinis' written large in ink at bottom of Nov 4.
+**Transcriber's note:** Bold dark ink lines confirmed in bleed-suppressed image: 'BUSSYs back' (block caps) and 'Bidier II' on Nov 3; 'Coutinis' large at bottom of Nov 4. Faint cursive between/around (e.g. an 'Anrep'-like word on Nov 4) shows only as soft dotted bleed-through in the clean image and is omitted.

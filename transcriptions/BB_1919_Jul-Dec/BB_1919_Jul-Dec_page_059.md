@@ -6,7 +6,7 @@ side: left
 spread: 30
 page_type: entry
 location: Settignano (Florence)
-people: [Coletta Willij[?], Venturi]
+people: [Colette (Willy), Venturi]
 ---
 
 # BB_1919_Jul-Dec — page 59 (left)
@@ -15,16 +15,16 @@ people: [Coletta Willij[?], Venturi]
 
 ## October 26 — Sunday
 
-*(printed: 19th Sunday after Trinity)*
+*(printed: 19th Sunday after Trinity.)*
 
-> Coletta Willij[?]
-> "Vagabonda"
+> Coletta Willys[?]
+> "Vagabonde"
 
 ## October 27 — Monday
 
 > Venturi Storia
 > dell' Arte V
 
-**People:** Coletta Willij[?], Venturi  
+**People:** Colette (Willy), Venturi  
 
-**Transcriber's note:** Oct 26 line appears to be a name and the title "Vagabonda" (a play/novel). Oct 27 refers to Adolfo Venturi's Storia dell'Arte Italiana, volume V. Faint pencil/show-through at bottom not transcribed.
+**Transcriber's note:** Oct 26 appears to reference Colette (Willy) and the title 'La Vagabonde'. Oct 27 refers to Adolfo Venturi, Storia dell'Arte Italiana, volume V. Heavy bleed-through ghosts in the middle and bottom of the page were ignored; only dark ink confirmed in the suppressed image transcribed.

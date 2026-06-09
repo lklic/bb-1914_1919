@@ -5,17 +5,15 @@ page: 80
 side: right
 spread: 40
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Guido, Cecil, Geoffry Lees, Hamilton, O. Gutekunst, Naomi, Geoffrey]
 ---
 
 # BB_1914_Jul-Dec — page 80 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 11 — Friday
-
-*(printed: 3rd Sunday in Advent)*
 
 > Guido
 > Tea with Cecil[?]
@@ -30,4 +28,4 @@ people: [Guido, Cecil, Geoffry Lees, Hamilton, O. Gutekunst, Naomi, Geoffrey]
 
 **People:** Guido, Cecil, Geoffry Lees, Hamilton, O. Gutekunst, Naomi, Geoffrey  
 
-**Transcriber's note:** Pencil. 'Tea with Cecil & Geoffry Lees' and 'Hamilton' uncertain. 'Lunch with O. Gutekunst' uncertain; 'Gutekunst' (the dealer) is a plausible reading. Bleed-through ignored.
+**Transcriber's note:** Pencil. Faint '3rd Sunday in Advent' near Dec 11 header is bleed-through (forward/mirror ghost), not a real printed note for Friday - omitted. 'Tea with Cecil & Geoffry Lees' and 'Hamilton' uncertain; 'Lunch with O. Gutekunst' uncertain ('with' is interlinear). Bleed-through ignored.

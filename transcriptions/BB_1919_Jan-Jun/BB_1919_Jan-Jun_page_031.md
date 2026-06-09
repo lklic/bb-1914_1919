@@ -6,7 +6,7 @@ side: left
 spread: 16
 page_type: entry
 location: Paris
-people: [Dillon[?], Linda, Marignan[?]]
+people: [Sweeny, Dillon, Tarnowski, Linda]
 ---
 
 # BB_1919_Jan-Jun — page 31 (left)
@@ -15,17 +15,16 @@ people: [Dillon[?], Linda, Marignan[?]]
 
 ## February 28 — Friday
 
-> 1. Lucien[?], Dillon[?]
+> 1. Sweeny, Dillon[?]
 
 ## March 1 — Saturday
 
 *(printed: St. David's Day.)*
 
-> 1. Jenmbiah[?] 23
-> Rock Marignan[?]
+> 1. Tarnowski[?] 23
+> Rocca Marignan[?]
 > 5. Linda
-> de Rochefoucauld[?]
 
-**People:** Dillon[?], Linda, Marignan[?]  
+**People:** Sweeny, Dillon, Tarnowski, Linda  
 
-**Transcriber's note:** Pencil hand, faint. February 28 second name reading uncertain. March 1 entries hard to read; '1. Jenmbiah[?] 23' very uncertain; last line at bottom edge reads as 'de Rochefoucauld[?]'.
+**Transcriber's note:** Heavy soft bleed-through across both halves; only dark on-page strokes transcribed. The faint cursive line at the bottom edge (resembling 'de Rochefoucauld') is bleed-through (gone in suppressed image) and is NOT transcribed.

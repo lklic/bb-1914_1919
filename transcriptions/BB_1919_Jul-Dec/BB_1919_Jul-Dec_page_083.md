@@ -7,7 +7,7 @@ spread: 42
 page_type: entry
 location: Settignano (Florence)
 places: [London]
-people: [Lady Annabel, O'Neil[?], Tree]
+people: [Bédier, Lady Annabel, O' Neil, Tree]
 ---
 
 # BB_1919_Jul-Dec — page 83 (left)
@@ -16,9 +16,9 @@ people: [Lady Annabel, O'Neil[?], Tree]
 
 ## December 13 — Saturday
 
-> Bédier[?] IV
+> Bédier IV
 > Lady Annabel
-> O' Neil[?] > with
+> O' Neil > with[?]
 > to Tree
 
 ## December 14 — Sunday
@@ -28,6 +28,6 @@ people: [Lady Annabel, O'Neil[?], Tree]
 > To London
 
 **Places:** London  
-**People:** Lady Annabel, O'Neil[?], Tree  
+**People:** Bédier, Lady Annabel, O' Neil, Tree  
 
-**Transcriber's note:** Top word above Dec 13 header reads like 'Bédier IV' but uncertain. The Dec 13 hand lines run across into the space before the Dec 14 header. 'To London' written large at bottom. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** 'Bédier IV' written above the Dec 13 header. The Dec 13 hand lines run down into the space before the Dec 14 header. 'To London' written large at bottom. Heavy mirror-reversed bleed-through in lower half ignored.

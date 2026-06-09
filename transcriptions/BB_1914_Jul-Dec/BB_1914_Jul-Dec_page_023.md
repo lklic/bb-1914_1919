@@ -5,25 +5,25 @@ page: 23
 side: left
 spread: 12
 page_type: entry
-location: Buckhurst / Ford Place (Sussex)
+location: Ford
 people: [Ford]
 ---
 
 # BB_1914_Jul-Dec — page 23 (left)
 
-*Location: **Buckhurst / Ford Place (Sussex)***
+*Location: **Ford***
 
 ## August 23 — Sunday
 
-*(printed: 11th Sunday after Trinity)*
+*(printed: 11th Sunday after Trinity.)*
 
 > Ford boat[?]
 
 ## August 24 — Monday
 
 > Ford boat[?]
-> Tray[?] & Tovay[?]
+> Vico[?] & Továy[?]
 
 **People:** Ford  
 
-**Transcriber's note:** Pencil. Some faint mirror-reversed bleed-through ignored. 'Tray & Tovay' very uncertain. 'Ford boat' written both days.
+**Transcriber's note:** Pencil. Heavy soft bleed-through under both entries in original is suppressed in clean image and ignored. Second line of Aug 24 very uncertain. 'Ford boat' recurs each day.

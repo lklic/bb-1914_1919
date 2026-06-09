@@ -6,7 +6,8 @@ side: left
 spread: 12
 page_type: entry
 location: Paris
-people: [Seligman[?], Visconti, Larochefoucauld, Montpensier[?]]
+places: [Café de Paix[?], rue Montpensier[?]]
+people: [Seligmann[?], Visconti, Duboz[?], Larochefoucauld]
 ---
 
 # BB_1919_Jan-Jun — page 23 (left)
@@ -15,10 +16,10 @@ people: [Seligman[?], Visconti, Larochefoucauld, Montpensier[?]]
 
 ## February 12 — Wednesday
 
-> 12.30 Seligm[an]. Café de Paris[?]
+> 12.30 Seligm[ann] Café de Paix[?]
 > 1. Laurech[?], Savoll[?] off
-> Andreille[?], Visconti
-> 5 Ladies[?]
+> Andreuli[?], Visconti
+> 5 Ladies[?]?
 > &
 
 ## February 13 — Thursday
@@ -26,10 +27,11 @@ people: [Seligman[?], Visconti, Larochefoucauld, Montpensier[?]]
 > 11.15 Mom[?]
 > 1. Laurech[?] Duboz[?]
 > 2. Mlle La ross[?]
-> [illegible] Montpensier[?]
+> rue Montpensier[?]
 > 3 Anol[?]
 > 8 Larochefoucauld
 
-**People:** Seligman[?], Visconti, Larochefoucauld, Montpensier[?]  
+**Places:** Café de Paix[?], rue Montpensier[?]  
+**People:** Seligmann[?], Visconti, Duboz[?], Larochefoucauld  
 
-**Transcriber's note:** Pencil, hard to read. Times with appointments/people, likely Paris (Café de Paris, French names). Several uncertain readings.
+**Transcriber's note:** Pencil, hard to read. Soft bleed-through ghosts in original to right and lower margin are absent from the suppressed image and ignored. Several uncertain name readings; likely Paris (Café de Paix, French names).

@@ -36,4 +36,4 @@ people: [Tyler, Isvolsky, Rohan-Chabot, Hood, Morgan, Kerzinski[?], Frankfurter]
 **Places:** Tokio[?], Frankfurter  
 **People:** Tyler, Isvolsky, Rohan-Chabot, Hood, Morgan, Kerzinski[?], Frankfurter  
 
-**Transcriber's note:** Heavy bleed-through and mirror-reversed show-through across the page; ignored. Names partly uncertain. 'Frankfurter' likely refers to Felix Frankfurter (also appears as a name on the right page).
+**Transcriber's note:** Heavy bleed-through and mirror-reversed show-through across the page; ignored. Names partly uncertain. 'Frankfurter' likely refers to Felix Frankfurter (also appears on the right page).

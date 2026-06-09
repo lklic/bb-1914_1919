@@ -7,7 +7,7 @@ spread: 32
 page_type: entry
 location: London
 places: [Folkstone, Folkstone Pier, Dieppe[?], Grand Hotel]
-people: [Sybil, Mary, Ray, Bernard Goldul[?]]
+people: [Sybil, Mary, Ray, Bernard]
 ---
 
 # BB_1914_Jul-Dec — page 64 (right)
@@ -16,7 +16,7 @@ people: [Sybil, Mary, Ray, Bernard Goldul[?]]
 
 ## November 9 — Monday
 
-> Lou[?] Ouvren[?]
+> Louis[?] Quiren[?]
 > Sybil
 > Uncle Mary & Ray
 > motored down
@@ -25,7 +25,7 @@ people: [Sybil, Mary, Ray, Bernard Goldul[?]]
 
 ## November 10 — Tuesday
 
-*(printed: 11h. 37m., aft.)*
+*(printed: ( 11h. 37m., aft.)*
 
 > Bernard Goldul[?]
 > at Folkstone
@@ -34,6 +34,6 @@ people: [Sybil, Mary, Ray, Bernard Goldul[?]]
 > Grand Hotel
 
 **Places:** Folkstone, Folkstone Pier, Dieppe[?], Grand Hotel  
-**People:** Sybil, Mary, Ray, Bernard Goldul[?]  
+**People:** Sybil, Mary, Ray, Bernard  
 
-**Transcriber's note:** Motored down to Folkstone, then crossed by sea (Dieppe[?]) staying Grand Hotel. Some names uncertain; bleed-through present.
+**Transcriber's note:** Bleed-through present but suppressed image confirms real ink. Travel: motored to Folkstone, crossed by sea, stayed Grand Hotel. Some names uncertain.

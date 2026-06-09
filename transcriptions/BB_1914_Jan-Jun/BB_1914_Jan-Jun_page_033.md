@@ -6,7 +6,7 @@ side: left
 spread: 17
 page_type: entry
 location: Washington
-places: [Washington]
+places: [Washington, 1731 I St.]
 people: [Slater, Uncle H. Adams]
 ---
 
@@ -20,13 +20,13 @@ people: [Slater, Uncle H. Adams]
 
 > Washington
 > Slater 1731. I St.
-> Dine W. Wising[?]
+> Dine W. music[?]
 
 ## March 9 — Monday
 
 > Uncle H. Adams
 
-**Places:** Washington  
+**Places:** Washington, 1731 I St.  
 **People:** Slater, Uncle H. Adams  
 
-**Transcriber's note:** In Washington. March 8 lines uncertain; 'Slater 1731 I St.' appears to be an address; the dine line is hard to read.
+**Transcriber's note:** In Washington. Soft bleed-through across middle/lower page in original; ignored, only dark strokes transcribed. 'Slater 1731 I St.' appears to be an address; third line uncertain (possibly 'Dine W. music').

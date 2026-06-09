@@ -5,29 +5,26 @@ page: 17
 side: left
 spread: 9
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford]
 people: [Langwill[?], Geoffrey]
 ---
 
 # BB_1914_Jul-Dec — page 17 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## August 7 — Friday
 
-> Ford Place[?]
-> Ford[?]
-> [illegible]
-> [illegible]
+> Ford
 
 ## August 8 — Saturday
 
 > Ford
 > Tea with Langwill[?]
-> Geoffrey Lez[?]
+> Geoffrey Le[illegible]
 
 **Places:** Ford  
 **People:** Langwill[?], Geoffrey  
 
-**Transcriber's note:** Pencil, faint. He appears to be at Ford (Ford Place). 'Tea with Langwill' uncertain. 'Geoffrey' followed by an uncertain surname. Much show-through from other side ignored.
+**Transcriber's note:** Heavy soft cursive bleed-through in original; only dark on-page strokes confirmed in bleed-suppressed image transcribed. 'Ford' is his location.

@@ -29,4 +29,4 @@ places: [Granada, Seville]
 
 **Places:** Granada, Seville  
 
-**Transcriber's note:** Travelling from Granada to Seville on May 29, in Seville May 30. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** All handwriting in large block capitals. 'GRANADA TO SEVILLE' indicates travel on May 29; in Seville May 30. Faint bleed-through in original suppressed in clean image and ignored.

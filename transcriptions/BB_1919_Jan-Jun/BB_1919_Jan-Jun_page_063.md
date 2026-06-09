@@ -24,10 +24,10 @@ places: [Barcelona, Hotel Bristol, Cathedral]
 *(printed: 2nd Sunday after Easter.)*
 
 > Barcelona
-> Mus. Reume[?]
+> Museum[?]
 > Cathedral &
-> Archivos[?]
+> Archives
 
 **Places:** Barcelona, Hotel Bristol, Cathedral  
 
-**Transcriber's note:** He is in Barcelona. May 3: arrival at Hotel Bristol[?] at 8 p.m. May 4: museum, cathedral, and archives. Second hand line on May 4 uncertain ("Mus. Reume"?).
+**Transcriber's note:** He is in Barcelona. May 3: Hotel Bristol[?] at 8 p.m. May 4: museum, cathedral, and archives. Soft blue-grey bleed-through across the leaf; suppressed image confirms only the dark ink lines.

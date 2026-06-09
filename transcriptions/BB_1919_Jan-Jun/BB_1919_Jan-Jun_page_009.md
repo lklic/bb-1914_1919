@@ -7,7 +7,7 @@ spread: 5
 page_type: entry
 location: Paris
 places: [Boulogne[?]]
-people: [Linda, Egan, Rochefoucauld]
+people: [Golubz[?], Linda, Brunhes[?], Egan, Bliss[?], de Rochefoucauld]
 ---
 
 # BB_1919_Jan-Jun — page 9 (left)
@@ -18,18 +18,18 @@ people: [Linda, Egan, Rochefoucauld]
 
 > 1. Golubz[?]
 > 5 Linda
-> 8
+> g
 
 ## January 16 — Thursday
 
 *(printed: O 8h. 44m., morn.)*
 
-> Bruures[?], Boulogn[?]
-> 5-7 Mrs[?] [illegible] Egan.
-> Miss[?] B[illegible]
-> & Rochefoucauld
+> Brunhes[?], Boulogne[?]
+> 5-7 [illegible] Egan
+> [illegible] Bliss[?]
+> de Rochefoucauld
 
 **Places:** Boulogne[?]  
-**People:** Linda, Egan, Rochefoucauld  
+**People:** Golubz[?], Linda, Brunhes[?], Egan, Bliss[?], de Rochefoucauld  
 
-**Transcriber's note:** Pencil/ink hand. Heavy bleed-through from other side. 'Golubz' uncertain. The Jan 16 lines hard to read; 'Bruures, Boulogn' uncertain; names beside '5-7' very faint.
+**Transcriber's note:** Heavy bleed-through across the page; the dark ink entries listed are confirmed in the bleed-suppressed image. Near the 5-7 line several surnames overwrite each other and are partly illegible.

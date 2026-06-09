@@ -6,7 +6,7 @@ side: left
 spread: 33
 page_type: entry
 location: Barcelona
-places: [Vich]
+places: [VICH]
 people: [Murillo[?]]
 ---
 
@@ -17,17 +17,17 @@ people: [Murillo[?]]
 ## May 7 — Wednesday
 
 > Collection Whole[?]
-> & Plaudring[?]
+> & Plandura[?]
 > Murillo to lunch
 > Sanctuary
 
 ## May 8 — Thursday
 
-*(printed: Kind's Ascension)*
+*(printed: King's Ascension)*
 
 > VICH
 
-**Places:** Vich  
+**Places:** VICH  
 **People:** Murillo[?]  
 
-**Transcriber's note:** May 8 has a large block-capital VICH (Vic, Catalonia). May 7 hand uncertain; 'Murillo to lunch' may be a person. Heavy mirror-reversed bleed-through ignored.
+**Transcriber's note:** May 8 has a large block-capital VICH (Vic, Catalonia). May 7 hand uncertain; 'Murillo to lunch' may be a person/painting. Heavy mirror-reversed bleed-through present but ignored.

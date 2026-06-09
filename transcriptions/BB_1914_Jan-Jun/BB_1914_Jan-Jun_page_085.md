@@ -5,14 +5,14 @@ page: 85
 side: left
 spread: 43
 page_type: entry
-location: Cremona
+location: Modena
 places: [Boscolungo, Modena]
 people: [Miss Laud[?], Mrs. Story[?]]
 ---
 
 # BB_1914_Jan-Jun — page 85 (left)
 
-*Location: **Cremona***
+*Location: **Modena***
 
 ## June 20 — Saturday
 

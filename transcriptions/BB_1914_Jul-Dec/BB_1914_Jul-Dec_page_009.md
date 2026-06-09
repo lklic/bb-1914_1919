@@ -6,7 +6,7 @@ side: left
 spread: 5
 page_type: entry
 location: London
-places: [Rutland Gardens, St. Pancras]
+places: [Rutland Garden, St. Pancras]
 people: [Kahn, Lady Ripon, Shee]
 ---
 
@@ -26,11 +26,11 @@ people: [Kahn, Lady Ripon, Shee]
 
 > Ridgeway[?] th Shee[?]
 > Lady Ripon[?]
-> lunch[?] [illegible]
-> spe[?] [illegible] & R. Pancras[?]
+> [illegible]
+> [illegible] & R. Pancras[?]
 > 4.15 for Clarke[?]
 
-**Places:** Rutland Gardens, St. Pancras  
+**Places:** Rutland Garden, St. Pancras  
 **People:** Kahn, Lady Ripon, Shee  
 
-**Transcriber's note:** London engagements. Second day's handwriting is very tangled and overlapping; several names uncertain. 'R. Pancras' likely St. Pancras (London station/place).
+**Transcriber's note:** London engagements. Original has heavy bluish bleed-through, largely removed in the bleed-suppressed image. The Sunday entries are very tangled/overlapping and crossed; several readings tentative.

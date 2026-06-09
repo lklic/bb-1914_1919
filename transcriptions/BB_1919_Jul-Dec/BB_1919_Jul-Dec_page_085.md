@@ -6,7 +6,7 @@ side: left
 spread: 43
 page_type: entry
 location: Settignano (Florence)
-people: [Schlumberg, Renaud de Chatillon, Cecil, Geoffry[?]]
+people: [Schlumberger, Renaud de Chatillon, Cecil, Geoffry]
 ---
 
 # BB_1919_Jul-Dec — page 85 (left)
@@ -21,9 +21,8 @@ people: [Schlumberg, Renaud de Chatillon, Cecil, Geoffry[?]]
 
 ## December 18 — Thursday
 
-> Cecil & Geoffry[?]
-> Wells[?] Medici[?]
+> Cecil & Geoffry
 
-**People:** Schlumberg, Renaud de Chatillon, Cecil, Geoffry[?]  
+**People:** Schlumberger, Renaud de Chatillon, Cecil, Geoffry  
 
-**Transcriber's note:** Dec 17: 'Schlumberg, Renaud de Chatillon' (likely Gustave Schlumberger; Renaud de Chatillon a crusader figure, possibly reading/notes). Dec 18 second line uncertain, partly obscured by bleed-through; reads something like 'Wells Medici' [?].
+**Transcriber's note:** Dec 17 in ink: 'Schlumberg, Renaud de Chatillon' (likely Gustave Schlumberger; Renaud de Chatillon, the crusader). Dec 18 in ink: 'Cecil & Geoffry'. A faint pencil scrawl below 'Cecil & Geoffry' is soft and mostly absent in the bleed-suppressed image, so treated as bleed-through and not transcribed.

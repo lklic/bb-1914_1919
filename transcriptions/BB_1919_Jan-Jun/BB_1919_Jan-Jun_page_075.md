@@ -6,7 +6,7 @@ side: left
 spread: 38
 page_type: entry
 location: Granada
-places: [Granada, Generalife, Alhambra]
+places: [Granada, Generalife, Alhambra, Torre]
 people: [S. Pedro, Cruz[?]]
 ---
 
@@ -25,7 +25,7 @@ people: [S. Pedro, Cruz[?]]
 
 *(printed: Queen's Birthday)*
 
-> Tower with
+> Torre with
 > S. Pedro & Cruz[?]
 > Generalife
 
@@ -33,7 +33,7 @@ people: [S. Pedro, Cruz[?]]
 
 > ALHAMBRA
 
-**Places:** Granada, Generalife, Alhambra  
+**Places:** Granada, Generalife, Alhambra, Torre  
 **People:** S. Pedro, Cruz[?]  
 
-**Transcriber's note:** GRAADA is BB's block-capital writing for GRANADA (he omitted the N). Visiting the Alhambra and Generalife. 'Tower with S. Pedro & Cruz' uncertain. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** GRAADA is BB's large block-capital writing for GRANADA (the N is unclear/omitted), printed header runs through it. ALHAMBRA in large block caps at bottom. 'Torre with S. Pedro & Cruz' uncertain. Heavy faint bleed-through (incl. mirror-reversed) in original is suppressed in clean image and ignored.

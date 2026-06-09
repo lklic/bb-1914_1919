@@ -6,8 +6,8 @@ side: left
 spread: 20
 page_type: entry
 location: Amiens
-places: [Florence, Amiens]
-people: [Mary, G., Ehrich]
+places: [FLORENCE, AMIENS]
+people: [Mary, G., S. Reinach[?], Brunhes[?], Ehrich]
 ---
 
 # BB_1919_Jul-Dec — page 39 (left)
@@ -18,19 +18,19 @@ people: [Mary, G., Ehrich]
 
 *(printed: 9h. 32m., aft.)*
 
-> MARY LEAV[ES]
-> for FLOR[ence]
-> G. Lecoivella[?]
+> MARY LEAVE[S]
+> for FLORENCE
+> G. Loeville[?]
 
 ## September 17 — Wednesday
 
-> 10.30 S. Renard[?]
-> lunch with G.
-> Bruches[?]
+> 10.30 S. Reinach[?]
+> lunch[?] with G.
+> Brunhes[?]
 > Ehrich
 > AMIENS.
 
-**Places:** Florence, Amiens  
-**People:** Mary, G., Ehrich  
+**Places:** FLORENCE, AMIENS  
+**People:** Mary, G., S. Reinach[?], Brunhes[?], Ehrich  
 
-**Transcriber's note:** Right edge of page is cut off in the scan, so 'MARY LEAV...' (likely 'MARY LEAVES') and following lines are truncated. Several words uncertain due to handwriting and bleed-through. 'S. Renard' and 'Bruches' uncertain.
+**Transcriber's note:** Heavy bleed-through ghosts across the page; only sharp dark strokes transcribed. Right edge of page cut off in scan so 'MARY LEAVE...' is truncated (likely LEAVES). Several words uncertain.

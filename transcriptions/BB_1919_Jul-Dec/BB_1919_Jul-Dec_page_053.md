@@ -26,4 +26,4 @@ people: [Salvemini, Mrs. Ross, Lina]
 
 **People:** Salvemini, Mrs. Ross, Lina  
 
-**Transcriber's note:** Faint pencil show-through across both days; some mirror-reversed bleed ignored. Names written in dark ink. 'Lina' continues off the right edge.
+**Transcriber's note:** Heavy soft bleed-through between the headers in the original is gone in the bleed-suppressed image, so Oct 14 is treated as blank. Only 'Salvemini' and 'Mrs. Ross, Lina' under Oct 15 are real ink; 'Lina' continues off the right edge. Printed 'Trinity' sub-note appears mirror-reversed under Oct 14.

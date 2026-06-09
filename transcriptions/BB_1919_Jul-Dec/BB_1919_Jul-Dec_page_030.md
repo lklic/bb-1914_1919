@@ -15,7 +15,7 @@ people: [Carey Thomas[?], Edith, Percy Lubbock[?]]
 
 ## August 29 — Friday
 
-> 1. Buffalo[?] [illegible]
+> 1. Buffalo[?] [illegible] (struck through)
 > [illegible]
 > 8. Carey Thomas[?]
 > Miss Rhys[?] to
@@ -30,4 +30,4 @@ people: [Carey Thomas[?], Edith, Percy Lubbock[?]]
 
 **People:** Carey Thomas[?], Edith, Percy Lubbock[?]  
 
-**Transcriber's note:** Aug 29 hand is messy with crossings-out and bleed-through; several words uncertain. EDITH'S in block capitals, likely Edith Wharton.
+**Transcriber's note:** Aug 29 hand is messy with crossings-out; several words uncertain. The '8. Carey Thomas' cluster sits just above the Aug 30 header. EDITH'S in large block capitals (likely Edith Wharton). Heavy bleed-through present.

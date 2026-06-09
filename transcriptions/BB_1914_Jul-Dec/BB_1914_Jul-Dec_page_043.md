@@ -5,19 +5,19 @@ page: 43
 side: left
 spread: 22
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford, India, China]
-people: [Duckwich[?], Gibson, Scott, Sibil]
+people: [Dickinson[?], Gibson, Scott, Sibil]
 ---
 
 # BB_1914_Jul-Dec — page 43 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 28 — Monday
 
 > Ford
-> Duckwich's[?]
+> Dickinson's[?]
 > Report on India
 > & China
 
@@ -30,6 +30,6 @@ people: [Duckwich[?], Gibson, Scott, Sibil]
 > Sibil arrive
 
 **Places:** Ford, India, China  
-**People:** Duckwich[?], Gibson, Scott, Sibil  
+**People:** Dickinson[?], Gibson, Scott, Sibil  
 
-**Transcriber's note:** At Ford (likely Ford, the country house). Reading/report on India & China. Gibson & Scott; Sibil arrives. Some show-through bleed ignored.
+**Transcriber's note:** At Ford. Reading/report on India & China. Gibson & Scott; Sibil arrives. Heavy bleed-through in original ignored; dark ink lines confirmed in bleed-suppressed image.

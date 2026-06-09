@@ -5,13 +5,13 @@ page: 80
 side: right
 spread: 40
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Mr. Strong, Mrs. Ross Price[?], Lindsay[?]]
+location: Florence
+people: [Mr. Strong, Mrs. Ross, Lindsay[?]]
 ---
 
 # BB_1914_Jan-Jun — page 80 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 10 — Wednesday
 
@@ -19,16 +19,14 @@ people: [Mr. Strong, Mrs. Ross Price[?], Lindsay[?]]
 
 > Iva[?] Saunders[?]
 > Mr. Strong
-> women[?]
-> Mrs. Ross Price[?]
+> [illegible]
+> Mrs. Ross Princip[?]
 > Lindsay[?]
 
 ## June 11 — Thursday
 
-*(printed: 5h. 52m., aft.)*
-
 > Mr. Strong
 
-**People:** Mr. Strong, Mrs. Ross Price[?], Lindsay[?]  
+**People:** Mr. Strong, Mrs. Ross, Lindsay[?]  
 
-**Transcriber's note:** June 10 has several names, partly obscured by bleed-through and faint pencil; readings uncertain. 'Mr. Strong' clear on both days.
+**Transcriber's note:** June 10 has several names confirmed dark in the suppressed image; first-name readings uncertain. 'Lindsay' overlaps the printed June 11 header. 'Mr. Strong' clear on both days.

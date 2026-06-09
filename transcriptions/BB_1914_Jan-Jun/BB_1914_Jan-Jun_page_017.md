@@ -20,13 +20,11 @@ people: [Miss Thursby[?], B. Fletcher[?], Dogherty[?], H. L. Field]
 
 ## February 5 — Thursday
 
-*(printed: 10h. 33m. morn)*
-
-> 1 Yas[?] B. Fletcher
-> Carfare[?]
+> 1 Jaq[?] B. Fletcher
+> Crawhurst[?]
 > p. m. Dogherty[?]
 > Dine H. L. Field
 
 **People:** Miss Thursby[?], B. Fletcher[?], Dogherty[?], H. L. Field  
 
-**Transcriber's note:** Day-entry page. Heavy mirror-reversed bleed-through ignored. B. G. likely an initialed acquaintance. Several names uncertain due to pencil and overlapping show-through.
+**Transcriber's note:** Day-entry page. Heavy bleed-through (faint blue-gray ghosts) present in original is absent in bleed-suppressed image and ignored. B. G. likely initialed acquaintance. Several names uncertain due to overlapping show-through and rapid hand.

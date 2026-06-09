@@ -6,8 +6,8 @@ side: right
 spread: 22
 page_type: entry
 location: Bourges
-places: [Bourges]
-people: [Tyler, Lady Brandolph[?], Churchill]
+places: [BOURGES]
+people: [Tyler, Lady Randolph Churchill]
 ---
 
 # BB_1919_Jul-Dec — page 44 (right)
@@ -16,17 +16,15 @@ people: [Tyler, Lady Brandolph[?], Churchill]
 
 ## September 26 — Friday
 
-*(printed: 16th Sunday after Trinity)*
-
 > 4. Tyler
-> Lady Brandolph[?]
+> Lady Randolph
 > Churchill, etc.
 
 ## September 27 — Saturday
 
 > BOURGES
 
-**Places:** Bourges  
-**People:** Tyler, Lady Brandolph[?], Churchill  
+**Places:** BOURGES  
+**People:** Tyler, Lady Randolph Churchill  
 
-**Transcriber's note:** Sept 26: appointments with Tyler (4 o'clock), Lady [Brand?]olph, Churchill etc. — names partly illegible. Sept 27: large block capitals BOURGES indicating travel/location. Bleed-through ignored.
+**Transcriber's note:** Sept 26: 4 (o'clock?) Tyler; Lady Randolph Churchill, etc. Sept 27: BOURGES written in large block capitals across the entry, indicating travel/location. Faint printed liturgical note ('16th Sunday after Trinity') and 'BOOK...' bleed-through visible in original but not part of these days; ignored.

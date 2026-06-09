@@ -3,20 +3,20 @@
   "1": {
    "location": "",
    "country": "",
-   "activity": "Endpaper notes: London and New York addresses (Hyde Park Gardens; Murray Hill, 104 E. 40th, Fifth Ave/Plaza). Not a dated location.",
+   "activity": "Endpaper: London (Hyde Park Gardens) and New York (Murray Hill, 104 E. 40th, Fifth Ave/Plaza) addresses. Not a dated location.",
    "confidence": "low",
    "corrections": []
   },
   "2": {
    "location": "Montreal",
    "country": "Canada",
-   "activity": "Jan 5 train (Lexington 1.51); Jan 6 visit to the Ross/Redpath Museum. Arriving in Montreal.",
+   "activity": "Jan 5 train (Lexington 1.51); Jan 6 visit to the Ross/Redpath Museum; en route to Montreal.",
    "confidence": "medium",
    "corrections": [
     {
      "from": "Ross Museum",
      "to": "Redpath Museum (McGill), Montreal",
-     "reason": "BB in Montreal these days; 'Ross' likely the Ross-funded McGill museum"
+     "reason": "BB is in Montreal these days; 'Ross' plausibly the Ross-endowed McGill museum"
     }
    ]
   },
@@ -30,324 +30,347 @@
   "4": {
    "location": "New York",
    "country": "United States",
-   "activity": "Jan 11 Montreal; Jan 12 travels to New York; begins NY social round (lunches/dinners).",
+   "activity": "Jan 11 Montreal; Jan 12 to New York; lunches and dinners with friends.",
    "confidence": "high",
    "corrections": []
   },
   "5": {
    "location": "New York",
    "country": "United States",
-   "activity": "NY social calendar: lunches (Hewitt), Colony Club, dinners (Robinson, Mrs Pembroke Jones).",
+   "activity": "Social rounds: Colony Club, lunches and dinners (Hewitt, Seligmann, Robinson).",
    "confidence": "high",
    "corrections": []
   },
   "6": {
    "location": "New York",
    "country": "United States",
-   "activity": "NY appointments; Jan 22 Rockefeller Institute, Fifth Ave dinners.",
+   "activity": "Appointments incl. Rockefeller Institute; teas and dinners.",
    "confidence": "high",
    "corrections": []
   },
   "7": {
    "location": "New York",
    "country": "United States",
-   "activity": "NY social round: Chapman, lunch Lanier, dinners (Kahn, Flexner).",
+   "activity": "Lunches and dinners (Chapman, Winthrop, Kahn, Lanier, Frelinghuysen, Flexner).",
    "confidence": "high",
    "corrections": []
   },
   "8": {
    "location": "New York",
    "country": "United States",
-   "activity": "NY: lunch Alexander, Mrs Kahn, Mrs Douglas Robinson, dinner Morgan.",
+   "activity": "Social rounds: Alexander, DeKoven, Mrs. Kahn, Mrs. Douglas Robinson, Morgan.",
    "confidence": "high",
    "corrections": []
   },
   "9": {
    "location": "New York",
    "country": "United States",
-   "activity": "NY based; Feb 7 day trip to New Haven (arr 10.02, leave 4.09).",
+   "activity": "Social calls; Feb 7 day trip to New Haven (arr 10.02, leave 4.09).",
    "confidence": "high",
    "corrections": []
   },
   "10": {
    "location": "New York",
    "country": "United States",
-   "activity": "NY: Mrs C. Jones, Mrs Markoe (37 Park Ave), dinners.",
+   "activity": "Calls: Mrs. C. Jones, Mrs. Markoe (37 Park Ave), Miss Bryce; dinners.",
    "confidence": "high",
    "corrections": []
   },
   "11": {
    "location": "Mount Kisco",
    "country": "United States",
-   "activity": "Feb 14-15 staying at Mount Kisco, NY (Eugene Meyer). Mary at Philadelphia.",
-   "confidence": "medium",
-   "corrections": []
+   "activity": "Feb 14-15 weekend at Mount Kisco with Eugene Meyer; earlier days in New York.",
+   "confidence": "high",
+   "corrections": [
+    {
+     "from": "Mount Kisko",
+     "to": "Mount Kisco",
+     "reason": "Standard spelling of the New York town"
+    }
+   ]
   },
   "12": {
    "location": "New York",
    "country": "United States",
-   "activity": "Back in NY: Chapman, Mrs Lanier, Mrs Sloane, Havemeyer.",
+   "activity": "Social calls: Chapman, Mrs. Lanier, Mrs. Sloane, O. Kahn, Havemeyer.",
    "confidence": "high",
    "corrections": []
   },
   "13": {
    "location": "Detroit",
    "country": "United States",
-   "activity": "Feb 20 train to Detroit; Feb 21-23 visiting Charles Lang Freer (Freer collection).",
+   "activity": "Feb 20 train to Detroit; Feb 21-23 with collector Charles Freer.",
    "confidence": "high",
    "corrections": []
   },
   "14": {
    "location": "Northampton",
    "country": "United States",
-   "activity": "Feb 24-25 appointments; Feb 26-27 Northampton, Massachusetts.",
+   "activity": "Feb 24-25 calls (return east); Feb 26-27 at Northampton (Smith College area).",
    "confidence": "medium",
    "corrections": []
   },
   "15": {
    "location": "Baltimore",
    "country": "United States",
-   "activity": "Feb 28 Northampton; Mar 1 to Baltimore (Agnes); Mar 2-3 Baltimore (Jacobs, Thomas).",
+   "activity": "Northampton, then Mar 1 to Baltimore; appointments (Jacobs, Cary, Thomas).",
    "confidence": "high",
    "corrections": []
   },
   "16": {
    "location": "Baltimore",
    "country": "United States",
-   "activity": "Mar 4-7 Baltimore (Miss Dawson).",
+   "activity": "In Baltimore Mar 4-7; Mrs. Dawson.",
    "confidence": "high",
    "corrections": []
   },
   "17": {
    "location": "Washington",
    "country": "United States",
-   "activity": "Mar 8 to Washington (Slater, 1731 I St); Mar 9-11 with Uncle Henry Adams, Mrs Chanler, Henry White.",
+   "activity": "Mar 8 to Washington (1731 I St.); visits Henry Adams, Mrs. Chanler, H. White.",
    "confidence": "high",
    "corrections": []
   },
   "18": {
    "location": "Washington",
    "country": "United States",
-   "activity": "Mar 12 lunch Jusserand, Lodge; Mar 13 Congressional Library, H. Adams; Mar 14 National Museum, then toward Bryn Mawr/Philadelphia.",
+   "activity": "Washington (Jusserand, Lodge, Congress, Nat. Museum, H. Adams); Mar 15 to Philadelphia/Bryn Mawr.",
    "confidence": "high",
    "corrections": []
   },
   "19": {
    "location": "Bryn Mawr",
    "country": "United States",
-   "activity": "Mar 16-19 Bryn Mawr (Philadelphia area); Widener collection.",
+   "activity": "At Bryn Mawr Mar 16-19; Widener collection.",
    "confidence": "high",
    "corrections": []
   },
   "20": {
    "location": "Bryn Mawr",
    "country": "United States",
-   "activity": "Mar 20 Bryn Mawr; Mar 21-22 Philadelphia social (Longue Vue, Lanier); Mar 23 Chapman.",
-   "confidence": "medium",
+   "activity": "Bryn Mawr / Philadelphia area; Longue Vue, Lanier, Chapman.",
+   "confidence": "high",
    "corrections": []
   },
   "21": {
    "location": "New York",
    "country": "United States",
-   "activity": "Back in NY: Mar 24 lunch Kahn (8 East 68 St), Rockefeller; Mar 25-27 Vanderbilt, Hewitt, Bryce. Preparing to sail.",
+   "activity": "Back in New York; calls (Kahn, Vanderbilt, Mrs. Hewitt, Bryce) before sailing.",
    "confidence": "high",
    "corrections": []
   },
   "22": {
-   "location": "RMS Olympic (at sea, North Atlantic)",
-   "country": "",
-   "activity": "Mar 28 sailed on the Olympic; Mar 29-31 aboard, transatlantic crossing.",
+   "location": "At sea (RMS Olympic)",
+   "country": "Atlantic Ocean",
+   "activity": "Mar 28 sailed on the Olympic from New York 10am; transatlantic crossing.",
    "confidence": "high",
    "corrections": [
     {
-     "from": "Olympic",
-     "to": "RMS Olympic (transatlantic liner)",
-     "reason": "Recurring 'Olympic' across days = the ship he sailed on, not a place"
+     "from": "Salzburg[?]",
+     "to": "(not a location)",
+     "reason": "Aboard the Olympic mid-Atlantic; reading is a personal name, not a place"
     }
    ]
   },
   "23": {
-   "location": "RMS Olympic (at sea) / Paris",
+   "location": "At sea / Paris",
    "country": "France",
-   "activity": "Apr 1-3 aboard Olympic, landed 11 p.m. Apr 3; Apr 4 Paris 5.30 a.m. (Schlumberger, Seligmann).",
+   "activity": "Crossing on the Olympic; landed evening Apr 3; Apr 4 reached Paris 5:30am (Schlumberger, Seligmann).",
    "confidence": "high",
    "corrections": []
   },
   "24": {
    "location": "Paris",
    "country": "France",
-   "activity": "Apr 5 Louvre / Ecouen with de Cosse & Schlumberger; Apr 6-8 Dubois, Goloubew, Reinach, Hewitt.",
-   "confidence": "medium",
+   "activity": "Paris; excursion to Ecouen with Cosse & Schlumberger; Dubos, Golubew, Reinach, Hewitt.",
+   "confidence": "high",
    "corrections": [
     {
-     "from": "Ludre",
-     "to": "Louvre (likely)",
-     "reason": "Garbled; with Paris art-circle context the museum is plausible"
+     "from": "Ecouen[?]",
+     "to": "Ecouen",
+     "reason": "Town with chateau/museum north of Paris"
     }
    ]
   },
   "25": {
-   "location": "Maisons-Laffitte / Paris",
+   "location": "Paris",
    "country": "France",
-   "activity": "Apr 9 Tyler, La Cosse; Apr 10 Maisons-Laffitte; Apr 11 Mrs Lodge 55 Ave Marceau; Apr 12 departs for Villa Sylvia.",
+   "activity": "Paris; Maisons-Laffitte; Mrs. Lodge (55 Ave. Marceau); Apr 12 to Villa Sylvia (Riviera).",
    "confidence": "medium",
-   "corrections": []
+   "corrections": [
+    {
+     "from": "Maison Lafitte",
+     "to": "Maisons-Laffitte",
+     "reason": "Town near Paris"
+    }
+   ]
   },
   "26": {
    "location": "Saint-Jean-Cap-Ferrat",
    "country": "France",
-   "activity": "Apr 13-16 Villa Sylvia (Ralph Curtis's villa, Riviera); day trips Grasse and Monaco with Lady Harbeck.",
+   "activity": "At Villa Sylvia (Curtis villa, Cap Ferrat); excursions to Grasse and Monaco; Apr 16 arrived (return toward Florence).",
    "confidence": "medium",
    "corrections": [
     {
      "from": "Villa Sylvia",
      "to": "Villa Sylvia, Saint-Jean-Cap-Ferrat",
-     "reason": "Curtis villa on the Riviera; confirmed by adjacent Grasse/Monaco"
+     "reason": "Ralph Curtis's Riviera villa"
     }
    ]
   },
   "27": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Home at I Tatti; Apr 17 lunch Placci; Apr 18 lunch Hapgood; Apr 19-20 Sambon, Dvorak. Florentine circle resumes.",
-   "confidence": "medium",
+   "activity": "Back at I Tatti/Florence; lunch Placci, lunch Hapgood, Brockwell, Sambon.",
+   "confidence": "high",
    "corrections": []
   },
   "28": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Apr 21-24 visitors: Sybil & Mr Grey, Miss Roberts, Mrs Hooker, Strong.",
-   "confidence": "medium",
+   "activity": "At I Tatti; visitors Sybil, Mr. Grey, Miss Roberts, Mrs. Hooker, Strong.",
+   "confidence": "high",
    "corrections": []
   },
   "29": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Apr 25-27 Mme Harrach, Mrs Leigh Smith, Prof. T. W. Arnold.",
+   "activity": "At I Tatti; Mme. Harrach, Mrs. Leigh Smith, Prof. T. W. Arnold.",
    "confidence": "medium",
-   "corrections": []
+   "corrections": [
+    {
+     "from": "Sorrento[?]",
+     "to": "(uncertain; likely a name)",
+     "reason": "Settled period at Florence; no travel signals to Sorrento"
+    }
+   ]
   },
   "30": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Apr 29-May 2 mostly blank; presumed at home, I Tatti.",
-   "confidence": "low",
+   "activity": "At I Tatti (blank days).",
+   "confidence": "medium",
    "corrections": []
   },
   "31": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 3-6 blank; presumed at home, I Tatti.",
-   "confidence": "low",
+   "activity": "At I Tatti (blank days).",
+   "confidence": "medium",
    "corrections": []
   },
   "32": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 7-10 blank; presumed at home, I Tatti.",
-   "confidence": "low",
+   "activity": "At I Tatti (blank days).",
+   "confidence": "medium",
    "corrections": []
   },
   "33": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 11 lunch Mrs Ross, Serristori; May 13 tea Strong, Lubbock. Florence society.",
-   "confidence": "medium",
+   "activity": "At I Tatti; lunch with Mrs. Ross (Serristori); tea with Strong & Lubbock.",
+   "confidence": "high",
    "corrections": []
   },
   "34": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 15 Bruce Richmond, Sybil; May 18 Sybil. At home, Florence.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Bruce Richmond, Sybil.",
+   "confidence": "high",
    "corrections": []
   },
   "35": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 22 Mme de Cosse & Schlumberger arrive; dined at Fiesole and Serristori.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Mme. de Cosse & Schlumberger arrive; dined at Fiesole/Serristori.",
+   "confidence": "high",
    "corrections": []
   },
   "36": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 23-25 Harrach; de Cosse & Schl. leave; dinners.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Harrachs; guests leaving; dinners.",
+   "confidence": "high",
    "corrections": []
   },
   "37": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 27-30 letters; Mr Lucas, Gravina, Bayard Burton to dine.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Croswell, Gravina to dine.",
+   "confidence": "high",
    "corrections": []
   },
   "38": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "May 31-Jun 3 Bryson Burrows; drove with Trbie; Lucan & wife to tea.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Lucan and wife to tea; drives with Trbie.",
+   "confidence": "high",
    "corrections": []
   },
   "39": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Jun 4-7 Mrs Ross lunch, tea with Lucas, dined with Lebie; Dryden reading.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Mrs. Ross lunch, tea with Lucas, dinners.",
+   "confidence": "high",
    "corrections": []
   },
   "40": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Jun 8-11 Lina to stay; Mr Strong, Mrs Ross, Lindsay.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Mr. Strong, Mrs. Ross, Lindsay, Saunders.",
+   "confidence": "high",
    "corrections": []
   },
   "41": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Jun 12-15 Mrs Strong; Loie & Nello, McClellan, Lubbock, Countess Serristori, Sybil.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Mrs. Strong, Countess Serristori, Lubbock, McClellan to dine.",
+   "confidence": "high",
    "corrections": []
   },
   "42": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Jun 16-19 Mrs Strong; Papas, Venturi, Harrach, Humphreys to dine.",
-   "confidence": "medium",
+   "activity": "At I Tatti; Mrs. Strong, Venturi to lunch, Harrach, dinners.",
+   "confidence": "high",
    "corrections": []
   },
   "43": {
-   "location": "Cremona",
+   "location": "Modena",
    "country": "Italy",
-   "activity": "Jun 21 leave via Boscolungo, sleep Modena; Jun 22 tour Torrechiara, Castell'Arquato, Cortemaggiore to Cremona (Hotel Roma); Jun 23 Cremona, Piacenza.",
+   "activity": "Jun 21 depart I Tatti via Boscolungo, sleep Modena; Jun 22-23 tour Torrechiara, Borgo San Donnino, Castell'Arquato, Cortemaggiore, Cremona (Hotel Roma), Piacenza.",
    "confidence": "high",
    "corrections": [
     {
      "from": "S. Donnino",
      "to": "Borgo San Donnino (Fidenza)",
-     "reason": "Old name for Fidenza, on the Parma-Piacenza route"
+     "reason": "Town on the Parma-Piacenza route"
     },
     {
-     "from": "Pargia",
-     "to": "Parma (likely)",
-     "reason": "On the Emilia route between Modena and Cremona"
+     "from": "Arquato",
+     "to": "Castell'Arquato",
+     "reason": "Town near Piacenza"
+    },
+    {
+     "from": "Pargia[?]",
+     "to": "Pavullo/Pievepelago (route via Boscolungo)",
+     "reason": "Stop on the Apennine road toward Modena; reading uncertain"
     }
    ]
   },
   "44": {
    "location": "Paris",
    "country": "France",
-   "activity": "Jun 24-27: transition; appointments shift to Paris (Mme de Cosse, Billy, Mrs Vanderbilt, Edith). Likely travelled Italy to Paris.",
-   "confidence": "low",
+   "activity": "Returned north to Paris by late June; Mme. de Cosse, Bing, Mrs. Vanderbilt, Edie.",
+   "confidence": "medium",
    "corrections": []
   },
   "45": {
    "location": "Paris",
    "country": "France",
-   "activity": "Jun 28 Bassiano lunch, Reinach; Jun 29 Cercle de l'Union; Jun 30-Jul 1 Paris appointments (Bliss, 4 Ave).",
-   "confidence": "medium",
+   "activity": "In Paris; Bassiano lunch, Reinach, Cercle de l'Union; appointments incl. Bliss.",
+   "confidence": "high",
    "corrections": []
   }
  },
@@ -355,339 +378,351 @@
   "1": {
    "location": "Paris",
    "country": "France",
-   "activity": "Jul 2 lunch Mme de Bryode (5 Rue Montalembert), Henry Adams; Jul 3 Chavannes, Mme de Ludre; Jul 4 Royall Tyler (Quai de Bourbon); Jul 5 Edith.",
+   "activity": "Paris; Mme. de Brigode (5 Rue Montalembert), Henry Adams, Royall Tyler (21 Quai de Bourbon), Mme. de Ludre.",
    "confidence": "high",
    "corrections": []
   },
   "2": {
    "location": "Paris",
    "country": "France",
-   "activity": "Jul 6 Palace, 74 Ave Malakoff, Durrieu, dine Mrs Cameron; Jul 7 Mme de Cosse.",
+   "activity": "Paris; 74 Ave. Malakoff, Durrieu, Mrs. Cameron, Mme. de Cosse.",
    "confidence": "high",
    "corrections": []
   },
   "3": {
    "location": "Paris",
    "country": "France",
-   "activity": "Jul 10-13 Paris (Halevy and others); mostly illegible.",
-   "confidence": "medium",
+   "activity": "Paris (blank days); crossing to London at spread end.",
+   "confidence": "low",
    "corrections": []
   },
   "4": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Jul 14 lunch Lewis (32 Dover St), Mary Crawshay, Mrs Otto Kahn; Jul 15 Sybil, opera. Crossed to London.",
+   "activity": "London; 32 Dover St., Mary Crawshay, Mrs. Otto Kahn, Sybil, opera.",
    "confidence": "high",
    "corrections": []
   },
   "5": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Jul 16 Crawshay (39 Brook St), Kensington Palace; Jul 17 18 Grosvenor Sq, Mrs Astor, Lady Lewis, 46 Grosvenor Street.",
+   "activity": "London; Rutland Garden, Grosvenor Sq, Lady Ripon, St. Pancras, South Street.",
    "confidence": "high",
-   "corrections": [
-    {
-     "from": "Sington Palace",
-     "to": "Kensington Palace",
-     "reason": "Garbled all-caps London landmark"
-    }
-   ]
+   "corrections": []
   },
   "6": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Jul 18 Rutland Gardens, Kahn; Jul 19 Lady Ripon, St Pancras; Jul 20-21 Hamilton, South Street.",
+   "activity": "London; Asquiths, 37 Dover Street, Mrs. Astor; Jul 25 out to Epping.",
    "confidence": "high",
    "corrections": []
   },
   "7": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Jul 22 Asquiths; Jul 23 37 Dover St, Mrs Astor; Jul 24 Sybil, 17 Hyde Park Gate; Jul 25 13 Grosvenor Sq, 3.35 for Epping.",
+   "activity": "London (Mrs. Hunter lunch, G. Moore, Ronald Storrs, Nancy Cunard); day trips to Esher and Oxford/Headington.",
    "confidence": "high",
    "corrections": []
   },
   "8": {
-   "location": "Esher / Oxford",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Jul 26 Mrs Hunter lunch (G. Moore, Storrs, Nancy Cunard); Jul 27 to Esher to dine & sleep with Cook; Jul 28 50 Portland Pl then Oxford/Headington; Jul 29 Waterhouse, villas.",
-   "confidence": "medium",
-   "corrections": []
-  },
-  "9": {
-   "location": "Ford Place, Arundel (Sussex)",
-   "country": "United Kingdom",
-   "activity": "Jul 30-Aug 2 settling at Ford Place, Arundel (Sussex): Belgrave Road, Lubbock, Walter Raleigh, Duncan Grant.",
+   "activity": "Settles at Ford Place (Sussex); 118 Belgrave Road earlier; Walter Raleigh, Duncan Grant.",
    "confidence": "high",
    "corrections": [
     {
-     "from": "Ford / Ford Place",
-     "to": "Ford Place, near Arundel, Sussex",
-     "reason": "Long settled WWI-outbreak residence; surrounded by Sussex place names"
+     "from": "Ford Place",
+     "to": "Ford, near Arundel, West Sussex",
+     "reason": "Berensons' rented summer house Ford Place"
     }
    ]
   },
-  "10": {
-   "location": "Ford Place, Arundel (Sussex)",
+  "9": {
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Aug 7-10 at Ford; tea with Langwill, Geoffrey; day trip to Amberley.",
+   "activity": "At Ford Place Aug 7-10; tea with Zangwill, Geoffrey.",
+   "confidence": "high",
+   "corrections": []
+  },
+  "10": {
+   "location": "Ford",
+   "country": "United Kingdom",
+   "activity": "At Ford Place; Zangwills to tea; tea at Amberley.",
    "confidence": "high",
    "corrections": []
   },
   "11": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Aug 11-14 Ford; Zangwills; tea with Parrish at Amberley.",
+   "activity": "At Ford Place; Aug 20 visit to Buckhurst (the Bensons); outing to Chichester and Bosham.",
    "confidence": "high",
    "corrections": []
   },
   "12": {
-   "location": "Buckhurst / Ford Place (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Aug 19 Ford, Harris leaves for Buckhurst; Aug 20 Buckhurst (the Bensons); Aug 21 Ford; Aug 22 Chichester, Bosham.",
-   "confidence": "medium",
+   "activity": "At Ford Place; boating; Scott, Mrs. Scott.",
+   "confidence": "high",
    "corrections": []
   },
   "13": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Aug 23-26 Ford; boating; Scott, Mrs Scott.",
+   "activity": "At Ford Place; Chichester; picture notes (Puligo, Albertinelli); G. Moore, Zangwill.",
    "confidence": "high",
    "corrections": []
   },
   "14": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Aug 27-30 Ford; reading and visitors (Chichester, Lacaita, Pulszky, Albertinelli); G. Moore's Salve, Zangwill.",
+   "activity": "At Ford Place; Scott, Karin; reading; outing to Arundel Park.",
    "confidence": "high",
    "corrections": []
   },
   "15": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Aug 31-Sep 3 Ford; Scott, Karin & Grace; Arundel Park walks.",
+   "activity": "At Ford Place; Sidney Webb, Robert Bridges, Arundel Park; Sep 7 day to London (Keynes dinner).",
    "confidence": "high",
    "corrections": []
   },
   "16": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "London",
    "country": "United Kingdom",
-   "activity": "Sep 4-7 Ford; Sidney Webb, Robert Bridges, Mrs Leigh Smith; Arundel Park; ref. to London.",
+   "activity": "London (Duveen, Lady Wenlock, Huntington, Crawshay); Sep 10-11 motor back to Ford.",
    "confidence": "high",
    "corrections": []
   },
   "17": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Sep 8 Sybil, Mary Crawshay; Sep 9 London (Duveen, Lady Wenlock, Eva Fairfax); Sep 10 Edith to lunch, motor to Ford; Sep 11 Ford.",
-   "confidence": "medium",
+   "activity": "Ford early week then 25 Grosvenor Place with Edith; Henry James to lunch; Sep 15 return to Ford.",
+   "confidence": "high",
    "corrections": []
   },
   "18": {
-   "location": "Ford Place / London",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Sep 12 Ford (Brother, Marjorie, Ray); Sep 13 motored to 25 Grosvenor Place; Sep 14 25 Grosvenor Place with Edith, Henry James; Sep 15 Henry James to lunch, return to Ford.",
-   "confidence": "medium",
-   "corrections": []
+   "activity": "At Ford Place; Geoffrey Scott; reading (Yule's Marco Polo, etc.).",
+   "confidence": "high",
+   "corrections": [
+    {
+     "from": "Daenmark[?]",
+     "to": "(reading/book reference, not a location)",
+     "reason": "Settled at Ford; no travel signals"
+    }
+   ]
   },
   "19": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Sep 16-19 Ford; Geoffrey Scott; reading (Yule's Marco Polo, Usher's Pan-Germanism); Adrian Stephen & Karin.",
+   "activity": "At Ford Place; Adrian Stephen engaged to Karin; reading Bulow.",
    "confidence": "high",
    "corrections": []
   },
   "20": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Sep 20-23 Ford; Adrian Stephen engaged to Karin; Bulow's Imperial Germany. (Duplicate dates with following spread.)",
+   "activity": "At Ford Place (Sep 20-23; duplicate/overlap of spread 19 entries).",
    "confidence": "high",
    "corrections": []
   },
   "21": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Sep 24-27 Ford; Geoffrey Scott; Adrian & Karin, Desmond McCarthy; reading.",
+   "activity": "At Ford Place; Geoffrey Scott; reading; Adrian, Karin, Des. McCarthy.",
    "confidence": "high",
    "corrections": []
   },
   "22": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Sep 28-Oct 1 Ford; reading (India & China report); Sibyl arrives; Goodwood, Shoreham outings.",
+   "activity": "At Ford Place; reading; Gibson & Scott; Sibyl arrives; Goodwood, Shoreham outings.",
    "confidence": "high",
    "corrections": []
   },
   "23": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Oct 2 Sybil, Chichester; Oct 3 Sybil leaves; Oct 4 Adrian nearly drowned sailing; Oct 5 tea Mrs Bowen.",
+   "activity": "At Ford Place; Sybil, Chichester; Adrian nearly drowned sailing; tea with Mrs. Bowen.",
    "confidence": "high",
    "corrections": []
   },
   "24": {
-   "location": "Wimborne / Stonehenge (Dorset & Wiltshire)",
+   "location": "Stapleton House",
    "country": "United Kingdom",
-   "activity": "Oct 6 with Logan, Mrs Wimborne to Stapleton House, Blandford (Henry Adams party); Oct 7 Stapleton, Melford Abbey; Oct 8 Stonehenge, Salisbury, Romsey, back to Ford; Oct 9 Ford.",
+   "activity": "Oct 6 trip with Logan to Stapleton House, Wimborne/Blandford (Dorset); Oct 8 Stonehenge, Salisbury, Romsey, back to Ford.",
    "confidence": "medium",
    "corrections": [
     {
-     "from": "Bladford",
-     "to": "Blandford, Dorset",
-     "reason": "Town near Wimborne"
+     "from": "Melford Abbay[?]",
+     "to": "(uncertain abbey; likely Milton Abbey, Dorset)",
+     "reason": "On the Dorset route near Blandford; reading uncertain"
     }
    ]
   },
   "25": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Oct 10-13 Ford; Thornly Gibson, Karin & Adrian; Arundel Park, Goodwood House; reading Hirst.",
+   "activity": "At Ford Place; Arundel Park walks; Goodwood House; Chichester studies.",
    "confidence": "high",
    "corrections": []
   },
   "26": {
-   "location": "Ford Place, Arundel (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Oct 14-17 Ford; with Sybil to Zangwill, Amberley, Bosham, Goodwood.",
+   "activity": "At Ford Place; rides with Sibyl to Amberley, Bosham, Goodwood.",
    "confidence": "high",
-   "corrections": []
+   "corrections": [
+    {
+     "from": "Boham[?]",
+     "to": "Bosham",
+     "reason": "Sussex village near Chichester (matches earlier Bosham)"
+    }
+   ]
   },
   "27": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Oct 18-19 to London (Sybil, 11 Upper Terrace, Hampstead).",
-   "confidence": "medium",
+   "activity": "Ford then up to London (11 Upper Terrace, Hampstead); lunch Eugenie Strong, Crawshay, Burlington Fine Arts.",
+   "confidence": "high",
    "corrections": []
   },
   "28": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Oct 20 lunch Eugenie Strong, 91 Lancaster Gate, Mary Crawshay; Oct 21 Sybil, Burlington, Lady Harbord.",
+   "activity": "London; lunches/dinners (C. Phillips, Mrs. Astor, Walter Berry, Lady Lewis); Oct 25 to Ford.",
    "confidence": "high",
    "corrections": []
   },
   "29": {
-   "location": "London",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Oct 22 lunch C. Phillips, Mrs Astor, 46 Cumberland Place; Oct 23 Walter Berry, 156 Strand, Lady Lewis; Oct 24 lunch Thorold then return; Oct 25 Ford, tea Sir Hubert Parry.",
+   "activity": "At Ford Place; Oct 26 outing with Zangwill to Kropotkin's at Brighton; tea with Warren at Lewes.",
    "confidence": "high",
    "corrections": []
   },
   "30": {
-   "location": "Brighton / Ford Place (Sussex)",
+   "location": "Ford",
    "country": "United Kingdom",
-   "activity": "Oct 26 with Zangwill to Kropotkin's at Brighton, tea with Warren at Lewes; Oct 27-29 Ford.",
+   "activity": "At Ford Place; Zangwill to lunch; Arundel Park walk; Nov 2 day to London (tea Eva).",
    "confidence": "high",
    "corrections": []
   },
   "31": {
-   "location": "Ford Place / London",
+   "location": "London",
    "country": "United Kingdom",
-   "activity": "Oct 30 Zangwill to lunch; Oct 31 London; Nov 1 Ford, Arundel Park walk; Nov 2 London (Eva, Senia).",
-   "confidence": "medium",
+   "activity": "London; Lady Lewis, Lady Cunard (Mayfair), Lady Beresford, Cook (17 Hyde Park Gate); Covent Garden box.",
+   "confidence": "high",
    "corrections": []
   },
   "32": {
    "location": "London",
    "country": "United Kingdom",
-   "activity": "Nov 3 Lady Lewis, Lady Cunard (Mayfair); Nov 4 Lady Beresford, dine Cook 17 Hyde Park Gate; Nov 5 Covent Garden box; Nov 6 C.P., old Bond Street, 6.05 Waterloo.",
+   "activity": "London/Richmond, lunch Hampton Court; Nov 9 motor to Folkestone; Nov 10 cross to Dieppe (Grand Hotel).",
    "confidence": "high",
-   "corrections": []
+   "corrections": [
+    {
+     "from": "Folkstone",
+     "to": "Folkestone",
+     "reason": "Standard spelling of the Kent port"
+    }
+   ]
   },
   "33": {
-   "location": "Folkestone / Dieppe (Channel crossing)",
-   "country": "United Kingdom",
-   "activity": "Nov 7 Richmond, lunch Sybil at Hampton Court; Nov 8 Otto, Mary Crawshay; Nov 9 motored to Folkestone; Nov 10 crossed to Dieppe (Grand Hotel).",
+   "location": "Paris",
+   "country": "France",
+   "activity": "Dieppe (Grand Hotel) -> Rouen (Hotel de la Poste) -> Paris 7pm Nov 11 (53 Rue de Varenne); Ralph Curtis, Mrs. Lucy.",
    "confidence": "high",
    "corrections": []
   },
   "34": {
    "location": "Paris",
    "country": "France",
-   "activity": "Nov 11 Dieppe Grand Hotel, Rouen (Hotel de la Poste), Paris (53 Rue de Varenne); Nov 12 Mrs Lucy, Ralph Curtis.",
+   "activity": "Paris; Seligmann, Mme. de Ludre, Mrs. Bliss, Comtesse Murat, Abel Bonnard.",
    "confidence": "high",
    "corrections": []
   },
   "35": {
    "location": "Paris",
    "country": "France",
-   "activity": "Nov 13 Mme de Cosse, Schlumberger, dine Mrs Lucy; Nov 14 Mme de Ludre, dine V. Berard.",
+   "activity": "Paris; Seligmann, Edith W., Reinach, Bliss, Duchesse Clermont-Tonnerre, Mme. de Cosse.",
    "confidence": "high",
    "corrections": []
   },
   "36": {
-   "location": "Macon / Lyon (Burgundy & Rhone)",
+   "location": "Macon",
    "country": "France",
-   "activity": "Nov 23 leave Paris 10am via Fontainebleau, Auxerre (Hotel Moderne); Nov 24 Vezelay, Avallon, Autun, Chagny, Macon; Nov 25 Macon to Lyon; Nov 26 Lyon, Valence, Avignon (Palais des Papes, Rocher by moonlight). Motor tour south.",
+   "activity": "Nov 23 leave Paris 10am, motor tour: Sens, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Cluny, Macon, Lyon, Valence, Avignon.",
    "confidence": "high",
-   "corrections": []
+   "corrections": [
+    {
+     "from": "Lyons",
+     "to": "Lyon",
+     "reason": "French city spelling normalized"
+    }
+   ]
   },
   "37": {
    "location": "Nice",
    "country": "France",
-   "activity": "Nov 27 Aix lunch, Costabella; Nov 28 lunch St Raphael, Nice (Hotel Cecil); Nov 29 lunch Villa Sylvia, into ITALY, San Remo (Hotel Royal); Nov 30 Alassio, Genoa (Hotel Miramare).",
+   "activity": "Aix lunch, St. Raphael, to Nice (Hotel Cecil); Nov 29 lunch Villa Sylvia, cross into Italy (San Remo, Alassio, Genoa).",
    "confidence": "high",
    "corrections": []
   },
   "38": {
-   "location": "Genoa / Pisa to I Tatti",
+   "location": "Genoa",
    "country": "Italy",
-   "activity": "Dec 1 Genoa (Laura Gropallo lunch, Guido Cagnola dinner); Dec 2 Viareggio (Hotel Royal); Dec 3 lunch Pisa Campo Santo & Cathedral, then home to I Tatti 4.30; Dec 4 I Tatti, lunch Carlo P.",
+   "activity": "Genoa (Laura Gropallo, Guido Cagnola); Viareggio (Hotel Royal); Dec 3 Pisa Campo Santo & Cathedral, arrive I Tatti 4:30pm.",
    "confidence": "high",
-   "corrections": [
-    {
-     "from": "T. Tatti",
-     "to": "I Tatti",
-     "reason": "BB's villa at Settignano; transcription garble"
-    }
-   ]
+   "corrections": []
   },
   "39": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Dec 5-8 I Tatti; American consul, Geoffrey & Cecil; Mrs Ross; Guido Cagnola arrives, Maraini to dine.",
+   "activity": "At I Tatti; American Consul; Geoffrey & Cecil; tea with Strong, Mrs. Ross.",
    "confidence": "high",
    "corrections": []
   },
   "40": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Dec 9-12 I Tatti; Guido; Placci to lunch; tea with Cecil & Geoffrey; lunch O. Gutekunst.",
+   "activity": "At I Tatti; Guido Cagnola visiting; Placci to lunch; teas with Cecil & Geoffrey; Gutekunst.",
    "confidence": "high",
    "corrections": []
   },
   "41": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Dec 13-16 I Tatti; Guido, Salvemini, Placci; Russian Court; Mrs Ross.",
+   "activity": "At I Tatti; Salvemini, Placci; Russian concert; tea with Placci; Mrs. Ross.",
    "confidence": "high",
    "corrections": []
   },
   "42": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Dec 17-20 I Tatti; Giuliani, tea Strong, Vanni & Cecil.",
+   "activity": "At I Tatti; Giuliani, tea with Strong, Countess Gravina, Nani, Cecil.",
    "confidence": "high",
    "corrections": []
   },
   "43": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Dec 21-24 I Tatti; Lionello Venturi, Loeser, tea Gravina, Houghton dined; Henderson, Sickert.",
+   "activity": "At I Tatti; Loeser, Lionello Venturi, tea with Gravina, Houghton dined, Henderson.",
    "confidence": "high",
    "corrections": []
   },
   "44": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Dec 25-28 I Tatti; Christmas; Henderson, Mme Luchaire to tea, Gravina to dine, Severini, Maraini & Placci.",
+   "activity": "At I Tatti; reading Henderson; Sickert; Mme. Luchaire to tea; Gravinas to dine; Vivarini study.",
    "confidence": "high",
    "corrections": []
   },
   "45": {
-   "location": "Settignano (I Tatti, Florence)",
+   "location": "Florence",
    "country": "Italy",
-   "activity": "Dec 29-Jan 1 I Tatti; study of Vivarini, Crivelli; reading (Dickinson, Steed's Hapsburg Monarchy). Year end at home.",
+   "activity": "At I Tatti; studying Vivarini and Crivelli; reading Dickinson and Steed's Hapsburg Monarchy (into Jan 1, 1915).",
    "confidence": "high",
    "corrections": []
   }
@@ -852,7 +887,13 @@
    "country": "France",
    "activity": "With Edith Wharton near Hyeres/Toulon; Norton joins; abbey/landscape excursions.",
    "confidence": "medium",
-   "corrections": []
+   "corrections": [
+    {
+     "from": "Bourges",
+     "to": "local Hyeres/Var name (uncertain)",
+     "reason": "Bourges is in central France and geographically impossible during a settled Riviera stay; likely a misread local name."
+    }
+   ]
   },
   "24": {
    "location": "Hyeres",
@@ -1315,11 +1356,17 @@
    "corrections": []
   },
   "36": {
-   "location": "Siena",
+   "location": "Settignano (Florence)",
    "country": "Italy",
-   "activity": "Study of Sienese painters (Barna, the Lorenzettis) in the quarries/galleries; Villa Medici; likely day study trips around Siena while based at I Tatti.",
-   "confidence": "low",
-   "corrections": []
+   "activity": "At I Tatti; study notes on Sienese painters (Barna, the Lorenzetti); Villa Medici; reading/connoisseurship at home, flanked by clearly at-home spreads (Lady Annabel O'Neil, de Nicola, Serristori).",
+   "confidence": "medium",
+   "corrections": [
+    {
+     "from": "Siena (place)",
+     "to": "Settignano (study notes, not travel)",
+     "reason": "'Barna / The Lorenzetti / week in quarries' are art-historical study notes, not a journey; the spread is surrounded by undisputed I Tatti days with no travel verbs or hotels."
+    }
+   ]
   },
   "37": {
    "location": "Settignano (Florence)",

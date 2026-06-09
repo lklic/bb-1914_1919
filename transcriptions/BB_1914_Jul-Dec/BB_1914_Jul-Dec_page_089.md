@@ -5,17 +5,15 @@ page: 89
 side: left
 spread: 45
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Dickinson, Vivarini]
 ---
 
 # BB_1914_Jul-Dec — page 89 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 29 — Tuesday
-
-*(printed: Sunday after Christmas)*
 
 > Vivarini
 > Dickinson's

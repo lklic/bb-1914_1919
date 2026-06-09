@@ -5,21 +5,21 @@ page: 19
 side: left
 spread: 10
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford]
 people: [Zangwill]
 ---
 
 # BB_1914_Jul-Dec — page 19 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## August 11 — Tuesday
 
 *(printed: 9th Sunday after Trinity.)*
 
 > Ford
-> Zangwills lo ka[?]
+> Zangwills to tea[?]
 
 ## August 12 — Wednesday
 
@@ -30,4 +30,4 @@ people: [Zangwill]
 **Places:** Ford  
 **People:** Zangwill  
 
-**Transcriber's note:** Aug 11 second line runs off the right edge of the page and is partly cut off ('Zangwills lo ka...'). Faint pencil marks lower on the page appear to be bleed-through/show-through from the facing leaf and were not transcribed.
+**Transcriber's note:** Aug 11 second line runs off the right edge of the page and is partly cut off ('Zangwills to te[a]'). Faint marks lower on the page are bleed-through and were not transcribed.

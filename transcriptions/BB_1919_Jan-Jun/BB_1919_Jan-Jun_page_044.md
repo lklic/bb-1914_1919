@@ -23,10 +23,10 @@ people: [Edith]
 
 ## March 27 — Thursday
 
-> Greenish week[?]
+> Greens with
 > Edith
 
 **Places:** Hyeres, Hotel du Parc  
 **People:** Edith  
 
-**Transcriber's note:** March 26 clearly: 'Leave for Hyeres, Hotel du Parc. with Edith' (Edith Wharton). March 27 first line uncertain, ends with 'Edith'.
+**Transcriber's note:** Both entries clearly present in bleed-suppressed image. March 26: 'Leave for Hyeres, Hotel du Parc. with Edith' (Edith Wharton). March 27 first line uncertain, reads roughly 'Greens with' then 'Edith'.

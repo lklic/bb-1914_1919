@@ -6,7 +6,7 @@ side: right
 spread: 32
 page_type: entry
 location: Settignano (Florence)
-people: [Lorás[?], Baccoelie[?], Miss Orchani[?]]
+people: [Lorás[?], Baccocelie[?], Miss Orchani[?]]
 ---
 
 # BB_1919_Jul-Dec — page 64 (right)
@@ -15,17 +15,13 @@ people: [Lorás[?], Baccoelie[?], Miss Orchani[?]]
 
 ## November 5 — Wednesday
 
-> Adams[?] St Michs[?]
-> & Charity[?]
 > Tea with Lorás[?]
 
 ## November 6 — Thursday
 
-> [illegible]
-> [illegible]
 > Baccocelie[?]
 > & Miss Orchani[?]
 
-**People:** Lorás[?], Baccoelie[?], Miss Orchani[?]  
+**People:** Lorás[?], Baccocelie[?], Miss Orchani[?]  
 
-**Transcriber's note:** Considerable bleed-through and mirror-reversed show-through; only forward-oriented ink/pencil transcribed. Nov 5 'Tea with Lorás' fairly clear in ink. Nov 6 first lines pencil and illegible; bottom two lines in ink: 'Baccoelie & Miss Orchani' (names uncertain).
+**Transcriber's note:** Only bold dark ink survives in the bleed-suppressed image: 'Tea with Lorás' (Nov 5) and 'Baccocelie & Miss Orchani' (Nov 6, names uncertain). The upper cursive lines under each header (e.g. 'Adams St Michs / & Charity' on Nov 5) appear only as faint dotted show-through and are treated as bleed-through, not transcribed.

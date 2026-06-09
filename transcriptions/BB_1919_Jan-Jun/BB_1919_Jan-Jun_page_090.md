@@ -6,7 +6,8 @@ side: right
 spread: 45
 page_type: entry
 location: Salamanca
-places: [Salamanca, Zamora, Astorga]
+places: [SALAMANCA, Zamora, Astorga]
+people: [Unamuno[?]]
 ---
 
 # BB_1919_Jan-Jun — page 90 (right)
@@ -16,8 +17,7 @@ places: [Salamanca, Zamora, Astorga]
 ## June 26 — Thursday
 
 > SALAMANCA
-> [illegible]
-> [illegible]
+> Unamuno[?]
 
 ## June 27 — Friday
 
@@ -26,6 +26,7 @@ places: [Salamanca, Zamora, Astorga]
 > Zamora
 > Astorga
 
-**Places:** Salamanca, Zamora, Astorga  
+**Places:** SALAMANCA, Zamora, Astorga  
+**People:** Unamuno[?]  
 
-**Transcriber's note:** June 26 has SALAMANCA in block caps followed by two faint pencil lines that are hard to read. June 27 lists Zamora and Astorga. Reversed bleed-through ASTORGA and SANTIAGO ignored.
+**Transcriber's note:** Mirror-reversed bleed-through (ASTORGA, SANTIAGO) visible in original, erased in bleed-suppressed version; ignored. Second line under SALAMANCA reads as a name, likely Unamuno.

@@ -15,7 +15,7 @@ people: [d'Abernon[?]]
 
 ## February 10 — Monday
 
-> [illegible]
+> *(no writing)*
 
 ## February 11 — Tuesday
 
@@ -25,4 +25,4 @@ people: [d'Abernon[?]]
 
 **People:** d'Abernon[?]  
 
-**Transcriber's note:** Feb 10 handwriting is faint pencil/bleed-through and largely illegible. Feb 11 lines uncertain; 'opra.' may be opera.
+**Transcriber's note:** Feb 10 shows soft cursive in the original but it is fully erased in the bleed-suppressed image, so it is bleed-through; Feb 10 is BLANK. Feb 11 lines confirmed real but uncertain; 'opra.' may be opera.

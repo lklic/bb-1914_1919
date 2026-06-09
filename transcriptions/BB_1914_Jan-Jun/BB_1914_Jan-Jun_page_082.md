@@ -5,13 +5,13 @@ page: 82
 side: right
 spread: 41
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 people: [Mrs. Strong, Hutton[?], Sybil]
 ---
 
 # BB_1914_Jan-Jun — page 82 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 14 — Sunday
 

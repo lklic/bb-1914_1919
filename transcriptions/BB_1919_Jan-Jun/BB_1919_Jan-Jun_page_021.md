@@ -7,7 +7,7 @@ spread: 11
 page_type: entry
 location: Paris
 places: [35 Boul. Invalides]
-people: [Cosse[?], Lady Hood[?]]
+people: [Cossé, Lady Hood[?]]
 ---
 
 # BB_1919_Jan-Jun — page 21 (left)
@@ -16,7 +16,7 @@ people: [Cosse[?], Lady Hood[?]]
 
 ## February 8 — Saturday
 
-> 1. Cosse[?]
+> 1. Cossé
 
 ## February 9 — Sunday
 
@@ -27,6 +27,6 @@ people: [Cosse[?], Lady Hood[?]]
 > Lady Hood[?]
 
 **Places:** 35 Boul. Invalides  
-**People:** Cosse[?], Lady Hood[?]  
+**People:** Cossé, Lady Hood[?]  
 
-**Transcriber's note:** Feb 9 entries appear in the lower portion of the page. '35 Boul. Invalides' suggests Paris. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** Feb 9 entries in lower portion of page. '35 Boul. Invalides' suggests Paris. Faint mirror/forward bleed-through across the leaf ignored (absent in suppressed image).

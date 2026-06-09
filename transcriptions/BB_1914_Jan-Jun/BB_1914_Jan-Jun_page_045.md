@@ -5,28 +5,28 @@ page: 45
 side: left
 spread: 23
 page_type: entry
-location: RMS Olympic (at sea) / Paris
-places: [Olympic]
-people: [Mrs Hewitt[?], Tyler, Duca da Cosse[?]]
+location: At sea / Paris
+places: [Olympic, 21 Quai de Bourbon]
+people: [Mrs Hewitt[?], Tyler, Duca de Cossé]
 ---
 
 # BB_1914_Jan-Jun — page 45 (left)
 
-*Location: **RMS Olympic (at sea) / Paris***
+*Location: **At sea / Paris***
 
 ## April 1 — Wednesday
 
 > Olympic
-> [Senra Mrs Hewitt][?]
+> [Sena] Mrs Hewitt[?]
 
 ## April 2 — Thursday
 
 > Olympic
-> lunch[?] / Tyler
-> 21 Duafa[?] de Bourbon
-> Duca da Cosse[?]
+> lunch / 1 Tyler
+> 21 Quai de Bourbon
+> Duca de Cossé
 
-**Places:** Olympic  
-**People:** Mrs Hewitt[?], Tyler, Duca da Cosse[?]  
+**Places:** Olympic, 21 Quai de Bourbon  
+**People:** Mrs Hewitt[?], Tyler, Duca de Cossé  
 
-**Transcriber's note:** Aboard the RMS Olympic (transatlantic liner) on Apr 1-2. Several names struck through / overwritten. 'Senra Mrs Hewitt' on Apr 1 is partly cancelled. Apr 2 has names and what may be an address (21 ... de Bourbon) heavily crossed out with large X strokes; readings uncertain.
+**Transcriber's note:** Aboard the Olympic (White Star liner). April 1 second line struck through with a horizontal line. April 2 lines crossed through with a large X. Bluish bleed-through behind text, ignored.

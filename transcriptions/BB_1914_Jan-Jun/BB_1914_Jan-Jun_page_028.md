@@ -25,4 +25,4 @@ places: [Northampton]
 
 **Places:** Northampton  
 
-**Transcriber's note:** Both days marked 'Northampton'. Heavy mirror-reversed bleed-through (incl. faint reversed text) ignored. Printed sub-notes for Feb 27 appear misaligned in the diary.
+**Transcriber's note:** Both days marked 'Northampton' in dark ink. Heavy mirror-reversed soft bleed-through ignored. (Printed liturgical sub-notes under Feb 27 appear in the diary's typesetting.)

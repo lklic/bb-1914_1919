@@ -5,12 +5,12 @@ page: 69
 side: left
 spread: 35
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 ---
 
 # BB_1914_Jan-Jun — page 69 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 19 — Tuesday
 
@@ -23,4 +23,4 @@ location: Settignano (I Tatti, Florence)
 > *(no writing)*
 
 
-**Transcriber's note:** Almost no genuine recto writing; the faint marks across the page are mirror-reversed bleed-through from page 070 (verso) and were not transcribed. Both day slots appear effectively blank.
+**Transcriber's note:** Original shows heavy soft, mirror-reversed bleed-through from the facing page. The bleed-suppressed image shows only the printed day headers and no genuine on-page handwriting, so this page is BLANK.

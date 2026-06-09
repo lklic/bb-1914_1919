@@ -7,7 +7,7 @@ spread: 2
 page_type: entry
 location: Paris
 places: [Versailles]
-people: [Mrs. Farwell, Tobin[?], Marthe[?]]
+people: [Mrs. Farwell, Tobin[?], Marthe[?], Dillon[?]]
 ---
 
 # BB_1919_Jan-Jun — page 4 (right)
@@ -31,6 +31,6 @@ people: [Mrs. Farwell, Tobin[?], Marthe[?]]
 > 8 dined[?]
 
 **Places:** Versailles  
-**People:** Mrs. Farwell, Tobin[?], Marthe[?]  
+**People:** Mrs. Farwell, Tobin[?], Marthe[?], Dillon[?]  
 
-**Transcriber's note:** Two day entries. Jan 5 notes Versailles and Mrs. Farwell. Jan 6 (Epiphany) has numbered appointment lines, partly illegible due to faint pencil and bleed-through. Lower lines very uncertain.
+**Transcriber's note:** Strong greenish bleed-through throughout original; suppressed image confirms the dark-ink hand lines. Jan 5 notes Versailles and Mrs. Farwell. Jan 6 (Epiphany) numbered appointment lines; lower two lines are faint pencil, only partly confirmed in suppressed image and very uncertain.

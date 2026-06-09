@@ -7,7 +7,7 @@ spread: 15
 page_type: entry
 location: Baltimore
 places: [Northampton, Baltimore]
-people: [Bull[?], Agnes]
+people: [Dina Bulle[?], Agnes]
 ---
 
 # BB_1914_Jan-Jun — page 29 (left)
@@ -17,7 +17,7 @@ people: [Bull[?], Agnes]
 ## February 28 — Saturday
 
 > Northampton
-> Dine Bull[?]
+> Dina Bulle[?]
 
 ## March 1 — Sunday
 
@@ -27,6 +27,6 @@ people: [Bull[?], Agnes]
 > Baltimore
 
 **Places:** Northampton, Baltimore  
-**People:** Bull[?], Agnes  
+**People:** Dina Bulle[?], Agnes  
 
-**Transcriber's note:** Pencil/ink. 'Dine Bull' uncertain. Much mirror-reversed bleed-through ignored.
+**Transcriber's note:** Pencil/ink. 'Dina Bulle' uncertain. Much faint bluish/mirror-reversed bleed-through ignored; suppressed image confirms only these lines as real.

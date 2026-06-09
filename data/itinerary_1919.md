@@ -128,8 +128,8 @@ several made with the medievalist **Arthur Kingsley Porter**.
   van Marle, Schlumberger, the *Très Riches Heures*); steady stream of Florentine and
   expatriate visitors: **Mrs Ross, Loeser, Salvemini, Carlo Placci, Cecil, Geoffrey,
   Lady Annabel O'Neil, the Bussys, Acton, Santayana, Davidsohn**.
-- **19–21 Nov:** study of Sienese painters (Barna, the Lorenzettis) — probably short
-  study trips to/around **Siena**; Villa Medici.
+- **19–21 Nov:** study notes on Sienese painters (Barna, the Lorenzetti) — read as
+  art-historical study at I Tatti (flanked by undisputed at-home days), not travel; Villa Medici.
 - **24 Dec:** the Gibsons leave.
 - **25–31 Dec:** ill in bed with fever and cold over Christmas; recovering by year's end.
 
@@ -154,9 +154,10 @@ several made with the medievalist **Arthur Kingsley Porter**.
 - **s023–s026 (28 Mar–12 Apr, Hyères):** Based at Hyères with Edith Wharton, but
   "Bourges" on 28 Mar (s023) is geographically impossible there and is almost certainly a
   misread local name (a Provençal village or "Bormes"?) — left as Hyères. Low-medium.
-- **s036 of Book 2 (19–22 Nov):** "Barna / week in quarries / the Lorenzettis" strongly
-  suggests Sienese-school study, plausibly day trips to **Siena**, but he may equally have
-  been studying photographs/collections at I Tatti. Marked **low confidence**.
+- **s036 of Book 2 (19–22 Nov):** "Barna / week in quarries / the Lorenzettis" reads as
+  Sienese-school study notes. Originally a candidate **Siena** day-trip, but the spread is
+  surrounded by undisputed I Tatti days with no travel verbs or hotel, so it is now placed
+  at **Settignano** as connoisseurship at home (medium confidence).
 - **s042 of Book 2 (13–16 Dec):** "To London" on 14 Dec is isolated and immediately
   followed by Florentine entries (Tosca; Santayana & Mrs Ross on 16 Dec), so it is read as
   a book/note rather than an actual trip to London. Kept as Settignano.

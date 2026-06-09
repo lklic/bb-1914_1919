@@ -6,7 +6,7 @@ side: left
 spread: 45
 page_type: entry
 location: Settignano (Florence)
-people: [Salvemini[?]]
+people: [Salvemini]
 ---
 
 # BB_1919_Jul-Dec — page 89 (left)
@@ -24,8 +24,8 @@ people: [Salvemini[?]]
 
 *(printed: Bank Holiday.)*
 
-> Salvemini[?]
+> Salvemini
 
-**People:** Salvemini[?]  
+**People:** Salvemini  
 
-**Transcriber's note:** BB ill in bed with fever and cold over Christmas. 'Salvemini' likely Gaetano Salvemini. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** BB ill in bed with fever and cold over Christmas. 'Salvemini' likely Gaetano Salvemini. Faint mirror-reversed bleed-through in original ignored (absent in clean image).

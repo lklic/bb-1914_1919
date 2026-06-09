@@ -5,36 +5,36 @@ page: 31
 side: left
 spread: 16
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: London
 places: [London]
-people: [Sybil, Mary Crawshay, Duveen, Lady Wenlock, Berenson, Eva Fairfax, Crawshay, Huntington, Thelma Thorold]
+people: [Sybil, Mary Crawshay, H. Huntington, Duveen, Lady Wenlock, Berenson, Eva Fairfax, Crawshay, Thelma Thorold]
 ---
 
 # BB_1914_Jul-Dec — page 31 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **London***
 
 ## September 8 — Tuesday
 
 *(printed: 15th Sunday after Trinity)*
 
-> 3r Mostell[?] Tertor[?]
+> 3.r Mostelli[?] Tertor[?]
 > Lichley[?]
-> Sybil & Trend[?]
+> Sybil & Trene[?]
 > Mary Crawshay
-> Archbp[?] of H. Huntington[?]
+> Archbp[?] d H. Huntington[?]
 
 ## September 9 — Wednesday
 
-> London
+> London:
 > Duveen -
 > Lady Wenlock
-> Wolere[?] Berenson
+> Arthur[?] Berenson
 > Eva Fairfax
 > Crawshay & Huntington[?]
 > Thelma Thorold[?] ,
 
 **Places:** London  
-**People:** Sybil, Mary Crawshay, Duveen, Lady Wenlock, Berenson, Eva Fairfax, Crawshay, Huntington, Thelma Thorold  
+**People:** Sybil, Mary Crawshay, H. Huntington, Duveen, Lady Wenlock, Berenson, Eva Fairfax, Crawshay, Thelma Thorold  
 
-**Transcriber's note:** First names and surnames hard to read in pencil. 'Mostell Tertor' at top of Sept 8 very uncertain. 'Archbp of H. Huntington' uncertain. Heavy blue bleed-through across both days.
+**Transcriber's note:** Pencil cursive, several surnames uncertain. The top line of Sept 8 ('Mostelli Tertor') is very uncertain. Heavy blue-grey bleed-through across both days; only dark strokes confirmed in the bleed-suppressed image transcribed.

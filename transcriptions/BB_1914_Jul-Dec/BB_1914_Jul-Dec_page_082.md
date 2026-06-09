@@ -5,28 +5,28 @@ page: 82
 side: right
 spread: 41
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Placci, Mrs. Ross]
+location: Florence
+people: [Placci, Marchesa Bengou[?], Mrs. Ross, Mrs. Krail[?]]
 ---
 
 # BB_1914_Jul-Dec — page 82 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## December 15 — Tuesday
 
-> Russian Court[?]
+> Russian Concert[?]
 > Tea with Placci
-> Narcisa[?] Bengou[?]
+> Marchesa Bengou[?] Craw[?]
 
 ## December 16 — Wednesday
 
 *(printed: 4th Sunday in Advent.)*
 
-> Dame & Tyriwh[?]
+> Daru[?] & Tyrcwitt[?]
 > Mrs. Ross.
-> Mrs. Hrail[?]
+> Mrs. Krail[?]
 
-**People:** Placci, Mrs. Ross  
+**People:** Placci, Marchesa Bengou[?], Mrs. Ross, Mrs. Krail[?]  
 
-**Transcriber's note:** Pencil; uncertain readings on several lines. 'Mrs. Ross' likely Janet Ross. Bleed-through ignored.
+**Transcriber's note:** Ink; uncertain readings on several lines. 'Mrs. Ross' likely Janet Ross. The Marchesa line overlaps the printed 'December 16' header. Faint bleed-through ignored.

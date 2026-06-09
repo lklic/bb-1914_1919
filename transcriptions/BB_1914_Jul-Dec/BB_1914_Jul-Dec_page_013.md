@@ -6,7 +6,7 @@ side: left
 spread: 7
 page_type: entry
 location: London
-places: [Esher[?]]
+places: [9 Hans Place[?], Esher[?]]
 people: [Mrs. Hunter[?], G. Moore, Ronald Storrs, Weigall[?], Mrs. Van Wick[?], Nancy Cunard[?], Cook[?]]
 ---
 
@@ -26,15 +26,15 @@ people: [Mrs. Hunter[?], G. Moore, Ronald Storrs, Weigall[?], Mrs. Van Wick[?], 
 
 ## July 27 — Monday
 
-> 6.30
-> [illegible] 9 Hauz[?]
+> 1.30
+> [illegible] 9 Hans[?]
 > Place.
 > 6.05 [illegible] for Esher[?]
 > to dine &
 > sleep with
 > Cook[?]
 
-**Places:** Esher[?]  
+**Places:** 9 Hans Place[?], Esher[?]  
 **People:** Mrs. Hunter[?], G. Moore, Ronald Storrs, Weigall[?], Mrs. Van Wick[?], Nancy Cunard[?], Cook[?]  
 
-**Transcriber's note:** London social entries. Lunch with a group on Sunday; Monday notes train/appointment times and plans to dine and sleep with Cook[?] at Esher. Several names uncertain; heavy bleed-through across the page.
+**Transcriber's note:** London social entries. Lunch with a group on Sunday; Monday notes train/appointment times and plans to dine and sleep with Cook[?] at Esher. Several names uncertain. Heavy bleed-through across the page; handwriting confirmed in bleed-suppressed image.

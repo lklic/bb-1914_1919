@@ -7,7 +7,7 @@ spread: 26
 page_type: entry
 location: Settignano (Florence)
 places: [Monte Senario]
-people: [Cecil, Houghton[?]]
+people: [Cecil, Conrad, Houghton]
 ---
 
 # BB_1919_Jul-Dec — page 52 (right)
@@ -25,10 +25,10 @@ people: [Cecil, Houghton[?]]
 ## October 13 — Monday
 
 > Conrad, Nostromo
-> Houghton[?] to
+> Houghton to
 > lunch
 
 **Places:** Monte Senario  
-**People:** Cecil, Houghton[?]  
+**People:** Cecil, Conrad, Houghton  
 
-**Transcriber's note:** Ink. 'Tour of Monte Senario' = excursion to the convent of Monte Senario near Florence. 'Conrad, Nostromo' likely a reading note (Joseph Conrad's novel). Faint mirror bleed-through ignored.
+**Transcriber's note:** Ink. 'Tour of Monte Senario' = excursion to the convent of Monte Senario near Florence. 'Conrad, Nostromo' likely a reading note (Joseph Conrad's novel). Faint bleed-through at top and bottom margins ignored.

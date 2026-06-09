@@ -5,22 +5,20 @@ page: 47
 side: left
 spread: 24
 page_type: entry
-location: Wimborne / Stonehenge (Dorset & Wiltshire)
-places: [Wimborne, Stapleton House, Bladford[?], Melford Abbay[?]]
-people: [Logan[?], Henry Adams, Miss Adams]
+location: Stapleton House
+places: [Wimborne, Stapleton House, Blandford, Melford Abbey[?]]
+people: [Logan Pearsall Smith[?], Henry Adams, Miss Adams]
 ---
 
 # BB_1914_Jul-Dec — page 47 (left)
 
-*Location: **Wimborne / Stonehenge (Dorset & Wiltshire)***
+*Location: **Stapleton House***
 
 ## October 6 — Tuesday
 
-*(printed: 17th Sunday after Trinity)*
-
 > With Logan[?] Mrs[?]
-> Wimborne to Stple-[?]
-> ton House. Blad-
+> Wimborne to Staple-
+> ton House. Bland-
 > ford. Henry Adams
 > Miss Adams, Mrs
 > Tour
@@ -30,7 +28,7 @@ people: [Logan[?], Henry Adams, Miss Adams]
 > Stapleton House
 > Melford Abbay[?]
 
-**Places:** Wimborne, Stapleton House, Bladford[?], Melford Abbay[?]  
-**People:** Logan[?], Henry Adams, Miss Adams  
+**Places:** Wimborne, Stapleton House, Blandford, Melford Abbey[?]  
+**People:** Logan Pearsall Smith[?], Henry Adams, Miss Adams  
 
-**Transcriber's note:** Touring in Dorset/Wiltshire area. First line names uncertain. 'Bladford' likely Blandford. 'Melford Abbay' uncertain - possibly Milford or Mottisfont Abbey.
+**Transcriber's note:** Touring in Dorset/Wiltshire. First line names uncertain. 'Bland-/ford' = Blandford. 'Tour' written as an inserted caret note. Faint ghosts at lower half and around date headers are bleed-through, ignored.

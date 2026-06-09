@@ -6,7 +6,7 @@ side: left
 spread: 2
 page_type: entry
 location: Paris
-people: [Dr Rendal[?], Venizelos[?], Lippmann, Maguire[?], Charlie, Bonsard[?], Da Cosa[?], Dillon[?]]
+people: [Dr Renal[?], Venizelos[?], Lippmann, Maguire[?], Charlie, Bonnard[?], Da Cosa[?], Dillon[?]]
 ---
 
 # BB_1919_Jan-Jun — page 3 (left)
@@ -15,18 +15,18 @@ people: [Dr Rendal[?], Venizelos[?], Lippmann, Maguire[?], Charlie, Bonsard[?], 
 
 ## January 3 — Friday
 
-> 12r30 Dr Rendal[?]
+> 12r30 Dr Renal[?]
 
 ## January 4 — Saturday
 
 > 7.45 Venizelos[?]
 > Lippmann
 > 1 Maguire[?], Charlie
-> r Zfzghtk[?], Bonsard[?]
-> 5 Da Cosa[?], Bonsard[?]
+> 2 Zezehlh[?], Bonnard[?]
+> 5 Da Cosa[?], Bonnard[?]
 > 8 Jousseu[?], Dillon[?]
 > Lippmann
 
-**People:** Dr Rendal[?], Venizelos[?], Lippmann, Maguire[?], Charlie, Bonsard[?], Da Cosa[?], Dillon[?]  
+**People:** Dr Renal[?], Venizelos[?], Lippmann, Maguire[?], Charlie, Bonnard[?], Da Cosa[?], Dillon[?]  
 
-**Transcriber's note:** Two day entries. The 7.45 Venizelos / Lippmann line sits between the two printed headers but likely belongs to Jan 4. Names are very hard to read; many uncertain. Looks like a list of dinner/meeting appointments numbered 1, 2, 5, 8 with times and people.
+**Transcriber's note:** Heavy soft greenish bleed-through across mid-page in original; suppressed image confirms only the dark ink lines transcribed. The 7.45 Venizelos / Lippmann line sits between the printed headers but belongs to Jan 4. A numbered list (1,2,5,8) of meeting/dinner appointments. Names very uncertain.

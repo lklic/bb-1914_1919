@@ -6,7 +6,7 @@ side: left
 spread: 14
 page_type: entry
 location: Paris
-places: [Avallon, Vezelay, Vermenton, Auxerres, Paris]
+places: [AVALLON, VEZELAY, VERMENTON, AUXERRES, PARIS]
 ---
 
 # BB_1919_Jul-Dec — page 27 (left)
@@ -16,8 +16,8 @@ places: [Avallon, Vezelay, Vermenton, Auxerres, Paris]
 ## August 23 — Saturday
 
 > St. Magrauch[?]
-> alferting[?]
-> 12 m cur. cur[?]
+> villarting[?]
+> 12 m cund. cur
 > cophages nion[?]
 > with Klieps[?]
 > AVALLON
@@ -33,6 +33,6 @@ places: [Avallon, Vezelay, Vermenton, Auxerres, Paris]
 > PARIS 6 p.m
 > Cr.
 
-**Places:** Avallon, Vezelay, Vermenton, Auxerres, Paris  
+**Places:** AVALLON, VEZELAY, VERMENTON, AUXERRES, PARIS  
 
-**Transcriber's note:** Travel through Burgundy (Avallon, Vezelay, Vermenton, Auxerre) arriving Paris 6 p.m. Several handwritten lines above Aug 23 header are very faint/unclear; readings uncertain. Some bleed-through ignored.
+**Transcriber's note:** Travel through Burgundy (Avallon, Vezelay, Vermenton, Auxerre) arriving Paris 6 p.m. Place names written large in block capitals. Several cursive lines above/below Aug 23 header are faint; readings uncertain. One faint cursive line between AUXERRES and PARIS kept as [illegible]. Bleed-through suppressed image confirms the dark strokes are real.

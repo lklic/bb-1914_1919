@@ -6,7 +6,7 @@ side: left
 spread: 27
 page_type: entry
 location: Paris
-places: [Paris, Toulon]
+places: [Paris]
 people: [Vanderwelde, Nellie Mackay[?]]
 ---
 
@@ -20,7 +20,7 @@ people: [Vanderwelde, Nellie Mackay[?]]
 
 > Krevè Hyk[?]
 > for Paris
-> Toulon Mus[?]y
+> Toulou Musäy[?]
 
 ## April 14 — Monday
 
@@ -30,7 +30,7 @@ people: [Vanderwelde, Nellie Mackay[?]]
 > Höhne[?]
 > 8. dine[?]
 
-**Places:** Paris, Toulon  
+**Places:** Paris  
 **People:** Vanderwelde, Nellie Mackay[?]  
 
-**Transcriber's note:** Heavy pencil bleed-through across the page; ignored. Travelling toward Paris. Several names uncertain.
+**Transcriber's note:** Heavy pencil bleed-through across the page; ignored. A struck-through line appears under the April 13 entries. Travelling toward Paris. Several names uncertain; the bottom lines of April 14 are faint pencil.

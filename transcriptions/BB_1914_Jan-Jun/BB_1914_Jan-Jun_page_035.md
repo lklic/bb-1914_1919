@@ -6,7 +6,6 @@ side: left
 spread: 18
 page_type: entry
 location: Washington
-places: [Congressional Library]
 people: [Jusserand, Jackson, Lodge, H. Adams, Slade[?]]
 ---
 
@@ -18,18 +17,17 @@ people: [Jusserand, Jackson, Lodge, H. Adams, Slade[?]]
 
 *(printed: O 4h. 19m., morn.)*
 
-> lunch Jusserand
+> lunch Jusserand)
 > Tea Jackson
 > 8. Lodge
 
 ## March 13 — Friday
 
 > a. m. Congress.
-> ional library
+> social library
 > lunch H. Adams
 > dine Slade[?]
 
-**Places:** Congressional Library  
 **People:** Jusserand, Jackson, Lodge, H. Adams, Slade[?]  
 
-**Transcriber's note:** In Washington D.C. — lunch with Jusserand (French ambassador), tea Jackson, dinner with Lodge; next day Congressional Library, lunch with Henry Adams, dine Slade[?].
+**Transcriber's note:** In Washington D.C. Lunch with Jusserand (French ambassador), tea Jackson, 8 o'clock Lodge; next day Congress, social library, lunch with H. Adams, dine Slade[?]. Faint blue-grey bleed-through ghosts in original confirmed absent in bleed-suppressed image.

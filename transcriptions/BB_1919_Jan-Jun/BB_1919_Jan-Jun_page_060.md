@@ -7,7 +7,7 @@ spread: 30
 page_type: entry
 location: Paris
 places: [Frankfurt]
-people: [Edith, Miss Sargeant, Mrs Shields, Mackays]
+people: [Keyser, Elsie, Rosselly, Edith, Miss Sargeant, Mrs Shields, Mackays]
 ---
 
 # BB_1919_Jan-Jun — page 60 (right)
@@ -34,6 +34,6 @@ people: [Edith, Miss Sargeant, Mrs Shields, Mackays]
 > 8 Mackays
 
 **Places:** Frankfurt  
-**People:** Edith, Miss Sargeant, Mrs Shields, Mackays  
+**People:** Keyser, Elsie, Rosselly, Edith, Miss Sargeant, Mrs Shields, Mackays  
 
-**Transcriber's note:** Heavy bleed-through and crossed-out lines on April 28. Several names uncertain. 'Frankfurt' written as travel/destination note.
+**Transcriber's note:** Heavy bleed-through in original; suppressed image confirms only dark ink. Several lines crossed out (April 28). Asterisk/bracket marks in left margin link the 'mon & follen at 11' note. 'Frankfurt' is crossed out. Names uncertain.

@@ -6,7 +6,7 @@ side: right
 spread: 37
 page_type: entry
 location: Nice
-places: [Ville Sylvia, Italy, Hotel Royal, San Remo, Alassio, Genoa, Hotel Miramar]
+places: [Ville Sylvia, ITALY, Hotel Royal, San Remo, Alassio, Genoa, Hotel Miramar]
 ---
 
 # BB_1914_Jul-Dec — page 74 (right)
@@ -31,6 +31,6 @@ places: [Ville Sylvia, Italy, Hotel Royal, San Remo, Alassio, Genoa, Hotel Miram
 > Genoa
 > Hotel Miramar
 
-**Places:** Ville Sylvia, Italy, Hotel Royal, San Remo, Alassio, Genoa, Hotel Miramar  
+**Places:** Ville Sylvia, ITALY, Hotel Royal, San Remo, Alassio, Genoa, Hotel Miramar  
 
-**Transcriber's note:** Crosses into Italy; 'ITALY' in block capitals. Travels San Remo -> Alassio -> Genoa. 'Ville Sylvia' and 'Grand' uncertain.
+**Transcriber's note:** Crosses into Italy; 'ITALY' in block capitals marks the border. Travels San Remo -> Alassio -> Genoa. 'Ville Sylvia' and 'Grand' uncertain. Bleed-through ghosts suppressed; cursive hotel/place names confirmed dark in suppressed image.

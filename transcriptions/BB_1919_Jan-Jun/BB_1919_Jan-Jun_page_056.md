@@ -7,7 +7,7 @@ spread: 28
 page_type: entry
 location: Paris
 places: [Versailles]
-people: [Dubois, Edith, Maclagan, Milosz, Doris Maikago[?], Morton Prince[?]]
+people: [Dubois, Edith, Maclagan, Milosz, Doris Maikago[?], Morton Prince]
 ---
 
 # BB_1919_Jan-Jun — page 56 (right)
@@ -25,9 +25,9 @@ people: [Dubois, Edith, Maclagan, Milosz, Doris Maikago[?], Morton Prince[?]]
 *(printed: Easter Day.)*
 
 > Versailles
-> 7.45 Morton Prince[?]
+> 7.45 Morton Prince
 
 **Places:** Versailles  
-**People:** Dubois, Edith, Maclagan, Milosz, Doris Maikago[?], Morton Prince[?]  
+**People:** Dubois, Edith, Maclagan, Milosz, Doris Maikago[?], Morton Prince  
 
-**Transcriber's note:** Pencil. April 20 Easter: 'Versailles' in larger hand. '7.45 Morton Prince[?]' at bottom uncertain.
+**Transcriber's note:** Pencil. April 20 Easter: 'Versailles' in larger hand. Bleed-through ghosts present mid-page and below Easter Day line; only dark confirmed strokes transcribed.

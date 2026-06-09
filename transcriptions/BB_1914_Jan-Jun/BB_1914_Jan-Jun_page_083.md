@@ -5,27 +5,29 @@ page: 83
 side: left
 spread: 42
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Mrs. Strong, Papas, Benn d. Venturi[?], Sybil]
+location: Florence
+people: [Mrs. Strong, Papafas, Venturi, Sybil]
 ---
 
 # BB_1914_Jan-Jun — page 83 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 16 — Tuesday
 
 *(printed: 1st Sunday after Trinity)*
 
 > Mrs. Strong
-> Papas to tea
+> Papafas to tea
 
 ## June 17 — Wednesday
+
+*(printed: ( 2h. 20m. aft.)*
 
 > Benn d. Venturi[?]
 > to lunch
 > Dined with Sybil
 
-**People:** Mrs. Strong, Papas, Benn d. Venturi[?], Sybil  
+**People:** Mrs. Strong, Papafas, Venturi, Sybil  
 
-**Transcriber's note:** London social engagements. 'Mrs. Strong' likely Eugénie Strong. Several names uncertain due to pencil and bleed-through.
+**Transcriber's note:** Ink handwriting confirmed in bleed-suppressed image; heavy soft bleed-through in original ignored. 'Mrs. Strong' likely Eugénie Strong.

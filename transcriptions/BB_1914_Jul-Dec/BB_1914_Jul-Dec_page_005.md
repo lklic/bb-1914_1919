@@ -14,17 +14,11 @@ location: Paris
 
 ## July 10 — Friday
 
-> [illegible]
-> 12. [illegible] Halevy[?]
-> [illegible]
-> [illegible]
+> *(no writing)*
 
 ## July 11 — Saturday
 
-> [illegible]
-> 5.45[?] [illegible] [illegible]
-> 8.30 Ca[?] [illegible]
-> [illegible]
+> *(no writing)*
 
 
-**Transcriber's note:** Very faint pencil; most lines barely legible. Some faint marks appear to be show-through. Best-effort reading only.
+**Transcriber's note:** Original photo shows heavy soft low-contrast bleed-through ghosts under both day headers; bleed-suppressed image shows only the printed headers and no sharp on-page strokes. Page is blank.

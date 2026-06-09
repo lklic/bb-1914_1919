@@ -5,14 +5,14 @@ page: 65
 side: left
 spread: 33
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 places: [Serristori[?]]
 people: [Mrs Ross, Prince, Edie[?]]
 ---
 
 # BB_1914_Jan-Jun — page 65 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 11 — Monday
 

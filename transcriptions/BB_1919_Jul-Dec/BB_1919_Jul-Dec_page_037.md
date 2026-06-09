@@ -31,4 +31,4 @@ people: [Arnold Seligman, Rae, Walter[?], Mrs. Harriman, Mary]
 **Places:** Cercle Interallié  
 **People:** Arnold Seligman, Rae, Walter[?], Mrs. Harriman, Mary  
 
-**Transcriber's note:** Pencil/ink. Names somewhat uncertain. 'Goln' appears both pages, likely an abbreviation. 'Köhna' uncertain. The '30' in '12 30' is in heavy bold ink.
+**Transcriber's note:** Pencil/ink, confirmed against bleed-suppressed image. Soft mirror bleed-through present in original, ignored. 'Goln' appears on both pages, likely an abbreviation. 'Köhna' uncertain. The '30' in '12 30' is in heavy bold ink.

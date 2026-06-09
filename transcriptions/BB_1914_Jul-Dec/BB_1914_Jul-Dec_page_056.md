@@ -19,7 +19,7 @@ people: [Thorold, Theresa, Ford, Sir Hubert Parry]
 > London
 > lunch Thorold[?]
 > return to[?]
-> [illegible] with
+> London[?] with
 > Theresa
 
 ## October 25 — Sunday
@@ -33,4 +33,4 @@ people: [Thorold, Theresa, Ford, Sir Hubert Parry]
 **Places:** London  
 **People:** Thorold, Theresa, Ford, Sir Hubert Parry  
 
-**Transcriber's note:** Pencil, heavy bleed-through. October 24: 'London', lunch Thorold[?], return to [illegible] with Theresa. October 25: 'Ford)'; tea with Sir Hubert Parry (the composer).
+**Transcriber's note:** Pencil with faint bleed-through behind the Oct 24 lines; dark on-page strokes confirmed in bleed-suppressed image. Oct 24: 'London', lunch Thorold[?], return to London[?] with Theresa. Oct 25: 'Ford)'; tea with Sir Hubert Parry (the composer).

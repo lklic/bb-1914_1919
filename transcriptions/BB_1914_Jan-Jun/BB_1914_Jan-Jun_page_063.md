@@ -5,12 +5,12 @@ page: 63
 side: left
 spread: 32
 page_type: entry
-location: Settignano (I Tatti, Florence)
+location: Florence
 ---
 
 # BB_1914_Jan-Jun — page 63 (left)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 7 — Thursday
 
@@ -18,9 +18,9 @@ location: Settignano (I Tatti, Florence)
 
 ## May 8 — Friday
 
-*(printed: King's Accession)*
+*(printed: King's Accession.)*
 
 > *(no writing)*
 
 
-**Transcriber's note:** No genuine handwriting on this side; only printed day headers. Faint mirror-reversed bleed-through visible (e.g. printed 'King's Accession', '3rd Sunday after Easter') ignored per rules.
+**Transcriber's note:** Bleed-suppressed image shows only printed headers; no handwriting. Faint marks in original are bleed-through (some mirror-reversed printed liturgical notes). Page blank.

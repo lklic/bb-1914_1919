@@ -6,7 +6,7 @@ side: right
 spread: 8
 page_type: entry
 location: New York
-people: [Mrs. Kahn[?], B. G., Miss Boyce[?], Meyer[?], Mrs. Douglas Robinson, Morgan[?]]
+people: [Mrs. Kahn[?], B. G., Miss Boyce[?], Una Meyer[?], Mrs. Douglas Robinson, Morgan[?]]
 ---
 
 # BB_1914_Jan-Jun — page 16 (right)
@@ -17,9 +17,9 @@ people: [Mrs. Kahn[?], B. G., Miss Boyce[?], Meyer[?], Mrs. Douglas Robinson, Mo
 
 > Mrs. Kahn[?]
 > lunch B. G.
-> Tea Miss Boyce[?]
-> Dine Meyer[?]
-> Dinner (3
+> Tea . Miss Boyce[?]
+> Una Meyer[?]
+> dinner (3
 
 ## February 3 — Tuesday
 
@@ -31,6 +31,6 @@ people: [Mrs. Kahn[?], B. G., Miss Boyce[?], Meyer[?], Mrs. Douglas Robinson, Mo
 > dine Morgan[?]
 > 9 p. m. (3
 
-**People:** Mrs. Kahn[?], B. G., Miss Boyce[?], Meyer[?], Mrs. Douglas Robinson, Morgan[?]  
+**People:** Mrs. Kahn[?], B. G., Miss Boyce[?], Una Meyer[?], Mrs. Douglas Robinson, Morgan[?]  
 
-**Transcriber's note:** Mix of pencil and ink. First line of Feb 3 struck through. Many names uncertain owing to hasty hand and bleed-through. 'Mrs. Douglas Robinson' is fairly clear in ink.
+**Transcriber's note:** Mix of pencil and ink, cleaner than left page. First line of Feb 3 struck through. Many names uncertain owing to hasty hand and bleed-through. 'Mrs. Douglas Robinson' is fairly clear in ink.

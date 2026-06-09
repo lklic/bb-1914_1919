@@ -17,16 +17,16 @@ people: [Bonnard, Bussys, Mrs. Batchelor[?]]
 
 *(printed: 19th Sunday after Trinity)*
 
-> [illegible]
+> *(no writing)*
 
 ## October 25 — Saturday
 
 > BONNARD
 > leaves
-> Bussys
+> Bussys.
 > arrive[?]
 > Mrs. Batchelor[?]
 
 **People:** Bonnard, Bussys, Mrs. Batchelor[?]  
 
-**Transcriber's note:** Oct 24 has faint pencil at top, mostly illegible. Oct 25: 'BONNARD leaves' in block caps, then 'Bussys arrive', 'Mrs. Batchelor'. Bussys likely Simon Bussy. Last word uncertain.
+**Transcriber's note:** Oct 24 shows only faint script in the original that is gone in the bleed-suppressed image (bleed-through), so treated as blank. Oct 25 confirmed real: 'BONNARD' in block caps, 'leaves', then 'Bussys arrive', 'Mrs. Batchelor'. 'arrive' and surname uncertain. Bussys likely Simon Bussy and family.

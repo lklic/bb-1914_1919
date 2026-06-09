@@ -5,13 +5,13 @@ page: 38
 side: right
 spread: 19
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford]
 ---
 
 # BB_1914_Jul-Dec — page 38 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 22 — Tuesday
 

@@ -7,7 +7,7 @@ spread: 29
 page_type: entry
 location: Paris
 places: [Petit Palais]
-people: [Mme Vandervelde, Bakhmateff, Lazzaroni, Th. Ribot]
+people: [Mme Vandervelde, Bakhmateff, Lazzaroni, Shield, Th. Ribot]
 ---
 
 # BB_1919_Jan-Jun — page 58 (right)
@@ -25,12 +25,12 @@ people: [Mme Vandervelde, Bakhmateff, Lazzaroni, Th. Ribot]
 ## April 24 — Thursday
 
 > 1. Bakhmateff
-> Lazzaroni[?]
+> Lazzaroni
 > Shield[?]
 > Th. Ribot[?] dine
 > with us
 
 **Places:** Petit Palais  
-**People:** Mme Vandervelde, Bakhmateff, Lazzaroni, Th. Ribot  
+**People:** Mme Vandervelde, Bakhmateff, Lazzaroni, Shield, Th. Ribot  
 
-**Transcriber's note:** Pencil and ink. Heavy bleed-through ignored. Several names uncertain; 'Petit Palais' suggests Paris.
+**Transcriber's note:** Pencil and ink. Heavy bleed-through ignored. April 23 lines fainter but confirmed in suppressed image. 'Bakhmateff' (Russian ambassador Bakhmeteff) written boldly. 'Petit Palais' suggests Paris.

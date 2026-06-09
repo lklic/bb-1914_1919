@@ -6,7 +6,7 @@ side: right
 spread: 46
 page_type: entry
 location: Settignano (Florence)
-people: [Mrs. Natick[?], Keria[?], Baron Stiebel]
+people: [Mrs. Narich[?], Baron Stiebel]
 ---
 
 # BB_1919_Jul-Dec — page 92 (right)
@@ -15,14 +15,14 @@ people: [Mrs. Natick[?], Keria[?], Baron Stiebel]
 
 ## December 31 — Wednesday
 
-> Mrs. Natick[?] -
-> Keria[?] - Baron
+> Mrs. Narich[?] -
+> Kuie[?] - Baron
 > Stiebel
 
 ## January 1 — Thursday
 
 > *(no writing)*
 
-**People:** Mrs. Natick[?], Keria[?], Baron Stiebel  
+**People:** Mrs. Narich[?], Baron Stiebel  
 
-**Transcriber's note:** Dec 31 lists several names, hard to read: 'Mrs. Natick[?]', 'Keria[?]', 'Baron Stiebel'. January 1 entry left blank.
+**Transcriber's note:** Dec 31 has three dark handwritten lines confirmed in suppressed image. Names uncertain: 'Narich-Kuie' and 'Baron Stiebel'. January 1 (Thursday) is blank below the header.

@@ -7,7 +7,7 @@ spread: 11
 page_type: entry
 location: Paris
 places: [SENS, Villeneuve-sur-Yonne, St Julien du Sault, Pontigny]
-people: [Raffalovich, Anasaki[?], Martin (Girard), Kingsley Porter]
+people: [Raffalovich, Anasaki[?], Jim Woods[?], Martha Giraud[?], Kingsley Porter]
 ---
 
 # BB_1919_Jul-Dec — page 22 (right)
@@ -19,8 +19,8 @@ people: [Raffalovich, Anasaki[?], Martin (Girard), Kingsley Porter]
 > Raffalovich
 > Starpps[?]
 > 1. Anasaki[?] +
-> Tin Woods[?].
-> Martin (Girard)
+> Jim Woods[?].
+> Martha (Giraud)[?]
 
 ## August 14 — Thursday
 
@@ -30,9 +30,9 @@ people: [Raffalovich, Anasaki[?], Martin (Girard), Kingsley Porter]
 > SENS
 > Villeneuve - sur
 > Yonne - St Julien
-> du Sault. PONTIGNY[?]
+> du Sault. PONTIGNY
 
 **Places:** SENS, Villeneuve-sur-Yonne, St Julien du Sault, Pontigny  
-**People:** Raffalovich, Anasaki[?], Martin (Girard), Kingsley Porter  
+**People:** Raffalovich, Anasaki[?], Jim Woods[?], Martha Giraud[?], Kingsley Porter  
 
-**Transcriber's note:** Aug 14: BB leaves at 10 with Kingsley Porter, traveling through Sens, Villeneuve-sur-Yonne, St Julien du Sault, to Pontigny[?] in Burgundy. 'Raffalovich' and 'Anasaki' uncertain. Bleed-through present but legible hand.
+**Transcriber's note:** Aug 14: BB leaves at 10 with (A.) Kingsley Porter, traveling through Sens, Villeneuve-sur-Yonne, St Julien du Sault, to Pontigny in Burgundy. 'SENS' and 'PONTIGNY' written in block capitals. Names 'Raffalovich' and 'Anasaki' uncertain. Greenish bleed-through present but on-page ink legible in suppressed image.

@@ -30,4 +30,4 @@ people: [Placci, Elsie de Wolfe, Jos Duveen[?], Carl Hamilton, Royall Tyler]
 
 **People:** Placci, Elsie de Wolfe, Jos Duveen[?], Carl Hamilton, Royall Tyler  
 
-**Transcriber's note:** Heavy show-through from facing pages. 'Elsie de Wolfe' fairly clear. Several words uncertain (Duveen, Bohun, Mauks, Long).
+**Transcriber's note:** Heavy cursive bleed-through fills mid and lower areas of the original; suppressed image confirms only the dark on-page lines are real. 'Elsie de Wolfe' fairly clear.

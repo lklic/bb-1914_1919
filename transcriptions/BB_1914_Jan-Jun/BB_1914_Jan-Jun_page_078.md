@@ -5,19 +5,19 @@ page: 78
 side: right
 spread: 39
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Dryden[?], Lebie[?]]
+location: Florence
+people: [Dryson[?], Lebie[?]]
 ---
 
 # BB_1914_Jan-Jun — page 78 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 6 — Saturday
 
 *(printed: O 5h. 18m. morn)*
 
-> Dryden[?]
+> Dryson[?]
 > dined with
 > Lebie[?]
 
@@ -25,8 +25,8 @@ people: [Dryden[?], Lebie[?]]
 
 *(printed: Trinity Sunday.)*
 
-> Dryden[?]
+> Dryson[?]
 
-**People:** Dryden[?], Lebie[?]  
+**People:** Dryson[?], Lebie[?]  
 
-**Transcriber's note:** Faint pencil. June 6: 'Dryden'(?) dined with Lebie[?]. June 7: single word 'Dryden'(?). Much show-through ignored.
+**Transcriber's note:** Dark cursive lines under June 6 confirmed in suppressed image: 'Dryson'(?) / 'dined with' / 'Lebie'(?). June 7 has a single word 'Dryson'(?). Soft bleed-through across both halves ignored.

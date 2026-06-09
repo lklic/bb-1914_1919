@@ -6,7 +6,7 @@ side: right
 spread: 7
 page_type: entry
 location: London
-places: [Portland Pl., Oxford, Headington[?]]
+places: [50 Portland Pl., Oxford, Headington[?]]
 people: [Waterhs.[?]]
 ---
 
@@ -30,7 +30,7 @@ people: [Waterhs.[?]]
 > & [illegible]
 > Te Villas[?]
 
-**Places:** Portland Pl., Oxford, Headington[?]  
+**Places:** 50 Portland Pl., Oxford, Headington[?]  
 **People:** Waterhs.[?]  
 
-**Transcriber's note:** Tuesday notes appointment times at 50 Portland Place and travel to Oxford / Headington. Wednesday entries faint and uncertain; printed Goodwood Cup race note and moon-phase sub-note. Lower lines hard to read amid bleed-through.
+**Transcriber's note:** Tuesday notes appointment times at 50 Portland Place and travel to Oxford / Headington. Wednesday entries faint and uncertain; printed Goodwood Cup race note and moon-phase sub-note. Lower lines hard to read; bleed-through suppressed, handwriting confirmed in clean image. Printed 'G' index letter at bottom right.

@@ -6,7 +6,7 @@ side: right
 spread: 31
 page_type: entry
 location: Settignano (Florence)
-people: [Simona[?] Wilson[?], Kelekian, Annianah[?]]
+people: [Wilson, Kelekian, Ammanati]
 ---
 
 # BB_1919_Jul-Dec — page 62 (right)
@@ -17,15 +17,15 @@ people: [Simona[?] Wilson[?], Kelekian, Annianah[?]]
 
 *(printed: D 1h. 43m., morn.)*
 
-> Simona[?] Wilson[?]
+> Simone[?] Wilson[?]
 > Kelekian
 
 ## November 2 — Sunday
 
 *(printed: 20th Sunday after Trinity.)*
 
-> Annianah[?]
+> Ammanati[?]
 
-**People:** Simona[?] Wilson[?], Kelekian, Annianah[?]  
+**People:** Wilson, Kelekian, Ammanati  
 
-**Transcriber's note:** Kelekian (Dikran Kelekian, art dealer) fairly clear. 'Simon a Wilson' uncertain. Faint mirror-reversed bleed-through visible (e.g. reversed script at bottom) ignored. November 2 hand line uncertain.
+**Transcriber's note:** Artist/dealer names. 'Kelekian' = Dikran Kelekian, art dealer (clear). 'Simone Wilson' uncertain. Between Nov 1 lines a faint 'II ...' stroke and reversed/mirror bleed-through at the bottom are ignored. Nov 2 word uncertain.

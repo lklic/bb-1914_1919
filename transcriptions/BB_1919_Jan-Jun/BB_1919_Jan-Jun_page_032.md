@@ -25,4 +25,4 @@ people: [Mrs. Harriman]
 
 **People:** Mrs. Harriman  
 
-**Transcriber's note:** The line '8 Mrs. Harriman' is written above the printed 'March 3 Monday' header, belonging to March 2. 'Club lunch' in ink under March 3.
+**Transcriber's note:** The line '8 Mrs. Harriman' is written above the printed 'March 3 Monday' header but belongs to March 2 (Sunday). 'Club lunch' in ink under March 3. Bleed-through ghosts suppressed; only these two dark lines are real.

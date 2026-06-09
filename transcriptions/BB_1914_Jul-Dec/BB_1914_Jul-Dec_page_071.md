@@ -5,18 +5,18 @@ page: 71
 side: left
 spread: 36
 page_type: entry
-location: Macon / Lyon (Burgundy & Rhone)
-places: [Paris, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Chagny, Macon]
+location: Macon
+places: [Paris, Sens, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Cluny, Macon]
 ---
 
 # BB_1914_Jul-Dec — page 71 (left)
 
-*Location: **Macon / Lyon (Burgundy & Rhone)***
+*Location: **Macon***
 
 ## November 23 — Monday
 
 > Leave Paris 10. A.M.
-> leave[?] Fontainbleau
+> Sens[?] Fontainbleau
 > Auxerre
 > Hotel Moderne
 
@@ -27,9 +27,9 @@ places: [Paris, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Chagny, Macon]
 > Vezelay.
 > Avallon.
 > Autun
-> Chagny
+> Cluny
 > Macon
 
-**Places:** Paris, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Chagny, Macon  
+**Places:** Paris, Sens, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Cluny, Macon  
 
-**Transcriber's note:** Beginning of a motoring tour south from Paris. Strong mirror-reversed bleed-through across both pages, ignored. 'leave Fontainbleau' uncertain. Hotel Moderne at Auxerre.
+**Transcriber's note:** Beginning of a tour south from Paris through Burgundy. Strong mirror-reversed bleed-through across both pages, ignored. Second line of Nov 23 uncertain (Sens / Fontainbleau). Hotel Moderne at Auxerre. Nov 24 city before Macon read as Cluny (Autun-Cluny-Macon route).

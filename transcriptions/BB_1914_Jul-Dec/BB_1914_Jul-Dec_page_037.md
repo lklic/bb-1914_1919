@@ -5,32 +5,32 @@ page: 37
 side: left
 spread: 19
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 places: [Ford]
 people: [Adrian Stephen, Karin]
 ---
 
 # BB_1914_Jul-Dec — page 37 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## September 20 — Sunday
 
 *(printed: 15th Sunday after Trinity.)*
 
 > Ford
-> B[?]
+> [flourish]
 
 ## September 21 — Monday
 
 > Ford
-> Adrian Stephen[?]
+> Adrian Stephen
 > engaged to
-> Karin[?]
-> Drive to talk[?] x [illegible]
+> Karin
+> Drive to lake[?] & [illegible]
 > [illegible]
 
 **Places:** Ford  
 **People:** Adrian Stephen, Karin  
 
-**Transcriber's note:** September 20 has 'Ford' then a single flourish/initial (B?). September 21 notes Adrian Stephen engaged to Karin (Karin Costelloe, BB's wife's daughter's relation); last two lines run off the bottom edge and are largely illegible/cut off.
+**Transcriber's note:** Heavy bleed-through ghosts in original (suppressed image confirms real ink). September 20 has 'Ford' then a single large flourish below. September 21 notes Adrian Stephen engaged to Karin (Karin Costelloe). Last two lines run off the bottom edge, largely illegible/cut off.

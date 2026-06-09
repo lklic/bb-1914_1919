@@ -7,7 +7,7 @@ spread: 22
 page_type: entry
 location: Hyeres
 places: [Florence]
-people: [Mary, Prince Doria[?]]
+people: [Mary, Curtis[?]]
 ---
 
 # BB_1919_Jan-Jun — page 43 (left)
@@ -18,10 +18,7 @@ people: [Mary, Prince Doria[?]]
 
 *(printed: 8h. 34m., aft.)*
 
-> Cardinal[?]
-> the[?]
-> Prince Doria[?]
-> both[?]
+> Curtis[?]
 
 ## March 25 — Tuesday
 
@@ -32,6 +29,6 @@ people: [Mary, Prince Doria[?]]
 > Florence
 
 **Places:** Florence  
-**People:** Mary, Prince Doria[?]  
+**People:** Mary, Curtis[?]  
 
-**Transcriber's note:** March 24 hand lines are faint pencil and uncertain. March 25: clearly 'Mary leaves for Florence'. Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** Heavy bleed-through on this leaf. The original photo shows several faint ghost lines under March 24, but the bleed-suppressed image confirms only one faint short word ('Curtis[?]'); the rest is bleed-through and ignored. March 25 'Mary leaves for Florence' is clearly real.

@@ -14,16 +14,16 @@ location: Settignano (Florence)
 
 ## December 27 — Saturday
 
-> Languida[?] Anka[?]
+> Languida ancora[?]
 > in bed
 
 ## December 28 — Sunday
 
 *(printed: Sunday after Christmas.)*
 
-> Languida[?]
-> Anka[?]
+> Languida
+> ancora[?]
 > in bed
 
 
-**Transcriber's note:** Still in bed; the leading word is uncertain (possibly 'Languida'/languid). Bleed-through (mirror text) ignored.
+**Transcriber's note:** Still in bed; repeated note appears to read 'Languida ancora in bed' (Italian: still languid/weak), continuation of his Christmas illness. Bleed-through ignored.

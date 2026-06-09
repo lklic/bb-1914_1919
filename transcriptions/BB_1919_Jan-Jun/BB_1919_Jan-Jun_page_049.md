@@ -6,7 +6,7 @@ side: left
 spread: 25
 page_type: entry
 location: Hyeres
-people: [Bourgah[?], Ojetti[?]]
+people: [Bourgah[?]]
 ---
 
 # BB_1919_Jan-Jun — page 49 (left)
@@ -15,15 +15,16 @@ people: [Bourgah[?], Ojetti[?]]
 
 ## April 5 — Saturday
 
-> Bourgah[?]
-> dine[?]
+> *(no writing)*
 
 ## April 6 — Sunday
 
 *(printed: 5th Sunday in Lent.)*
 
-> Ojetti[?]
+> Bourgah[?]
+> dine[?]
+> Giens[?]
 
-**People:** Bourgah[?], Ojetti[?]  
+**People:** Bourgah[?]  
 
-**Transcriber's note:** Handwriting in ink. Day-header dotted lines carry small printed code letters (T). Faint mirror-reversed bleed-through ignored. The Saturday entry reads possibly a surname 'Bourgah' with 'dine' below; Sunday a name possibly 'Ojetti' (Ugo Ojetti?). Both uncertain.
+**Transcriber's note:** Handwriting in ink, confirmed in bleed-suppressed image. Heavy faint bleed-through in original is suppressed in the clean version and ignored. The two-line entry 'Bourgah / dine' sits between the April 5 and April 6 headers (assigned to April 6 / Sunday). A short word below the Sunday header reads possibly 'Giens'. 'Bourgah' surname recurs on the right page (April 8).

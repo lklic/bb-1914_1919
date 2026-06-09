@@ -5,13 +5,13 @@ page: 27
 side: left
 spread: 14
 page_type: entry
-location: Ford Place, Arundel (Sussex)
+location: Ford
 people: [Ford, Scott]
 ---
 
 # BB_1914_Jul-Dec — page 27 (left)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## August 31 — Monday
 
@@ -28,4 +28,4 @@ people: [Ford, Scott]
 
 **People:** Ford, Scott  
 
-**Transcriber's note:** Pencil. 'Hirth Ancient Hist of China' likely a book reference (Friedrich Hirth, The Ancient History of China). 'Ford' recurs across both days. Heavy mirror-reversed bleed-through ignored.
+**Transcriber's note:** Ink. 'Hirth Ancient Hist of China' likely a book reference (Friedrich Hirth, The Ancient History of China). 'Ford' recurs across both days. Heavy bluish/mirror bleed-through in original ignored; only dark strokes confirmed in suppressed image transcribed.

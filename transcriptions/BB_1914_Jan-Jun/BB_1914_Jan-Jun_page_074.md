@@ -5,13 +5,13 @@ page: 74
 side: right
 spread: 37
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Gravina, Bacon[?], Bayard Burton[?]]
+location: Florence
+people: [Gravina, Bayeoa Burrow[?]]
 ---
 
 # BB_1914_Jan-Jun — page 74 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## May 29 — Friday
 
@@ -21,12 +21,8 @@ people: [Gravina, Bacon[?], Bayard Burton[?]]
 
 ## May 30 — Saturday
 
-*(printed: Whit Monday (Bank Holiday))*
+> Bayeoa Burrow[?]
 
-> Bacon[?]
-> Lucia[?] [illegible]
-> Bayard[?] Burton[?]
+**People:** Gravina, Bayeoa Burrow[?]  
 
-**People:** Gravina, Bacon[?], Bayard Burton[?]  
-
-**Transcriber's note:** May 29 has a clear inked line 'Gravina to din[?]' (Gravina to dinner). May 30 entries faint pencil, largely illegible; possible names 'Bayard Burton'. Heavy mirror bleed-through across both days. Printed sub-note 'Oaks.' under May 29.
+**Transcriber's note:** Faint upper script is bleed-through (gone in the suppressed image). Real dark ink: bold cursive 'Gravina to din[e]' across the May 29 area, and 'Bayeoa Burrow[?]' at the bottom (uncertain reading of a personal name).

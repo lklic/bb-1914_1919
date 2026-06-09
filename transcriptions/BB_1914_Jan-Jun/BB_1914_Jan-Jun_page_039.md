@@ -26,4 +26,4 @@ people: [Lanier, Battle[?]]
 **Places:** Bryn Mawr  
 **People:** Lanier, Battle[?]  
 
-**Transcriber's note:** March 20: 'Bryn Mawr'. March 21: tea with Lanier, dine with Battle[?]. Considerable mirror-reversed bleed-through ignored. Berenson appears to be in the Philadelphia / Bryn Mawr area (USA lecture tour).
+**Transcriber's note:** March 20: 'Bryn Mawr'. March 21: tea with Lanier, dine Battle[?]. Considerable mirror-reversed bleed-through in original ignored; handwriting confirmed by bleed-suppressed image.

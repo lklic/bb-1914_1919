@@ -6,8 +6,8 @@ side: right
 spread: 4
 page_type: entry
 location: London
-places: [39 Brook St., 18 Grosvenor Sq., 46 Grosvenor Street, Sington Palace[?]]
-people: [Crawshay, Leoni[?], Mrs. Astor, C. P., Lady Lewis]
+places: [39 Brook St., 18 Grosvenor Sq., Palace Court, 46 Grosvenor Street]
+people: [Crawshay, Leonie, Mrs. Astor, C. P., Lady Lewis]
 ---
 
 # BB_1914_Jul-Dec — page 8 (right)
@@ -18,22 +18,22 @@ people: [Crawshay, Leoni[?], Mrs. Astor, C. P., Lady Lewis]
 
 > 1.30 Crawshay
 > 5.15. 39 Brook St.
-> 4.30. Leoni[?]
-> Offaulkrenza[?], 9 Key[?]
-> Sington Palace Tourt[?]
+> 4.30. Leonie[?]
+> Offaulkrener[?], 9 Key[?]
+> Singfore[?] Palace Court[?]
 
 ## July 17 — Friday
 
-*(printed: 6th Sunday after Trinity)*
+*(printed: 6th Sunday after Trinity.)*
 
 > 18 Grosvenor Sq.
-> 1.30 Mrs. Astor
-> 5 C. P. comes to tea
+> 1.30 Mrs. Astor[?]
+> 5 C. P. coming to tea
 > Lady Lewis 8.30
-> 10.30 Cd plays 46 Gros-
+> 10.30 Spfger[?] 46 Gros-
 > venor Street[?]
 
-**Places:** 39 Brook St., 18 Grosvenor Sq., 46 Grosvenor Street, Sington Palace[?]  
-**People:** Crawshay, Leoni[?], Mrs. Astor, C. P., Lady Lewis  
+**Places:** 39 Brook St., 18 Grosvenor Sq., Palace Court, 46 Grosvenor Street  
+**People:** Crawshay, Leonie, Mrs. Astor, C. P., Lady Lewis  
 
-**Transcriber's note:** London entries, heavy mirror bleed-through across both pages (ignored). Several place/name readings uncertain: 'Offaulkrenza 9 Key', 'Sington Palace Tourt', 'Leoni'.
+**Transcriber's note:** London entries. Heavy blue/grey bleed-through swirls fill the original; ignored. Real pencil strokes confirmed in bleed-suppressed image. Several names/places uncertain.

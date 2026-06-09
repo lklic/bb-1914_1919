@@ -5,20 +5,20 @@ page: 84
 side: right
 spread: 42
 page_type: entry
-location: Settignano (I Tatti, Florence)
-people: [Mrs. Strong, Harrach[?], Mara[?], B. Humphreys Holm[?], Miss Lou Land[?]]
+location: Florence
+people: [Mrs. Strong, Harrach, Mara[?], B. Humphreys Holm[?], Miss Lou Land]
 ---
 
 # BB_1914_Jan-Jun — page 84 (right)
 
-*Location: **Settignano (I Tatti, Florence)***
+*Location: **Florence***
 
 ## June 18 — Thursday
 
 *(printed: Ascot Cup.)*
 
 > Mrs. Strong
-> Harrach[?] & Mara[?]
+> Harrach, & Mara[?]
 > B. Humphreys Holm[?]
 > to dine
 
@@ -29,6 +29,6 @@ people: [Mrs. Strong, Harrach[?], Mara[?], B. Humphreys Holm[?], Miss Lou Land[?
 > Miss Lou Land[?]
 > Mrs. Strong
 
-**People:** Mrs. Strong, Harrach[?], Mara[?], B. Humphreys Holm[?], Miss Lou Land[?]  
+**People:** Mrs. Strong, Harrach, Mara[?], B. Humphreys Holm[?], Miss Lou Land  
 
-**Transcriber's note:** London. Continued social engagements; several names highly uncertain (pencil, faint, bleed-through).
+**Transcriber's note:** Ink handwriting confirmed in suppressed image. June 18 has interlined/crossed lines making some names highly uncertain.

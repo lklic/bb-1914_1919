@@ -6,7 +6,8 @@ side: left
 spread: 7
 page_type: entry
 location: Paris
-people: [Rohan-Chabot, La Rochefoucauld[?]]
+places: [La Rochefou[cauld?]]
+people: [Rohan-Chabot, La Rochefoucauld[?], Goluchow[?]]
 ---
 
 # BB_1919_Jan-Jun — page 13 (left)
@@ -17,17 +18,18 @@ people: [Rohan-Chabot, La Rochefoucauld[?]]
 
 > 1. G.
 > 5 Goluchow[?]
-> 1. 15 La Roche[f]ou[cauld?]
+> x. 15 La Rochefou[cauld?]
 
 ## January 24 — Friday
 
-*(printed: 4h. 22m., morn.)*
+*(printed: ( 4h. 22m., morn.)*
 
 > 12-35 R[illegible]
 > 5. G.
-> 4. 15 Rohan-Chabot
+> 4. 15 Rohan - Chabot
 > 8. [illegible] G.
 
-**People:** Rohan-Chabot, La Rochefoucauld[?]  
+**Places:** La Rochefou[cauld?]  
+**People:** Rohan-Chabot, La Rochefoucauld[?], Goluchow[?]  
 
-**Transcriber's note:** Pencil entries, faint. Numbers appear to be appointment times. 'Goluchow' uncertain (could be a name). 'La Roche...' likely La Rochefoucauld. Some bleed-through visible but ignored. He appears to be in Paris meeting French aristocratic families.
+**Transcriber's note:** Faint pencil entries; numbers are appointment times. Soft grey bleed-through ghosts in upper/middle of page ignored (not present in bleed-suppressed image).

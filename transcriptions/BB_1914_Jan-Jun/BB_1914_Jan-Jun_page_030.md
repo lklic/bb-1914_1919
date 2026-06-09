@@ -25,10 +25,10 @@ people: [Jacobs[?], Cary[?], Thomas]
 
 > Baltimore
 > Cary[?]
-> 5 Jacobs[?]
+> 5 Jacobs[?] [struck through]
 > 7.30 Thomas
 
 **Places:** Baltimore  
 **People:** Jacobs[?], Cary[?], Thomas  
 
-**Transcriber's note:** Pencil. 'Jacobs' and 'Cary' uncertain. Bleed-through ignored.
+**Transcriber's note:** Pencil. 'Jacobs' struck through on March 3. 'Cary' uncertain. Bleed-through ignored.

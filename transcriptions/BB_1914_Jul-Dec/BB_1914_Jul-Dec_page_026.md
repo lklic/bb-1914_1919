@@ -5,17 +5,17 @@ page: 26
 side: right
 spread: 13
 page_type: entry
-location: Ford Place, Arundel (Sussex)
-people: [Mr Parrish[?], Miss P., G. Moore, Zangwill]
+location: Ford
+people: [Mr Parrish, Miss P., G. Moore, Zangwill]
 ---
 
 # BB_1914_Jul-Dec — page 26 (right)
 
-*Location: **Ford Place, Arundel (Sussex)***
+*Location: **Ford***
 
 ## August 29 — Saturday
 
-> Ford book[?]
+> Ford
 > Mr Parrish[?] & Miss
 > P. to tea
 
@@ -27,6 +27,6 @@ people: [Mr Parrish[?], Miss P., G. Moore, Zangwill]
 > Tea with
 > Zangwill
 
-**People:** Mr Parrish[?], Miss P., G. Moore, Zangwill  
+**People:** Mr Parrish, Miss P., G. Moore, Zangwill  
 
-**Transcriber's note:** G. Moore's 'Salve' (book by George Moore). Tea with Zangwill (Israel Zangwill). Printed 'H' at bottom right corner.
+**Transcriber's note:** Faint marks right of 'Ford' are bleed-through, ignored. Printed 'H' (section mark) at lower right. 'G. Moore's Salve' = George Moore's memoir 'Salve'; Zangwill = Israel Zangwill.

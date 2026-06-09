@@ -6,7 +6,7 @@ side: left
 spread: 21
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-people: [Hadou Ellis[?]]
+people: [Havelock Ellis[?]]
 ---
 
 # BB_1919_Jan-Jun — page 41 (left)
@@ -15,13 +15,13 @@ people: [Hadou Ellis[?]]
 
 ## March 20 — Thursday
 
-> Hadou Ellis[?]
+> Havelock Ellis[?]
 > lunch with us
 
 ## March 21 — Friday
 
 > *(no writing)*
 
-**People:** Hadou Ellis[?]  
+**People:** Havelock Ellis[?]  
 
-**Transcriber's note:** March 20 has two lines of ink: a name (possibly 'Havelock Ellis'?) and 'lunch with us'. March 21 appears blank apart from bleed-through. Some faint mirror-reversed show-through ignored.
+**Transcriber's note:** March 20 has two lines of ink confirmed in suppressed image: a name (likely 'Havelock Ellis') and 'lunch with us'. March 21 blank apart from bleed-through. Heavy mirror-reversed and forward show-through in original ignored.

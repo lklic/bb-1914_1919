@@ -26,4 +26,4 @@ people: [Nora, Mrs. Keep, Mrs. Harriman, Venizelos]
 
 **People:** Nora, Mrs. Keep, Mrs. Harriman, Venizelos  
 
-**Transcriber's note:** Heavy mirror-reversed bleed-through across the page. 4.30 entry on Aug 28 is largely illegible.
+**Transcriber's note:** Heavy bleed-through across the page, but handwriting confirmed in bleed-suppressed version. Last line of Aug 28 runs off the right edge and is largely uncertain.
