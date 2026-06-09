@@ -79,7 +79,7 @@ h1,h2{font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;f
 .dateline .wd{color:var(--printed);opacity:.75;font-size:13px;margin-left:6px}
 .pnote{color:var(--muted);font-size:11.5px;font-style:italic;margin:1px 0 6px}
 .hand{display:block;color:var(--hand);font-size:15px;white-space:pre-wrap;
-  font-family:"Bradley Hand","Segoe Script","Comic Sans MS",cursive}
+  font-family:inherit}
 .hand.empty{color:var(--muted);font-style:italic;font-size:12.5px;font-family:inherit}
 .loose{margin:4px 0 0}
 .loose .hand{margin:2px 0}
