@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bernard Berenson — Pocket Diaries 1914 &amp; 1919</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <h1>Bernard Berenson · Pocket Diaries</h1>
+    <span class="sub">Diplomatic transcriptions · 1914 &amp; 1919</span>
+  </div>
+  <nav class="books" id="bookTabs"></nav>
+  <div class="topactions">
+    <button id="viewToggle" class="btn" title="Toggle single / two-page view">Two-page</button>
+    <a class="btn ghost" href="itinerary.html" title="Reconstructed itinerary & mapping data">Itinerary</a>
+    <a id="manifestLink" class="btn ghost" target="_blank" rel="noopener" title="IIIF Presentation manifest">IIIF</a>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="stage">
+    <div class="stagebar">
+      <button id="prev" class="navbtn" title="Previous page (←)">‹</button>
+      <div class="pagemeta">
+        <span id="pageLabel">—</span>
+        <span id="locBadge" class="loc"></span>
+      </div>
+      <button id="next" class="navbtn" title="Next page (→)">›</button>
+    </div>
+    <div id="osd" class="osd"></div>
+    <div class="slider">
+      <input type="range" id="pageRange" min="0" max="0" value="0">
+    </div>
+    <div id="filmstrip" class="filmstrip"></div>
+  </section>
+
+  <section class="panel" id="transPanel">
+    <div class="panelhead">
+      <h2>Transcription</h2>
+      <div class="legend">
+        <span class="lg printed">printed</span>
+        <span class="lg hand">handwritten</span>
+        <span class="lg unc">uncertain</span>
+      </div>
+    </div>
+    <div id="transBody" class="transbody"></div>
+  </section>
+</main>
+
+<div id="loading" class="loading">Loading diaries…</div>
+
+<script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1.0/build/openseadragon/openseadragon.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

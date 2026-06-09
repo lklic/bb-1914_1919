@@ -1,0 +1,37 @@
+---
+book: BB_1914_Jan-Jun
+year: 1914
+page: 40
+side: right
+spread: 20
+page_type: entry
+location: Bryn Mawr
+places: [Longue Vue, 325 N. 82d[?]]
+people: [Elsie, Chapman, Mrs. Lanier, Battle[?]]
+---
+
+# BB_1914_Jan-Jun — page 40 (right)
+
+*Location: **Bryn Mawr***
+
+## March 22 — Sunday
+
+*(printed: 4th Sunday in Lent.)*
+
+> Lunch Elsie 1.30
+> Tea Longue Vue
+> Dine Battle[?]
+
+## March 23 — Monday
+
+*(printed: Quarter Day.)*
+
+> 1 Chapman
+> 325 N. 82 d[?]
+> 3.15 Mrs. Lanier
+> Dine Battle[?]
+
+**Places:** Longue Vue, 325 N. 82d[?]  
+**People:** Elsie, Chapman, Mrs. Lanier, Battle[?]  
+
+**Transcriber's note:** March 22: lunch with Elsie 1.30, tea at Longue Vue, dine with Battle[?]. March 23: '1 Chapman', address '325 N. 82d[?]', 3.15 Mrs. Lanier, dine Battle[?]. A small printed 'c' in lower right margin. Heavy mirror bleed-through ignored.

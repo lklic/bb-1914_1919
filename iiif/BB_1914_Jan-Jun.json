@@ -1,0 +1,2892 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "./iiif/BB_1914_Jan-Jun.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "Bernard Berenson Pocket Diary — 1914 · Jan–Jun"
+  ]
+ },
+ "items": [
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/1",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 1 · London / New York (address-book flyleaves)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/1/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_001.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/2",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 2 · London / New York (address-book flyleaves)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/2/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_002.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/3",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 3 · Montreal"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/3/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_003.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/4",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 4 · Montreal"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/4/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_004.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/5",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 5 · Montreal"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/5/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_005.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/6",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 6 · Montreal"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/6/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_006.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/7",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 7 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/7/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_007.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/8",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 8 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/8/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_008.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/9",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 9 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/9/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/9/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_009.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/10",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 10 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/10/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/10/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_010.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/10"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/11",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 11 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/11/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/11/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_011.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/11"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/12",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 12 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/12/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/12/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_012.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/12"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/13",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 13 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/13/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/13/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_013.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/13"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/14",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 14 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/14/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/14/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_014.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/14"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/15",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 15 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/15/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/15/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_015.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/16",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 16 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/16/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/16/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_016.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/16"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/17",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 17 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/17/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/17/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_017.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/17"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/18",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 18 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/18/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/18/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_018.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/18"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/19",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 19 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/19/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/19/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_019.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/20",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 20 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/20/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/20/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_020.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/21",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 21 · Mount Kisco"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/21/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/21/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_021.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/21"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/22",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 22 · Mount Kisco"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/22/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/22/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_022.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/22"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/23",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 23 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/23/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/23/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_023.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/23"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/24",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 24 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/24/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/24/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_024.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/24"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/25",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 25 · Detroit"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/25/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/25/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_025.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/26",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 26 · Detroit"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/26/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/26/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_026.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/26"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/27",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 27 · Northampton"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/27/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/27/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_027.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/27"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/28",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 28 · Northampton"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/28/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/28/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_028.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/28"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/29",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 29 · Baltimore"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/29/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/29/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_029.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/29"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/30",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 30 · Baltimore"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/30/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/30/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_030.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/30"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/31",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 31 · Baltimore"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/31/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/31/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_031.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/32",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 32 · Baltimore"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/32/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/32/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_032.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/32"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/33",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 33 · Washington"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/33/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/33/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_033.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/34",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 34 · Washington"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/34/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/34/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_034.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/34"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/35",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 35 · Washington"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/35/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/35/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_035.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/35"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/36",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 36 · Washington"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/36/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/36/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_036.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/36"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/37",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 37 · Bryn Mawr"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/37/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/37/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_037.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/37"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/38",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 38 · Bryn Mawr"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/38/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/38/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_038.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/38"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/39",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 39 · Bryn Mawr"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/39/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/39/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_039.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/39"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/40",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 40 · Bryn Mawr"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/40/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/40/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_040.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/40"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/41",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 41 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/41/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/41/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_041.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/41"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/42",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 42 · New York"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/42/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/42/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_042.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/42"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/43",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 43 · RMS Olympic (at sea, North Atlantic)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/43/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/43/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_043.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/43"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/44",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 44 · RMS Olympic (at sea, North Atlantic)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/44/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/44/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_044.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/44"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/45",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 45 · RMS Olympic (at sea) / Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/45/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/45/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_045.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/45"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/46",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 46 · RMS Olympic (at sea) / Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/46/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/46/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_046.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/47",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 47 · Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/47/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/47/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_047.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/48",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 48 · Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/48/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/48/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_048.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/48"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/49",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 49 · Maisons-Laffitte / Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/49/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/49/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_049.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/49"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/50",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 50 · Maisons-Laffitte / Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/50/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/50/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_050.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/50"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/51",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 51 · Saint-Jean-Cap-Ferrat"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/51/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/51/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_051.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/51"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/52",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 52 · Saint-Jean-Cap-Ferrat"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/52/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/52/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_052.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/52"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/53",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 53 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/53/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/53/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_053.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/53"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/54",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 54 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/54/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/54/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_054.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/54"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/55",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 55 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/55/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/55/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_055.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/55"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/56",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 56 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/56/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/56/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_056.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/56"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/57",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 57 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/57/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/57/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_057.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/57"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/58",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 58 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/58/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/58/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_058.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/58"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/59",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 59 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/59/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/59/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_059.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/59"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/60",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 60 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/60/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/60/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_060.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/60"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/61",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 61 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/61/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/61/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_061.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/61"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/62",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 62 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/62/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/62/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_062.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/62"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/63",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 63 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/63/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/63/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_063.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/63"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/64",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 64 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/64/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/64/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_064.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/64"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/65",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 65 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/65/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/65/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_065.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/65"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/66",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 66 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/66/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/66/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_066.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/66"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/67",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 67 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/67/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/67/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_067.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/67"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/68",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 68 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/68/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/68/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_068.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/68"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/69",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 69 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/69/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/69/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_069.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/69"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/70",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 70 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/70/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/70/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_070.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/70"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/71",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 71 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/71/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/71/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_071.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/71"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/72",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 72 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/72/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/72/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_072.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/72"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/73",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 73 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/73/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/73/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_073.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/73"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/74",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 74 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/74/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/74/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_074.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/74"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/75",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 75 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/75/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/75/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_075.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/75"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/76",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 76 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/76/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/76/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_076.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/76"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/77",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 77 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/77/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/77/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_077.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/77"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/78",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 78 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/78/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/78/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_078.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/78"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/79",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 79 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/79/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/79/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_079.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/79"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/80",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 80 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/80/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/80/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_080.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/80"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/81",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 81 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/81/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/81/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_081.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/81"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/82",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 82 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/82/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/82/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_082.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/82"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/83",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 83 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/83/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/83/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_083.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/83"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/84",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 84 · Settignano (I Tatti, Florence)"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/84/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/84/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_084.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/84"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/85",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 85 · Cremona"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/85/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/85/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_085.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/85"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/86",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 86 · Cremona"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/86/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/86/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_086.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/86"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/87",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 87 · Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/87/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/87/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_087.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/87"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/88",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 88 · Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/88/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/88/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_088.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/88"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/89",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 89 · Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/89/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/89/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_089.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/89"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "./iiif/BB_1914_Jan-Jun/canvas/90",
+   "type": "Canvas",
+   "height": 1265,
+   "width": 1059,
+   "label": {
+    "en": [
+     "p. 90 · Paris"
+    ]
+   },
+   "items": [
+    {
+     "id": "./iiif/BB_1914_Jan-Jun/canvas/90/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "./iiif/BB_1914_Jan-Jun/canvas/90/page/anno",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "./images/BB_1914_Jan-Jun/BB_1914_Jan-Jun_page_090.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 1265,
+        "width": 1059
+       },
+       "target": "./iiif/BB_1914_Jan-Jun/canvas/90"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

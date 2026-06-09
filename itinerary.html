@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Itinerary — Bernard Berenson Pocket Diaries</title>
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  body{overflow:auto}
+  .wrap{max-width:900px;margin:0 auto;padding:84px 26px 80px}
+  .itin{display:flex;gap:10px;margin:0 0 22px;flex-wrap:wrap}
+  .itin button{background:#322c24;border:1px solid var(--line);color:var(--ink);padding:8px 16px;border-radius:8px;cursor:pointer}
+  .itin button.active{background:var(--accent);color:#221d12;border-color:var(--accent);font-weight:600}
+  .doc{line-height:1.65;font-size:15px}
+  .doc h1{font-size:24px;border-bottom:1px solid var(--line);padding-bottom:10px;margin-top:0}
+  .doc h2{font-size:18px;color:var(--accent);margin-top:28px}
+  .doc h3{font-size:15px;color:var(--accent2)}
+  .doc a{color:var(--accent)}
+  .doc code{background:#2a2620;padding:1px 5px;border-radius:4px}
+  .doc table{border-collapse:collapse;width:100%;font-size:13.5px}
+  .doc th,.doc td{border:1px solid var(--line);padding:6px 9px;text-align:left}
+  .doc ul{padding-left:20px}
+  .downloads{margin:8px 0 18px;font-size:13px;color:var(--muted)}
+  .downloads a{color:var(--accent);margin-right:14px}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><h1>Bernard Berenson · Itinerary</h1><span class="sub">Reconstructed from the pocket diaries</span></div>
+  <div class="topactions"><a class="btn ghost" href="index.html">‹ Back to diaries</a></div>
+</header>
+<div class="wrap">
+  <div class="itin">
+    <button data-y="1914" class="active">1914</button>
+    <button data-y="1919">1919</button>
+  </div>
+  <div class="downloads">
+    Mapping data:
+    <a href="data/locations.csv" download>locations.csv</a>
+    <a href="data/itinerary.json" download>itinerary.json</a>
+  </div>
+  <div id="doc" class="doc">Loading…</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script>
+async function load(y){
+  document.querySelectorAll('.itin button').forEach(b=>b.classList.toggle('active',b.dataset.y===y));
+  const md = await (await fetch(`data/itinerary_${y}.md`,{cache:'no-store'})).text();
+  document.getElementById('doc').innerHTML = marked.parse(md);
+}
+document.querySelectorAll('.itin button').forEach(b=>b.onclick=()=>load(b.dataset.y));
+load('1914');
+</script>
+</body>
+</html>

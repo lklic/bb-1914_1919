@@ -1,0 +1,32 @@
+---
+book: BB_1919_Jul-Dec
+year: 1919
+page: 9
+side: left
+spread: 5
+page_type: entry
+location: Paris
+people: [Lazzaroni, Curtis, Elgar, Geoffrey, Miss Thomas]
+---
+
+# BB_1919_Jul-Dec — page 9 (left)
+
+*Location: **Paris***
+
+## July 18 — Friday
+
+> 11.30 Lazzaroni
+> 12.45 Curtis
+
+## July 19 — Saturday
+
+> dentist
+> Renewed[?] my
+> new PASSPORT
+> Schone[?] Lanfranchi[?]
+> Elgar & Geoffrey[?]
+> Miss Thomas[?]
+
+**People:** Lazzaroni, Curtis, Elgar, Geoffrey, Miss Thomas  
+
+**Transcriber's note:** Lower lines on July 19 are very hard to read and overlap with bleed-through. 'Renewed my new passport' interpreted from PASSPORT in block capitals. Several names uncertain.
