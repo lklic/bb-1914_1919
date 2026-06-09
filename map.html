@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Itinerary Map — Bernard Berenson Pocket Diaries</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  body{overflow:hidden}
+  #map{position:fixed;top:var(--toph);left:0;right:0;bottom:0;background:#0d1117}
+  .leaflet-container{background:#11151c;font-family:inherit}
+  .leaflet-popup-content-wrapper,.leaflet-popup-tip{background:#23201c;color:var(--ink);border:1px solid var(--line)}
+  .leaflet-popup-content{margin:11px 14px;font-size:13px;line-height:1.45}
+  .pop-place{font-family:"Iowan Old Style",Palatino,Georgia,serif;font-size:15px;color:var(--accent);font-weight:600}
+  .pop-date{color:var(--printed);font-size:12.5px;margin:2px 0 6px}
+  .pop-act{color:var(--ink);font-size:12.5px}
+  .pop-meta{color:var(--muted);font-size:11px;margin-top:6px}
+  .pop-meta a{color:var(--accent)}
+  .pin{display:flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;
+    font-size:11px;font-weight:700;color:#15120d;border:2px solid rgba(0,0,0,.35);box-shadow:0 1px 4px rgba(0,0,0,.5)}
+  .pin.ocean{background:transparent!important;border-style:dashed;color:#fff}
+  /* control panel */
+  .panelmap{position:absolute;z-index:1000;top:14px;left:14px;background:rgba(30,27,23,.94);
+    border:1px solid var(--line);border-radius:12px;padding:14px 16px;max-width:280px;backdrop-filter:blur(4px)}
+  .panelmap h2{margin:0 0 4px;font-size:16px}
+  .panelmap p{margin:0 0 12px;font-size:11.5px;color:var(--muted);line-height:1.4}
+  .yr{display:flex;align-items:center;gap:9px;margin:7px 0;cursor:pointer;font-size:13.5px}
+  .yr .sw{width:26px;height:5px;border-radius:3px;flex:0 0 auto}
+  .yr input{accent-color:var(--accent)}
+  .yr .cnt{color:var(--muted);font-size:11px;margin-left:auto}
+  .hint{font-size:10.5px;color:var(--muted);margin-top:10px;border-top:1px solid var(--line);padding-top:9px}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><h1>Bernard Berenson · Itinerary Map</h1><span class="sub">Reconstructed routes, 1914 &amp; 1919</span></div>
+  <div class="topactions">
+    <a class="btn ghost" href="itinerary.html">List view</a>
+    <a class="btn ghost" href="index.html">‹ Diaries</a>
+  </div>
+</header>
+<div id="map"></div>
+<div class="panelmap">
+  <h2>Routes</h2>
+  <p>Each point is a place Berenson recorded, in order; lines connect consecutive stays. Click a point for dates &amp; what he was doing.</p>
+  <div id="years"></div>
+  <div class="hint">Inferred from his handwriting &amp; date/geography logic — treat as hypotheses. Dashed point = Atlantic crossing.</div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet-polylinedecorator@1.6.0/dist/leaflet.polylineDecorator.js"></script>
+<script>
+const esc=s=>(s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+(async function(){
+  const data = await (await fetch('data/map_data.json',{cache:'no-store'})).json();
+  const map = L.map('map',{zoomControl:true,worldCopyJump:true}).setView([45,2],4);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{
+    attribution:'&copy; OpenStreetMap &copy; CARTO', subdomains:'abcd', maxZoom:19}).addTo(map);
+
+  const groups={}, allBounds=[];
+  data.routes.forEach(route=>{
+    const g=L.layerGroup().addTo(map);
+    groups[route.year]=g;
+    const latlngs=route.stops.filter(s=>s.lat!=null).map(s=>[s.lat,s.lng]);
+    const line=L.polyline(latlngs,{color:route.color,weight:3,opacity:.75}).addTo(g);
+    L.polylineDecorator(line,{patterns:[{offset:18,repeat:90,
+      symbol:L.Symbol.arrowHead({pixelSize:9,pathOptions:{color:route.color,fillOpacity:.85,weight:0}})}]}).addTo(g);
+    route.stops.forEach((s,i)=>{
+      if(s.lat==null) return;
+      allBounds.push([s.lat,s.lng]);
+      const icon=L.divIcon({className:'',html:`<div class="pin${s.ocean?' ocean':''}" style="background:${route.color}">${i+1}</div>`,
+        iconSize:[22,22],iconAnchor:[11,11]});
+      const conf=s.confidence?` · <span style="color:${s.confidence==='low'?'#e0a96d':'var(--muted)'}">${s.confidence} confidence</span>`:'';
+      L.marker([s.lat,s.lng],{icon}).addTo(g).bindPopup(
+        `<div class="pop-place">${i+1}. ${esc(s.display)}</div>`+
+        `<div class="pop-date">${esc(s.label)}, ${esc(s.year_disp)}</div>`+
+        (s.activity?`<div class="pop-act">${esc(s.activity)}</div>`:'')+
+        `<div class="pop-meta">${esc(s.country)}${conf}<br><a href="${s.link}">↪ open this page in the viewer</a></div>`);
+    });
+  });
+  if(allBounds.length) map.fitBounds(allBounds,{padding:[60,60]});
+  const hm=location.hash.match(/m=(-?[\d.]+),(-?[\d.]+),(\d+)/);
+  if(hm) map.setView([+hm[1],+hm[2]],+hm[3]);
+
+  const yc=document.getElementById('years');
+  data.routes.forEach(route=>{
+    const n=route.stops.filter(s=>s.lat!=null).length;
+    const lab=document.createElement('label'); lab.className='yr';
+    lab.innerHTML=`<input type="checkbox" checked data-y="${route.year}"><span class="sw" style="background:${route.color}"></span>${route.year}<span class="cnt">${n} stops</span>`;
+    lab.querySelector('input').onchange=e=>{ e.target.checked?groups[route.year].addTo(map):map.removeLayer(groups[route.year]); };
+    yc.appendChild(lab);
+  });
+})();
+</script>
+</body>
+</html>
