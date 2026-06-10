@@ -27,10 +27,10 @@ people:
 
 ## January 22 — Thursday
 
-> 11 Rockeffler[?] Inst.
-> Took q 6.66 th
+> 11 Rockeffeler Inst.
+> Foot[?] of E.66th
 > Ave. A.
-> Dine Prince Po[?]
+> Dine Princeton
 
 **Places:** Rockefeller Inst., 66th Ave.  
 **People:** Burroughs, Sherrills, Miss Sands  
