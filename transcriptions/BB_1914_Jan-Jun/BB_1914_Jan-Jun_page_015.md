@@ -7,7 +7,7 @@ spread: 8
 page_type: entry
 location: New York
 people:
-  - DeKoven
+  - De Koven
   - Alexander
 ---
 
@@ -19,17 +19,15 @@ people:
 
 *(printed: Partridge and Pheasant Shooting ends.)*
 
-> B. G.
-> dine[?] DeKoven[?]
+> Dine B. G. ~~Mrs. Meyer~~ ~~De Koven~~ 
 
 ## February 1 — Sunday
 
 *(printed: 4th Sunday after Epiphany.)*
 
 > Lunch Alexander
-> (W. P. B.[?])
-> Dine DeKoven
+> Dine De Koven
 
-**People:** DeKoven, Alexander  
+**People:** De Koven, Alexander  
 
 **Transcriber's note:** Pencil entries, partly faint with heavy bleed-through. 'B. G.' written in ink above a struck-through name (Mrs Hyde?). Several words uncertain; 'DeKoven' appears twice. Only strokes confirmed in the bleed-suppressed image are transcribed.
