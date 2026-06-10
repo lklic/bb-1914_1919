@@ -22,7 +22,7 @@ places:
 > B.G. Murray Hill
 > 2, Residence[?]
 > 104 E. 40th
-> 428 Murray Hill
+> 928 Murray Hill
 > D. 720 Fifth. Plaza
 > 1024
 > Huntington 1083
