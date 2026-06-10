@@ -26,7 +26,7 @@ people:
 ## January 20 — Tuesday
 
 > 1 Hewitt[?] q day[?]
-> ngton Ho[?]
+> ngton Ave.
 > Tea Away Morgan
 > Dine Harden
 > 9 p.m B
