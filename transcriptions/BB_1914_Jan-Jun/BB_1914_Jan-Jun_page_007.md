@@ -26,7 +26,7 @@ places:
 *(printed: O 5h. 9m., morn.)*
 
 > New York
-> Biltei[?]
+> Belle[?]
 
 **Places:** Montreal, New York  
 
