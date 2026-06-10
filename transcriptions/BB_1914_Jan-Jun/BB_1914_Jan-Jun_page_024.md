@@ -7,7 +7,7 @@ spread: 12
 page_type: entry
 location: New York
 people:
-  - Kahn[?]
+  - O. Kahn[?]
   - Havemeyer
   - Flexner[?]
   - Miss Reynold[?]
@@ -19,15 +19,15 @@ people:
 
 ## February 18 — Wednesday
 
-> 1.30, 0. Kahn[?] 8 Egg[?]
+> 1.30, O. Kahn[?] 8 E68
 > Havemeyer
-> Flexner[?] dining[?]
+> ~~Flexner~~ dine
 
 ## February 19 — Thursday
 
 > Miss Reynold[?]
 > B engaged[?]
 
-**People:** Kahn[?], Havemeyer, Flexner[?], Miss Reynold[?]  
+**People:** O. Kahn[?], Havemeyer, Flexner[?], Miss Reynold[?]  
 
 **Transcriber's note:** Ink at top of Wednesday. Feb 19 entries appear at the page bottom. 'B engaged' uncertain; printed 'B' page marker at lower right. Soft blue-grey bleed-through ghosts (center, below Feb 19 header) not in suppressed image and not transcribed.
