@@ -13,7 +13,7 @@ people:
   - Elsie
   - Chapman
   - Mrs. Lanier
-  - Battle[?]
+  - Belle
 ---
 
 # BB_1914_Jan-Jun — page 40 (right)
@@ -26,19 +26,18 @@ people:
 
 > lunch Elsie 1.30
 > Tea Longue Vue
-> Dine Battle[?]
+> Dine Belle
 
 ## March 23 — Monday
 
 *(printed: Quarter Day.)*
 
 > 1 Chapman
-> 325 N. 82 d[?]
+> 325 N. 82d
 > 3.15 Mrs. Lanier
-> Dine Battle[?]
-> c
+> Dine Belle
 
-**Places:** Longue Vue, 325 N. 82d[?]  
-**People:** Elsie, Chapman, Mrs. Lanier, Battle[?]  
+**Places:** Longue Vue, 325 N. 82d 
+**People:** Elsie, Chapman, Mrs. Lanier, Belle  
 
 **Transcriber's note:** March 22: lunch with Elsie 1.30, tea at Longue Vue, dine Battle[?]. March 23: '1 Chapman', address '325 N. 82d[?]', 3.15 Mrs. Lanier, dine Battle[?]. Small 'c' in lower right margin. Heavy bleed-through ignored; handwriting confirmed by bleed-suppressed image.
