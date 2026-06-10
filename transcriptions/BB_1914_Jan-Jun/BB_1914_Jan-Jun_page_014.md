@@ -21,8 +21,8 @@ people:
 *(printed: Partridge and Pheasant Shooting ends.)*
 
 > 1 p.m. lunch Elsie[?]
-> Tea 8
-> 8  7.30
+> Tea B
+> B  7.30
 
 ## January 30 — Friday
 
