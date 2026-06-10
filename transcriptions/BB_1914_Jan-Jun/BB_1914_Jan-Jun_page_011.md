@@ -21,13 +21,13 @@ people:
 
 > 1 Hutches'[?]
 > Dine Fletcher 8
-> dinner [B]
+> Dinner [B]
 
 ## January 20 — Tuesday
 
 > 1 Hewitt[?] q day[?]
 > ngton Ho[?]
-> Tea Aung Nogga[?]
+> Tea Away Morgan
 > Dine Harden
 > 9 p.m [B]
 
