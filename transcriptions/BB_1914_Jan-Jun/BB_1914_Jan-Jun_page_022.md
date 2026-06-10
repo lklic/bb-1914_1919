@@ -33,11 +33,11 @@ people:
 > Mount Kisko
 > Eugene
 > Meyer[?] & Balle[?]
-> Bengaqu[?]
+> B engaged[?]
 
 ### Other writing on page
 
-> Mary at philadelphia
+> Mary at Philadelphia
 
 **Places:** Mount Kisco  
 **People:** Eugene Meyer[?], Balle[?], Mary  
