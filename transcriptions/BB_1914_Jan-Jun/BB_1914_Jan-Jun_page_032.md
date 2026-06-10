@@ -8,6 +8,8 @@ page_type: entry
 location: Baltimore
 places:
   - Baltimore
+people:
+  - Belle
 ---
 
 # BB_1914_Jan-Jun — page 32 (right)
@@ -23,8 +25,9 @@ places:
 ## March 7 — Saturday
 
 > Baltimore
-> Balt.
+> Belle
 
-**Places:** Baltimore  
+**Places:** Baltimore 
+**People:** Belle
 
 **Transcriber's note:** Strong bleed-through in gutter and mid-page; bleed-suppressed image confirms 'Baltimore' under Mar 6 and 'Baltimore' (with 'Balt.' below) under Mar 7 as real dark strokes. Printed sub-note under Mar 6 appears mirror-reversed in the image.
