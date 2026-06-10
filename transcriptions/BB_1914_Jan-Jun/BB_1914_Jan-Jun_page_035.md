@@ -11,7 +11,7 @@ people:
   - Jackson
   - Lodge
   - H. Adams
-  - Slade[?]
+  - Slater[?]
 ---
 
 # BB_1914_Jan-Jun — page 35 (left)
@@ -22,17 +22,17 @@ people:
 
 *(printed: O 4h. 19m., morn.)*
 
-> lunch Jusserand)
+> lunch Jusserand
 > Tea Jackson
 > 8. Lodge
 
 ## March 13 — Friday
 
 > a. m. Congress.
-> social library
+> social[?] library
 > lunch H. Adams
-> dine Slade[?]
+> dine Slater[?]
 
-**People:** Jusserand, Jackson, Lodge, H. Adams, Slade[?]  
+**People:** Jusserand, Jackson, Lodge, H. Adams, Slater[?]  
 
 **Transcriber's note:** In Washington D.C. Lunch with Jusserand (French ambassador), tea Jackson, 8 o'clock Lodge; next day Congress, social library, lunch with H. Adams, dine Slade[?]. Faint blue-grey bleed-through ghosts in original confirmed absent in bleed-suppressed image.
