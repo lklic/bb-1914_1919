@@ -17,11 +17,16 @@
   .pop-act{color:var(--ink);font-size:12.5px}
   .pop-meta{color:var(--muted);font-size:11px;margin-top:6px}
   .pop-meta a{color:var(--accent)}
-  .pin{display:flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;
+  .pin{position:relative;display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;
     font-size:11px;font-weight:700;color:#15120d;border:2px solid rgba(0,0,0,.35);box-shadow:0 1px 4px rgba(0,0,0,.5)}
   .pin.ocean{background:transparent!important;border-style:dashed;color:#fff}
+  .vmore{position:absolute;top:-7px;right:-9px;background:#23201c;color:#fff;border:1px solid rgba(255,255,255,.45);
+    border-radius:9px;min-width:15px;height:15px;font-size:9px;line-height:13px;padding:0 2px;text-align:center;font-weight:700}
+  .pop-visit{border-top:1px dotted var(--line);padding:6px 0 5px}
+  .pop-visit:first-of-type{border-top:none}
+  .pop-link{color:var(--accent);font-size:11px;text-decoration:none}
   /* control panel */
-  .panelmap{position:absolute;z-index:1000;top:14px;left:14px;background:rgba(30,27,23,.94);
+  .panelmap{position:absolute;z-index:1000;top:calc(var(--toph) + 14px);left:14px;background:rgba(30,27,23,.94);
     border:1px solid var(--line);border-radius:12px;padding:14px 16px;max-width:280px;backdrop-filter:blur(4px)}
   .panelmap h2{margin:0 0 4px;font-size:16px}
   .panelmap p{margin:0 0 12px;font-size:11.5px;color:var(--muted);line-height:1.4}
@@ -59,24 +64,37 @@ const esc=s=>(s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;
     attribution:'&copy; OpenStreetMap &copy; CARTO', subdomains:'abcd', maxZoom:19}).addTo(map);
 
   const groups={}, allBounds=[];
-  data.routes.forEach(route=>{
+  data.routes.forEach((route,ri)=>{
+    const anchor=ri===0?[12,25]:[12,-1];   // stack years vertically so shared-place pins don't overlap
     const g=L.layerGroup().addTo(map);
     groups[route.year]=g;
     const latlngs=route.stops.filter(s=>s.lat!=null).map(s=>[s.lat,s.lng]);
     const line=L.polyline(latlngs,{color:route.color,weight:3,opacity:.75}).addTo(g);
     L.polylineDecorator(line,{patterns:[{offset:18,repeat:90,
       symbol:L.Symbol.arrowHead({pixelSize:9,pathOptions:{color:route.color,fillOpacity:.85,weight:0}})}]}).addTo(g);
-    route.stops.forEach((s,i)=>{
-      if(s.lat==null) return;
+    // merge stays at the same place into one numbered pin (number = order of first visit)
+    const order=[], by={}; let n=0;
+    route.stops.filter(s=>s.lat!=null).forEach(s=>{
+      const key=s.lat.toFixed(3)+','+s.lng.toFixed(3);
+      if(!(key in by)){ by[key]={num:++n, s, visits:[]}; order.push(key); }
+      by[key].visits.push(s);
+    });
+    groups[route.year]._count=order.length;
+    order.forEach(key=>{
+      const o=by[key], s=o.s, multi=o.visits.length>1;
       allBounds.push([s.lat,s.lng]);
-      const icon=L.divIcon({className:'',html:`<div class="pin${s.ocean?' ocean':''}" style="background:${route.color}">${i+1}</div>`,
-        iconSize:[22,22],iconAnchor:[11,11]});
-      const conf=s.confidence?` · <span style="color:${s.confidence==='low'?'#e0a96d':'var(--muted)'}">${s.confidence} confidence</span>`:'';
+      const icon=L.divIcon({className:'',iconSize:[24,24],iconAnchor:anchor,
+        html:`<div class="pin${s.ocean?' ocean':''}" style="background:${route.color}">${o.num}${multi?`<span class="vmore">${o.visits.length}</span>`:''}</div>`});
+      const visits=o.visits.map(v=>{
+        const conf=v.confidence?` · <span style="color:${v.confidence==='low'?'#e0a96d':'var(--muted)'}">${v.confidence}</span>`:'';
+        return `<div class="pop-visit"><span class="pop-date">${esc(v.label)}, ${esc(v.year_disp)}</span>${conf}`+
+               (v.activity?`<div class="pop-act">${esc(v.activity)}</div>`:'')+
+               `<a class="pop-link" href="${v.link}">↪ open page</a></div>`;
+      }).join('');
       L.marker([s.lat,s.lng],{icon}).addTo(g).bindPopup(
-        `<div class="pop-place">${i+1}. ${esc(s.display)}</div>`+
-        `<div class="pop-date">${esc(s.label)}, ${esc(s.year_disp)}</div>`+
-        (s.activity?`<div class="pop-act">${esc(s.activity)}</div>`:'')+
-        `<div class="pop-meta">${esc(s.country)}${conf}<br><a href="${s.link}">↪ open this page in the viewer</a></div>`);
+        `<div class="pop-place">${o.num}. ${esc(s.display)}</div>`+
+        `<div class="pop-meta">${esc(s.country)}${multi?` · visited ${o.visits.length}×`:''}</div>`+
+        visits, {maxHeight:280});
     });
   });
   if(allBounds.length) map.fitBounds(allBounds,{padding:[60,60]});
@@ -85,9 +103,9 @@ const esc=s=>(s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;
 
   const yc=document.getElementById('years');
   data.routes.forEach(route=>{
-    const n=route.stops.filter(s=>s.lat!=null).length;
+    const n=groups[route.year]._count;
     const lab=document.createElement('label'); lab.className='yr';
-    lab.innerHTML=`<input type="checkbox" checked data-y="${route.year}"><span class="sw" style="background:${route.color}"></span>${route.year}<span class="cnt">${n} stops</span>`;
+    lab.innerHTML=`<input type="checkbox" checked data-y="${route.year}"><span class="sw" style="background:${route.color}"></span>${route.year}<span class="cnt">${n} places</span>`;
     lab.querySelector('input').onchange=e=>{ e.target.checked?groups[route.year].addTo(map):map.removeLayer(groups[route.year]); };
     yc.appendChild(lab);
   });
