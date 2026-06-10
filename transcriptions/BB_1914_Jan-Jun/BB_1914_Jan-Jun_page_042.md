@@ -11,7 +11,8 @@ people:
   - Griswold[?]
   - Bryce[?]
   - Mrs Lewis[?]
-  - Steffan[?]
+  - Steffen[?]
+  - Belle
 ---
 
 # BB_1914_Jan-Jun — page 42 (right)
@@ -24,22 +25,23 @@ people:
 
 > Mrs Hewitt
 > Griswold[?]
-> 5 p.m. Bryce[?]
-> 11 E. 65 Bath[?]
+> 5 p.m. ~~Bryce[?]~~
+> 11 E. 65 Belle
+> Dine[?]
 
 ## March 27 — Friday
 
 *(printed: 5th Sunday in Lent.)*
 
 > Mrs Lewis[?]
-> + 10 a.m.
-> [illegible] Steffan[?]
-> of Prince to[?]
-> lunch
+> 10 a.m. ~~[illegible]~~
+> [illegible] Steffen[?]
+> 5 by[?] Prince to
+> Lunch
 > 5 Bryce 1025[?]
 > [illegible]
-> dine Bath[?]
+> Dine Belle
 
-**People:** Mrs Hewitt, Griswold[?], Bryce[?], Mrs Lewis[?], Steffan[?]  
+**People:** Mrs Hewitt, Griswold[?], Bryce[?], Mrs Lewis[?], Steffan[?], Belle 
 
 **Transcriber's note:** Continued New York appointments; many names and times uncertain due to faint pencil and strong bleed-through.
