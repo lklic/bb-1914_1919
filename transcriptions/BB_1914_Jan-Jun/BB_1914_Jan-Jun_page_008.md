@@ -25,9 +25,9 @@ people:
 ## January 14 — Wednesday
 
 > Lunch Hapgood
-> 5 S.G.[?]
+> 5 B.G.[?]
 > dine Elsie[?] 8
-> dinner B
+> Dinner B
 
 **People:** Eno[?], Griswold, Hapgood, Elsie[?]  
 
