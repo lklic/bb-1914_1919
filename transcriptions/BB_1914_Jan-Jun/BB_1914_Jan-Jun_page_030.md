@@ -28,8 +28,7 @@ people:
 *(printed: 5h. 5m. morn.)*
 
 > Baltimore
-> Cary[?]
-> 5 Jacobs[?] [struck through]
+> 5 Cary[?] ~~Jacobs[?]~~
 > 7.30 Thomas
 
 **Places:** Baltimore  
