@@ -11,8 +11,8 @@ people:
   - Rockefeller[?]
   - Huntington[?]
   - Vanderbilt
-  - Lamb[?]
-  - Longworth[?]
+  - Lanier
+  - Belle
 ---
 
 # BB_1914_Jan-Jun — page 41 (left)
@@ -24,18 +24,19 @@ people:
 *(printed: 4th Sunday in Lent.)*
 
 > lunch Kahn
-> 8 East 68 St
+> 8 East 68th
+> Rockefeller 8
 
 ## March 25 — Wednesday
 
 *(printed: Quarter Day.)*
 
-> X Huntington[?]
+> Huntington[?]
 > Vanderbilt
-> Lamb[?]
-> Longworth[?]
-> Gable[?]
+> Lanier
+> Long walk with
+> Belle
 
-**People:** Kahn, Rockefeller[?], Huntington[?], Vanderbilt, Lamb[?], Longworth[?]  
+**People:** Kahn, Rockefeller[?], Huntington[?], Vanderbilt, Lanier, Belle 
 
 **Transcriber's note:** New York social engagements; lunch with Kahn at 8 East 68th St. List of names under Mar 25, several uncertain. Heavy mirror bleed-through ignored.
