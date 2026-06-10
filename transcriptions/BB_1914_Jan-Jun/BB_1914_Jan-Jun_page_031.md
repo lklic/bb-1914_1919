@@ -9,7 +9,7 @@ location: Baltimore
 places:
   - Baltimore
 people:
-  - Mrs Dawson
+  - Miss Dawson
 ---
 
 # BB_1914_Jan-Jun — page 31 (left)
@@ -18,7 +18,7 @@ people:
 
 ## March 4 — Wednesday
 
-> 5. Mrs Dawson
+> 5. Miss Dawson
 
 ## March 5 — Thursday
 
@@ -27,6 +27,6 @@ people:
 > Baltimore
 
 **Places:** Baltimore  
-**People:** Mrs Dawson  
+**People:** Miss Dawson  
 
-**Transcriber's note:** Heavy bleed-through ghosts above and below the real lines; bleed-suppressed image confirms only '5. Mrs Dawson' (under Mar 4) and 'Baltimore' (under Mar 5) are real. '5.' likely a time. 'Baltimore' written large.
+**Transcriber's note:** Heavy bleed-through ghosts above and below the real lines; bleed-suppressed image confirms only '5. Miss Dawson' (under Mar 4) and 'Baltimore' (under Mar 5) are real. '5.' likely a time. 'Baltimore' written large.
