@@ -6,7 +6,10 @@ side: left
 spread: 34
 page_type: entry
 location: Settignano (Florence)
-people: [Fernande, Ciglioli[?], Geoffrey]
+people:
+  - Fernande
+  - Ciglioli[?]
+  - Geoffrey
 ---
 
 # BB_1919_Jul-Dec — page 67 (left)

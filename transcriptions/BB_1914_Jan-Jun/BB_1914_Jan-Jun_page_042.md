@@ -6,7 +6,12 @@ side: right
 spread: 21
 page_type: entry
 location: New York
-people: [Mrs Hewitt, Griswold[?], Bryce[?], Mrs Lewis[?], Steffan[?]]
+people:
+  - Mrs Hewitt
+  - Griswold[?]
+  - Bryce[?]
+  - Mrs Lewis[?]
+  - Steffan[?]
 ---
 
 # BB_1914_Jan-Jun — page 42 (right)

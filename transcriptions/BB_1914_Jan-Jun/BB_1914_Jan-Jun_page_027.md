@@ -6,7 +6,11 @@ side: left
 spread: 14
 page_type: entry
 location: Northampton
-people: [Miss Laud[?], Mrs. Van Rensaller[?], Mrs. Griswold, Boyce[?]]
+people:
+  - Miss Laud[?]
+  - Mrs. Van Rensaller[?]
+  - Mrs. Griswold
+  - Boyce[?]
 ---
 
 # BB_1914_Jan-Jun — page 27 (left)

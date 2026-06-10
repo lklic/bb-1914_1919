@@ -6,7 +6,9 @@ side: right
 spread: 35
 page_type: entry
 location: Valencia
-places: [Valencia, Alicante]
+places:
+  - Valencia
+  - Alicante
 ---
 
 # BB_1919_Jan-Jun — page 70 (right)

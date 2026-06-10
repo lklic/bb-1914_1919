@@ -6,7 +6,9 @@ side: right
 spread: 42
 page_type: entry
 location: Madrid
-places: [Madrid, Toledo]
+places:
+  - Madrid
+  - Toledo
 ---
 
 # BB_1919_Jan-Jun — page 84 (right)

@@ -6,8 +6,13 @@ side: right
 spread: 34
 page_type: entry
 location: Paris
-places: [75 Rue d'Eu[?]]
-people: [Comtesse Murat, Abel Bonnard, Seligmann, Hubst[?]]
+places:
+  - 75 Rue d'Eu[?]
+people:
+  - Comtesse Murat
+  - Abel Bonnard
+  - Seligmann
+  - Hubst[?]
 ---
 
 # BB_1914_Jul-Dec — page 68 (right)

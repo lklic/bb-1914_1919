@@ -6,8 +6,14 @@ side: right
 spread: 4
 page_type: entry
 location: San Sebastian
-places: [San Sebastian, Paris]
-people: [Queen Cristina, Mari, Geoffry, Edith]
+places:
+  - San Sebastian
+  - Paris
+people:
+  - Queen Cristina
+  - Mari
+  - Geoffry
+  - Edith
 ---
 
 # BB_1919_Jul-Dec — page 8 (right)

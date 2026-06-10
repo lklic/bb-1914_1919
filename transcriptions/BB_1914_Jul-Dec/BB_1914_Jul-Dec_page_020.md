@@ -6,8 +6,11 @@ side: right
 spread: 10
 page_type: entry
 location: Ford
-places: [Ford, Amberley]
-people: [Parrish[?]]
+places:
+  - Ford
+  - Amberley
+people:
+  - Parrish[?]
 ---
 
 # BB_1914_Jul-Dec — page 20 (right)

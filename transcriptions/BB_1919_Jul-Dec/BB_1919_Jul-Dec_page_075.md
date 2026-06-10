@@ -6,7 +6,11 @@ side: left
 spread: 38
 page_type: entry
 location: Settignano (Florence)
-people: [Carlo Placci, Geoffrey, Mrs. Ross, Cecil]
+people:
+  - Carlo Placci
+  - Geoffrey
+  - Mrs. Ross
+  - Cecil
 ---
 
 # BB_1919_Jul-Dec — page 75 (left)

@@ -6,7 +6,11 @@ side: right
 spread: 17
 page_type: entry
 location: Paris
-people: [Willy Buckler, Prince[?] Paul, Mme. de Ludre[?], Reinach[?]]
+people:
+  - Willy Buckler
+  - Prince[?] Paul
+  - Mme. de Ludre[?]
+  - Reinach[?]
 ---
 
 # BB_1919_Jul-Dec — page 34 (right)

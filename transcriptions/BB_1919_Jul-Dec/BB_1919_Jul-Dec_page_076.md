@@ -6,7 +6,9 @@ side: right
 spread: 38
 page_type: entry
 location: Settignano (Florence)
-people: [Lady Annabel O'Neil[?], Miss Paterson[?]]
+people:
+  - Lady Annabel O'Neil[?]
+  - Miss Paterson[?]
 ---
 
 # BB_1919_Jul-Dec — page 76 (right)

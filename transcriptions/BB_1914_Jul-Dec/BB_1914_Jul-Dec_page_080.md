@@ -6,7 +6,14 @@ side: right
 spread: 40
 page_type: entry
 location: Florence
-people: [Guido, Cecil, Geoffry Lees, Hamilton, O. Gutekunst, Naomi, Geoffrey]
+people:
+  - Guido
+  - Cecil
+  - Geoffry Lees
+  - Hamilton
+  - O. Gutekunst
+  - Naomi
+  - Geoffrey
 ---
 
 # BB_1914_Jul-Dec — page 80 (right)

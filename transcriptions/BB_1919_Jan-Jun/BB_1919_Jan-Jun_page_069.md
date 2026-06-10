@@ -6,7 +6,9 @@ side: left
 spread: 35
 page_type: entry
 location: Valencia
-places: [Tarragona, Valencia]
+places:
+  - Tarragona
+  - Valencia
 ---
 
 # BB_1919_Jan-Jun — page 69 (left)

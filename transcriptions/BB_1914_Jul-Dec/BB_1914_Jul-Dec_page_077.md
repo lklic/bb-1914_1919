@@ -6,7 +6,9 @@ side: left
 spread: 39
 page_type: entry
 location: Florence
-people: [American Consul, Geoffry Cecil]
+people:
+  - American Consul
+  - Geoffry Cecil
 ---
 
 # BB_1914_Jul-Dec — page 77 (left)

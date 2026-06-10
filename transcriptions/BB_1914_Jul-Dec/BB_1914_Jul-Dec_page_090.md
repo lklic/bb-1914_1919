@@ -6,7 +6,8 @@ side: right
 spread: 45
 page_type: entry
 location: Florence
-people: [Crivelli]
+people:
+  - Crivelli
 ---
 
 # BB_1914_Jul-Dec — page 90 (right)

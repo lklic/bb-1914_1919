@@ -6,8 +6,11 @@ side: left
 spread: 18
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-places: [Monte Carlo]
-people: [Morgenthau, Busseo[?]]
+places:
+  - Monte Carlo
+people:
+  - Morgenthau
+  - Busseo[?]
 ---
 
 # BB_1919_Jan-Jun — page 35 (left)

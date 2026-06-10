@@ -6,7 +6,9 @@ side: left
 spread: 37
 page_type: entry
 location: Settignano (Florence)
-people: [De Nicola, Serristori[?]]
+people:
+  - De Nicola
+  - Serristori[?]
 ---
 
 # BB_1919_Jul-Dec — page 73 (left)

@@ -6,7 +6,9 @@ side: right
 spread: 14
 page_type: entry
 location: Paris
-people: [Rosa, K. Porter[?]]
+people:
+  - Rosa
+  - K. Porter[?]
 ---
 
 # BB_1919_Jan-Jun — page 28 (right)

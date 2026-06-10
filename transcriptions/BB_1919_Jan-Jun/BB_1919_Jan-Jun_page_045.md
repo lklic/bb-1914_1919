@@ -6,8 +6,10 @@ side: left
 spread: 23
 page_type: entry
 location: Hyeres
-places: [Bourges]
-people: [Norton]
+places:
+  - Bourges
+people:
+  - Norton
 ---
 
 # BB_1919_Jan-Jun — page 45 (left)

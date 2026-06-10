@@ -6,7 +6,8 @@ side: right
 spread: 11
 page_type: entry
 location: Paris
-people: [d'Abernon[?]]
+people:
+  - d'Abernon[?]
 ---
 
 # BB_1919_Jan-Jun — page 22 (right)

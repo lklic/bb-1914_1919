@@ -6,7 +6,13 @@ side: left
 spread: 28
 page_type: entry
 location: Florence
-people: [Sybil, Mr. Grey, Miss Roberts, Mrs. Hooker, Ed. Thayer, Gibson]
+people:
+  - Sybil
+  - Mr. Grey
+  - Miss Roberts
+  - Mrs. Hooker
+  - Ed. Thayer
+  - Gibson
 ---
 
 # BB_1914_Jan-Jun — page 55 (left)

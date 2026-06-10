@@ -6,8 +6,13 @@ side: left
 spread: 5
 page_type: entry
 location: London
-places: [Rutland Garden, St. Pancras]
-people: [Kahn, Lady Ripon, Shee]
+places:
+  - Rutland Garden
+  - St. Pancras
+people:
+  - Kahn
+  - Lady Ripon
+  - Shee
 ---
 
 # BB_1914_Jul-Dec — page 9 (left)

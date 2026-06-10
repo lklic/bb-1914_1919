@@ -6,8 +6,12 @@ side: left
 spread: 27
 page_type: entry
 location: London
-places: [Terrace, London]
-people: [Sybil, Gibson[?]]
+places:
+  - Terrace
+  - London
+people:
+  - Sybil
+  - Gibson[?]
 ---
 
 # BB_1914_Jul-Dec — page 53 (left)

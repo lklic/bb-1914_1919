@@ -6,8 +6,15 @@ side: left
 spread: 4
 page_type: entry
 location: Paris
-places: [Versailles]
-people: [Bonnard[?], Knigt[?], Plater[?], Joursen[?], Lippmann[?], Mackays]
+places:
+  - Versailles
+people:
+  - Bonnard[?]
+  - Knigt[?]
+  - Plater[?]
+  - Joursen[?]
+  - Lippmann[?]
+  - Mackays
 ---
 
 # BB_1919_Jan-Jun — page 7 (left)

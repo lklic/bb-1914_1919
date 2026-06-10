@@ -6,8 +6,15 @@ side: right
 spread: 36
 page_type: entry
 location: Murcia
-places: [Murcia, Lorca, Baza, Guadix, Granada, Alhambra]
-people: [Senor Flores[?]]
+places:
+  - Murcia
+  - Lorca
+  - Baza
+  - Guadix
+  - Granada
+  - Alhambra
+people:
+  - Senor Flores[?]
 ---
 
 # BB_1919_Jan-Jun — page 72 (right)

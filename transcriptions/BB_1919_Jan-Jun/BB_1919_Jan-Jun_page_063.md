@@ -6,7 +6,10 @@ side: left
 spread: 32
 page_type: entry
 location: Barcelona
-places: [Barcelona, Hotel Bristol, Cathedral]
+places:
+  - Barcelona
+  - Hotel Bristol
+  - Cathedral
 ---
 
 # BB_1919_Jan-Jun — page 63 (left)

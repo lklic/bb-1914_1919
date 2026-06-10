@@ -6,7 +6,8 @@ side: right
 spread: 39
 page_type: entry
 location: Settignano (Florence)
-people: [Acton]
+people:
+  - Acton
 ---
 
 # BB_1919_Jul-Dec — page 78 (right)

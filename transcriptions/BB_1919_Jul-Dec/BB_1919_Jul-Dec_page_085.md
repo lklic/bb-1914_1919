@@ -6,7 +6,11 @@ side: left
 spread: 43
 page_type: entry
 location: Settignano (Florence)
-people: [Schlumberger, Renaud de Chatillon, Cecil, Geoffry]
+people:
+  - Schlumberger
+  - Renaud de Chatillon
+  - Cecil
+  - Geoffry
 ---
 
 # BB_1919_Jul-Dec — page 85 (left)

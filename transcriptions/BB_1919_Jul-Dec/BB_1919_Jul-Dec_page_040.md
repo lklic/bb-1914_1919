@@ -6,7 +6,8 @@ side: right
 spread: 20
 page_type: entry
 location: Amiens
-places: [AMIENS]
+places:
+  - AMIENS
 ---
 
 # BB_1919_Jul-Dec — page 40 (right)

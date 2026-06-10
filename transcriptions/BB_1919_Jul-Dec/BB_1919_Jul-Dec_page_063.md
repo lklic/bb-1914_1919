@@ -6,7 +6,9 @@ side: left
 spread: 32
 page_type: entry
 location: Settignano (Florence)
-people: [Bussy, Coutinis[?]]
+people:
+  - Bussy
+  - Coutinis[?]
 ---
 
 # BB_1919_Jul-Dec — page 63 (left)

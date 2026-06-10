@@ -6,7 +6,14 @@ side: right
 spread: 31
 page_type: entry
 location: Paris
-people: [Lucy Hyatt[?], Cranborne[?], Frankfurter, Tyrrell[?], Morgenthau[?], Mallet, Thornely[?]]
+people:
+  - Lucy Hyatt[?]
+  - Cranborne[?]
+  - Frankfurter
+  - Tyrrell[?]
+  - Morgenthau[?]
+  - Mallet
+  - Thornely[?]
 ---
 
 # BB_1919_Jan-Jun — page 62 (right)

@@ -6,8 +6,11 @@ side: right
 spread: 25
 page_type: entry
 location: Paris
-places: [55 Ave. Marceau, Villa Sylvia[?]]
-people: [Mrs. Lodge]
+places:
+  - 55 Ave. Marceau
+  - Villa Sylvia[?]
+people:
+  - Mrs. Lodge
 ---
 
 # BB_1914_Jan-Jun — page 50 (right)

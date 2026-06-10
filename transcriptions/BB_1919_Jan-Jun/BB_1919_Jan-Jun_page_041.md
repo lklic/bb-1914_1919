@@ -6,7 +6,8 @@ side: left
 spread: 21
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-people: [Havelock Ellis[?]]
+people:
+  - Havelock Ellis[?]
 ---
 
 # BB_1919_Jan-Jun — page 41 (left)

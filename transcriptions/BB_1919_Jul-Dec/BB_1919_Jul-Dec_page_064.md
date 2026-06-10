@@ -6,7 +6,10 @@ side: right
 spread: 32
 page_type: entry
 location: Settignano (Florence)
-people: [Lorás[?], Baccocelie[?], Miss Orchani[?]]
+people:
+  - Lorás[?]
+  - Baccocelie[?]
+  - Miss Orchani[?]
 ---
 
 # BB_1919_Jul-Dec — page 64 (right)

@@ -6,8 +6,13 @@ side: left
 spread: 37
 page_type: entry
 location: Granada
-places: [GRANADA, Cathedral, Alhambra]
-people: [Marqs de Camdoya[?], Mersmann[?]]
+places:
+  - GRANADA
+  - Cathedral
+  - Alhambra
+people:
+  - Marqs de Camdoya[?]
+  - Mersmann[?]
 ---
 
 # BB_1919_Jan-Jun — page 73 (left)

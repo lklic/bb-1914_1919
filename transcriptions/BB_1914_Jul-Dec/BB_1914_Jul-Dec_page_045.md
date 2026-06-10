@@ -6,8 +6,13 @@ side: left
 spread: 23
 page_type: entry
 location: Ford
-places: [Chichester, Ford]
-people: [Sybil, Karin, Oliver]
+places:
+  - Chichester
+  - Ford
+people:
+  - Sybil
+  - Karin
+  - Oliver
 ---
 
 # BB_1914_Jul-Dec — page 45 (left)

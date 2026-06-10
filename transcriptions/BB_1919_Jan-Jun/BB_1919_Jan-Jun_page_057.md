@@ -6,7 +6,13 @@ side: left
 spread: 29
 page_type: entry
 location: Paris
-people: [Reinach, Linda, Lucien Henraux, Edith, S. Reinach, Gauvain]
+people:
+  - Reinach
+  - Linda
+  - Lucien Henraux
+  - Edith
+  - S. Reinach
+  - Gauvain
 ---
 
 # BB_1919_Jan-Jun — page 57 (left)

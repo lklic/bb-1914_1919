@@ -6,7 +6,8 @@ side: right
 spread: 9
 page_type: entry
 location: New York
-places: [New Haven]
+places:
+  - New Haven
 ---
 
 # BB_1914_Jan-Jun — page 18 (right)

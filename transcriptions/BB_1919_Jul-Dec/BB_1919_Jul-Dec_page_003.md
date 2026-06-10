@@ -6,7 +6,12 @@ side: left
 spread: 2
 page_type: entry
 location: Burgos
-places: [Leon, San Miguel del Escalada, Sahagun, Palencia, Fromista]
+places:
+  - Leon
+  - San Miguel del Escalada
+  - Sahagun
+  - Palencia
+  - Fromista
 ---
 
 # BB_1919_Jul-Dec — page 3 (left)

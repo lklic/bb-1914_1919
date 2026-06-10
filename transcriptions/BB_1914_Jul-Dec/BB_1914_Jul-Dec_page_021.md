@@ -6,8 +6,12 @@ side: left
 spread: 11
 page_type: entry
 location: Ford
-places: [Buckhurst]
-people: [Ford, Harris[?], the Bensons]
+places:
+  - Buckhurst
+people:
+  - Ford
+  - Harris[?]
+  - the Bensons
 ---
 
 # BB_1914_Jul-Dec — page 21 (left)

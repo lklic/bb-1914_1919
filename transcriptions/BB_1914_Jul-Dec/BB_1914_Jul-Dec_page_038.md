@@ -6,7 +6,8 @@ side: right
 spread: 19
 page_type: entry
 location: Ford
-places: [Ford]
+places:
+  - Ford
 ---
 
 # BB_1914_Jul-Dec — page 38 (right)

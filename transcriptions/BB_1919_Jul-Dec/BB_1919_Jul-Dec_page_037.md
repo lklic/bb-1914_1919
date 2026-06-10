@@ -6,8 +6,14 @@ side: left
 spread: 19
 page_type: entry
 location: Paris
-places: [Cercle Interallié]
-people: [Arnold Seligman, Rae, Walter[?], Mrs. Harriman, Mary]
+places:
+  - Cercle Interallié
+people:
+  - Arnold Seligman
+  - Rae
+  - Walter[?]
+  - Mrs. Harriman
+  - Mary
 ---
 
 # BB_1919_Jul-Dec — page 37 (left)

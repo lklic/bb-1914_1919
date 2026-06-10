@@ -6,8 +6,14 @@ side: right
 spread: 38
 page_type: entry
 location: Genoa
-places: [Pisa, Campo Santo, I Tatti]
-people: [Geoffrey, Cecil, Carlo P.]
+places:
+  - Pisa
+  - Campo Santo
+  - I Tatti
+people:
+  - Geoffrey
+  - Cecil
+  - Carlo P.
 ---
 
 # BB_1914_Jul-Dec — page 76 (right)

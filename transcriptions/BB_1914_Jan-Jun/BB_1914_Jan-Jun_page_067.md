@@ -6,7 +6,9 @@ side: left
 spread: 34
 page_type: entry
 location: Florence
-people: [Bruce Richmond, Sybil]
+people:
+  - Bruce Richmond
+  - Sybil
 ---
 
 # BB_1914_Jan-Jun — page 67 (left)

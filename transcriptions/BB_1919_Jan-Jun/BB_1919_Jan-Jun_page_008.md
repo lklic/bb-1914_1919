@@ -6,7 +6,12 @@ side: right
 spread: 4
 page_type: entry
 location: Paris
-people: [Larnach[?], Cuevas de Vera, Aubin[?], Hewitt[?], Mrs J. Harriman]
+people:
+  - Larnach[?]
+  - Cuevas de Vera
+  - Aubin[?]
+  - Hewitt[?]
+  - Mrs J. Harriman
 ---
 
 # BB_1919_Jan-Jun — page 8 (right)

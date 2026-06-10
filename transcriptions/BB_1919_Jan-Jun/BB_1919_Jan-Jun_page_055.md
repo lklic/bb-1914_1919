@@ -6,8 +6,12 @@ side: left
 spread: 28
 page_type: entry
 location: Paris
-places: [Princes Park, Salis[bury?]]
-people: [L. Vandervelde[?], g. Pownall[?]]
+places:
+  - Princes Park
+  - Salis[bury?]
+people:
+  - L. Vandervelde[?]
+  - g. Pownall[?]
 ---
 
 # BB_1919_Jan-Jun — page 55 (left)

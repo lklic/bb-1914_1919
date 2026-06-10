@@ -6,8 +6,11 @@ side: right
 spread: 22
 page_type: entry
 location: Bourges
-places: [BOURGES]
-people: [Tyler, Lady Randolph Churchill]
+places:
+  - BOURGES
+people:
+  - Tyler
+  - Lady Randolph Churchill
 ---
 
 # BB_1919_Jul-Dec — page 44 (right)

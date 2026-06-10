@@ -6,8 +6,12 @@ side: right
 spread: 32
 page_type: entry
 location: Barcelona
-places: [Cathedral, S. Anna, S. Maria]
-people: [Hernandez]
+places:
+  - Cathedral
+  - S. Anna
+  - S. Maria
+people:
+  - Hernandez
 ---
 
 # BB_1919_Jan-Jun — page 64 (right)

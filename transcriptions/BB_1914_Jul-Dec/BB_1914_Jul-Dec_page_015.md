@@ -6,8 +6,14 @@ side: left
 spread: 8
 page_type: entry
 location: Ford
-places: [118 Belgrave Road, Ford Place]
-people: [Bunyou[?], Sybil[?], Grace Lozane[?], Mrs. Karu[?]]
+places:
+  - 118 Belgrave Road
+  - Ford Place
+people:
+  - Bunyou[?]
+  - Sybil[?]
+  - Grace Lozane[?]
+  - Mrs. Karu[?]
 ---
 
 # BB_1914_Jul-Dec — page 15 (left)

@@ -6,7 +6,12 @@ side: left
 spread: 14
 page_type: entry
 location: Paris
-places: [AVALLON, VEZELAY, VERMENTON, AUXERRES, PARIS]
+places:
+  - AVALLON
+  - VEZELAY
+  - VERMENTON
+  - AUXERRES
+  - PARIS
 ---
 
 # BB_1919_Jul-Dec — page 27 (left)

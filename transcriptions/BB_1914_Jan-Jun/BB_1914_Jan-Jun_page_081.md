@@ -6,7 +6,14 @@ side: left
 spread: 41
 page_type: entry
 location: Florence
-people: [Mrs. Strong, Loie[?], Nello, Mc Clellan, Florence[?], Lubbock, Countess Serristori]
+people:
+  - Mrs. Strong
+  - Loie[?]
+  - Nello
+  - Mc Clellan
+  - Florence[?]
+  - Lubbock
+  - Countess Serristori
 ---
 
 # BB_1914_Jan-Jun — page 81 (left)

@@ -6,7 +6,8 @@ side: right
 spread: 16
 page_type: entry
 location: Paris
-people: [Mrs. Harriman]
+people:
+  - Mrs. Harriman
 ---
 
 # BB_1919_Jan-Jun — page 32 (right)

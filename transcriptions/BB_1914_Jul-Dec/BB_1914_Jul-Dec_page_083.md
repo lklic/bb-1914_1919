@@ -6,7 +6,10 @@ side: left
 spread: 42
 page_type: entry
 location: Florence
-people: [Mme & Mlle Giuliani, Strong, Countess Gravina]
+people:
+  - Mme & Mlle Giuliani
+  - Strong
+  - Countess Gravina
 ---
 
 # BB_1914_Jul-Dec — page 83 (left)

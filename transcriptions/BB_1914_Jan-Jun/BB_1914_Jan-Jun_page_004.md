@@ -6,7 +6,9 @@ side: right
 spread: 2
 page_type: entry
 location: Montreal
-places: [Lexington, Ross Museum]
+places:
+  - Lexington
+  - Ross Museum
 ---
 
 # BB_1914_Jan-Jun — page 4 (right)

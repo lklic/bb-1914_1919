@@ -6,8 +6,12 @@ side: left
 spread: 43
 page_type: entry
 location: Toledo
-places: [Toledo, Madrid]
-people: [Lazaro, Palmer[?]]
+places:
+  - Toledo
+  - Madrid
+people:
+  - Lazaro
+  - Palmer[?]
 ---
 
 # BB_1919_Jan-Jun — page 85 (left)

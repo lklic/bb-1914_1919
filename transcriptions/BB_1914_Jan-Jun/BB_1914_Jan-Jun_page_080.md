@@ -6,7 +6,10 @@ side: right
 spread: 40
 page_type: entry
 location: Florence
-people: [Mr. Strong, Mrs. Ross, Lindsay[?]]
+people:
+  - Mr. Strong
+  - Mrs. Ross
+  - Lindsay[?]
 ---
 
 # BB_1914_Jan-Jun — page 80 (right)

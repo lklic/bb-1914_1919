@@ -6,7 +6,11 @@ side: left
 spread: 11
 page_type: entry
 location: Paris
-people: [Ferguson, Carl Hamilton, Dubos, Venizelos[?]]
+people:
+  - Ferguson
+  - Carl Hamilton
+  - Dubos
+  - Venizelos[?]
 ---
 
 # BB_1919_Jul-Dec — page 21 (left)

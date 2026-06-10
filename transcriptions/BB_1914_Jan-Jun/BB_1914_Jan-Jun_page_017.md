@@ -6,7 +6,11 @@ side: left
 spread: 9
 page_type: entry
 location: New York
-people: [Miss Thursby[?], B. Fletcher[?], Dogherty[?], H. L. Field]
+people:
+  - Miss Thursby[?]
+  - B. Fletcher[?]
+  - Dogherty[?]
+  - H. L. Field
 ---
 
 # BB_1914_Jan-Jun — page 17 (left)

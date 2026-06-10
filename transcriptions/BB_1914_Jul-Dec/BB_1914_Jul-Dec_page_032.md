@@ -6,8 +6,12 @@ side: right
 spread: 16
 page_type: entry
 location: London
-places: [Ford]
-people: [Edith, Gina, Carole]
+places:
+  - Ford
+people:
+  - Edith
+  - Gina
+  - Carole
 ---
 
 # BB_1914_Jul-Dec — page 32 (right)

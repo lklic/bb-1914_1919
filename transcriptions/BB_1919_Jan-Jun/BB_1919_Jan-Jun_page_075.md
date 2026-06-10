@@ -6,8 +6,14 @@ side: left
 spread: 38
 page_type: entry
 location: Granada
-places: [Granada, Generalife, Alhambra, Torre]
-people: [S. Pedro, Cruz[?]]
+places:
+  - Granada
+  - Generalife
+  - Alhambra
+  - Torre
+people:
+  - S. Pedro
+  - Cruz[?]
 ---
 
 # BB_1919_Jan-Jun — page 75 (left)

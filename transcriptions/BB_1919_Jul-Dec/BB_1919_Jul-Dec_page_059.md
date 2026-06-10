@@ -6,7 +6,9 @@ side: left
 spread: 30
 page_type: entry
 location: Settignano (Florence)
-people: [Colette (Willy), Venturi]
+people:
+  - Colette (Willy)
+  - Venturi
 ---
 
 # BB_1919_Jul-Dec — page 59 (left)

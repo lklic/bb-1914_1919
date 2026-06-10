@@ -6,8 +6,12 @@ side: left
 spread: 24
 page_type: entry
 location: Paris
-places: [Ecouen[?]]
-people: [Cosse, Schlumberger, Dubos]
+places:
+  - Ecouen[?]
+people:
+  - Cosse
+  - Schlumberger
+  - Dubos
 ---
 
 # BB_1914_Jan-Jun — page 47 (left)

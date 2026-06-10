@@ -6,7 +6,13 @@ side: right
 spread: 43
 page_type: entry
 location: Modena
-places: [Torrechiara, S. Donnino, Castell'Arquato, Cortemaggiore, Cremona, Piacenza]
+places:
+  - Torrechiara
+  - S. Donnino
+  - Castell'Arquato
+  - Cortemaggiore
+  - Cremona
+  - Piacenza
 ---
 
 # BB_1914_Jan-Jun — page 86 (right)

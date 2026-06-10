@@ -6,7 +6,9 @@ side: right
 spread: 37
 page_type: entry
 location: Settignano (Florence)
-people: [Cox, Salvemini]
+people:
+  - Cox
+  - Salvemini
 ---
 
 # BB_1919_Jul-Dec — page 74 (right)

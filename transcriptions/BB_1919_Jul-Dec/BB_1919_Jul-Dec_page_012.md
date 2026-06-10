@@ -6,7 +6,12 @@ side: right
 spread: 6
 page_type: entry
 location: Senlis
-places: [SENLIS, Raray, Chaalis, St. Leu, Beaumont]
+places:
+  - SENLIS
+  - Raray
+  - Chaalis
+  - St. Leu
+  - Beaumont
 ---
 
 # BB_1919_Jul-Dec — page 12 (right)

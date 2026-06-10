@@ -6,7 +6,12 @@ side: right
 spread: 21
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-people: [Mrs. Grenville[?], Princ[?] Ouroun-soff, Profess[?] Bernard[?], Bac[?], Berghi[?]]
+people:
+  - Mrs. Grenville[?]
+  - Princ[?] Ouroun-soff
+  - Profess[?] Bernard[?]
+  - Bac[?]
+  - Berghi[?]
 ---
 
 # BB_1919_Jan-Jun — page 42 (right)

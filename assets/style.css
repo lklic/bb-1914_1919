@@ -73,6 +73,8 @@ h1,h2{font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;f
 .pageblock+.pageblock{border-top:1px dashed var(--line);padding-top:18px}
 .sidehead{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:var(--muted);margin-bottom:10px}
 .ptype{font-size:10px;border:1px solid var(--line);border-radius:999px;padding:1px 8px;color:var(--accent2);margin-left:8px}
+.editlink{float:right;text-transform:none;letter-spacing:0;font-size:11px;color:var(--accent2);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:2px 10px;transition:background .15s,color .15s}
+.editlink:hover{background:var(--accent2);color:var(--bg,#100f0d);border-color:var(--accent2)}
 
 .day{margin:0 0 16px;padding-left:12px;border-left:2px solid var(--line)}
 .dateline{font-family:"Iowan Old Style",Palatino,Georgia,serif}

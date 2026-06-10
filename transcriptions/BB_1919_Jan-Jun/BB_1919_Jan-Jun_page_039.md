@@ -6,7 +6,9 @@ side: left
 spread: 20
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-people: [Hudson, Dillon]
+people:
+  - Hudson
+  - Dillon
 ---
 
 # BB_1919_Jan-Jun — page 39 (left)

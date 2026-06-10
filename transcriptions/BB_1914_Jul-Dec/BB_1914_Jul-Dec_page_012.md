@@ -6,8 +6,16 @@ side: right
 spread: 6
 page_type: entry
 location: London
-places: [17 Hyde Park Gate, 13 Grosvenor Sq, Epping]
-people: [Cust[?], Sybil, Witts, Alexander[?], Hill]
+places:
+  - 17 Hyde Park Gate
+  - 13 Grosvenor Sq
+  - Epping
+people:
+  - Cust[?]
+  - Sybil
+  - Witts
+  - Alexander[?]
+  - Hill
 ---
 
 # BB_1914_Jul-Dec — page 12 (right)

@@ -6,8 +6,14 @@ side: left
 spread: 33
 page_type: entry
 location: Paris
-places: [Dieppe, Rouen, Paris, 53 Rue de Varenne]
-people: [Mrs. Lucy, Ralph Curtis]
+places:
+  - Dieppe
+  - Rouen
+  - Paris
+  - 53 Rue de Varenne
+people:
+  - Mrs. Lucy
+  - Ralph Curtis
 ---
 
 # BB_1914_Jul-Dec — page 65 (left)

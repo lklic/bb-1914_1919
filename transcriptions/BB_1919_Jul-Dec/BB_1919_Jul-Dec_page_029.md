@@ -6,7 +6,11 @@ side: left
 spread: 15
 page_type: entry
 location: Paris
-people: [Nora, Mrs. Keep, Mrs. Harriman, Venizelos]
+people:
+  - Nora
+  - Mrs. Keep
+  - Mrs. Harriman
+  - Venizelos
 ---
 
 # BB_1919_Jul-Dec — page 29 (left)

@@ -6,7 +6,12 @@ side: right
 spread: 3
 page_type: entry
 location: Paris
-people: [Bevier[?], Pernot[?], Marthe Gispant[?], Natalie, Rosa]
+people:
+  - Bevier[?]
+  - Pernot[?]
+  - Marthe Gispant[?]
+  - Natalie
+  - Rosa
 ---
 
 # BB_1919_Jan-Jun — page 6 (right)

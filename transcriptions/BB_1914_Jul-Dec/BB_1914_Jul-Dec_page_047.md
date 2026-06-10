@@ -6,8 +6,15 @@ side: left
 spread: 24
 page_type: entry
 location: Stapleton House
-places: [Wimborne, Stapleton House, Blandford, Melford Abbey[?]]
-people: [Logan Pearsall Smith[?], Henry Adams, Miss Adams]
+places:
+  - Wimborne
+  - Stapleton House
+  - Blandford
+  - Melford Abbey[?]
+people:
+  - Logan Pearsall Smith[?]
+  - Henry Adams
+  - Miss Adams
 ---
 
 # BB_1914_Jul-Dec — page 47 (left)

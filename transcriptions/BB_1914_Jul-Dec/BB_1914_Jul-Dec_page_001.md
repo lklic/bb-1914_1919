@@ -6,8 +6,14 @@ side: left
 spread: 1
 page_type: entry
 location: Paris
-places: [5 Rue Montalembert[?]]
-people: [Mme. de Brigode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre]
+places:
+  - 5 Rue Montalembert[?]
+people:
+  - Mme. de Brigode[?]
+  - Henry Adams
+  - Chavannes[?]
+  - Lillie[?]
+  - Mme. de Ludre
 ---
 
 # BB_1914_Jul-Dec — page 1 (left)

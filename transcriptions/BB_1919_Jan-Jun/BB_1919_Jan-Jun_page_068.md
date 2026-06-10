@@ -6,7 +6,8 @@ side: right
 spread: 34
 page_type: entry
 location: Barcelona
-places: [Tarragona]
+places:
+  - Tarragona
 ---
 
 # BB_1919_Jan-Jun — page 68 (right)

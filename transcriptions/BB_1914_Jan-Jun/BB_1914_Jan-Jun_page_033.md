@@ -6,8 +6,12 @@ side: left
 spread: 17
 page_type: entry
 location: Washington
-places: [Washington, 1731 I St.]
-people: [Slater, Uncle H. Adams]
+places:
+  - Washington
+  - 1731 I St.
+people:
+  - Slater
+  - Uncle H. Adams
 ---
 
 # BB_1914_Jan-Jun — page 33 (left)

@@ -6,7 +6,8 @@ side: right
 spread: 2
 page_type: entry
 location: Burgos
-places: [Burgos]
+places:
+  - Burgos
 ---
 
 # BB_1919_Jul-Dec — page 4 (right)

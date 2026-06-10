@@ -6,7 +6,15 @@ side: left
 spread: 17
 page_type: entry
 location: Paris
-people: [G. Dickinson[?], Mrs. Harriman, Potts[?], Balfour, Edith Bous[?], Hugh Smith, Percy[?], Carl Hamilton]
+people:
+  - G. Dickinson[?]
+  - Mrs. Harriman
+  - Potts[?]
+  - Balfour
+  - Edith Bous[?]
+  - Hugh Smith
+  - Percy[?]
+  - Carl Hamilton
 ---
 
 # BB_1919_Jul-Dec — page 33 (left)

@@ -6,8 +6,16 @@ side: right
 spread: 32
 page_type: entry
 location: London
-places: [Folkstone, Folkstone Pier, Dieppe[?], Grand Hotel]
-people: [Sybil, Mary, Ray, Bernard]
+places:
+  - Folkstone
+  - Folkstone Pier
+  - Dieppe[?]
+  - Grand Hotel
+people:
+  - Sybil
+  - Mary
+  - Ray
+  - Bernard
 ---
 
 # BB_1914_Jul-Dec — page 64 (right)

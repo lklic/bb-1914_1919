@@ -6,8 +6,11 @@ side: right
 spread: 8
 page_type: entry
 location: Versailles
-places: [VERSAILLES]
-people: [Hyde, Elino[?]]
+places:
+  - VERSAILLES
+people:
+  - Hyde
+  - Elino[?]
 ---
 
 # BB_1919_Jul-Dec — page 16 (right)

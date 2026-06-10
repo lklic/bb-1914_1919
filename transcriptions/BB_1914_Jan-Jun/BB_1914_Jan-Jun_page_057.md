@@ -6,8 +6,12 @@ side: left
 spread: 29
 page_type: entry
 location: Florence
-places: [Sorrento[?]]
-people: [Mme. Harrach[?], Mrs. Leigh Smith[?], Prof. T. W. Arnold]
+places:
+  - Sorrento[?]
+people:
+  - Mme. Harrach[?]
+  - Mrs. Leigh Smith[?]
+  - Prof. T. W. Arnold
 ---
 
 # BB_1914_Jan-Jun — page 57 (left)

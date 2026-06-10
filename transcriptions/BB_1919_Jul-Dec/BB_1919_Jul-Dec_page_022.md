@@ -6,8 +6,17 @@ side: right
 spread: 11
 page_type: entry
 location: Paris
-places: [SENS, Villeneuve-sur-Yonne, St Julien du Sault, Pontigny]
-people: [Raffalovich, Anasaki[?], Jim Woods[?], Martha Giraud[?], Kingsley Porter]
+places:
+  - SENS
+  - Villeneuve-sur-Yonne
+  - St Julien du Sault
+  - Pontigny
+people:
+  - Raffalovich
+  - Anasaki[?]
+  - Jim Woods[?]
+  - Martha Giraud[?]
+  - Kingsley Porter
 ---
 
 # BB_1919_Jul-Dec — page 22 (right)

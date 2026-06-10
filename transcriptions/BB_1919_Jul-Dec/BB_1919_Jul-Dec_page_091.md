@@ -6,7 +6,9 @@ side: left
 spread: 46
 page_type: entry
 location: Settignano (Florence)
-people: [Davidsohn, Wm. Ross]
+people:
+  - Davidsohn
+  - Wm. Ross
 ---
 
 # BB_1919_Jul-Dec — page 91 (left)

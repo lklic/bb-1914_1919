@@ -1,6 +1,10 @@
 'use strict';
 let DATA = null, book = null, idx = 0, twoUp = true, viewer = null;
 
+// GitHub repo hosting the transcription Markdown sources (md paths in data.json
+// are relative to the repo root). Used to build "edit on GitHub" links.
+const GH_EDIT_BASE = 'https://github.com/lklic/bb-1914_1919/edit/main/';
+
 const $ = s => document.querySelector(s);
 const esc = s => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
@@ -36,8 +40,11 @@ function pageBlockHTML(p, sideLabel){
   const loose = (p.loose_text&&p.loose_text.length)
     ? `<div class="loose">${p.loose_text.map(l=>`<span class="hand">${renderHand(l)}</span>`).join('')}</div>` : '';
   const empty = (!days && !loose) ? `<div class="hand empty">— blank / no writing on this page —</div>`:'';
+  const editLink = p.md
+    ? `<a class="editlink" href="${esc(GH_EDIT_BASE + p.md)}" target="_blank" rel="noopener" title="Edit this page's transcription on GitHub">✎ Edit transcription</a>`
+    : '';
   return `<div class="pageblock">
-    <div class="sidehead">${esc(sideLabel)} · page ${p.seq}<span class="ptype">${esc(p.page_type||'')}</span></div>
+    <div class="sidehead">${esc(sideLabel)} · page ${p.seq}<span class="ptype">${esc(p.page_type||'')}</span>${editLink}</div>
     ${days}${loose}${empty}
     ${chips(p.places,'place')}${chips(p.people,'person')}
     ${p.notes?`<div class="notes">${esc(p.notes)}</div>`:''}

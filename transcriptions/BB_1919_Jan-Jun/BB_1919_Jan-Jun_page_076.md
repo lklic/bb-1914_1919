@@ -6,7 +6,9 @@ side: right
 spread: 38
 page_type: entry
 location: Granada
-places: [Granada, Seville]
+places:
+  - Granada
+  - Seville
 ---
 
 # BB_1919_Jan-Jun — page 76 (right)

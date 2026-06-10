@@ -6,7 +6,9 @@ side: left
 spread: 8
 page_type: entry
 location: New York
-people: [DeKoven, Alexander]
+people:
+  - DeKoven
+  - Alexander
 ---
 
 # BB_1914_Jan-Jun — page 15 (left)

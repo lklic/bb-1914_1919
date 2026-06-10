@@ -6,8 +6,13 @@ side: right
 spread: 22
 page_type: entry
 location: Ford
-places: [Ford, Goodwood, Shoreham]
-people: [Sibil, Geoffrey]
+places:
+  - Ford
+  - Goodwood
+  - Shoreham
+people:
+  - Sibil
+  - Geoffrey
 ---
 
 # BB_1914_Jul-Dec — page 44 (right)

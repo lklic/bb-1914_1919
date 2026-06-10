@@ -6,8 +6,13 @@ side: right
 spread: 25
 page_type: entry
 location: Settignano (Florence)
-places: [PISA, SETTIGNANO]
-people: [Mary, Abel Bonnard, Serristori[?]]
+places:
+  - PISA
+  - SETTIGNANO
+people:
+  - Mary
+  - Abel Bonnard
+  - Serristori[?]
 ---
 
 # BB_1919_Jul-Dec — page 50 (right)

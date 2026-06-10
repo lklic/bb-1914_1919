@@ -6,8 +6,17 @@ side: right
 spread: 4
 page_type: entry
 location: London
-places: [39 Brook St., 18 Grosvenor Sq., Palace Court, 46 Grosvenor Street]
-people: [Crawshay, Leonie, Mrs. Astor, C. P., Lady Lewis]
+places:
+  - 39 Brook St.
+  - 18 Grosvenor Sq.
+  - Palace Court
+  - 46 Grosvenor Street
+people:
+  - Crawshay
+  - Leonie
+  - Mrs. Astor
+  - C. P.
+  - Lady Lewis
 ---
 
 # BB_1914_Jul-Dec — page 8 (right)

@@ -6,8 +6,11 @@ side: right
 spread: 41
 page_type: entry
 location: Madrid
-places: [Prado, Lazaro]
-people: [Pio]
+places:
+  - Prado
+  - Lazaro
+people:
+  - Pio
 ---
 
 # BB_1919_Jan-Jun — page 82 (right)

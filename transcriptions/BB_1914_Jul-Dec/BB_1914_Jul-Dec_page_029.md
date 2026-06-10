@@ -6,8 +6,13 @@ side: left
 spread: 15
 page_type: entry
 location: Ford
-places: [Ford Place]
-people: [Sidney Webb, Warren Lewis, Mrs Leigh Smith, Robert Bridges]
+places:
+  - Ford Place
+people:
+  - Sidney Webb
+  - Warren Lewis
+  - Mrs Leigh Smith
+  - Robert Bridges
 ---
 
 # BB_1914_Jul-Dec — page 29 (left)

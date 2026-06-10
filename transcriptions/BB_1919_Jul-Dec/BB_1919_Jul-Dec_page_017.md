@@ -6,8 +6,10 @@ side: left
 spread: 9
 page_type: entry
 location: Versailles
-places: [Versailles]
-people: [Mrs Harriman[?]]
+places:
+  - Versailles
+people:
+  - Mrs Harriman[?]
 ---
 
 # BB_1919_Jul-Dec — page 17 (left)

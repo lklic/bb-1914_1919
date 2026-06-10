@@ -6,7 +6,10 @@ side: right
 spread: 31
 page_type: entry
 location: Settignano (Florence)
-people: [Wilson, Kelekian, Ammanati]
+people:
+  - Wilson
+  - Kelekian
+  - Ammanati
 ---
 
 # BB_1919_Jul-Dec — page 62 (right)

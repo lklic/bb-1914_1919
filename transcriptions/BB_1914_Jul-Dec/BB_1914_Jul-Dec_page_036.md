@@ -6,7 +6,11 @@ side: right
 spread: 18
 page_type: entry
 location: Ford
-people: [Ford, Geoffrey, Adrian Stephen, Karin]
+people:
+  - Ford
+  - Geoffrey
+  - Adrian Stephen
+  - Karin
 ---
 
 # BB_1914_Jul-Dec — page 36 (right)

@@ -6,7 +6,9 @@ side: right
 spread: 34
 page_type: entry
 location: Settignano (Florence)
-people: [Gravina, Geoffrey]
+people:
+  - Gravina
+  - Geoffrey
 ---
 
 # BB_1919_Jul-Dec — page 68 (right)

@@ -6,8 +6,11 @@ side: left
 spread: 25
 page_type: entry
 location: Paris
-places: [Maison Lafitte]
-people: [Tyler, Cossé[?]]
+places:
+  - Maison Lafitte
+people:
+  - Tyler
+  - Cossé[?]
 ---
 
 # BB_1914_Jan-Jun — page 49 (left)

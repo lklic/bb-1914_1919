@@ -6,7 +6,9 @@ side: right
 spread: 36
 page_type: entry
 location: Florence
-people: [E. H. C. de C., Schl.]
+people:
+  - E. H. C. de C.
+  - Schl.
 ---
 
 # BB_1914_Jan-Jun — page 72 (right)

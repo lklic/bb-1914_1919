@@ -6,8 +6,11 @@ side: left
 spread: 27
 page_type: entry
 location: Paris
-places: [Paris]
-people: [Vanderwelde, Nellie Mackay[?]]
+places:
+  - Paris
+people:
+  - Vanderwelde
+  - Nellie Mackay[?]
 ---
 
 # BB_1919_Jan-Jun — page 53 (left)

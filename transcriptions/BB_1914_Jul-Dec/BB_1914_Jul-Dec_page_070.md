@@ -6,8 +6,20 @@ side: right
 spread: 35
 page_type: entry
 location: Paris
-places: [Paris, Ave. Henri Moisson[?], Rue de Chaillot, d'Orsay[?]]
-people: [Reinach, Bliss, Cosse[?], Lucy, Duchesse de Clermont-Tonnerre, Mme. Cosse[?], Mrs. Scott, S. Reinach]
+places:
+  - Paris
+  - Ave. Henri Moisson[?]
+  - Rue de Chaillot
+  - d'Orsay[?]
+people:
+  - Reinach
+  - Bliss
+  - Cosse[?]
+  - Lucy
+  - Duchesse de Clermont-Tonnerre
+  - Mme. Cosse[?]
+  - Mrs. Scott
+  - S. Reinach
 ---
 
 # BB_1914_Jul-Dec — page 70 (right)

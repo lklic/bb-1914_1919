@@ -6,8 +6,12 @@ side: right
 spread: 15
 page_type: entry
 location: Baltimore
-places: [Baltimore]
-people: [Jacobs[?], Cary[?], Thomas]
+places:
+  - Baltimore
+people:
+  - Jacobs[?]
+  - Cary[?]
+  - Thomas
 ---
 
 # BB_1914_Jan-Jun — page 30 (right)

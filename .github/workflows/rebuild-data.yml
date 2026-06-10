@@ -1,0 +1,42 @@
+name: Rebuild data.json from transcriptions
+
+# When a transcription Markdown file is edited on GitHub, parse the Markdown
+# back into data.json (which the viewer actually renders) and commit the result.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "transcriptions/**/*.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-data
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Rebuild data.json from Markdown
+        run: python tools/build_data_from_md.py
+
+      - name: Commit updated data.json
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "data.json unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "chore: rebuild data.json from transcription edits"
+          git push

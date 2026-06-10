@@ -6,7 +6,13 @@ side: right
 spread: 1
 page_type: entry
 location: Paris
-people: [Elsie[?], Melville Shaw[?], Mrs. Matthews[?], Stead, Dillon, Forbes[?]]
+people:
+  - Elsie[?]
+  - Melville Shaw[?]
+  - Mrs. Matthews[?]
+  - Stead
+  - Dillon
+  - Forbes[?]
 ---
 
 # BB_1919_Jan-Jun — page 2 (right)

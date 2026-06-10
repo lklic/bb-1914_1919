@@ -6,7 +6,10 @@ side: right
 spread: 7
 page_type: entry
 location: New York
-people: [Elsie[?], Lanier, Flexner[?]]
+people:
+  - Elsie[?]
+  - Lanier
+  - Flexner[?]
 ---
 
 # BB_1914_Jan-Jun — page 14 (right)

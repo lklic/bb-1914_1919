@@ -6,7 +6,11 @@ side: left
 spread: 39
 page_type: entry
 location: Florence
-people: [Nallo, Mrs. Ross, Lucas[?], Dryson Burrows[?]]
+people:
+  - Nallo
+  - Mrs. Ross
+  - Lucas[?]
+  - Dryson Burrows[?]
 ---
 
 # BB_1914_Jan-Jun — page 77 (left)

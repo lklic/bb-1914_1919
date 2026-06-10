@@ -6,7 +6,11 @@ side: left
 spread: 41
 page_type: entry
 location: Settignano (Florence)
-people: [Brewster, Strong, Loeser, Placci]
+people:
+  - Brewster
+  - Strong
+  - Loeser
+  - Placci
 ---
 
 # BB_1919_Jul-Dec — page 81 (left)

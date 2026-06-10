@@ -6,7 +6,9 @@ side: left
 spread: 4
 page_type: entry
 location: New York
-places: [Montreal, New York]
+places:
+  - Montreal
+  - New York
 ---
 
 # BB_1914_Jan-Jun — page 7 (left)

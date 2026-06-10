@@ -6,8 +6,10 @@ side: right
 spread: 19
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-places: [Maryland]
-people: [Duke of Connaught]
+places:
+  - Maryland
+people:
+  - Duke of Connaught
 ---
 
 # BB_1919_Jan-Jun — page 38 (right)

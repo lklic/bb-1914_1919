@@ -6,7 +6,10 @@ side: right
 spread: 12
 page_type: entry
 location: Ford
-people: [Ford, Scott, Mrs. Scott]
+people:
+  - Ford
+  - Scott
+  - Mrs. Scott
 ---
 
 # BB_1914_Jul-Dec — page 24 (right)

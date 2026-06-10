@@ -6,8 +6,12 @@ side: right
 spread: 7
 page_type: entry
 location: London
-places: [50 Portland Pl., Oxford, Headington[?]]
-people: [Waterhs.[?]]
+places:
+  - 50 Portland Pl.
+  - Oxford
+  - Headington[?]
+people:
+  - Waterhs.[?]
 ---
 
 # BB_1914_Jul-Dec — page 14 (right)

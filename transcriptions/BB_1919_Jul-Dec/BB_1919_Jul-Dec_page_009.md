@@ -6,7 +6,12 @@ side: left
 spread: 5
 page_type: entry
 location: Paris
-people: [Lazzaroni, Curtis, Elgar, Geoffrey, Miss Thomas]
+people:
+  - Lazzaroni
+  - Curtis
+  - Elgar
+  - Geoffrey
+  - Miss Thomas
 ---
 
 # BB_1919_Jul-Dec — page 9 (left)

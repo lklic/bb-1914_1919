@@ -6,7 +6,16 @@ side: left
 spread: 36
 page_type: entry
 location: Macon
-places: [Paris, Sens, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Cluny, Macon]
+places:
+  - Paris
+  - Sens
+  - Fontainebleau
+  - Auxerre
+  - Vezelay
+  - Avallon
+  - Autun
+  - Cluny
+  - Macon
 ---
 
 # BB_1914_Jul-Dec — page 71 (left)

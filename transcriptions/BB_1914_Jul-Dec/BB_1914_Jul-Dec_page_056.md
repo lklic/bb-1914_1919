@@ -6,8 +6,13 @@ side: right
 spread: 28
 page_type: entry
 location: London
-places: [London]
-people: [Thorold, Theresa, Ford, Sir Hubert Parry]
+places:
+  - London
+people:
+  - Thorold
+  - Theresa
+  - Ford
+  - Sir Hubert Parry
 ---
 
 # BB_1914_Jul-Dec — page 56 (right)

@@ -6,8 +6,12 @@ side: left
 spread: 7
 page_type: entry
 location: Paris
-places: [La Rochefou[cauld?]]
-people: [Rohan-Chabot, La Rochefoucauld[?], Goluchow[?]]
+places:
+  - La Rochefou[cauld?]
+people:
+  - Rohan-Chabot
+  - La Rochefoucauld[?]
+  - Goluchow[?]
 ---
 
 # BB_1919_Jan-Jun — page 13 (left)

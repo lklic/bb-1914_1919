@@ -6,7 +6,15 @@ side: right
 spread: 16
 page_type: entry
 location: Paris
-people: [Placci, Nora, Raffalovich, Iswolsky[?], Laurence Thomas[?], Mrs. Straight, Moncure Robinson[?], Mrs. Keep]
+people:
+  - Placci
+  - Nora
+  - Raffalovich
+  - Iswolsky[?]
+  - Laurence Thomas[?]
+  - Mrs. Straight
+  - Moncure Robinson[?]
+  - Mrs. Keep
 ---
 
 # BB_1919_Jul-Dec — page 32 (right)

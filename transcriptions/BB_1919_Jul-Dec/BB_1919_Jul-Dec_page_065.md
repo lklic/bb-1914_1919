@@ -6,7 +6,8 @@ side: left
 spread: 33
 page_type: entry
 location: Settignano (Florence)
-people: [L. Venturi[?]]
+people:
+  - L. Venturi[?]
 ---
 
 # BB_1919_Jul-Dec — page 65 (left)

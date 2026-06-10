@@ -6,8 +6,12 @@ side: left
 spread: 26
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-places: [Villa Sylvia, Grasse, Monaco]
-people: [Lady Harbeck[?]]
+places:
+  - Villa Sylvia
+  - Grasse
+  - Monaco
+people:
+  - Lady Harbeck[?]
 ---
 
 # BB_1914_Jan-Jun — page 51 (left)

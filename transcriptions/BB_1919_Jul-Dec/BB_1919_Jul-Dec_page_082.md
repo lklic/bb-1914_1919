@@ -6,7 +6,12 @@ side: right
 spread: 41
 page_type: entry
 location: Settignano (Florence)
-people: [Gravina, Acton[?], Geoffrey, Sybil[?], Hanra[?]]
+people:
+  - Gravina
+  - Acton[?]
+  - Geoffrey
+  - Sybil[?]
+  - Hanra[?]
 ---
 
 # BB_1919_Jul-Dec — page 82 (right)

@@ -6,8 +6,11 @@ side: right
 spread: 23
 page_type: entry
 location: Hyeres
-places: [Abbaye de Th[?]rouet[?]]
-people: [Frank Robertson, Bismarck]
+places:
+  - Abbaye de Th[?]rouet[?]
+people:
+  - Frank Robertson
+  - Bismarck
 ---
 
 # BB_1919_Jan-Jun — page 46 (right)

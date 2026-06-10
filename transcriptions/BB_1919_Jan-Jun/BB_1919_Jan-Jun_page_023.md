@@ -6,8 +6,14 @@ side: left
 spread: 12
 page_type: entry
 location: Paris
-places: [Café de Paix[?], rue Montpensier[?]]
-people: [Seligmann[?], Visconti, Duboz[?], Larochefoucauld]
+places:
+  - Café de Paix[?]
+  - rue Montpensier[?]
+people:
+  - Seligmann[?]
+  - Visconti
+  - Duboz[?]
+  - Larochefoucauld
 ---
 
 # BB_1919_Jan-Jun — page 23 (left)

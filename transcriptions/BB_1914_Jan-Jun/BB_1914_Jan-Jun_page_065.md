@@ -6,8 +6,12 @@ side: left
 spread: 33
 page_type: entry
 location: Florence
-places: [Serristori[?]]
-people: [Mrs Ross, Prince, Edie[?]]
+places:
+  - Serristori[?]
+people:
+  - Mrs Ross
+  - Prince
+  - Edie[?]
 ---
 
 # BB_1914_Jan-Jun — page 65 (left)

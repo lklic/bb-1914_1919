@@ -6,7 +6,8 @@ side: left
 spread: 37
 page_type: entry
 location: Florence
-people: [Croswell]
+people:
+  - Croswell
 ---
 
 # BB_1914_Jan-Jun — page 73 (left)

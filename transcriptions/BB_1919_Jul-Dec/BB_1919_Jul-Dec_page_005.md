@@ -6,7 +6,14 @@ side: left
 spread: 3
 page_type: entry
 location: Pamplona
-places: [Santo Domingo de la Calzada, San Millan, Najera, Logrono, Viana, Estella, Pamplona]
+places:
+  - Santo Domingo de la Calzada
+  - San Millan
+  - Najera
+  - Logrono
+  - Viana
+  - Estella
+  - Pamplona
 ---
 
 # BB_1919_Jul-Dec — page 5 (left)

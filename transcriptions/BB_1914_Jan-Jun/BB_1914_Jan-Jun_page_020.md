@@ -6,7 +6,9 @@ side: right
 spread: 10
 page_type: entry
 location: New York
-people: [Miss Bryce, A. Johnson[?]]
+people:
+  - Miss Bryce
+  - A. Johnson[?]
 ---
 
 # BB_1914_Jan-Jun — page 20 (right)

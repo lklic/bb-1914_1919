@@ -6,8 +6,18 @@ side: left
 spread: 28
 page_type: entry
 location: London
-places: [46 Cumberland Place, 156 Strand]
-people: [C. Phillips, Mrs. Astor, Cassel, Leonie, Hare-Naylor, Walter Berry, Sybel, Lady Lewis]
+places:
+  - 46 Cumberland Place
+  - 156 Strand
+people:
+  - C. Phillips
+  - Mrs. Astor
+  - Cassel
+  - Leonie
+  - Hare-Naylor
+  - Walter Berry
+  - Sybel
+  - Lady Lewis
 ---
 
 # BB_1914_Jul-Dec — page 55 (left)

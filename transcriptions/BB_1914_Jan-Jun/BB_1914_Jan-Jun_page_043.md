@@ -6,8 +6,11 @@ side: left
 spread: 22
 page_type: entry
 location: At sea (RMS Olympic)
-places: [Salzburg[?]]
-people: [Duc de La[illegible], Ludwig[?]]
+places:
+  - Salzburg[?]
+people:
+  - Duc de La[illegible]
+  - Ludwig[?]
 ---
 
 # BB_1914_Jan-Jun — page 43 (left)

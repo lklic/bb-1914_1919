@@ -6,7 +6,11 @@ side: right
 spread: 36
 page_type: entry
 location: Macon
-places: [Macon, Lyons, Valence, Avignon]
+places:
+  - Macon
+  - Lyons
+  - Valence
+  - Avignon
 ---
 
 # BB_1914_Jul-Dec — page 72 (right)

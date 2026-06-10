@@ -6,7 +6,8 @@ side: right
 spread: 29
 page_type: entry
 location: Florence
-people: [Mostow[?] Pieira[?]]
+people:
+  - Mostow[?] Pieira[?]
 ---
 
 # BB_1914_Jan-Jun — page 58 (right)

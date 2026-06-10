@@ -6,8 +6,12 @@ side: right
 spread: 27
 page_type: entry
 location: Settignano (Florence)
-places: [Borgo S. Sepolcro, Perugia]
-people: [V. Sackville, Gigholi[?]]
+places:
+  - Borgo S. Sepolcro
+  - Perugia
+people:
+  - V. Sackville
+  - Gigholi[?]
 ---
 
 # BB_1919_Jul-Dec — page 54 (right)

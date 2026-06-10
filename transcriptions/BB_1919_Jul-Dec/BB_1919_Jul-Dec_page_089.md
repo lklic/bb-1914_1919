@@ -6,7 +6,8 @@ side: left
 spread: 45
 page_type: entry
 location: Settignano (Florence)
-people: [Salvemini]
+people:
+  - Salvemini
 ---
 
 # BB_1919_Jul-Dec — page 89 (left)

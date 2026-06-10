@@ -6,7 +6,8 @@ side: right
 spread: 10
 page_type: entry
 location: Saint-Brice-sous-Foret
-places: [St. Brice]
+places:
+  - St. Brice
 ---
 
 # BB_1919_Jul-Dec — page 20 (right)

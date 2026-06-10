@@ -6,8 +6,12 @@ side: left
 spread: 15
 page_type: entry
 location: Baltimore
-places: [Northampton, Baltimore]
-people: [Dina Bulle[?], Agnes]
+places:
+  - Northampton
+  - Baltimore
+people:
+  - Dina Bulle[?]
+  - Agnes
 ---
 
 # BB_1914_Jan-Jun — page 29 (left)

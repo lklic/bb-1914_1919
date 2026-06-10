@@ -6,8 +6,11 @@ side: left
 spread: 26
 page_type: entry
 location: Ford
-places: [Amberley]
-people: [Sibil, Zangwill[?]]
+places:
+  - Amberley
+people:
+  - Sibil
+  - Zangwill[?]
 ---
 
 # BB_1914_Jul-Dec — page 51 (left)

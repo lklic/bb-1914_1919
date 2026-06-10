@@ -6,8 +6,16 @@ side: left
 spread: 35
 page_type: entry
 location: Paris
-places: [Paris]
-people: [Seligmann, Edith W., Mme. Heinrich[?], Reinach, Hubert[?], Blanche[?], Clermont-Tonnerre[?]]
+places:
+  - Paris
+people:
+  - Seligmann
+  - Edith W.
+  - Mme. Heinrich[?]
+  - Reinach
+  - Hubert[?]
+  - Blanche[?]
+  - Clermont-Tonnerre[?]
 ---
 
 # BB_1914_Jul-Dec — page 69 (left)

@@ -6,7 +6,8 @@ side: left
 spread: 36
 page_type: entry
 location: Settignano (Florence)
-places: [Barna]
+places:
+  - Barna
 ---
 
 # BB_1919_Jul-Dec — page 71 (left)

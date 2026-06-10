@@ -6,7 +6,11 @@ side: right
 spread: 3
 page_type: entry
 location: Pamplona
-places: [Pamplona, Sanguesa, Xavier, San Sebastian]
+places:
+  - Pamplona
+  - Sanguesa
+  - Xavier
+  - San Sebastian
 ---
 
 # BB_1919_Jul-Dec — page 6 (right)

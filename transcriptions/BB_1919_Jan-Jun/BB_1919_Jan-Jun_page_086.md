@@ -6,8 +6,11 @@ side: right
 spread: 43
 page_type: entry
 location: Toledo
-places: [Madrid]
-people: [Villaurrutia[?], d'Alba]
+places:
+  - Madrid
+people:
+  - Villaurrutia[?]
+  - d'Alba
 ---
 
 # BB_1919_Jan-Jun — page 86 (right)

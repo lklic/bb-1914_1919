@@ -6,7 +6,12 @@ side: right
 spread: 24
 page_type: entry
 location: Paris
-people: [Placci, Elsie de Wolfe, Jos Duveen[?], Carl Hamilton, Royall Tyler]
+people:
+  - Placci
+  - Elsie de Wolfe
+  - Jos Duveen[?]
+  - Carl Hamilton
+  - Royall Tyler
 ---
 
 # BB_1919_Jul-Dec — page 48 (right)

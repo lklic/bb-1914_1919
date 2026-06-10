@@ -6,7 +6,8 @@ side: left
 spread: 38
 page_type: entry
 location: Florence
-people: [Bryson Burrus[?]]
+people:
+  - Bryson Burrus[?]
 ---
 
 # BB_1914_Jan-Jun — page 75 (left)

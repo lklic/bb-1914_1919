@@ -6,7 +6,8 @@ side: right
 spread: 9
 page_type: entry
 location: Paris
-people: [Rosa]
+people:
+  - Rosa
 ---
 
 # BB_1919_Jan-Jun — page 18 (right)

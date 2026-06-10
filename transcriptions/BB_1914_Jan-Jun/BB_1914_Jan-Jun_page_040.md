@@ -6,8 +6,14 @@ side: right
 spread: 20
 page_type: entry
 location: Bryn Mawr
-places: [Longue Vue, 325 N. 82d[?]]
-people: [Elsie, Chapman, Mrs. Lanier, Battle[?]]
+places:
+  - Longue Vue
+  - 325 N. 82d[?]
+people:
+  - Elsie
+  - Chapman
+  - Mrs. Lanier
+  - Battle[?]
 ---
 
 # BB_1914_Jan-Jun — page 40 (right)

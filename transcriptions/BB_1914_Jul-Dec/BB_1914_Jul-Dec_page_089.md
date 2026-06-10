@@ -6,7 +6,9 @@ side: left
 spread: 45
 page_type: entry
 location: Florence
-people: [Dickinson, Vivarini]
+people:
+  - Dickinson
+  - Vivarini
 ---
 
 # BB_1914_Jul-Dec — page 89 (left)

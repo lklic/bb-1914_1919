@@ -6,7 +6,8 @@ side: right
 spread: 3
 page_type: entry
 location: Montreal
-places: [Montreal]
+places:
+  - Montreal
 ---
 
 # BB_1914_Jan-Jun — page 6 (right)

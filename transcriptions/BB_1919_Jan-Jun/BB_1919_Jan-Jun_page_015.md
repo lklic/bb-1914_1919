@@ -6,7 +6,13 @@ side: left
 spread: 8
 page_type: entry
 location: Paris
-people: [Lucy, Miss Hare[?], Cole Porter, Lockie[?], Polignac, Linda]
+people:
+  - Lucy
+  - Miss Hare[?]
+  - Cole Porter
+  - Lockie[?]
+  - Polignac
+  - Linda
 ---
 
 # BB_1919_Jan-Jun — page 15 (left)

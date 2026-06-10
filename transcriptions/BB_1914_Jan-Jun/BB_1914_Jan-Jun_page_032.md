@@ -6,7 +6,8 @@ side: right
 spread: 16
 page_type: entry
 location: Baltimore
-places: [Baltimore]
+places:
+  - Baltimore
 ---
 
 # BB_1914_Jan-Jun — page 32 (right)

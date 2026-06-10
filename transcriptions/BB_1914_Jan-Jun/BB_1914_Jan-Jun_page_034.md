@@ -6,8 +6,14 @@ side: right
 spread: 17
 page_type: entry
 location: Washington
-places: [1812]
-people: [Uncle H. Adams, H. White[?], Mrs. Chanler, R. S. Hunt[?], Hales[?]]
+places:
+  - 1812
+people:
+  - Uncle H. Adams
+  - H. White[?]
+  - Mrs. Chanler
+  - R. S. Hunt[?]
+  - Hales[?]
 ---
 
 # BB_1914_Jan-Jun — page 34 (right)

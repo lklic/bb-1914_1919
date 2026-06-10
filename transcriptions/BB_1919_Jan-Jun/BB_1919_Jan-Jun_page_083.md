@@ -6,8 +6,10 @@ side: left
 spread: 42
 page_type: entry
 location: Madrid
-places: [Escorial]
-people: [Montellano[?]]
+places:
+  - Escorial
+people:
+  - Montellano[?]
 ---
 
 # BB_1919_Jan-Jun — page 83 (left)

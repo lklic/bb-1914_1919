@@ -6,7 +6,9 @@ side: right
 spread: 42
 page_type: entry
 location: Settignano (Florence)
-people: [Santayana, Mrs. Ross]
+people:
+  - Santayana
+  - Mrs. Ross
 ---
 
 # BB_1919_Jul-Dec — page 84 (right)

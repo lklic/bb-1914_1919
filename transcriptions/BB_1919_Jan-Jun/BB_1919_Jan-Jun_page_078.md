@@ -6,7 +6,11 @@ side: right
 spread: 39
 page_type: entry
 location: Seville
-places: [CORDOBA, St. Geronimo, Madinat az-Zahra, Cordoba]
+places:
+  - CORDOBA
+  - St. Geronimo
+  - Madinat az-Zahra
+  - Cordoba
 ---
 
 # BB_1919_Jan-Jun — page 78 (right)

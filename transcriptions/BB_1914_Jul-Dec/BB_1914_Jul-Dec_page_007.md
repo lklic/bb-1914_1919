@@ -6,8 +6,13 @@ side: left
 spread: 4
 page_type: entry
 location: London
-places: [32 Dover St., opera]
-people: [Mary Crawshay, Mrs. Otto Kahn, Sybil]
+places:
+  - 32 Dover St.
+  - opera
+people:
+  - Mary Crawshay
+  - Mrs. Otto Kahn
+  - Sybil
 ---
 
 # BB_1914_Jul-Dec — page 7 (left)

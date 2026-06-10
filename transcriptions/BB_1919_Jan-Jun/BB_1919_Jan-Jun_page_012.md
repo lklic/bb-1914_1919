@@ -6,8 +6,12 @@ side: right
 spread: 6
 page_type: entry
 location: Paris
-places: [26 bis Rue de Lubeck[?] (Paris)]
-people: [G., Linda, Lucy Hewitt]
+places:
+  - 26 bis Rue de Lubeck[?] (Paris)
+people:
+  - G.
+  - Linda
+  - Lucy Hewitt
 ---
 
 # BB_1919_Jan-Jun — page 12 (right)

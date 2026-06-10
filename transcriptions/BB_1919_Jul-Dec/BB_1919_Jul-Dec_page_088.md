@@ -6,7 +6,13 @@ side: right
 spread: 44
 page_type: entry
 location: Settignano (Florence)
-people: [Scotto, van Marle, Aunt Janet[?], Ashburner, Latimer[?], Gibsons]
+people:
+  - Scotto
+  - van Marle
+  - Aunt Janet[?]
+  - Ashburner
+  - Latimer[?]
+  - Gibsons
 ---
 
 # BB_1919_Jul-Dec — page 88 (right)

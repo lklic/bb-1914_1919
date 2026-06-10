@@ -6,7 +6,13 @@ side: right
 spread: 27
 page_type: entry
 location: Paris
-people: [Rosa, Mrs. Vanderwelde, Donnah, Mary, Putzi[?], Paul of Serbia]
+people:
+  - Rosa
+  - Mrs. Vanderwelde
+  - Donnah
+  - Mary
+  - Putzi[?]
+  - Paul of Serbia
 ---
 
 # BB_1919_Jan-Jun — page 54 (right)

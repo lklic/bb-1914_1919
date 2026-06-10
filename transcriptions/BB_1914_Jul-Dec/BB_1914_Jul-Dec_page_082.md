@@ -6,7 +6,11 @@ side: right
 spread: 41
 page_type: entry
 location: Florence
-people: [Placci, Marchesa Bengou[?], Mrs. Ross, Mrs. Krail[?]]
+people:
+  - Placci
+  - Marchesa Bengou[?]
+  - Mrs. Ross
+  - Mrs. Krail[?]
 ---
 
 # BB_1914_Jul-Dec — page 82 (right)

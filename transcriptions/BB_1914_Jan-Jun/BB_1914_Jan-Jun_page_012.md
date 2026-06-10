@@ -6,8 +6,13 @@ side: right
 spread: 6
 page_type: entry
 location: New York
-places: [Rockefeller Inst., 66th Ave.]
-people: [Burroughs, Sherrills, Miss Sands]
+places:
+  - Rockefeller Inst.
+  - 66th Ave.
+people:
+  - Burroughs
+  - Sherrills
+  - Miss Sands
 ---
 
 # BB_1914_Jan-Jun — page 12 (right)

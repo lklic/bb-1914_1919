@@ -6,8 +6,15 @@ side: right
 spread: 33
 page_type: entry
 location: Paris
-places: [Paris]
-people: [Mme. de Cossé[?], Schlumberger[?], Mrs. Lucy, Ma. de Ludre, Loraine[?], V. Bérard]
+places:
+  - Paris
+people:
+  - Mme. de Cossé[?]
+  - Schlumberger[?]
+  - Mrs. Lucy
+  - Ma. de Ludre
+  - Loraine[?]
+  - V. Bérard
 ---
 
 # BB_1914_Jul-Dec — page 66 (right)

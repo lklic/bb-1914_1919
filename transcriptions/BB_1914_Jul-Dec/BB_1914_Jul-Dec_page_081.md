@@ -6,7 +6,10 @@ side: left
 spread: 41
 page_type: entry
 location: Florence
-people: [Guido Crav[?], Salvemini[?], Placci]
+people:
+  - Guido Crav[?]
+  - Salvemini[?]
+  - Placci
 ---
 
 # BB_1914_Jul-Dec — page 81 (left)

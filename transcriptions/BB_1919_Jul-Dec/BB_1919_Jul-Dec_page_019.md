@@ -6,8 +6,15 @@ side: left
 spread: 10
 page_type: entry
 location: Saint-Brice-sous-Foret
-places: [St. Brice]
-people: [Thomas, Hubert[?], Ferdinand[?], Bouchard, Thiis, Edith]
+places:
+  - St. Brice
+people:
+  - Thomas
+  - Hubert[?]
+  - Ferdinand[?]
+  - Bouchard
+  - Thiis
+  - Edith
 ---
 
 # BB_1919_Jul-Dec — page 19 (left)

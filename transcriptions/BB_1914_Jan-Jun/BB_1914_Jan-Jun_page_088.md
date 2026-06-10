@@ -6,7 +6,10 @@ side: right
 spread: 44
 page_type: entry
 location: Paris
-people: [Bing[?], Mrs. Vanderbilt, Edie G[?]]
+people:
+  - Bing[?]
+  - Mrs. Vanderbilt
+  - Edie G[?]
 ---
 
 # BB_1914_Jan-Jun — page 88 (right)

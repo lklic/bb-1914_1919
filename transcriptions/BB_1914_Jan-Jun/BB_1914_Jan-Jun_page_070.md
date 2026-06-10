@@ -6,8 +6,11 @@ side: right
 spread: 35
 page_type: entry
 location: Florence
-places: [Fiesole]
-people: [Mme. de Cosso[?], Serristori]
+places:
+  - Fiesole
+people:
+  - Mme. de Cosso[?]
+  - Serristori
 ---
 
 # BB_1914_Jan-Jun — page 70 (right)

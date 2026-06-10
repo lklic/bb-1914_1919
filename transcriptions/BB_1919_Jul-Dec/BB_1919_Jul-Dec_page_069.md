@@ -6,7 +6,9 @@ side: left
 spread: 35
 page_type: entry
 location: Settignano (Florence)
-people: [Lady Anabel O'Neil, Mlle. Lavalle[?]]
+people:
+  - Lady Anabel O'Neil
+  - Mlle. Lavalle[?]
 ---
 
 # BB_1919_Jul-Dec — page 69 (left)

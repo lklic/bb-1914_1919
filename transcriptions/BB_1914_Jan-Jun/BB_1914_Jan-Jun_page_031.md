@@ -6,8 +6,10 @@ side: left
 spread: 16
 page_type: entry
 location: Baltimore
-places: [Baltimore]
-people: [Mrs Dawson]
+places:
+  - Baltimore
+people:
+  - Mrs Dawson
 ---
 
 # BB_1914_Jan-Jun — page 31 (left)

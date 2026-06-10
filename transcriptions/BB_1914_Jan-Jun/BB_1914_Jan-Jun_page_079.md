@@ -6,7 +6,8 @@ side: left
 spread: 40
 page_type: entry
 location: Florence
-people: [Lina[?]]
+people:
+  - Lina[?]
 ---
 
 # BB_1914_Jan-Jun — page 79 (left)

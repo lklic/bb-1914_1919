@@ -6,7 +6,12 @@ side: left
 spread: 44
 page_type: entry
 location: Florence
-people: [Henderson, Sickert[?], Mme. Luchaire, Countess Gravina, Manfredo Gravina]
+people:
+  - Henderson
+  - Sickert[?]
+  - Mme. Luchaire
+  - Countess Gravina
+  - Manfredo Gravina
 ---
 
 # BB_1914_Jul-Dec — page 87 (left)

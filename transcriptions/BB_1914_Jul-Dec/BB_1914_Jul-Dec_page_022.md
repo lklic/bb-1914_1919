@@ -6,8 +6,11 @@ side: right
 spread: 11
 page_type: entry
 location: Ford
-places: [Chichester, Bosham]
-people: [Ford]
+places:
+  - Chichester
+  - Bosham
+people:
+  - Ford
 ---
 
 # BB_1914_Jul-Dec — page 22 (right)

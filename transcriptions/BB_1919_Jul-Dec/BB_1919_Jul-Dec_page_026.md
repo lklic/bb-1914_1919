@@ -6,8 +6,15 @@ side: right
 spread: 13
 page_type: entry
 location: Autun
-places: [Charlieu, Montceaux-l'Etoile, Paray-le-Monial, Perrecy, Autun, Saulieu]
-people: [Agostino di Duccio]
+places:
+  - Charlieu
+  - Montceaux-l'Etoile
+  - Paray-le-Monial
+  - Perrecy
+  - Autun
+  - Saulieu
+people:
+  - Agostino di Duccio
 ---
 
 # BB_1919_Jul-Dec — page 26 (right)

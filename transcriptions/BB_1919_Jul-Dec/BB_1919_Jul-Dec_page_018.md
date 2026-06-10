@@ -6,8 +6,11 @@ side: right
 spread: 9
 page_type: entry
 location: Versailles
-places: [Versailles]
-people: [Alf. Thomas, Rosa Sheild[?]]
+places:
+  - Versailles
+people:
+  - Alf. Thomas
+  - Rosa Sheild[?]
 ---
 
 # BB_1919_Jul-Dec — page 18 (right)

@@ -6,8 +6,12 @@ side: right
 spread: 23
 page_type: entry
 location: Ford
-places: [Ford]
-people: [Adrian, Barbara, Mrs. Bowen]
+places:
+  - Ford
+people:
+  - Adrian
+  - Barbara
+  - Mrs. Bowen
 ---
 
 # BB_1914_Jul-Dec — page 46 (right)

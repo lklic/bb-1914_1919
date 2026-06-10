@@ -6,8 +6,10 @@ side: right
 spread: 35
 page_type: entry
 location: Settignano (Florence)
-places: [Angelis[?]]
-people: [Mma. Schifung[?]]
+places:
+  - Angelis[?]
+people:
+  - Mma. Schifung[?]
 ---
 
 # BB_1919_Jul-Dec — page 70 (right)

@@ -6,7 +6,11 @@ side: right
 spread: 42
 page_type: entry
 location: Florence
-people: [Nani, Cecil, Trotty, Laure]
+people:
+  - Nani
+  - Cecil
+  - Trotty
+  - Laure
 ---
 
 # BB_1914_Jul-Dec — page 84 (right)

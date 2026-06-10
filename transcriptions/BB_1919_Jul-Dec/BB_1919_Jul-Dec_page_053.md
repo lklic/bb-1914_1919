@@ -6,7 +6,10 @@ side: left
 spread: 27
 page_type: entry
 location: Settignano (Florence)
-people: [Salvemini, Mrs. Ross, Lina]
+people:
+  - Salvemini
+  - Mrs. Ross
+  - Lina
 ---
 
 # BB_1919_Jul-Dec — page 53 (left)

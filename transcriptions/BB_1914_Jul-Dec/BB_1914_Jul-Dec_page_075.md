@@ -6,8 +6,12 @@ side: left
 spread: 38
 page_type: entry
 location: Genoa
-places: [Genoa, Viareggio]
-people: [Laura Gropallo[?], Guido Cagnola]
+places:
+  - Genoa
+  - Viareggio
+people:
+  - Laura Gropallo[?]
+  - Guido Cagnola
 ---
 
 # BB_1914_Jul-Dec — page 75 (left)

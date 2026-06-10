@@ -6,7 +6,10 @@ side: right
 spread: 44
 page_type: entry
 location: Florence
-people: [Vivarini[?], Maraini[?], Placci]
+people:
+  - Vivarini[?]
+  - Maraini[?]
+  - Placci
 ---
 
 # BB_1914_Jul-Dec — page 88 (right)

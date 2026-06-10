@@ -6,7 +6,11 @@ side: left
 spread: 34
 page_type: entry
 location: Barcelona
-places: [Manresa, Tarrassa, Barcelona, Sitges]
+places:
+  - Manresa
+  - Tarrassa
+  - Barcelona
+  - Sitges
 ---
 
 # BB_1919_Jan-Jun — page 67 (left)

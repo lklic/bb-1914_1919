@@ -6,8 +6,14 @@ side: right
 spread: 30
 page_type: entry
 location: Ford
-places: [Arundel Park, London[?]]
-people: [Ford, Bessie Trevelyan, Eva[?], Dame Ethel[?]]
+places:
+  - Arundel Park
+  - London[?]
+people:
+  - Ford
+  - Bessie Trevelyan
+  - Eva[?]
+  - Dame Ethel[?]
 ---
 
 # BB_1914_Jul-Dec — page 60 (right)

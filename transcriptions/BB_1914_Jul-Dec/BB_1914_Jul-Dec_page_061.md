@@ -6,8 +6,17 @@ side: left
 spread: 31
 page_type: entry
 location: London
-places: [Mayfair, Hyde Park Gate, London]
-people: [Lady Lewis, Eva, Mary, Lady Cunard, Lady Charles Beresford, Lady Herbert]
+places:
+  - Mayfair
+  - Hyde Park Gate
+  - London
+people:
+  - Lady Lewis
+  - Eva
+  - Mary
+  - Lady Cunard
+  - Lady Charles Beresford
+  - Lady Herbert
 ---
 
 # BB_1914_Jul-Dec — page 61 (left)

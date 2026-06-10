@@ -6,8 +6,15 @@ side: right
 spread: 28
 page_type: entry
 location: Paris
-places: [Versailles]
-people: [Dubois, Edith, Maclagan, Milosz, Doris Maikago[?], Morton Prince]
+places:
+  - Versailles
+people:
+  - Dubois
+  - Edith
+  - Maclagan
+  - Milosz
+  - Doris Maikago[?]
+  - Morton Prince
 ---
 
 # BB_1919_Jan-Jun — page 56 (right)

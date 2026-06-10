@@ -6,8 +6,11 @@ side: right
 spread: 22
 page_type: entry
 location: Hyeres
-places: [Hyeres, Hotel du Parc]
-people: [Edith]
+places:
+  - Hyeres
+  - Hotel du Parc
+people:
+  - Edith
 ---
 
 # BB_1919_Jan-Jun — page 44 (right)

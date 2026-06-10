@@ -6,7 +6,10 @@ side: right
 spread: 24
 page_type: entry
 location: Paris
-people: [Golubew, Reinach, Hewitt]
+people:
+  - Golubew
+  - Reinach
+  - Hewitt
 ---
 
 # BB_1914_Jan-Jun — page 48 (right)

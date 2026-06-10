@@ -6,8 +6,13 @@ side: right
 spread: 26
 page_type: entry
 location: Ford
-places: [Boham[?], Goodwood]
-people: [Sibil, Logan, Bourdon]
+places:
+  - Boham[?]
+  - Goodwood
+people:
+  - Sibil
+  - Logan
+  - Bourdon
 ---
 
 # BB_1914_Jul-Dec — page 52 (right)

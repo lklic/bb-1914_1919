@@ -6,7 +6,13 @@ side: right
 spread: 12
 page_type: entry
 location: Dijon
-places: [Dole, Chissey, Arbois, Poligny, Baume-les-Messieurs, Bourg-en-Bresse]
+places:
+  - Dole
+  - Chissey
+  - Arbois
+  - Poligny
+  - Baume-les-Messieurs
+  - Bourg-en-Bresse
 ---
 
 # BB_1919_Jul-Dec — page 24 (right)

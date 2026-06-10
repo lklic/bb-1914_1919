@@ -6,8 +6,14 @@ side: left
 spread: 6
 page_type: entry
 location: Paris
-places: [19 Rue Spontini, Passy (Paris)]
-people: [Lindsay, Pershing, Rosa, Martynov[?], Gr. Duke Jorgen[?]]
+places:
+  - 19 Rue Spontini, Passy (Paris)
+people:
+  - Lindsay
+  - Pershing
+  - Rosa
+  - Martynov[?]
+  - Gr. Duke Jorgen[?]
 ---
 
 # BB_1919_Jan-Jun — page 11 (left)

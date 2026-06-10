@@ -6,8 +6,14 @@ side: right
 spread: 14
 page_type: entry
 location: Ford
-places: [Arundel Park]
-people: [Ford, Scott, Karin, Grace, Pierce]
+places:
+  - Arundel Park
+people:
+  - Ford
+  - Scott
+  - Karin
+  - Grace
+  - Pierce
 ---
 
 # BB_1914_Jul-Dec — page 28 (right)

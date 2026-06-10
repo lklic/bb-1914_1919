@@ -6,7 +6,8 @@ side: left
 spread: 25
 page_type: entry
 location: Hyeres
-people: [Bourgah[?]]
+people:
+  - Bourgah[?]
 ---
 
 # BB_1919_Jan-Jun — page 49 (left)

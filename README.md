@@ -33,6 +33,23 @@ chronological "logic" pass used geographic and date continuity to place each spr
 obvious mis-readings of place names (e.g. `GRAADA → Granada`, `VICH → Vic`). Treat readings of names
 and the inferred locations as scholarly hypotheses to verify, not ground truth.
 
+## Editing transcriptions
+Every page in the viewer has an **✎ Edit transcription** link that opens that page's Markdown file
+directly in GitHub's editor. Edit the text, commit (or open a pull request) — no local setup needed.
+
+The viewer renders from `data.json`, not the `.md` files, so a GitHub Action keeps them in sync:
+- `.github/workflows/rebuild-data.yml` runs on any push to `transcriptions/**/*.md`.
+- It runs `tools/build_data_from_md.py`, which parses the Markdown back into `data.json` and commits
+  the result. The next page load shows the edit.
+
+What you can edit in Markdown: the day headings (`## November 27 — Thursday`), printed notes
+(`*(printed: …)*`), handwritten lines (`> …`), loose/non-dated text, and the `places:` / `people:` /
+`location:` / `page_type:` frontmatter. Keep the frontmatter list style (one `- item` per line) so
+values containing commas survive intact.
+
+To rebuild locally instead of via the Action: `python tools/build_data_from_md.py`.
+(Full image/IIIF rebuilds from the source spread JSON still live in `_work/build_site_data.py`.)
+
 ## Provenance
 Generated from four source PDF scans. Embedded ~400 ppi JPEGs were extracted losslessly, the book
 detected/deskewed/cropped, and split at the gutter (no borders trimmed). Transcription and itinerary

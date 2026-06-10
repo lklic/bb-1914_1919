@@ -6,7 +6,8 @@ side: right
 spread: 13
 page_type: entry
 location: Paris
-people: [Orpen[?]]
+people:
+  - Orpen[?]
 ---
 
 # BB_1919_Jan-Jun — page 26 (right)

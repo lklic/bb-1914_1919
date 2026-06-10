@@ -6,7 +6,13 @@ side: right
 spread: 21
 page_type: entry
 location: Paris
-people: [Curtis[?], Mallon[?], Kalebdjian[?], Algar, Fernand[?], Kohler[?]]
+people:
+  - Curtis[?]
+  - Mallon[?]
+  - Kalebdjian[?]
+  - Algar
+  - Fernand[?]
+  - Kohler[?]
 ---
 
 # BB_1919_Jul-Dec — page 42 (right)

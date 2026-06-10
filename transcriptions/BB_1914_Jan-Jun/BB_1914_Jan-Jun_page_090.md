@@ -6,7 +6,11 @@ side: right
 spread: 45
 page_type: entry
 location: Paris
-people: [Walter, Aymer[?], Charles[?], Bliss]
+people:
+  - Walter
+  - Aymer[?]
+  - Charles[?]
+  - Bliss
 ---
 
 # BB_1914_Jan-Jun — page 90 (right)

@@ -6,8 +6,15 @@ side: left
 spread: 3
 page_type: entry
 location: Paris
-places: [Jockey Club, Charlie Ave.[?]]
-people: [Thomas, Pernot[?], Grew, Rohan Chabot[?], St. Andre[?]]
+places:
+  - Jockey Club
+  - Charlie Ave.[?]
+people:
+  - Thomas
+  - Pernot[?]
+  - Grew
+  - Rohan Chabot[?]
+  - St. Andre[?]
 ---
 
 # BB_1919_Jan-Jun — page 5 (left)

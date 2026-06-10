@@ -6,8 +6,15 @@ side: right
 spread: 17
 page_type: entry
 location: London
-places: [25 Grosvenor Place, Ford]
-people: [Edith, Algar[?], Lady Cunard, Harbord[?], Henry James]
+places:
+  - 25 Grosvenor Place
+  - Ford
+people:
+  - Edith
+  - Algar[?]
+  - Lady Cunard
+  - Harbord[?]
+  - Henry James
 ---
 
 # BB_1914_Jul-Dec — page 34 (right)

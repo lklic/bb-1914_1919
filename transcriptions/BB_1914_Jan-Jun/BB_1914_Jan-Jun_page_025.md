@@ -6,8 +6,10 @@ side: left
 spread: 13
 page_type: entry
 location: Detroit
-places: [Detroit]
-people: [Freer]
+places:
+  - Detroit
+people:
+  - Freer
 ---
 
 # BB_1914_Jan-Jun — page 25 (left)

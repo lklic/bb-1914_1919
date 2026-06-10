@@ -6,7 +6,11 @@ side: left
 spread: 42
 page_type: entry
 location: Florence
-people: [Mrs. Strong, Papafas, Venturi, Sybil]
+people:
+  - Mrs. Strong
+  - Papafas
+  - Venturi
+  - Sybil
 ---
 
 # BB_1914_Jan-Jun — page 83 (left)

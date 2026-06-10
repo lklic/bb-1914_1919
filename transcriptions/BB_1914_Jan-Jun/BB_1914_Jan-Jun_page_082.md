@@ -6,7 +6,10 @@ side: right
 spread: 41
 page_type: entry
 location: Florence
-people: [Mrs. Strong, Hutton[?], Sybil]
+people:
+  - Mrs. Strong
+  - Hutton[?]
+  - Sybil
 ---
 
 # BB_1914_Jan-Jun — page 82 (right)

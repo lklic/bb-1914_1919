@@ -6,8 +6,11 @@ side: left
 spread: 4
 page_type: entry
 location: San Sebastian
-places: [San Sebastian, Fuenterrabia]
-people: [Pio]
+places:
+  - San Sebastian
+  - Fuenterrabia
+people:
+  - Pio
 ---
 
 # BB_1919_Jul-Dec — page 7 (left)

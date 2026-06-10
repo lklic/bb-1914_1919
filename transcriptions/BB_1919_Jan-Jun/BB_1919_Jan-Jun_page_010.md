@@ -6,7 +6,11 @@ side: right
 spread: 5
 page_type: entry
 location: Paris
-people: [Cossé[?], Ludke[?], Thomas, Miss Tova[?]]
+people:
+  - Cossé[?]
+  - Ludke[?]
+  - Thomas
+  - Miss Tova[?]
 ---
 
 # BB_1919_Jan-Jun — page 10 (right)

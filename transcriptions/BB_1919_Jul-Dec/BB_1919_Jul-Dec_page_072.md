@@ -6,8 +6,11 @@ side: right
 spread: 36
 page_type: entry
 location: Settignano (Florence)
-places: [Villa Medici]
-people: [Cecila, Lady Annabal O'Niel]
+places:
+  - Villa Medici
+people:
+  - Cecila
+  - Lady Annabal O'Niel
 ---
 
 # BB_1919_Jul-Dec — page 72 (right)

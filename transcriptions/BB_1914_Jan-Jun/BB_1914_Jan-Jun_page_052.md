@@ -6,8 +6,10 @@ side: right
 spread: 26
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-places: [Villa Sylvia]
-people: [Uncle Lanckowski[?]]
+places:
+  - Villa Sylvia
+people:
+  - Uncle Lanckowski[?]
 ---
 
 # BB_1914_Jan-Jun — page 52 (right)

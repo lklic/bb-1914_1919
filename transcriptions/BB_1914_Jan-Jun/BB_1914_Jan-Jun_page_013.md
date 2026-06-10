@@ -6,7 +6,10 @@ side: left
 spread: 7
 page_type: entry
 location: New York
-people: [Chapman, Frelinghuysen[?], Kahn[?]]
+people:
+  - Chapman
+  - Frelinghuysen[?]
+  - Kahn[?]
 ---
 
 # BB_1914_Jan-Jun — page 13 (left)

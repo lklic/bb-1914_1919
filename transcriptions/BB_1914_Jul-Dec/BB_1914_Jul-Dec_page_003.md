@@ -6,8 +6,14 @@ side: left
 spread: 2
 page_type: entry
 location: Paris
-places: [74 Ave. Malakoff, Palace, Palais Dombre[?]]
-people: [Durrieu[?], Mrs. Cameron, Mme de Cossé[?]]
+places:
+  - 74 Ave. Malakoff
+  - Palace
+  - Palais Dombre[?]
+people:
+  - Durrieu[?]
+  - Mrs. Cameron
+  - Mme de Cossé[?]
 ---
 
 # BB_1914_Jul-Dec — page 3 (left)

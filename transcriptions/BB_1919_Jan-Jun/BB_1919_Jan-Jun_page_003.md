@@ -6,7 +6,15 @@ side: left
 spread: 2
 page_type: entry
 location: Paris
-people: [Dr Renal[?], Venizelos[?], Lippmann, Maguire[?], Charlie, Bonnard[?], Da Cosa[?], Dillon[?]]
+people:
+  - Dr Renal[?]
+  - Venizelos[?]
+  - Lippmann
+  - Maguire[?]
+  - Charlie
+  - Bonnard[?]
+  - Da Cosa[?]
+  - Dillon[?]
 ---
 
 # BB_1919_Jan-Jun — page 3 (left)

@@ -6,7 +6,10 @@ side: right
 spread: 39
 page_type: entry
 location: Florence
-people: [Mrs. Ross, Guido Cagnola[?], Maraini[?]]
+people:
+  - Mrs. Ross
+  - Guido Cagnola[?]
+  - Maraini[?]
 ---
 
 # BB_1914_Jul-Dec — page 78 (right)

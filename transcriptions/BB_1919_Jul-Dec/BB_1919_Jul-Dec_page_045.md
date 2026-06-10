@@ -6,8 +6,12 @@ side: left
 spread: 23
 page_type: entry
 location: Paris
-places: [Bourges]
-people: [Lazzaroni, Bodari[?], Joe Duveen[?]]
+places:
+  - Bourges
+people:
+  - Lazzaroni
+  - Bodari[?]
+  - Joe Duveen[?]
 ---
 
 # BB_1919_Jul-Dec — page 45 (left)

@@ -6,8 +6,11 @@ side: left
 spread: 22
 page_type: entry
 location: Hyeres
-places: [Florence]
-people: [Mary, Curtis[?]]
+places:
+  - Florence
+people:
+  - Mary
+  - Curtis[?]
 ---
 
 # BB_1919_Jan-Jun — page 43 (left)

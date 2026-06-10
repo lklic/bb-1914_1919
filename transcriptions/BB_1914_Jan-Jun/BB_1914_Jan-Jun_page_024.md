@@ -6,7 +6,11 @@ side: right
 spread: 12
 page_type: entry
 location: New York
-people: [Kahn[?], Havemeyer, Flexner[?], Miss Reynold[?]]
+people:
+  - Kahn[?]
+  - Havemeyer
+  - Flexner[?]
+  - Miss Reynold[?]
 ---
 
 # BB_1914_Jan-Jun — page 24 (right)

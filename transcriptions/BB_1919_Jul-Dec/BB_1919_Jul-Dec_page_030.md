@@ -6,7 +6,10 @@ side: right
 spread: 15
 page_type: entry
 location: Paris
-people: [Carey Thomas[?], Edith, Percy Lubbock[?]]
+people:
+  - Carey Thomas[?]
+  - Edith
+  - Percy Lubbock[?]
 ---
 
 # BB_1919_Jul-Dec — page 30 (right)

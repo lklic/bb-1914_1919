@@ -6,7 +6,11 @@ side: right
 spread: 4
 page_type: entry
 location: New York
-people: [Eno[?], Griswold, Hapgood, Elsie[?]]
+people:
+  - Eno[?]
+  - Griswold
+  - Hapgood
+  - Elsie[?]
 ---
 
 # BB_1914_Jan-Jun — page 8 (right)

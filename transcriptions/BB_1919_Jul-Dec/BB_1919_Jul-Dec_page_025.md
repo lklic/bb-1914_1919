@@ -6,7 +6,12 @@ side: left
 spread: 13
 page_type: entry
 location: Autun
-places: [St. Paul de Varax, Tournus, Sergé-la-Ville, Cluny, Bois-Ste-Marie]
+places:
+  - St. Paul de Varax
+  - Tournus
+  - Sergé-la-Ville
+  - Cluny
+  - Bois-Ste-Marie
 ---
 
 # BB_1919_Jul-Dec — page 25 (left)

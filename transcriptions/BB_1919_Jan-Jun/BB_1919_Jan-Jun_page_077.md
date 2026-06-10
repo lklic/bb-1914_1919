@@ -6,7 +6,9 @@ side: left
 spread: 39
 page_type: entry
 location: Seville
-places: [SEVILLE, cordoba]
+places:
+  - SEVILLE
+  - cordoba
 ---
 
 # BB_1919_Jan-Jun — page 77 (left)

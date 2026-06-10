@@ -6,8 +6,11 @@ side: right
 spread: 44
 page_type: entry
 location: Madrid
-places: [Madrid]
-people: [Mary Vadillo[?], Mme. de Croisex[?]]
+places:
+  - Madrid
+people:
+  - Mary Vadillo[?]
+  - Mme. de Croisex[?]
 ---
 
 # BB_1919_Jan-Jun — page 88 (right)

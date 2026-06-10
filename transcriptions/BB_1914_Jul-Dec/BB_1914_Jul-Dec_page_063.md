@@ -6,8 +6,18 @@ side: left
 spread: 32
 page_type: entry
 location: London
-places: [Richmond, Hampton Ct.]
-people: [Sybil, W. B., Bella Harper[?], George Moore, Otto, Mary Crawshay, Mrs. Astor, Diana]
+places:
+  - Richmond
+  - Hampton Ct.
+people:
+  - Sybil
+  - W. B.
+  - Bella Harper[?]
+  - George Moore
+  - Otto
+  - Mary Crawshay
+  - Mrs. Astor
+  - Diana
 ---
 
 # BB_1914_Jul-Dec — page 63 (left)

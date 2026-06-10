@@ -6,8 +6,14 @@ side: left
 spread: 17
 page_type: entry
 location: London
-places: [Ford, 25 Grosvenor Place]
-people: [Marjorie[?], Rachel[?], Ray, Edith]
+places:
+  - Ford
+  - 25 Grosvenor Place
+people:
+  - Marjorie[?]
+  - Rachel[?]
+  - Ray
+  - Edith
 ---
 
 # BB_1914_Jul-Dec — page 33 (left)

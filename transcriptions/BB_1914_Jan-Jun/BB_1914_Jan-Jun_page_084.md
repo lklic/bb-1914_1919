@@ -6,7 +6,12 @@ side: right
 spread: 42
 page_type: entry
 location: Florence
-people: [Mrs. Strong, Harrach, Mara[?], B. Humphreys Holm[?], Miss Lou Land]
+people:
+  - Mrs. Strong
+  - Harrach
+  - Mara[?]
+  - B. Humphreys Holm[?]
+  - Miss Lou Land
 ---
 
 # BB_1914_Jan-Jun — page 84 (right)

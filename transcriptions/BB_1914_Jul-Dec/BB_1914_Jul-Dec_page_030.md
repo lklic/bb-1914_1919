@@ -6,8 +6,15 @@ side: right
 spread: 15
 page_type: entry
 location: Ford
-places: [Ford, Arundel Park, London]
-people: [Clausen[?], Percy, Feilding, Keynes]
+places:
+  - Ford
+  - Arundel Park
+  - London
+people:
+  - Clausen[?]
+  - Percy
+  - Feilding
+  - Keynes
 ---
 
 # BB_1914_Jul-Dec — page 30 (right)

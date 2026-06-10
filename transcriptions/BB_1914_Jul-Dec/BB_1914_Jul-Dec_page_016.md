@@ -6,8 +6,11 @@ side: right
 spread: 8
 page_type: entry
 location: Ford
-places: [Ford Place]
-people: [Walter Raleigh, Duncan Grant[?]]
+places:
+  - Ford Place
+people:
+  - Walter Raleigh
+  - Duncan Grant[?]
 ---
 
 # BB_1914_Jul-Dec — page 16 (right)

@@ -6,8 +6,12 @@ side: right
 spread: 11
 page_type: entry
 location: Mount Kisco
-places: [Mount Kisco]
-people: [Eugene Meyer[?], Balle[?], Mary]
+places:
+  - Mount Kisco
+people:
+  - Eugene Meyer[?]
+  - Balle[?]
+  - Mary
 ---
 
 # BB_1914_Jan-Jun — page 22 (right)

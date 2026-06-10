@@ -6,8 +6,11 @@ side: left
 spread: 11
 page_type: entry
 location: Paris
-places: [35 Boul. Invalides]
-people: [Cossé, Lady Hood[?]]
+places:
+  - 35 Boul. Invalides
+people:
+  - Cossé
+  - Lady Hood[?]
 ---
 
 # BB_1919_Jan-Jun — page 21 (left)

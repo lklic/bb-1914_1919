@@ -6,8 +6,17 @@ side: left
 spread: 7
 page_type: entry
 location: London
-places: [9 Hans Place[?], Esher[?]]
-people: [Mrs. Hunter[?], G. Moore, Ronald Storrs, Weigall[?], Mrs. Van Wick[?], Nancy Cunard[?], Cook[?]]
+places:
+  - 9 Hans Place[?]
+  - Esher[?]
+people:
+  - Mrs. Hunter[?]
+  - G. Moore
+  - Ronald Storrs
+  - Weigall[?]
+  - Mrs. Van Wick[?]
+  - Nancy Cunard[?]
+  - Cook[?]
 ---
 
 # BB_1914_Jul-Dec — page 13 (left)

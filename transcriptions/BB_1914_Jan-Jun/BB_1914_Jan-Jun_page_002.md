@@ -6,7 +6,11 @@ side: right
 spread: 1
 page_type: endpaper
 location: London / New York (address-book flyleaves)
-places: [Murray Hill, 104 E. 40th (New York), 720 Fifth (Fifth Avenue, New York), Plaza]
+places:
+  - Murray Hill
+  - 104 E. 40th (New York)
+  - 720 Fifth (Fifth Avenue, New York)
+  - Plaza
 ---
 
 # BB_1914_Jan-Jun — page 2 (right)

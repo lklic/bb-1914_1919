@@ -6,8 +6,12 @@ side: right
 spread: 40
 page_type: entry
 location: Madrid
-places: [Madrid, Prado]
-people: [Allende-Salazar, Luca d'Alba[?]]
+places:
+  - Madrid
+  - Prado
+people:
+  - Allende-Salazar
+  - Luca d'Alba[?]
 ---
 
 # BB_1919_Jan-Jun — page 80 (right)

@@ -6,8 +6,10 @@ side: left
 spread: 1
 page_type: endpaper
 location: London / New York (address-book flyleaves)
-places: [Hyde Park Gardens]
-people: [Lady Hamilton]
+places:
+  - Hyde Park Gardens
+people:
+  - Lady Hamilton
 ---
 
 # BB_1914_Jan-Jun — page 1 (left)

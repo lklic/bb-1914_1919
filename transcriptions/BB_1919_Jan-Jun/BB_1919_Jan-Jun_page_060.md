@@ -6,8 +6,16 @@ side: right
 spread: 30
 page_type: entry
 location: Paris
-places: [Frankfurt]
-people: [Keyser, Elsie, Rosselly, Edith, Miss Sargeant, Mrs Shields, Mackays]
+places:
+  - Frankfurt
+people:
+  - Keyser
+  - Elsie
+  - Rosselly
+  - Edith
+  - Miss Sargeant
+  - Mrs Shields
+  - Mackays
 ---
 
 # BB_1919_Jan-Jun — page 60 (right)

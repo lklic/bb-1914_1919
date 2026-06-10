@@ -6,8 +6,13 @@ side: left
 spread: 42
 page_type: entry
 location: Settignano (Florence)
-places: [London]
-people: [Bédier, Lady Annabel, O' Neil, Tree]
+places:
+  - London
+people:
+  - Bédier
+  - Lady Annabel
+  - O' Neil
+  - Tree
 ---
 
 # BB_1919_Jul-Dec — page 83 (left)

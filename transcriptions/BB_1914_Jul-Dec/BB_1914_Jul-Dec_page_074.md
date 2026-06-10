@@ -6,7 +6,14 @@ side: right
 spread: 37
 page_type: entry
 location: Nice
-places: [Ville Sylvia, ITALY, Hotel Royal, San Remo, Alassio, Genoa, Hotel Miramar]
+places:
+  - Ville Sylvia
+  - ITALY
+  - Hotel Royal
+  - San Remo
+  - Alassio
+  - Genoa
+  - Hotel Miramar
 ---
 
 # BB_1914_Jul-Dec — page 74 (right)

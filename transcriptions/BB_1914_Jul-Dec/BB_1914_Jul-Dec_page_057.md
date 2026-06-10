@@ -6,8 +6,13 @@ side: left
 spread: 29
 page_type: entry
 location: Ford
-places: [Brighton, Lewes]
-people: [Zangwill, Kropotkin, Warren]
+places:
+  - Brighton
+  - Lewes
+people:
+  - Zangwill
+  - Kropotkin
+  - Warren
 ---
 
 # BB_1914_Jul-Dec — page 57 (left)

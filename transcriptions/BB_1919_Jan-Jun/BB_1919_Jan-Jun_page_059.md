@@ -6,8 +6,16 @@ side: left
 spread: 30
 page_type: entry
 location: Paris
-places: [Versailles]
-people: [Savinkoff, Edith, Benes, Mme Venizelos, Mackays, Cranborne, Alger]
+places:
+  - Versailles
+people:
+  - Savinkoff
+  - Edith
+  - Benes
+  - Mme Venizelos
+  - Mackays
+  - Cranborne
+  - Alger
 ---
 
 # BB_1919_Jan-Jun — page 59 (left)

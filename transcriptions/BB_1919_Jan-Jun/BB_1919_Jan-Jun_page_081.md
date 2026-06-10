@@ -6,8 +6,13 @@ side: left
 spread: 41
 page_type: entry
 location: Madrid
-places: [Avila]
-people: [Gomez-Moreno, Alba, Metternich, Russell]
+places:
+  - Avila
+people:
+  - Gomez-Moreno
+  - Alba
+  - Metternich
+  - Russell
 ---
 
 # BB_1919_Jan-Jun — page 81 (left)

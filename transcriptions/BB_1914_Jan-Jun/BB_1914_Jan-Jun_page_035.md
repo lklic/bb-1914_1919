@@ -6,7 +6,12 @@ side: left
 spread: 18
 page_type: entry
 location: Washington
-people: [Jusserand, Jackson, Lodge, H. Adams, Slade[?]]
+people:
+  - Jusserand
+  - Jackson
+  - Lodge
+  - H. Adams
+  - Slade[?]
 ---
 
 # BB_1914_Jan-Jun — page 35 (left)

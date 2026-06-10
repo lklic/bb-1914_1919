@@ -6,7 +6,13 @@ side: left
 spread: 11
 page_type: entry
 location: Mount Kisco
-people: [Mrs. Lucy, Lilia, B. G., Maynard[?], Mrs. Carpenter, Guinness]
+people:
+  - Mrs. Lucy
+  - Lilia
+  - B. G.
+  - Maynard[?]
+  - Mrs. Carpenter
+  - Guinness
 ---
 
 # BB_1914_Jan-Jun — page 21 (left)

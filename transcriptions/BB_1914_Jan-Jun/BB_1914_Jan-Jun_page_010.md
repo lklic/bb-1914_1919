@@ -6,7 +6,10 @@ side: right
 spread: 5
 page_type: entry
 location: New York
-people: [Lehmann[?], Mrs. Lilley[?], B]
+people:
+  - Lehmann[?]
+  - Mrs. Lilley[?]
+  - B
 ---
 
 # BB_1914_Jan-Jun — page 10 (right)

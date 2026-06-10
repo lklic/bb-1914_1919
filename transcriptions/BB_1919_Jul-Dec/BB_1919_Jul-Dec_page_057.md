@@ -6,7 +6,9 @@ side: left
 spread: 29
 page_type: entry
 location: Settignano (Florence)
-people: [Paolini, de Nicola]
+people:
+  - Paolini
+  - de Nicola
 ---
 
 # BB_1919_Jul-Dec — page 57 (left)

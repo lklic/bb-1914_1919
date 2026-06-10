@@ -6,7 +6,10 @@ side: left
 spread: 26
 page_type: entry
 location: Settignano (Florence)
-people: [Mrs. Ross, Loeser, Michael]
+people:
+  - Mrs. Ross
+  - Loeser
+  - Michael
 ---
 
 # BB_1919_Jul-Dec — page 51 (left)

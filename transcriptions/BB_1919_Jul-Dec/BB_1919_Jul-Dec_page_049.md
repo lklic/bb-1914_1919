@@ -6,8 +6,15 @@ side: left
 spread: 25
 page_type: entry
 location: Settignano (Florence)
-places: [PARIS, Italy]
-people: [Mme. de Cossé, Martha, Leigh[?], Joe Duveen, Carl Hamilton]
+places:
+  - PARIS
+  - Italy
+people:
+  - Mme. de Cossé
+  - Martha
+  - Leigh[?]
+  - Joe Duveen
+  - Carl Hamilton
 ---
 
 # BB_1919_Jul-Dec — page 49 (left)

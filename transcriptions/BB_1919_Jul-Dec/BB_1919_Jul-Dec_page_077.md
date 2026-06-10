@@ -6,8 +6,12 @@ side: left
 spread: 39
 page_type: entry
 location: Settignano (Florence)
-places: [Monte Leixxio[?]]
-people: [Cox, Gravina, Mme Frisching[?]]
+places:
+  - Monte Leixxio[?]
+people:
+  - Cox
+  - Gravina
+  - Mme Frisching[?]
 ---
 
 # BB_1919_Jul-Dec — page 77 (left)

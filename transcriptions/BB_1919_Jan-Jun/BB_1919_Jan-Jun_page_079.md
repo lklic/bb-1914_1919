@@ -6,8 +6,12 @@ side: left
 spread: 40
 page_type: entry
 location: Madrid
-places: [Madrid, Ritz, Lagasca]
-people: [Gomez Moreno]
+places:
+  - Madrid
+  - Ritz
+  - Lagasca
+people:
+  - Gomez Moreno
 ---
 
 # BB_1919_Jan-Jun — page 79 (left)

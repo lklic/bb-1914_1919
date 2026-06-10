@@ -6,8 +6,11 @@ side: left
 spread: 18
 page_type: entry
 location: Ford
-places: [Daenmark[?]]
-people: [Ford, Geoffrey Scott]
+places:
+  - Daenmark[?]
+people:
+  - Ford
+  - Geoffrey Scott
 ---
 
 # BB_1914_Jul-Dec — page 35 (left)

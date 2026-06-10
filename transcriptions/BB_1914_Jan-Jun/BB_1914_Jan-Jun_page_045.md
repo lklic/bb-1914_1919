@@ -6,8 +6,13 @@ side: left
 spread: 23
 page_type: entry
 location: At sea / Paris
-places: [Olympic, 21 Quai de Bourbon]
-people: [Mrs Hewitt[?], Tyler, Duca de Cossé]
+places:
+  - Olympic
+  - 21 Quai de Bourbon
+people:
+  - Mrs Hewitt[?]
+  - Tyler
+  - Duca de Cossé
 ---
 
 # BB_1914_Jan-Jun — page 45 (left)

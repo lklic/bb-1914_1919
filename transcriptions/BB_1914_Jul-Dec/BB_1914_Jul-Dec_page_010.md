@@ -6,8 +6,13 @@ side: right
 spread: 5
 page_type: entry
 location: London
-places: [South Street, Hamilton[?]]
-people: [Mrs. Joshua, Algar, Theresa]
+places:
+  - South Street
+  - Hamilton[?]
+people:
+  - Mrs. Joshua
+  - Algar
+  - Theresa
 ---
 
 # BB_1914_Jul-Dec — page 10 (right)

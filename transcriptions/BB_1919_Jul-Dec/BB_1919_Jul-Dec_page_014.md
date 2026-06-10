@@ -6,8 +6,18 @@ side: right
 spread: 7
 page_type: entry
 location: Paris
-places: [Elysee]
-people: [Laura R. Magnus[?], Bonnard, Gillet, Raeph[?], Hopwell[?], Adloustern[?], Miss Thomas, Martha, Mrs. Wharton]
+places:
+  - Elysee
+people:
+  - Laura R. Magnus[?]
+  - Bonnard
+  - Gillet
+  - Raeph[?]
+  - Hopwell[?]
+  - Adloustern[?]
+  - Miss Thomas
+  - Martha
+  - Mrs. Wharton
 ---
 
 # BB_1919_Jul-Dec — page 14 (right)

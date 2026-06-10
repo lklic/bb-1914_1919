@@ -6,7 +6,10 @@ side: right
 spread: 14
 page_type: entry
 location: Paris
-people: [Mrs. Harriman, Algar Mejski[?], Royall Tyler]
+people:
+  - Mrs. Harriman
+  - Algar Mejski[?]
+  - Royall Tyler
 ---
 
 # BB_1919_Jul-Dec — page 28 (right)

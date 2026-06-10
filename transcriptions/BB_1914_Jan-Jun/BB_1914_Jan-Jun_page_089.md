@@ -6,8 +6,12 @@ side: left
 spread: 45
 page_type: entry
 location: Paris
-places: [Cercle de l'Union[?]]
-people: [Bassiano, Reinach, Lisa[?]]
+places:
+  - Cercle de l'Union[?]
+people:
+  - Bassiano
+  - Reinach
+  - Lisa[?]
 ---
 
 # BB_1914_Jan-Jun — page 89 (left)

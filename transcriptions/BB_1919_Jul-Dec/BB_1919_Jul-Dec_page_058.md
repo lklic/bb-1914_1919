@@ -6,7 +6,10 @@ side: right
 spread: 29
 page_type: entry
 location: Settignano (Florence)
-people: [Bonnard, Bussys, Mrs. Batchelor[?]]
+people:
+  - Bonnard
+  - Bussys
+  - Mrs. Batchelor[?]
 ---
 
 # BB_1919_Jul-Dec — page 58 (right)

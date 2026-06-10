@@ -6,8 +6,14 @@ side: right
 spread: 1
 page_type: entry
 location: Paris
-places: [21 Quai de Bourbon]
-people: [Paolini[?], Royall Tyler, Lillie[?], Hubert[?], Edith[?]]
+places:
+  - 21 Quai de Bourbon
+people:
+  - Paolini[?]
+  - Royall Tyler
+  - Lillie[?]
+  - Hubert[?]
+  - Edith[?]
 ---
 
 # BB_1914_Jul-Dec — page 2 (right)

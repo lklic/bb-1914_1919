@@ -6,8 +6,15 @@ side: left
 spread: 27
 page_type: entry
 location: Florence
-places: [Brockwell[?]]
-people: [Placci, Lucie[?], Hapgood, Sybil[?], Agnes[?], Nannie[?]]
+places:
+  - Brockwell[?]
+people:
+  - Placci
+  - Lucie[?]
+  - Hapgood
+  - Sybil[?]
+  - Agnes[?]
+  - Nannie[?]
 ---
 
 # BB_1914_Jan-Jun — page 53 (left)

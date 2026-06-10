@@ -6,7 +6,8 @@ side: right
 spread: 10
 page_type: entry
 location: Paris
-places: [Kingsley Park[?]]
+places:
+  - Kingsley Park[?]
 ---
 
 # BB_1919_Jan-Jun — page 20 (right)

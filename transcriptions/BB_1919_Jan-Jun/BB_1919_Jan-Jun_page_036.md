@@ -6,7 +6,9 @@ side: right
 spread: 18
 page_type: entry
 location: Saint-Jean-Cap-Ferrat
-places: [Hotel du Parc, St. Francois[?]]
+places:
+  - Hotel du Parc
+  - St. Francois[?]
 ---
 
 # BB_1919_Jan-Jun — page 36 (right)

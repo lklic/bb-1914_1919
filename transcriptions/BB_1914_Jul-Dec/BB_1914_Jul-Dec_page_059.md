@@ -6,7 +6,11 @@ side: left
 spread: 30
 page_type: entry
 location: Ford
-people: [Lord, Zangwill[?], Rosen[?], Ford[?]]
+people:
+  - Lord
+  - Zangwill[?]
+  - Rosen[?]
+  - Ford[?]
 ---
 
 # BB_1914_Jul-Dec — page 59 (left)

@@ -6,7 +6,11 @@ side: right
 spread: 13
 page_type: entry
 location: Ford
-people: [Mr Parrish, Miss P., G. Moore, Zangwill]
+people:
+  - Mr Parrish
+  - Miss P.
+  - G. Moore
+  - Zangwill
 ---
 
 # BB_1914_Jul-Dec — page 26 (right)

@@ -6,7 +6,9 @@ side: left
 spread: 6
 page_type: entry
 location: New York
-people: [Fletcher, Harden]
+people:
+  - Fletcher
+  - Harden
 ---
 
 # BB_1914_Jan-Jun — page 11 (left)

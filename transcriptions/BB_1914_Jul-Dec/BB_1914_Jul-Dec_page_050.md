@@ -6,8 +6,12 @@ side: right
 spread: 25
 page_type: entry
 location: Ford
-places: [Ford, Chichester[?], Goodwood House]
-people: [Mary]
+places:
+  - Ford
+  - Chichester[?]
+  - Goodwood House
+people:
+  - Mary
 ---
 
 # BB_1914_Jul-Dec — page 50 (right)

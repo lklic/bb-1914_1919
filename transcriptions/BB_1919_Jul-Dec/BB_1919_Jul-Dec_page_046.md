@@ -6,7 +6,11 @@ side: right
 spread: 23
 page_type: entry
 location: Paris
-people: [Ted. Heaton-Ellis, Mrs. Keep, D. Hopwell[?], Hocky White[?]]
+people:
+  - Ted. Heaton-Ellis
+  - Mrs. Keep
+  - D. Hopwell[?]
+  - Hocky White[?]
 ---
 
 # BB_1919_Jul-Dec — page 46 (right)

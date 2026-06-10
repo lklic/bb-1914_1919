@@ -6,7 +6,10 @@ side: left
 spread: 17
 page_type: entry
 location: Beaulieu-sur-Mer / Saint-Jean-Cap-Ferrat
-places: [Beaulieu, Cap Ferrat, Hotel Cap Ferrat]
+places:
+  - Beaulieu
+  - Cap Ferrat
+  - Hotel Cap Ferrat
 ---
 
 # BB_1919_Jan-Jun — page 33 (left)

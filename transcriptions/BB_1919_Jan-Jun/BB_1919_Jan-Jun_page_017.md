@@ -6,8 +6,16 @@ side: left
 spread: 9
 page_type: entry
 location: Paris
-places: [136 Villiers, Boulevard Lannes[?]]
-people: [Laurent, Lalvenne[?], Bairol[?], Lady Hood, Bonnard, Peruol[?]]
+places:
+  - 136 Villiers
+  - Boulevard Lannes[?]
+people:
+  - Laurent
+  - Lalvenne[?]
+  - Bairol[?]
+  - Lady Hood
+  - Bonnard
+  - Peruol[?]
 ---
 
 # BB_1919_Jan-Jun — page 17 (left)

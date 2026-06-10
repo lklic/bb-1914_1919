@@ -6,8 +6,15 @@ side: right
 spread: 27
 page_type: entry
 location: London
-places: [91 Lancaster Gate, Burlington]
-people: [Eugenie Strong, Mary Crawshay, Sybil, Lady Harbard[?], Haldane[?]]
+places:
+  - 91 Lancaster Gate
+  - Burlington
+people:
+  - Eugenie Strong
+  - Mary Crawshay
+  - Sybil
+  - Lady Harbard[?]
+  - Haldane[?]
 ---
 
 # BB_1914_Jul-Dec — page 54 (right)

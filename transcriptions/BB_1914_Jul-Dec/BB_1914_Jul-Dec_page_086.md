@@ -6,7 +6,10 @@ side: right
 spread: 43
 page_type: entry
 location: Florence
-people: [Gravina, Houghton, Henderson]
+people:
+  - Gravina
+  - Houghton
+  - Henderson
 ---
 
 # BB_1914_Jul-Dec — page 86 (right)

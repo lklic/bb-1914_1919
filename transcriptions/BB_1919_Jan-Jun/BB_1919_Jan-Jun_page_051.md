@@ -6,8 +6,12 @@ side: left
 spread: 26
 page_type: entry
 location: Hyeres
-places: [de Bonne Esperance]
-people: [J. Ramaila, Pierre Mille, Cocteau]
+places:
+  - de Bonne Esperance
+people:
+  - J. Ramaila
+  - Pierre Mille
+  - Cocteau
 ---
 
 # BB_1919_Jan-Jun — page 51 (left)

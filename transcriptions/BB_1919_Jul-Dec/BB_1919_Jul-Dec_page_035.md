@@ -6,7 +6,10 @@ side: left
 spread: 18
 page_type: entry
 location: Chartres
-people: [Mme. du Cossé[?], Ronald Storrs, Abel Bonnard[?]]
+people:
+  - Mme. du Cossé[?]
+  - Ronald Storrs
+  - Abel Bonnard[?]
 ---
 
 # BB_1919_Jul-Dec — page 35 (left)

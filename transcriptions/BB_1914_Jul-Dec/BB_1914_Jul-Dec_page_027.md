@@ -6,7 +6,9 @@ side: left
 spread: 14
 page_type: entry
 location: Ford
-people: [Ford, Scott]
+people:
+  - Ford
+  - Scott
 ---
 
 # BB_1914_Jul-Dec — page 27 (left)

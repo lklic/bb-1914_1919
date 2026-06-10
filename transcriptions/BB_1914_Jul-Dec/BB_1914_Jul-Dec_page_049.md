@@ -6,8 +6,12 @@ side: left
 spread: 25
 page_type: entry
 location: Ford
-places: [Ford, Arundel Park]
-people: [Thornly Gibson[?], Karin Adrian[?]]
+places:
+  - Ford
+  - Arundel Park
+people:
+  - Thornly Gibson[?]
+  - Karin Adrian[?]
 ---
 
 # BB_1914_Jul-Dec — page 49 (left)

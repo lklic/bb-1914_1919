@@ -6,7 +6,13 @@ side: left
 spread: 12
 page_type: entry
 location: New York
-people: [Chapman, Miss Bryce, Cox, Mrs. Lanier, Mrs. Sloane, Johnston[?]]
+people:
+  - Chapman
+  - Miss Bryce
+  - Cox
+  - Mrs. Lanier
+  - Mrs. Sloane
+  - Johnston[?]
 ---
 
 # BB_1914_Jan-Jun — page 23 (left)

@@ -6,7 +6,10 @@ side: left
 spread: 46
 page_type: entry
 location: Santiago de Compostela
-places: [ASTORGA, LUGO, SANTIAGO]
+places:
+  - ASTORGA
+  - LUGO
+  - SANTIAGO
 ---
 
 # BB_1919_Jan-Jun — page 91 (left)

@@ -6,8 +6,13 @@ side: right
 spread: 2
 page_type: entry
 location: Paris
-places: [Versailles]
-people: [Mrs. Farwell, Tobin[?], Marthe[?], Dillon[?]]
+places:
+  - Versailles
+people:
+  - Mrs. Farwell
+  - Tobin[?]
+  - Marthe[?]
+  - Dillon[?]
 ---
 
 # BB_1919_Jan-Jun — page 4 (right)

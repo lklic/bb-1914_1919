@@ -6,7 +6,9 @@ side: right
 spread: 26
 page_type: entry
 location: Hyeres
-people: [Cobbold, Margaret Catchpole]
+people:
+  - Cobbold
+  - Margaret Catchpole
 ---
 
 # BB_1919_Jan-Jun — page 52 (right)

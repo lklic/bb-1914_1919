@@ -6,8 +6,16 @@ side: right
 spread: 31
 page_type: entry
 location: London
-places: [Covent Garden, old Bond Street, Waterloo, London]
-people: [Sybil, Mary, Sanderson, Mrs. Austin]
+places:
+  - Covent Garden
+  - old Bond Street
+  - Waterloo
+  - London
+people:
+  - Sybil
+  - Mary
+  - Sanderson
+  - Mrs. Austin
 ---
 
 # BB_1914_Jul-Dec — page 62 (right)

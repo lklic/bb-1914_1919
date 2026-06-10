@@ -6,8 +6,12 @@ side: left
 spread: 43
 page_type: entry
 location: Modena
-places: [Boscolungo, Modena]
-people: [Miss Laud[?], Mrs. Story[?]]
+places:
+  - Boscolungo
+  - Modena
+people:
+  - Miss Laud[?]
+  - Mrs. Story[?]
 ---
 
 # BB_1914_Jan-Jun — page 85 (left)

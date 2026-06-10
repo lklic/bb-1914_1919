@@ -6,7 +6,13 @@ side: left
 spread: 21
 page_type: entry
 location: New York
-people: [Kahn, Rockefeller[?], Huntington[?], Vanderbilt, Lamb[?], Longworth[?]]
+people:
+  - Kahn
+  - Rockefeller[?]
+  - Huntington[?]
+  - Vanderbilt
+  - Lamb[?]
+  - Longworth[?]
 ---
 
 # BB_1914_Jan-Jun — page 41 (left)

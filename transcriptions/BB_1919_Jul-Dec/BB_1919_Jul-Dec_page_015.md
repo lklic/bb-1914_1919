@@ -6,8 +6,12 @@ side: left
 spread: 8
 page_type: entry
 location: Versailles
-places: [VERSAILLES, Volnay[?]]
-people: [Carola[?], Elsie]
+places:
+  - VERSAILLES
+  - Volnay[?]
+people:
+  - Carola[?]
+  - Elsie
 ---
 
 # BB_1919_Jul-Dec — page 15 (left)

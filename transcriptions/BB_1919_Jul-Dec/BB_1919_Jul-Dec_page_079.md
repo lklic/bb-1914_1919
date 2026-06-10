@@ -6,7 +6,11 @@ side: left
 spread: 40
 page_type: entry
 location: Settignano (Florence)
-people: [Mme. Viergi[?], Mlle Kolmar[?], Sybil[?], Lady Anabel O'Neil[?]]
+people:
+  - Mme. Viergi[?]
+  - Mlle Kolmar[?]
+  - Sybil[?]
+  - Lady Anabel O'Neil[?]
 ---
 
 # BB_1919_Jul-Dec — page 79 (left)

@@ -6,7 +6,11 @@ side: right
 spread: 33
 page_type: entry
 location: Barcelona
-places: [Barcelona, Tarrasa, Pedralbes, Museo del Parque]
+places:
+  - Barcelona
+  - Tarrasa
+  - Pedralbes
+  - Museo del Parque
 ---
 
 # BB_1919_Jan-Jun — page 66 (right)

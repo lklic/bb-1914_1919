@@ -6,8 +6,18 @@ side: left
 spread: 16
 page_type: entry
 location: London
-places: [London]
-people: [Sybil, Mary Crawshay, H. Huntington, Duveen, Lady Wenlock, Berenson, Eva Fairfax, Crawshay, Thelma Thorold]
+places:
+  - London
+people:
+  - Sybil
+  - Mary Crawshay
+  - H. Huntington
+  - Duveen
+  - Lady Wenlock
+  - Berenson
+  - Eva Fairfax
+  - Crawshay
+  - Thelma Thorold
 ---
 
 # BB_1914_Jul-Dec — page 31 (left)

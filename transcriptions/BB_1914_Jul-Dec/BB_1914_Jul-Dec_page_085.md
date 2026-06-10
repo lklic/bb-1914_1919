@@ -6,7 +6,9 @@ side: left
 spread: 43
 page_type: entry
 location: Florence
-people: [Loeser, Lionello Venturi]
+people:
+  - Loeser
+  - Lionello Venturi
 ---
 
 # BB_1914_Jul-Dec — page 85 (left)

@@ -6,8 +6,12 @@ side: right
 spread: 45
 page_type: entry
 location: Salamanca
-places: [SALAMANCA, Zamora, Astorga]
-people: [Unamuno[?]]
+places:
+  - SALAMANCA
+  - Zamora
+  - Astorga
+people:
+  - Unamuno[?]
 ---
 
 # BB_1919_Jan-Jun — page 90 (right)

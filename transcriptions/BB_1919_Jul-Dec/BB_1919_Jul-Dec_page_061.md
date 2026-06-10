@@ -6,7 +6,12 @@ side: left
 spread: 31
 page_type: entry
 location: Settignano (Florence)
-people: [Bédier, Leoni, Cecil, Andrea, Lippo, Nanni]
+people:
+  - Bédier
+  - Leoni, Cecil
+  - Andrea
+  - Lippo
+  - Nanni
 ---
 
 # BB_1919_Jul-Dec — page 61 (left)

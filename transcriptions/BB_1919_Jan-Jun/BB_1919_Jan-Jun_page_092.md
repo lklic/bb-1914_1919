@@ -6,7 +6,10 @@ side: right
 spread: 46
 page_type: entry
 location: Santiago de Compostela
-places: [SANTIAGO, CORUÑA, Ribadeo]
+places:
+  - SANTIAGO
+  - CORUÑA
+  - Ribadeo
 ---
 
 # BB_1919_Jan-Jun — page 92 (right)

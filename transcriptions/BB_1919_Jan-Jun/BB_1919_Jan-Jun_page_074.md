@@ -6,8 +6,13 @@ side: right
 spread: 37
 page_type: entry
 location: Granada
-places: [Alhambra, Capella Real, Cartuja, GRANADA]
-people: [duquesa de S. Pedro[?]]
+places:
+  - Alhambra
+  - Capella Real
+  - Cartuja
+  - GRANADA
+people:
+  - duquesa de S. Pedro[?]
 ---
 
 # BB_1919_Jan-Jun — page 74 (right)

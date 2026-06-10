@@ -6,7 +6,9 @@ side: right
 spread: 38
 page_type: entry
 location: Florence
-people: [Trbie[?], Lucan[?]]
+people:
+  - Trbie[?]
+  - Lucan[?]
 ---
 
 # BB_1914_Jan-Jun — page 76 (right)

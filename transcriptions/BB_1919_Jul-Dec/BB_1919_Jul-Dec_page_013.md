@@ -6,8 +6,15 @@ side: left
 spread: 7
 page_type: entry
 location: Paris
-places: [Rampillon, St. Loup de Naud, Provins]
-people: [Wharton, Edith, Hodg[?], Smith[?]]
+places:
+  - Rampillon
+  - St. Loup de Naud
+  - Provins
+people:
+  - Wharton
+  - Edith
+  - Hodg[?]
+  - Smith[?]
 ---
 
 # BB_1919_Jul-Dec — page 13 (left)

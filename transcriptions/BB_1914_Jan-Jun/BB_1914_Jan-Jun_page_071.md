@@ -6,7 +6,8 @@ side: left
 spread: 36
 page_type: entry
 location: Florence
-people: [Harrachs]
+people:
+  - Harrachs
 ---
 
 # BB_1914_Jan-Jun — page 71 (left)

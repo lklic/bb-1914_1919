@@ -6,8 +6,12 @@ side: right
 spread: 43
 page_type: entry
 location: Settignano (Florence)
-places: [Rheims Cathedral, S. Margherita ai Monti]
-people: [du duc de Berri, Thornely Gibson]
+places:
+  - Rheims Cathedral
+  - S. Margherita ai Monti
+people:
+  - du duc de Berri
+  - Thornely Gibson
 ---
 
 # BB_1919_Jul-Dec — page 86 (right)

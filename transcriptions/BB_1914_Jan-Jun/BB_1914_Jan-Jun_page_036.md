@@ -6,8 +6,13 @@ side: right
 spread: 18
 page_type: entry
 location: Washington
-places: [Nat. Museum, Bryn Mawr, Philadelphia]
-people: [Adams, Johnson]
+places:
+  - Nat. Museum
+  - Bryn Mawr
+  - Philadelphia
+people:
+  - Adams
+  - Johnson
 ---
 
 # BB_1914_Jan-Jun — page 36 (right)

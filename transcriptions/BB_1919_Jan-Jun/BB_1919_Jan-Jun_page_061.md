@@ -6,8 +6,17 @@ side: left
 spread: 31
 page_type: entry
 location: Paris
-places: [Tokio[?], Frankfurter]
-people: [Tyler, Isvolsky, Rohan-Chabot, Hood, Morgan, Kerzinski[?], Frankfurter]
+places:
+  - Tokio[?]
+  - Frankfurter
+people:
+  - Tyler
+  - Isvolsky
+  - Rohan-Chabot
+  - Hood
+  - Morgan
+  - Kerzinski[?]
+  - Frankfurter
 ---
 
 # BB_1919_Jan-Jun — page 61 (left)

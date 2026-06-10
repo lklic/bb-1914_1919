@@ -6,7 +6,8 @@ side: left
 spread: 19
 page_type: entry
 location: Bryn Mawr
-places: [Bryn Mawr]
+places:
+  - Bryn Mawr
 ---
 
 # BB_1914_Jan-Jun — page 37 (left)

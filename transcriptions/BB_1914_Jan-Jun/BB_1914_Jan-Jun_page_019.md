@@ -6,8 +6,12 @@ side: left
 spread: 10
 page_type: entry
 location: New York
-places: [37 Park Ave.]
-people: [Mrs. C. Jones[?], Mrs. Scott, Mrs. Markoe[?]]
+places:
+  - 37 Park Ave.
+people:
+  - Mrs. C. Jones[?]
+  - Mrs. Scott
+  - Mrs. Markoe[?]
 ---
 
 # BB_1914_Jan-Jun — page 19 (left)

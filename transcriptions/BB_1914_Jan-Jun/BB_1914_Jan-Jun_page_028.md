@@ -6,7 +6,8 @@ side: right
 spread: 14
 page_type: entry
 location: Northampton
-places: [Northampton]
+places:
+  - Northampton
 ---
 
 # BB_1914_Jan-Jun — page 28 (right)

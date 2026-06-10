@@ -6,7 +6,10 @@ side: left
 spread: 1
 page_type: entry
 location: Oviedo
-places: [Ribadeo, Oviedo, Covadonga[?]]
+places:
+  - Ribadeo
+  - Oviedo
+  - Covadonga[?]
 ---
 
 # BB_1919_Jul-Dec — page 1 (left)

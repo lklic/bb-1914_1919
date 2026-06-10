@@ -6,7 +6,12 @@ side: right
 spread: 28
 page_type: entry
 location: Perugia
-places: [Spello, Foligno, Trevi, Castelfiorentino, Arezzo]
+places:
+  - Spello
+  - Foligno
+  - Trevi
+  - Castelfiorentino
+  - Arezzo
 ---
 
 # BB_1919_Jul-Dec — page 56 (right)

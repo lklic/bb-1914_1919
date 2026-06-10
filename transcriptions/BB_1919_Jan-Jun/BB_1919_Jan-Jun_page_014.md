@@ -6,8 +6,13 @@ side: right
 spread: 7
 page_type: entry
 location: Paris
-places: [9 Rue de Solitay[?], Quai de Bourbon]
-people: [Alb. Thomas, Isvolsky, Brunhes]
+places:
+  - 9 Rue de Solitay[?]
+  - Quai de Bourbon
+people:
+  - Alb. Thomas
+  - Isvolsky
+  - Brunhes
 ---
 
 # BB_1919_Jan-Jun — page 14 (right)

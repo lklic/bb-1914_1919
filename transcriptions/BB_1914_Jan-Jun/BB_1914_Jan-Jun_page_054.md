@@ -6,7 +6,11 @@ side: right
 spread: 27
 page_type: entry
 location: Florence
-people: [Baron St [illegible], Edward Spelyer[?], Dvorak, Sambon]
+people:
+  - Baron St [illegible]
+  - Edward Spelyer[?]
+  - Dvorak
+  - Sambon
 ---
 
 # BB_1914_Jan-Jun — page 54 (right)

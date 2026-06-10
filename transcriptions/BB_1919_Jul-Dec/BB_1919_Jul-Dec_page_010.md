@@ -6,7 +6,12 @@ side: right
 spread: 5
 page_type: entry
 location: Paris
-people: [Mary, Bassiano, Lassiano, Woods, Francis Blunt]
+people:
+  - Mary
+  - Bassiano
+  - Lassiano
+  - Woods
+  - Francis Blunt
 ---
 
 # BB_1919_Jul-Dec — page 10 (right)

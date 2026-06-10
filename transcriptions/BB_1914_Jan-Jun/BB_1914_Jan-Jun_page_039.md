@@ -6,8 +6,11 @@ side: left
 spread: 20
 page_type: entry
 location: Bryn Mawr
-places: [Bryn Mawr]
-people: [Lanier, Battle[?]]
+places:
+  - Bryn Mawr
+people:
+  - Lanier
+  - Battle[?]
 ---
 
 # BB_1914_Jan-Jun — page 39 (left)

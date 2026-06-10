@@ -6,7 +6,8 @@ side: right
 spread: 34
 page_type: entry
 location: Florence
-people: [Sybil]
+people:
+  - Sybil
 ---
 
 # BB_1914_Jan-Jun — page 68 (right)

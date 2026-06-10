@@ -6,7 +6,8 @@ side: left
 spread: 44
 page_type: entry
 location: Paris
-people: [Mme. de Cossé]
+people:
+  - Mme. de Cossé
 ---
 
 # BB_1914_Jan-Jun — page 87 (left)

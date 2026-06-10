@@ -6,7 +6,9 @@ side: right
 spread: 1
 page_type: entry
 location: Oviedo
-places: [Pajares, Leon]
+places:
+  - Pajares
+  - Leon
 ---
 
 # BB_1919_Jul-Dec — page 2 (right)

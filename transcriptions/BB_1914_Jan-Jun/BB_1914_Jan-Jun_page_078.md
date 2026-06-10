@@ -6,7 +6,9 @@ side: right
 spread: 39
 page_type: entry
 location: Florence
-people: [Dryson[?], Lebie[?]]
+people:
+  - Dryson[?]
+  - Lebie[?]
 ---
 
 # BB_1914_Jan-Jun — page 78 (right)

@@ -6,8 +6,13 @@ side: right
 spread: 22
 page_type: entry
 location: At sea (RMS Olympic)
-places: [49 Rue de la Tour]
-people: [Dubos[?], Ludwig[?], Galober[?], Renach[?]]
+places:
+  - 49 Rue de la Tour
+people:
+  - Dubos[?]
+  - Ludwig[?]
+  - Galober[?]
+  - Renach[?]
 ---
 
 # BB_1914_Jan-Jun — page 44 (right)

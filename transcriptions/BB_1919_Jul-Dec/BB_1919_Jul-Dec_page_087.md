@@ -6,7 +6,9 @@ side: left
 spread: 44
 page_type: entry
 location: Settignano (Florence)
-people: [Hohenlohe[?], L. Breher[?]]
+people:
+  - Hohenlohe[?]
+  - L. Breher[?]
 ---
 
 # BB_1919_Jul-Dec — page 87 (left)

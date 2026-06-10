@@ -6,7 +6,10 @@ side: right
 spread: 28
 page_type: entry
 location: Florence
-people: [Benn[?], Cherryper[?], Strong]
+people:
+  - Benn[?]
+  - Cherryper[?]
+  - Strong
 ---
 
 # BB_1914_Jan-Jun — page 56 (right)

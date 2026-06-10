@@ -6,8 +6,10 @@ side: left
 spread: 33
 page_type: entry
 location: Barcelona
-places: [VICH]
-people: [Murillo[?]]
+places:
+  - VICH
+people:
+  - Murillo[?]
 ---
 
 # BB_1919_Jan-Jun — page 65 (left)

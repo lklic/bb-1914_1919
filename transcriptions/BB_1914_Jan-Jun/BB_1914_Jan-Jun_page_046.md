@@ -6,8 +6,12 @@ side: right
 spread: 23
 page_type: entry
 location: At sea / Paris
-places: [Olympic, Paris]
-people: [Schlumberger[?], Seligmann]
+places:
+  - Olympic
+  - Paris
+people:
+  - Schlumberger[?]
+  - Seligmann
 ---
 
 # BB_1914_Jan-Jun — page 46 (right)

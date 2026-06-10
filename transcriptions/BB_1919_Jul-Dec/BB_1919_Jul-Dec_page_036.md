@@ -6,7 +6,8 @@ side: right
 spread: 18
 page_type: entry
 location: Chartres
-places: [Chartres]
+places:
+  - Chartres
 ---
 
 # BB_1919_Jul-Dec — page 36 (right)

@@ -6,7 +6,12 @@ side: left
 spread: 21
 page_type: entry
 location: Paris
-people: [Edith Wharton, Rob Norton, Gillet[?], Bourget, Humbert[?]]
+people:
+  - Edith Wharton
+  - Rob Norton
+  - Gillet[?]
+  - Bourget
+  - Humbert[?]
 ---
 
 # BB_1919_Jul-Dec — page 41 (left)

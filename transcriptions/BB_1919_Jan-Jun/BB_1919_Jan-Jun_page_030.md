@@ -6,8 +6,13 @@ side: right
 spread: 15
 page_type: entry
 location: Paris
-places: [10 Rue d'Anjou, La Rochefoucauld]
-people: [Isvolsky[?], Cochran, La Rochefoucauld]
+places:
+  - 10 Rue d'Anjou
+  - La Rochefoucauld
+people:
+  - Isvolsky[?]
+  - Cochran
+  - La Rochefoucauld
 ---
 
 # BB_1919_Jan-Jun — page 30 (right)

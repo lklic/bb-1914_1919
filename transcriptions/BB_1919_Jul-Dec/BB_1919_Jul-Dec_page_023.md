@@ -6,7 +6,12 @@ side: left
 spread: 12
 page_type: entry
 location: Dijon
-places: [Rougemont, Fontenay, Dijon, Citeaux, Dole]
+places:
+  - Rougemont
+  - Fontenay
+  - Dijon
+  - Citeaux
+  - Dole
 ---
 
 # BB_1919_Jul-Dec — page 23 (left)

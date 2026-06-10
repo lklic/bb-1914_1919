@@ -6,7 +6,15 @@ side: left
 spread: 24
 page_type: entry
 location: Paris
-people: [Rohan Chabot, Curtis[?], Colefax[?], Landor[?], Carl Hamilton, Tyler, Whitney[?], Bliss]
+people:
+  - Rohan Chabot
+  - Curtis[?]
+  - Colefax[?]
+  - Landor[?]
+  - Carl Hamilton
+  - Tyler
+  - Whitney[?]
+  - Bliss
 ---
 
 # BB_1919_Jul-Dec — page 47 (left)

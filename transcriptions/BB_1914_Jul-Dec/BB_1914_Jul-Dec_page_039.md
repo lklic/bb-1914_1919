@@ -6,8 +6,11 @@ side: left
 spread: 20
 page_type: entry
 location: Ford
-places: [Ford]
-people: [Adrian Stephen, Karin[?]]
+places:
+  - Ford
+people:
+  - Adrian Stephen
+  - Karin[?]
 ---
 
 # BB_1914_Jul-Dec — page 39 (left)

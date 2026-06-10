@@ -6,8 +6,10 @@ side: left
 spread: 10
 page_type: entry
 location: Ford
-places: [Ford]
-people: [Zangwill]
+places:
+  - Ford
+people:
+  - Zangwill
 ---
 
 # BB_1914_Jul-Dec — page 19 (left)

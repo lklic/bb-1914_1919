@@ -6,8 +6,12 @@ side: left
 spread: 6
 page_type: entry
 location: London
-places: [37 Dover Street]
-people: [Asquiths, Mrs. Astor[?], Eugenie[?]]
+places:
+  - 37 Dover Street
+people:
+  - Asquiths
+  - Mrs. Astor[?]
+  - Eugenie[?]
 ---
 
 # BB_1914_Jul-Dec — page 11 (left)

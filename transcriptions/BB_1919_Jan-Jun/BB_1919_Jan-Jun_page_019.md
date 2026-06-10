@@ -6,7 +6,10 @@ side: left
 spread: 10
 page_type: entry
 location: Paris
-people: [Natalie[?], Salvemini[?], Visconti[?]]
+people:
+  - Natalie[?]
+  - Salvemini[?]
+  - Visconti[?]
 ---
 
 # BB_1919_Jan-Jun — page 19 (left)

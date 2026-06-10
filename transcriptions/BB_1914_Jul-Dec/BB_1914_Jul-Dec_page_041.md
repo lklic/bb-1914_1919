@@ -6,7 +6,10 @@ side: left
 spread: 21
 page_type: entry
 location: Ford
-people: [Ford, Sabia Fairchild, Geoffrey Scott]
+people:
+  - Ford
+  - Sabia Fairchild
+  - Geoffrey Scott
 ---
 
 # BB_1914_Jul-Dec — page 41 (left)

@@ -6,7 +6,9 @@ side: right
 spread: 30
 page_type: entry
 location: Settignano (Florence)
-people: [Venturi, Miss Paterson]
+people:
+  - Venturi
+  - Miss Paterson
 ---
 
 # BB_1919_Jul-Dec — page 60 (right)

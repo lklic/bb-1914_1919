@@ -6,7 +6,10 @@ side: left
 spread: 36
 page_type: entry
 location: Murcia
-places: [Alicante, Elche, Murcia]
+places:
+  - Alicante
+  - Elche
+  - Murcia
 ---
 
 # BB_1919_Jan-Jun — page 71 (left)

@@ -6,8 +6,11 @@ side: right
 spread: 12
 page_type: entry
 location: Paris
-places: [4 Ave. Malakoff]
-people: [Mrs. Scott, Rosa]
+places:
+  - 4 Ave. Malakoff
+people:
+  - Mrs. Scott
+  - Rosa
 ---
 
 # BB_1919_Jan-Jun — page 24 (right)

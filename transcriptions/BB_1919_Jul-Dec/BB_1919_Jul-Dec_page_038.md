@@ -6,7 +6,13 @@ side: right
 spread: 19
 page_type: entry
 location: Paris
-people: [Mary, Algar, d'Alba[?], S. Reinach, Storrs, Gauvain[?]]
+people:
+  - Mary
+  - Algar
+  - d'Alba[?]
+  - S. Reinach
+  - Storrs
+  - Gauvain[?]
 ---
 
 # BB_1919_Jul-Dec — page 38 (right)

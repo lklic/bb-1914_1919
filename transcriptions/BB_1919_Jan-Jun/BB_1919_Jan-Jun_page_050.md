@@ -6,7 +6,10 @@ side: right
 spread: 25
 page_type: entry
 location: Hyeres
-people: [Edie, Norton, Bourgah[?]]
+people:
+  - Edie
+  - Norton
+  - Bourgah[?]
 ---
 
 # BB_1919_Jan-Jun — page 50 (right)

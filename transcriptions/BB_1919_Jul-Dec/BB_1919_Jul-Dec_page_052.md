@@ -6,8 +6,12 @@ side: right
 spread: 26
 page_type: entry
 location: Settignano (Florence)
-places: [Monte Senario]
-people: [Cecil, Conrad, Houghton]
+places:
+  - Monte Senario
+people:
+  - Cecil
+  - Conrad
+  - Houghton
 ---
 
 # BB_1919_Jul-Dec — page 52 (right)

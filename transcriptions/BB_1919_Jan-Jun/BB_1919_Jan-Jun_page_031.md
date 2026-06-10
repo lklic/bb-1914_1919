@@ -6,7 +6,11 @@ side: left
 spread: 16
 page_type: entry
 location: Paris
-people: [Sweeny, Dillon, Tarnowski, Linda]
+people:
+  - Sweeny
+  - Dillon
+  - Tarnowski
+  - Linda
 ---
 
 # BB_1919_Jan-Jun — page 31 (left)

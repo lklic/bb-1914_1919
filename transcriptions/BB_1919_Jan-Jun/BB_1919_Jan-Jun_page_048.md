@@ -6,8 +6,11 @@ side: right
 spread: 24
 page_type: entry
 location: Hyeres
-places: [Sohier-Villa, Les Salettes]
-people: [Colette]
+places:
+  - Sohier-Villa
+  - Les Salettes
+people:
+  - Colette
 ---
 
 # BB_1919_Jan-Jun — page 48 (right)

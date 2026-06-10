@@ -6,7 +6,12 @@ side: left
 spread: 37
 page_type: entry
 location: Nice
-places: [Aix, Costabella, St. Raphael, Nice, Hotel Cecil]
+places:
+  - Aix
+  - Costabella
+  - St. Raphael
+  - Nice
+  - Hotel Cecil
 ---
 
 # BB_1914_Jul-Dec — page 73 (left)

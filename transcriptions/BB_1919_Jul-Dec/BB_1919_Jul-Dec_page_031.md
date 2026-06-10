@@ -6,7 +6,10 @@ side: left
 spread: 16
 page_type: entry
 location: Paris
-people: [Edith Lubbock, Bonnard[?], Frohner[?]]
+people:
+  - Edith Lubbock
+  - Bonnard[?]
+  - Frohner[?]
 ---
 
 # BB_1919_Jul-Dec — page 31 (left)

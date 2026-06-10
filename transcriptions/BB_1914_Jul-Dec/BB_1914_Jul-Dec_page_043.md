@@ -6,8 +6,15 @@ side: left
 spread: 22
 page_type: entry
 location: Ford
-places: [Ford, India, China]
-people: [Dickinson[?], Gibson, Scott, Sibil]
+places:
+  - Ford
+  - India
+  - China
+people:
+  - Dickinson[?]
+  - Gibson
+  - Scott
+  - Sibil
 ---
 
 # BB_1914_Jul-Dec — page 43 (left)

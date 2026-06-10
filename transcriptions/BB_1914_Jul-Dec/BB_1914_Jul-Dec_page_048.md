@@ -6,7 +6,12 @@ side: right
 spread: 24
 page_type: entry
 location: Stapleton House
-places: [Stonehenge, Salisbury, Romsey, Ford Place, Ford]
+places:
+  - Stonehenge
+  - Salisbury
+  - Romsey
+  - Ford Place
+  - Ford
 ---
 
 # BB_1914_Jul-Dec — page 48 (right)

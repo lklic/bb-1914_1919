@@ -6,7 +6,13 @@ side: left
 spread: 15
 page_type: entry
 location: Paris
-people: [Lawrence, McCormick(?), Dakhmaduf[?], Albert Thomas, Mrs Harriman, Linda]
+people:
+  - Lawrence
+  - McCormick(?)
+  - Dakhmaduf[?]
+  - Albert Thomas
+  - Mrs Harriman
+  - Linda
 ---
 
 # BB_1919_Jan-Jun — page 29 (left)

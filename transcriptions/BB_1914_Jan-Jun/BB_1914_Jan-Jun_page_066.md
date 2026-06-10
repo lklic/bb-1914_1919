@@ -6,7 +6,9 @@ side: right
 spread: 33
 page_type: entry
 location: Florence
-people: [Strong, Lubbock]
+people:
+  - Strong
+  - Lubbock
 ---
 
 # BB_1914_Jan-Jun — page 66 (right)

@@ -6,7 +6,15 @@ side: right
 spread: 8
 page_type: entry
 location: Paris
-people: [Colin MacLagan[?], Lady Barlow[?], de Vega[?], Vandervelde, Venizelos, Cossa[?], Schlumb[?], Rochefoucauld]
+people:
+  - Colin MacLagan[?]
+  - Lady Barlow[?]
+  - de Vega[?]
+  - Vandervelde
+  - Venizelos
+  - Cossa[?]
+  - Schlumb[?]
+  - Rochefoucauld
 ---
 
 # BB_1919_Jan-Jun — page 16 (right)

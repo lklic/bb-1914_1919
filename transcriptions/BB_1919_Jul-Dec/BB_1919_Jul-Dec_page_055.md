@@ -6,7 +6,9 @@ side: left
 spread: 28
 page_type: entry
 location: Perugia
-places: [Assisi, Perugia]
+places:
+  - Assisi
+  - Perugia
 ---
 
 # BB_1919_Jul-Dec — page 55 (left)

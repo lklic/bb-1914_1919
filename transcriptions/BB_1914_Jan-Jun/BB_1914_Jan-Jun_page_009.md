@@ -6,8 +6,16 @@ side: left
 spread: 5
 page_type: entry
 location: New York
-places: [Vernon, Colony Club]
-people: [Hewitt, F. Seligmann, Robinson, B. G., Grace[?], Mrs. Pemb. Jones]
+places:
+  - Vernon
+  - Colony Club
+people:
+  - Hewitt
+  - F. Seligmann
+  - Robinson
+  - B. G.
+  - Grace[?]
+  - Mrs. Pemb. Jones
 ---
 
 # BB_1914_Jan-Jun — page 9 (left)

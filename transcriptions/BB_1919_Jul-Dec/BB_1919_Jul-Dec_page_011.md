@@ -6,8 +6,14 @@ side: left
 spread: 6
 page_type: entry
 location: Senlis
-places: [SENLIS, Clermont, Cambronne, Beauvais]
-people: [Wilma Bassano, Kingsley Porter]
+places:
+  - SENLIS
+  - Clermont
+  - Cambronne
+  - Beauvais
+people:
+  - Wilma Bassano
+  - Kingsley Porter
 ---
 
 # BB_1919_Jul-Dec — page 11 (left)

@@ -6,7 +6,9 @@ side: left
 spread: 40
 page_type: entry
 location: Florence
-people: [Guido, Placci]
+people:
+  - Guido
+  - Placci
 ---
 
 # BB_1914_Jul-Dec — page 79 (left)

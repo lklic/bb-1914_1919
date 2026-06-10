@@ -6,8 +6,14 @@ side: left
 spread: 34
 page_type: entry
 location: Paris
-places: [25 Rue Montaigne]
-people: [Seligmann, Murat[?], Mme. de Ludre[?], Mrs. Bliss, Gauterop[?]]
+places:
+  - 25 Rue Montaigne
+people:
+  - Seligmann
+  - Murat[?]
+  - Mme. de Ludre[?]
+  - Mrs. Bliss
+  - Gauterop[?]
 ---
 
 # BB_1914_Jul-Dec — page 67 (left)

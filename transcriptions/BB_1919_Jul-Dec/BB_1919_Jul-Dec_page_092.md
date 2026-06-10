@@ -6,7 +6,9 @@ side: right
 spread: 46
 page_type: entry
 location: Settignano (Florence)
-people: [Mrs. Narich[?], Baron Stiebel]
+people:
+  - Mrs. Narich[?]
+  - Baron Stiebel
 ---
 
 # BB_1919_Jul-Dec — page 92 (right)

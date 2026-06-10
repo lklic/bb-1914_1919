@@ -6,7 +6,8 @@ side: right
 spread: 40
 page_type: entry
 location: Settignano (Florence)
-people: [Hohenlohe]
+people:
+  - Hohenlohe
 ---
 
 # BB_1919_Jul-Dec — page 80 (right)

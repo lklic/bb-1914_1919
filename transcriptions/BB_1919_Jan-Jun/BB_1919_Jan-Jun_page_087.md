@@ -6,8 +6,12 @@ side: left
 spread: 44
 page_type: entry
 location: Madrid
-places: [Madrid]
-people: [Duqua d'Infantado[?], Lotfallah Bey[?], Curl[?]]
+places:
+  - Madrid
+people:
+  - Duqua d'Infantado[?]
+  - Lotfallah Bey[?]
+  - Curl[?]
 ---
 
 # BB_1919_Jan-Jun — page 87 (left)

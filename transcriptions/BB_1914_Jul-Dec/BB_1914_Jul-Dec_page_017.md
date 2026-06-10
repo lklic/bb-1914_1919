@@ -6,8 +6,11 @@ side: left
 spread: 9
 page_type: entry
 location: Ford
-places: [Ford]
-people: [Langwill[?], Geoffrey]
+places:
+  - Ford
+people:
+  - Langwill[?]
+  - Geoffrey
 ---
 
 # BB_1914_Jul-Dec — page 17 (left)

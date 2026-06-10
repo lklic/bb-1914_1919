@@ -6,7 +6,9 @@ side: left
 spread: 22
 page_type: entry
 location: Bourges
-people: [Algar, S. W. Buckler]
+people:
+  - Algar
+  - S. W. Buckler
 ---
 
 # BB_1919_Jul-Dec — page 43 (left)

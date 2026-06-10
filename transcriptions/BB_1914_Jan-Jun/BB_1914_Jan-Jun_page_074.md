@@ -6,7 +6,9 @@ side: right
 spread: 37
 page_type: entry
 location: Florence
-people: [Gravina, Bayeoa Burrow[?]]
+people:
+  - Gravina
+  - Bayeoa Burrow[?]
 ---
 
 # BB_1914_Jan-Jun — page 74 (right)

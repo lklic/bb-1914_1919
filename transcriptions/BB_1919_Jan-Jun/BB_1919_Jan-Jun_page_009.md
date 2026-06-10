@@ -6,8 +6,15 @@ side: left
 spread: 5
 page_type: entry
 location: Paris
-places: [Boulogne[?]]
-people: [Golubz[?], Linda, Brunhes[?], Egan, Bliss[?], de Rochefoucauld]
+places:
+  - Boulogne[?]
+people:
+  - Golubz[?]
+  - Linda
+  - Brunhes[?]
+  - Egan
+  - Bliss[?]
+  - de Rochefoucauld
 ---
 
 # BB_1919_Jan-Jun — page 9 (left)

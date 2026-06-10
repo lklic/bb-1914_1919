@@ -6,8 +6,15 @@ side: left
 spread: 20
 page_type: entry
 location: Amiens
-places: [FLORENCE, AMIENS]
-people: [Mary, G., S. Reinach[?], Brunhes[?], Ehrich]
+places:
+  - FLORENCE
+  - AMIENS
+people:
+  - Mary
+  - G.
+  - S. Reinach[?]
+  - Brunhes[?]
+  - Ehrich
 ---
 
 # BB_1919_Jul-Dec — page 39 (left)

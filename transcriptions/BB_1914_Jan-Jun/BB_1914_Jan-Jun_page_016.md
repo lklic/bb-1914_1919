@@ -6,7 +6,13 @@ side: right
 spread: 8
 page_type: entry
 location: New York
-people: [Mrs. Kahn[?], B. G., Miss Boyce[?], Una Meyer[?], Mrs. Douglas Robinson, Morgan[?]]
+people:
+  - Mrs. Kahn[?]
+  - B. G.
+  - Miss Boyce[?]
+  - Una Meyer[?]
+  - Mrs. Douglas Robinson
+  - Morgan[?]
 ---
 
 # BB_1914_Jan-Jun — page 16 (right)

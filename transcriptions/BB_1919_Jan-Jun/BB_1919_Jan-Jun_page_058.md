@@ -6,8 +6,14 @@ side: right
 spread: 29
 page_type: entry
 location: Paris
-places: [Petit Palais]
-people: [Mme Vandervelde, Bakhmateff, Lazzaroni, Shield, Th. Ribot]
+places:
+  - Petit Palais
+people:
+  - Mme Vandervelde
+  - Bakhmateff
+  - Lazzaroni
+  - Shield
+  - Th. Ribot
 ---
 
 # BB_1919_Jan-Jun — page 58 (right)

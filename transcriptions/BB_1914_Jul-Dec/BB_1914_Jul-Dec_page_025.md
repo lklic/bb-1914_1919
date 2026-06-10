@@ -6,8 +6,13 @@ side: left
 spread: 13
 page_type: entry
 location: Ford
-places: [Chichester]
-people: [C. Graham, Lacaita, Puligo, Albertinelli]
+places:
+  - Chichester
+people:
+  - C. Graham
+  - Lacaita
+  - Puligo
+  - Albertinelli
 ---
 
 # BB_1914_Jul-Dec — page 25 (left)
