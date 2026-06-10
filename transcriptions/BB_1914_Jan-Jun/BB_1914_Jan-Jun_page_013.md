@@ -21,7 +21,7 @@ people:
 *(printed: 3rd Sunday after Epiphany.)*
 
 > 1 Chapman 325
-> 5  B.  N. 8 2 5
+> 5  B.  N. 8 2 2
 > Dine Frelinghuysen[?]
 > Dinner B
 
@@ -29,9 +29,9 @@ people:
 
 *(printed: C h. 54m. morn.)*
 
-> 1.30 Winterop[?]
-> 1 a Curling[?]
-> Dine Kahn[?] 8
+> 1.30 Winthrop
+> Tea Curling[?]
+> Dine Kahn 8
 
 **People:** Chapman, Frelinghuysen[?], Kahn[?]  
 
