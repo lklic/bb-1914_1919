@@ -13,6 +13,7 @@ people:
   - Maynard[?]
   - Mrs. Carpenter
   - Guinness
+  - Simon Lexnor
 ---
 
 # BB_1914_Jan-Jun — page 21 (left)
@@ -30,9 +31,9 @@ people:
 > 1.15 Maynard[?]
 > Mrs. Carpenter 5 p.m.
 > 8.30 Guinness
-> [illegible, struck through]
-> Bengaqu[?]
+> ~~Simon Lexner~~
+> ~~B engaged~~
 
-**People:** Mrs. Lucy, Lilia, B. G., Maynard[?], Mrs. Carpenter, Guinness  
+**People:** Mrs. Lucy, Lilia, B. G., Maynard[?], Mrs. Carpenter, Guinness, Simon Lexner
 
 **Transcriber's note:** Heavy bleed-through ghosts in original; handwriting confirmed in bleed-suppressed image. The line between Guinness and Bengaqu under Feb 13 is struck through and illegible. B.G. is an abbreviation.
