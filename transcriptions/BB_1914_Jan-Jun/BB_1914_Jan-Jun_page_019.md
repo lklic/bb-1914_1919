@@ -27,10 +27,10 @@ people:
 
 ## February 9 — Monday
 
-> [illegible] Mc Lacy[?]
+> ~~Lunch Mrs Lucy[?]~~
 > Mrs. Markoe[?] 5 p.m.
-> 37 Park Ave.
-> Dine [illegible]
+> 371 Park Ave.
+> Dine C[au]ff[?]ng
 > 8.
 
 **Places:** 37 Park Ave.  
