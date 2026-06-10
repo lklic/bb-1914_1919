@@ -34,7 +34,8 @@ people:
 > Lunch B. G -
 > 4.00 Osteopath
 > 4.30 Colony Club .
-> Dinner B Grace[?] dine wth[?]
+> Dine with Grace[?]
+> Dinner B
 > Mrs. Pemb. Jones 10
 
 **Places:** Vernon, Colony Club  
