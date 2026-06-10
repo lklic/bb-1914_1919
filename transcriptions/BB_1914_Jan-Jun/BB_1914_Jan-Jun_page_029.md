@@ -10,7 +10,7 @@ places:
   - Northampton
   - Baltimore
 people:
-  - Dina Bulle[?]
+  - Belle[?]
   - Agnes
 ---
 
@@ -21,7 +21,7 @@ people:
 ## February 28 — Saturday
 
 > Northampton
-> Dina Bulle[?]
+> Dine Belle[?]
 
 ## March 1 — Sunday
 
@@ -31,6 +31,6 @@ people:
 > Baltimore
 
 **Places:** Northampton, Baltimore  
-**People:** Dina Bulle[?], Agnes  
+**People:** Belle[?], Agnes  
 
 **Transcriber's note:** Pencil/ink. 'Dina Bulle' uncertain. Much faint bluish/mirror-reversed bleed-through ignored; suppressed image confirms only these lines as real.
