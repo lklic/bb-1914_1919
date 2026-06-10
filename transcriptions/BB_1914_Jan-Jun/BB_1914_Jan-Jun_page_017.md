@@ -24,10 +24,10 @@ people:
 
 ## February 5 — Thursday
 
-> 1 Jaq[?] B. Fletcher
+> 1 Jay B. Fletcher
 > Crawhurst[?]
 > p. m. Dogherty[?]
-> Dine H. L. Field
+> Dine H. E. Field
 
 **People:** Miss Thursby[?], B. Fletcher[?], Dogherty[?], H. L. Field  
 
