@@ -8,11 +8,12 @@ page_type: entry
 location: New York
 people:
   - Chapman
+  - Century
   - Miss Bryce
   - Cox
   - Mrs. Lanier
   - Mrs. Sloane
-  - Johnston[?]
+  - Robert Johnston[?]
 ---
 
 # BB_1914_Jan-Jun — page 23 (left)
@@ -23,7 +24,7 @@ people:
 
 *(printed: St. Valentine's Day)*
 
-> 1 Chapman Antrim[?]
+> 1 Chapman Century
 > 5 Miss Bryce
 > 7.30 Cox
 
@@ -34,9 +35,9 @@ people:
 > Mrs. Lanier &
 > lunch
 > 5 p. m. Mrs. Sloane
-> 4 E[illegible] 65 [illegible]
-> Robert[?] Johnston[?]
+> 41 East[?] 65 [illegible]
+> Robert Johnston[?]
 
-**People:** Chapman, Miss Bryce, Cox, Mrs. Lanier, Mrs. Sloane, Johnston[?]  
+**People:** Chapman, Century, Miss Bryce, Cox, Mrs. Lanier, Mrs. Sloane, Robert Johnston[?]  
 
 **Transcriber's note:** Pencil and ink appointments with times; several names uncertain. Bottom two lines faint pencil. Heavy soft bleed-through in original ignored; suppressed image confirms only the dark cursive lines transcribed.
