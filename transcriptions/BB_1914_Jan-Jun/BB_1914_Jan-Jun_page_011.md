@@ -21,7 +21,7 @@ people:
 
 > 1 Hutches'[?]
 > Dine Fletcher 8
-> Dinner [B]
+> Dinner B
 
 ## January 20 — Tuesday
 
@@ -29,7 +29,7 @@ people:
 > ngton Ho[?]
 > Tea Away Morgan
 > Dine Harden
-> 9 p.m [B]
+> 9 p.m B
 
 **People:** Fletcher, Harden  
 
