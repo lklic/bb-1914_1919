@@ -10,7 +10,7 @@ people:
   - Mrs. Kahn[?]
   - B. G.
   - Miss Boyce[?]
-  - Una Meyer[?]
+  - Meyer[?]
   - Mrs. Douglas Robinson
   - Morgan[?]
 ---
@@ -24,19 +24,19 @@ people:
 > Mrs. Kahn[?]
 > lunch B. G.
 > Tea . Miss Boyce[?]
-> Una Meyer[?]
-> dinner (3
+> Dine Meyer[?]
+> Dinner B
 
 ## February 3 — Tuesday
 
 *(printed: D 10h. 33m., morn.)*
 
-> Mrs. Kahn[?]
+> ~~11 Mrs. Kahn[?]~~ 
 > Mrs. Douglas Robinson
-> 1.30  9  B. 63 )
-> dine Morgan[?]
-> 9 p. m. (3
+> 1.30  9  E. 63d
+> Dine Morgan[?]
+> 9 p. m. B
 
-**People:** Mrs. Kahn[?], B. G., Miss Boyce[?], Una Meyer[?], Mrs. Douglas Robinson, Morgan[?]  
+**People:** Mrs. Kahn[?], B. G., Miss Boyce[?], Meyer[?], Mrs. Douglas Robinson, Morgan[?]  
 
 **Transcriber's note:** Mix of pencil and ink, cleaner than left page. First line of Feb 3 struck through. Many names uncertain owing to hasty hand and bleed-through. 'Mrs. Douglas Robinson' is fairly clear in ink.
