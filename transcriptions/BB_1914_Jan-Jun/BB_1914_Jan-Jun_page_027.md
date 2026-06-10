@@ -9,6 +9,7 @@ location: Northampton
 people:
   - Miss Sands[?]
   - Mrs. Van Rensaller[?]
+  - B
   - Mrs. Griswold
   - Bryce[?]
 ---
