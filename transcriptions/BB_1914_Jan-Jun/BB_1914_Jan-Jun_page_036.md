@@ -13,6 +13,8 @@ places:
 people:
   - Adams
   - Johnson
+  - Bryce
+  - Macy[?]
 ---
 
 # BB_1914_Jan-Jun — page 36 (right)
@@ -23,7 +25,7 @@ people:
 
 > Nat. Museum
 > lunch Adams
-> Bryn = Mawr.
+> Bryn-Mawr.
 
 ## March 15 — Sunday
 
@@ -31,8 +33,9 @@ people:
 
 > lunch Johnson
 > Philadelphia
+> Bryce - Macy[?]
 
 **Places:** Nat. Museum, Bryn Mawr, Philadelphia  
-**People:** Adams, Johnson  
+**People:** Adams, Johnson, Bryce, Macy[?]
 
 **Transcriber's note:** Nat. Museum (Washington), lunch with Adams, then to Bryn Mawr. Sunday lunch with Johnson at Philadelphia. A faint grey bottom line resembling 'Bryn = Mawr' is soft and largely absent in the bleed-suppressed image, so treated as bleed-through and not transcribed.
