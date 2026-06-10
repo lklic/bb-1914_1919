@@ -30,4 +30,4 @@ people:
 
 **People:** De Koven, Alexander  
 
-**Transcriber's note:** Pencil entries, partly faint with heavy bleed-through. 'B. G.' written in ink above a struck-through name (Mrs Hyde?). Several words uncertain; 'DeKoven' appears twice. Only strokes confirmed in the bleed-suppressed image are transcribed.
+**Transcriber's note:** Pencil entries, partly faint with heavy bleed-through. 'B. G.' written in ink above a struck-through name (Mrs Meyer?). Several words uncertain; 'De Koven' appears twice. Only strokes confirmed in the bleed-suppressed image are transcribed.
