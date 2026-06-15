@@ -8,7 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Benn[?]
-  - Cherryper[?]
+  - Cherry[?]
   - Strong
 ---
 
@@ -20,7 +20,7 @@ people:
 
 *(printed: St. George's Day. 11h 32m. morn.)*
 
-> Benn. Cherryper[?].
+> Bonn.[?] Cherry pèr[?].
 > Strong
 
 ## April 24 — Friday
@@ -29,6 +29,6 @@ people:
 
 > +
 
-**People:** Benn[?], Cherryper[?], Strong  
+**People:** Bonn[?], Cherry[?], Strong  
 
 **Transcriber's note:** April 23 names confirmed real in bleed-suppressed image. April 24 is essentially blank apart from a small cross/plus mark and a faint '1'-like stroke; the heavy mirror-reversed text in the original lower half is bleed-through and not transcribed. 'Strong' may be Mrs. Eugenie Strong.
