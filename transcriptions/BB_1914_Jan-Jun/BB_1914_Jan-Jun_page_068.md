@@ -22,11 +22,11 @@ people:
 
 ## May 18 — Monday
 
-> Sybil [illegible]
+> Sybil ~~leaves~~
 
 ### Other writing on page
 
-> Sybil leave[?]
+> Sybil leave
 
 **People:** Sybil  
 
