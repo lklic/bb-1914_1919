@@ -18,14 +18,14 @@ people:
 
 *(printed: O 5h. 18m., morn.)*
 
-> Lina to stay[?]
+> Lina[?] to stay
 
 ## June 9 — Tuesday
 
 *(printed: Trinity Sunday.)*
 
 > Lina
-> strike[?]
+> <ins>strike[?]</ins>
 
 **People:** Lina[?]  
 
