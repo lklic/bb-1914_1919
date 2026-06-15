@@ -9,8 +9,10 @@ location: Paris
 places:
   - Ecouen[?]
 people:
-  - Cosse
+  - Ludres[?]
+  - Cossé
   - Schlumberger
+  - Shields[?]
   - Dubos
 ---
 
@@ -22,17 +24,17 @@ people:
 
 *(printed: Palm Sunday.)*
 
-> Ludre[?]
+> Ludres[?]
 > Ecouen[?] with
-> Cosse[?] & Schlumberg[?]
-> Shield[?]
+> Cossé & Schlumberg[?]
+> Shields[?]
 
 ## April 6 — Monday
 
 > Dubos,
-> Ludre[?]
+> Ludres[?]
 
 **Places:** Ecouen[?]  
-**People:** Cosse, Schlumberger, Dubos  
+**People:** Ludres[?], Cossé, Schlumberger, Shields[?], Dubos  
 
 **Transcriber's note:** Heavy bleed-through in original; bleed-suppressed confirms the dark cursive lines as real. Names uncertain.
