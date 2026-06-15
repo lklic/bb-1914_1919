@@ -9,7 +9,7 @@ location: Saint-Jean-Cap-Ferrat
 places:
   - Villa Sylvia
 people:
-  - Uncle Lanckowski[?]
+  - Lanckoronski[?]
 ---
 
 # BB_1914_Jan-Jun — page 52 (right)
@@ -23,10 +23,9 @@ people:
 ## April 16 — Thursday
 
 > Arrived 8.30 a.m.
-> Uncle Lanck-
-> owski[?]
+> Lunch Lanckoronski[?]
 
 **Places:** Villa Sylvia  
-**People:** Uncle Lanckowski[?]  
+**People:** Lanckoronski[?]  
 
 **Transcriber's note:** April 16 lines in faint pencil; surname uncertain (possibly Lanckoronski). Lower lines obscured by bleed-through and ignored.
