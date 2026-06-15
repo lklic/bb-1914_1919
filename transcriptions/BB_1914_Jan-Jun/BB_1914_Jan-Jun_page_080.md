@@ -7,6 +7,7 @@ spread: 40
 page_type: entry
 location: Florence
 people:
+  - Lina[?]
   - Mr. Strong
   - Mrs. Ross
   - Lindsay[?]
@@ -20,16 +21,16 @@ people:
 
 *(printed: 1st Sunday after Trinity)*
 
-> Iva[?] Saunders[?]
-> Mr. Strong
-> [illegible]
-> Mrs. Ross Princip[?]
-> Lindsay[?]
+> Lina[?] leaves
+> Mrs. Strong
+> arrives
+> Mrs. Ross Princip.[?]
+> Lindsay[?] dines
 
 ## June 11 — Thursday
 
 > Mr. Strong
 
-**People:** Mr. Strong, Mrs. Ross, Lindsay[?]  
+**People:** Lina[?], Mrs. Strong, Mrs. Ross, Lindsay[?]  
 
 **Transcriber's note:** June 10 has several names confirmed dark in the suppressed image; first-name readings uncertain. 'Lindsay' overlaps the printed June 11 header. 'Mr. Strong' clear on both days.
