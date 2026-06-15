@@ -10,8 +10,10 @@ places:
   - Serristori[?]
 people:
   - Mrs Ross
+  - Serrestori
+  - Placci
   - Prince
-  - Edie[?]
+  - Edith
 ---
 
 # BB_1914_Jan-Jun — page 65 (left)
@@ -24,16 +26,16 @@ people:
 
 > lunch with
 > Mrs Ross
-> Serristori Place[?]
+> Serristori Placci
 
 ## May 12 — Tuesday
 
 *(printed: 4th Sunday after Easter)*
 
-> Prince leave
-> Edie arrives[?]
+> Prince leaves
+> Edith arrives
 
 **Places:** Serristori[?]  
-**People:** Mrs Ross, Prince, Edie[?]  
+**People:** Mrs Ross, Serrestori, Placci, Prince, Edith 
 
 **Transcriber's note:** Pencil. 'Serristori Place' uncertain. 'Edie arrives' uncertain. Faint bleed-through ignored.
