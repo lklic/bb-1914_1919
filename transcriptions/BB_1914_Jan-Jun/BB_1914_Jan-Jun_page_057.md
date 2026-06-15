@@ -10,7 +10,8 @@ places:
   - Sorrento[?]
 people:
   - Mme. Harrach[?]
-  - Mrs. Leigh Smith[?]
+  - Mrs. Leigh[?]
+  - Serristori[?]
   - Prof. T. W. Arnold
 ---
 
@@ -23,18 +24,18 @@ people:
 *(printed: 11h. 22m., morn.)*
 
 > Mme. Harrach[?] &
-> Mrs. Leigh Smith[?]
-> Sorrento[?]
-> Aguas[?] & Nanne[?]
+> Mrs. Leigh Lunch
+> Serristori[?]
+> Agnes[?] & Nancie[?]
 
 ## April 26 — Sunday
 
 *(printed: 2nd Sunday after Easter.)*
 
 > Prof. T. W. Arnold
-> tate[?].
+> Date.
 
 **Places:** Sorrento[?]  
-**People:** Mme. Harrach[?], Mrs. Leigh Smith[?], Prof. T. W. Arnold  
+**People:** Mme. Harrach[?], Mrs. Leigh[?], Serristori[?], Prof. T. W. Arnold  
 
 **Transcriber's note:** Pencil. Heavy greenish mirror-reversed bleed-through in original, suppressed cleanly; only dark strokes transcribed. Names and place uncertain.
