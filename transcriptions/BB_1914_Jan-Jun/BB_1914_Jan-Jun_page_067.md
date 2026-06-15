@@ -18,7 +18,7 @@ people:
 ## May 15 — Friday
 
 > Bruce Richmond
-> Sybil Lochay[?]
+> Sybil to stay
 
 ## May 16 — Saturday
 
