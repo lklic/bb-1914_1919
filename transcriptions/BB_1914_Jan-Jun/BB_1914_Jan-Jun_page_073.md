@@ -24,7 +24,7 @@ people:
 
 *(printed: Queen's Birthday. Empire Day.)*
 
-> Croswell to din[?]
+> Croswell to dine
 
 **People:** Croswell  
 
