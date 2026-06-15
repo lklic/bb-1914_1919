@@ -7,6 +7,7 @@ spread: 22
 page_type: entry
 location: At sea (RMS Olympic)
 people:
+  - Schlumberg[er][?]
   - Ludres[?]
   - Cossé[?]
   - Schlum[?]
@@ -21,7 +22,7 @@ people:
 > Olympic
 > sailed 10 a.m.
 > ~~Paris 5.30 a.m.~~
-> ~~[illegible]~~
+> ~~Schlumberg[er][?]~~
 > ~~Dine La[illegible]~~
 
 ## March 29 — Sunday
@@ -30,10 +31,10 @@ people:
 
 > Olympic
 > ~~lunch Ludres[?]~~
-> ~~[illegible] with~~
+> ~~Ecouen with~~
 > ~~Cossé[?] & Schlum[?]~~
-> ~~Dine [illegible]~~
+> ~~Dine Shields[?]~~
 
-**People:** Ludres[?], Cossé[?], Schlum[?]  
+**People:** Schlumberg[er][?], Ludres[?], Cossé[?], Schlum[?]  
 
 **Transcriber's note:** Heavy bleed-through ghosts in original but absent in bleed-suppressed image; ignored. 'Olympic' written large at top of each day (likely RMS Olympic). Several entries struck through with diagonal lines.
