@@ -8,7 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Gravina
-  - Bayeoa Burrow[?]
+  - Bryson Burro[gh]s[?]
 ---
 
 # BB_1914_Jan-Jun — page 74 (right)
@@ -19,12 +19,12 @@ people:
 
 *(printed: Oaks.)*
 
-> Gravina to din[?]
+> Gravina to dine
 
 ## May 30 — Saturday
 
-> Bayeoa Burrow[?]
+> Bryson Burro[gh]s[?]
 
-**People:** Gravina, Bayeoa Burrow[?]  
+**People:** Gravina, Bryson Burro[gh]s[?]
 
 **Transcriber's note:** Faint upper script is bleed-through (gone in the suppressed image). Real dark ink: bold cursive 'Gravina to din[e]' across the May 29 area, and 'Bayeoa Burrow[?]' at the bottom (uncertain reading of a personal name).
