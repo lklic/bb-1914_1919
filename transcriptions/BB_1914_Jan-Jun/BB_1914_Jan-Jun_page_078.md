@@ -7,8 +7,8 @@ spread: 39
 page_type: entry
 location: Florence
 people:
-  - Dryson[?]
-  - Lebie[?]
+  - Bryson
+  - Sybil
 ---
 
 # BB_1914_Jan-Jun — page 78 (right)
@@ -19,16 +19,16 @@ people:
 
 *(printed: O 5h. 18m. morn)*
 
-> Dryson[?]
-> dined with
-> Lebie[?]
+> Bryson
+> dine with
+> Sybil
 
 ## June 7 — Sunday
 
 *(printed: Trinity Sunday.)*
 
-> Dryson[?]
+> Bryson
 
-**People:** Dryson[?], Lebie[?]  
+**People:** Bryson, Sybil  
 
 **Transcriber's note:** Dark cursive lines under June 6 confirmed in suppressed image: 'Dryson'(?) / 'dined with' / 'Lebie'(?). June 7 has a single word 'Dryson'(?). Soft bleed-through across both halves ignored.
