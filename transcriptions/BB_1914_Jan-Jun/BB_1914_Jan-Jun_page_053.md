@@ -14,7 +14,7 @@ people:
   - Hapgood
   - Sybil[?]
   - Agnes[?]
-  - Nannie[?]
+  - Nancie[?]
 ---
 
 # BB_1914_Jan-Jun — page 53 (left)
@@ -26,18 +26,18 @@ people:
 *(printed: 7h. 52m., morn.)*
 
 > lunch Placci
-> tea Lucie[?] u[?]
+> tea Lucie[?] au[?]
 > Brockwell[?]
-> ak.
+> ate.
 
 ## April 18 — Saturday
 
 > lunch Hapgood
 > tea Sybil[?]
-> Deia[?] Agnes[?]
-> & Nannie[?]
+> Dine Agnes[?]
+> & Nancie[?]
 
 **Places:** Brockwell[?]  
-**People:** Placci, Lucie[?], Hapgood, Sybil[?], Agnes[?], Nannie[?]  
+**People:** Placci, Lucie[?], Hapgood, Sybil[?], Agnes[?], Nancie[?]  
 
 **Transcriber's note:** Pencil. Several words uncertain. Heavy bleed-through in original; suppressed image confirms the transcribed lines only.
