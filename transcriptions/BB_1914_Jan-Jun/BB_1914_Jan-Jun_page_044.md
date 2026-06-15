@@ -10,9 +10,9 @@ places:
   - 49 Rue de la Tour
 people:
   - Dubos[?]
-  - Ludwig[?]
-  - Galober[?]
-  - Renach[?]
+  - Ludres[?]
+  - Golubew[?]
+  - Reinach[?]
 ---
 
 # BB_1914_Jan-Jun — page 44 (right)
@@ -22,18 +22,18 @@ people:
 ## March 30 — Monday
 
 > Olympic
-> lunch Dubos[?] 49
-> Rue de la Tour
-> Dine Ludwig[?]
-> 8.30
+> ~~lunch Dubos[?] 49~~
+> ~~Rue de la Tour~~
+> ~~Dine Ludres[?]~~
+> ~~8.30~~
 
 ## March 31 — Tuesday
 
 > Olympic
-> lunch Galober[?]
-> Dine Renach[?]
+> ~~lunch Golubew[?]~~
+> ~~Dine Reinach[?]~~
 
 **Places:** 49 Rue de la Tour  
-**People:** Dubos[?], Ludwig[?], Galober[?], Renach[?]  
+**People:** Dubos[?], Ludres[?], Golubew[?], Reinach[?]  
 
 **Transcriber's note:** Bleed-through suppressed cleanly; real strokes confirmed dark. 'Olympic' large at top of each day. Diagonal strike-throughs across entries. '49 Rue de la Tour' is a Paris address.
