@@ -9,7 +9,6 @@ location: Florence
 people:
   - Nallo
   - Mrs. Ross
-  - Lucas[?]
   - Harrachs
   - Serristori
   - Bryson Burro[ugh]s[?]
@@ -33,6 +32,6 @@ people:
 
 > Bryson Burro[ugh]s[?]
 
-**People:** Nallo, Mrs. Ross, Lucas[?], Harrachs, Serristori, Bryson Burro[ugh]s[?]  
+**People:** Nallo, Mrs. Ross, Harrachs, Serristori, Bryson Burro[ugh]s[?]  
 
 **Transcriber's note:** June 4 handwriting clear in pencil/ink. June 5 has only the dark cursive bottom line 'Dryson Burrows'(?), confirmed in suppressed image; faint mid-page strokes are bleed-through and ignored. Printed sub-note under June 5 partly obscured ('King's Birthday kept', plus a moon-phase note).
