@@ -8,6 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Harrachs
+  - Sibyl
 ---
 
 # BB_1914_Jan-Jun — page 71 (left)
@@ -24,8 +25,8 @@ people:
 
 *(printed: Sunday after Ascension. Empire Day.)*
 
-> Leonah ap Lebel[?]
+> Lunch at Sybil's
 
-**People:** Harrachs  
+**People:** Harrachs, Sibyl  
 
 **Transcriber's note:** Pencil. 'Harrachs' likely the Harrach gallery/collection (Vienna). Second line under May 24 very uncertain, appears to be a name. Heavy faint bleed-through ghosts in original ignored; only the two dark entries confirmed in bleed-suppressed image are real.
