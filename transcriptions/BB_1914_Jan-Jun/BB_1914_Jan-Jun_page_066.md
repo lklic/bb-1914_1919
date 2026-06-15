@@ -7,6 +7,7 @@ spread: 33
 page_type: entry
 location: Florence
 people:
+  - Baceu[?]
   - Strong
   - Lubbock
 ---
@@ -19,7 +20,7 @@ people:
 
 *(printed: 5th Sunday after Easter)*
 
-> Same[?]
+> Baceu[?]
 > Tea with Strong
 > Lubbock
 
@@ -29,6 +30,6 @@ people:
 
 > *(no writing)*
 
-**People:** Strong, Lubbock  
+**People:** Baceu[?], Strong, Lubbock  
 
 **Transcriber's note:** Pencil. 'dine' uncertain first line. 'Tea with Strong' / 'Lubbock' (probably Percy Lubbock). Faint mirror bleed-through at bottom ignored.
