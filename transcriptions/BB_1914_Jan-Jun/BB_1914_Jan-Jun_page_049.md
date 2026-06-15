@@ -10,7 +10,7 @@ places:
   - Maison Lafitte
 people:
   - Tyler
-  - Cossé[?]
+  - de Cossé[?]
 ---
 
 # BB_1914_Jan-Jun — page 49 (left)
@@ -20,7 +20,7 @@ people:
 ## April 9 — Thursday
 
 > Tyler.
-> La Cossé[?].
+> de Cossé[?].
 
 ## April 10 — Friday
 
@@ -28,10 +28,10 @@ people:
 
 > Reunch[?] Cossé[?]
 > Maison Lafitte
-> [illegible]
-> Cab 4.50[?]
+> Dine [illegible]
+> [illegible] 402[?]
 
 **Places:** Maison Lafitte  
-**People:** Tyler, Cossé[?]  
+**People:** Tyler, de Cossé[?]  
 
 **Transcriber's note:** April 9 lists names Tyler and La Cossé. April 10 (Good Friday) mentions Maison Lafitte; last two lines uncertain pencil. Faint blue bleed-through across the page (suppressed in clean image) ignored.
