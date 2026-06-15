@@ -29,7 +29,7 @@ people:
 
 ## June 11 — Thursday
 
-> Mr. Strong
+> Mrs. Strong
 
 **People:** Lina[?], Mrs. Strong, Mrs. Ross, Lindsay[?]  
 
