@@ -8,7 +8,9 @@ page_type: entry
 location: Florence
 people:
   - E. H. C. de C.
-  - Schl.
+  - Seld.[?]
+  - M[m]e Le[illegible]
+  - Tashaws[?]
 ---
 
 # BB_1914_Jan-Jun — page 72 (right)
@@ -19,10 +21,10 @@ people:
 
 *(printed: 2h. 35m., morn.)*
 
-> E. H. C. de C. & Schl.
+> E. H. C. de C. & Seld.[?]
 > leave.
-> We dinner to her[?]
-> Teakows[?] to dine
+> M[m]e Le[illegible] to tea
+> Tashaws[?] to dine
 
 ## May 26 — Tuesday
 
@@ -30,6 +32,6 @@ people:
 
 > *(no writing)*
 
-**People:** E. H. C. de C., Schl.  
+**People:** E. H. C. de C., Seld., M[m]e Le[illegible], Tashaws[?]
 
 **Transcriber's note:** Ink. Initials in first line uncertain. 'leave.' clear. Following two lines partly obscured, readings tentative. Faint blue bleed-through across middle/lower page ignored. May 26 blank.
