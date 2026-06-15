@@ -32,8 +32,8 @@ people:
 > Villa Sylvia
 > Monaco with
 > Lady Harbeck[?].
-> Deux[?] x Russcaw[?]
-> ballah[?] Monaco.
+> Dine & Russian[?]
+> fellah[?] Monaco.
 
 **Places:** Villa Sylvia, Grasse, Monaco  
 **People:** Lady Harbeck[?]  
