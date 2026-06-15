@@ -9,7 +9,9 @@ location: Florence
 places:
   - Fiesole
 people:
-  - Mme. de Cosso[?]
+  - Mme. de Cossé[?]
+  - Selilc[?]
+  - Conway[?]
   - Serristori
 ---
 
@@ -21,22 +23,18 @@ people:
 
 *(printed: Ascension Day.)*
 
-> E. H. C. Jr. C. & Soll[?]
+> > Mme. de Cossé[?] &
+> Selilc[?] for[?] arrive[?]
+> [illegible], at Fiesole
+> dined Conway[?]
 
 ## May 22 — Friday
 
 *(printed: Sunday after Ascension. Empire Day.)*
 
-> Mme. de Cosso[?] &
-> Selihewter[?] arrive[?]
-> Aurinka[?], at Fiesole
-> dined Cau[?]
-
-### Other writing on page
-
 > Dined Serristori
 
 **Places:** Fiesole  
-**People:** Mme. de Cosso[?], Serristori  
+**People:** Mme. de Cossé[?], Selilc[?], Conway[?], Serristori  
 
 **Transcriber's note:** Right page has genuine pencil handwriting confirmed in the bleed-suppressed image. The May 22 block straddles the printed header. May 21 has a faint row of initials (E. H. C. ...) that is only borderline-visible in the suppressed image and may be partly bleed-through; transcribed tentatively. 'Dined Serristori' is written large and low on the page (loose). Several words uncertain. Mirror-reversed bleed-through also present and ignored.
