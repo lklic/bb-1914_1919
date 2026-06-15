@@ -11,8 +11,8 @@ people:
   - Mr. Grey
   - Miss Roberts
   - Mrs. Hooker
-  - Ed. Thayer
-  - Gibson
+  - Ed. Skayer[?]
+  - Gibons[?]
 ---
 
 # BB_1914_Jan-Jun — page 55 (left)
@@ -27,11 +27,11 @@ people:
 
 ## April 22 — Wednesday
 
-> Miss Roberts
+> Miss Robins
 > Mrs. Hooker
-> Ed. Thayer &
-> Gibson
+> Ed. Skayer[?] &
+> Gibons[?]
 
-**People:** Sybil, Mr. Grey, Miss Roberts, Mrs. Hooker, Ed. Thayer, Gibson  
+**People:** Sybil, Mr. Grey, Miss Roberts, Mrs. Hooker, Ed. Skayer[?], Gibons[?]  
 
 **Transcriber's note:** Lists of names of people met or dining. Bold pencil writing confirmed real in bleed-suppressed image; faint soft ghosts in original are bleed-through and ignored.
