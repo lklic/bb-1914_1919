@@ -22,7 +22,7 @@ people:
 
 ## May 18 — Monday
 
-> Sybil ~~leaves~~
+> Sybil ~leaves~
 
 ### Other writing on page
 
