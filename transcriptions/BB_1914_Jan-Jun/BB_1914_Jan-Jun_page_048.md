@@ -29,4 +29,4 @@ people:
 
 **People:** Golubew, Reinach, Hewitt  
 
-**Transcriber's note:** Bleed-suppressed confirms 'Golubew', 'Reinach', 'Hewitt' as real ink; the rest of the page is bleed-through. Printed Good Friday sub-note partly bled from facing leaf.
+**Transcriber's note:** [Victor] Goloubev, 1978-1945 (Russian-born French archeologist); Salamon Reinach, 1858-1932 (French archeologist and humanist). Bleed-suppressed confirms 'Golubew', 'Reinach', 'Hewitt' as real ink; the rest of the page is bleed-through. Printed Good Friday sub-note partly bled from facing leaf.
