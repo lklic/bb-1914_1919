@@ -9,7 +9,7 @@ location: Baltimore
 places:
   - Baltimore
 people:
-  - Belle
+  - Belle [Greene]
 ---
 
 # BB_1914_Jan-Jun — page 32 (right)
@@ -25,9 +25,9 @@ people:
 ## March 7 — Saturday
 
 > Baltimore
-> Belle
+> Belle [Greene]
 
 **Places:** Baltimore 
-**People:** Belle
+**People:** Belle [Greene]
 
 **Transcriber's note:** Strong bleed-through in gutter and mid-page; bleed-suppressed image confirms 'Baltimore' under Mar 6 and 'Baltimore' (with 'Balt.' below) under Mar 7 as real dark strokes. Printed sub-note under Mar 6 appears mirror-reversed in the image.
