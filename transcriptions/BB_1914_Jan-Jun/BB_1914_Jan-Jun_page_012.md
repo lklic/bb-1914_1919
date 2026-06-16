@@ -32,7 +32,7 @@ people:
 > Ave. A.
 > Dine Princeton
 
-**Places:** Rockefeller Inst., 66th Ave.  
+**Places:** Rockefeller Inst., 66th Ave., Princeton  
 **People:** Burroughs, Sherrills, Miss Sands  
 
-**Transcriber's note:** Bleed-through ghosts visible under handwriting in original; suppressed image confirms the dark lines transcribed. 'Rockeffler' likely Rockefeller Institute. Last word of Jan 22 uncertain (cut at gutter/edge).
+**Transcriber's note:** [Bryson] Burroughs. Bleed-through ghosts visible under handwriting in original; suppressed image confirms the dark lines transcribed. 'Rockeffler' likely Rockefeller Institute. Last word of Jan 22 uncertain (cut at gutter/edge).
