@@ -8,6 +8,7 @@ page_type: entry
 location: New York
 people:
   - Elsie[?]
+  - B [Belle Greene]
   - Lanier
   - Flexner[?]
 ---
@@ -21,8 +22,8 @@ people:
 *(printed: Partridge and Pheasant Shooting ends.)*
 
 > 1 p.m. lunch Elsie[?]
-> Tea B
-> B  7.30
+> Tea B [Belle Greene]
+> B [Belle Green] 7.30
 
 ## January 30 — Friday
 
@@ -33,6 +34,6 @@ people:
 > Tea
 > Dine Flexner[?]
 
-**People:** Elsie[?], Lanier, Flexner[?]  
+**People:** Elsie[?], B [Belle Greene], Lanier, Flexner[?]  
 
-**Transcriber's note:** Heavy mirror show-through ignored. 'Elsie', 'Trevor', 'Flexner' uncertain. 'Tea 8 / 8 7.30' struck through with a line.
+**Transcriber's note:** Elsie [de Wolfe], 1865-1950 (American interior decorator; wife of Sir Charles Mendl). Heavy mirror show-through ignored. 'Elsie', 'Trevor', 'Flexner' uncertain. 'Tea 8 / 8 7.30' struck through with a line.
