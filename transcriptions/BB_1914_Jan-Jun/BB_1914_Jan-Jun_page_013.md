@@ -9,6 +9,7 @@ location: New York
 people:
   - Chapman
   - Frelinghuysen[?]
+  - B [Belle Green]
   - Kahn[?]
 ---
 
@@ -21,9 +22,9 @@ people:
 *(printed: 3rd Sunday after Epiphany.)*
 
 > 1 Chapman 325
-> 5  B.  N. 8 2 2
+> 5  B. [Belle Greene] N. 8 2 2
 > Dine Frelinghuysen[?]
-> Dinner B
+> Dinner B [Belle Greene]
 
 ## January 28 — Wednesday
 
@@ -35,4 +36,4 @@ people:
 
 **People:** Chapman, Frelinghuysen[?], Kahn[?]  
 
-**Transcriber's note:** Pencil/ink mix. Heavy show-through. 'Frelinghuysen' uncertain. Second day entries faint pencil; 'Winterop', 'Curling', 'Kahn' all uncertain readings.
+**Transcriber's note:** [Grenville Lindall] Winthrop, 1864-1943 (American lawyer and art collector); [Otto] Kahn, 1867-1934 (American financier). Pencil/ink mix. Heavy show-through. 'Frelinghuysen' uncertain. Second day entries faint pencil; 'Winterop', 'Curling', 'Kahn' all uncertain readings.
