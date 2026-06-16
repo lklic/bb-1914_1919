@@ -9,9 +9,8 @@ location: Florence
 people:
   - Mrs. Strong
   - Harrach
-  - Mara[?]
-  - B. Humphreys Holm[?]
-  - Miss Lou Land
+  - Holmes[?]
+  - Miss Lou Lands
 ---
 
 # BB_1914_Jan-Jun — page 84 (right)
@@ -23,17 +22,17 @@ people:
 *(printed: Ascot Cup.)*
 
 > Mrs. Strong
-> Harrach, & Mara[?]
-> B. Humphreys Holm[?]
+> Harrach, & Mme
+> Ba[illegible] Holmes[?]
 > to dine
 
 ## June 19 — Friday
 
 *(printed: 2nd Sunday after Trinity)*
 
-> Miss Lou Land[?]
+> Miss Lou Lands[?]
 > Mrs. Strong
 
-**People:** Mrs. Strong, Harrach, Mara[?], B. Humphreys Holm[?], Miss Lou Land  
+**People:** Mrs. Strong, Harrach, Holmes[?], Miss Lou Lands  
 
 **Transcriber's note:** Ink handwriting confirmed in suppressed image. June 18 has interlined/crossed lines making some names highly uncertain.
