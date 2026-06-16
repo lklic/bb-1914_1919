@@ -8,6 +8,7 @@ page_type: entry
 location: New York
 people:
   - Fletcher
+  - B [Belle Greene]
   - Harden
 ---
 
@@ -21,7 +22,7 @@ people:
 
 > 1 Hutches'[?]
 > Dine Fletcher 8
-> Dinner B
+> Dinner B [Belle Greene]
 
 ## January 20 — Tuesday
 
@@ -29,8 +30,8 @@ people:
 > ngton Ave.
 > Tea Away Morgan
 > Dine Harden
-> 9 p.m B
+> 9 p.m B [Belle Greene]
 
-**People:** Fletcher, Harden  
+**People:** Fletcher, B [Belle Greene], Harden  
 
 **Transcriber's note:** Heavy bleed-through ghosts in original; suppressed version confirms only the dark pencil lines transcribed. The 'Sunday after Epiphany' text near the Jan 20 header is mirror-reversed bleed-through and ignored. Several hand words very uncertain due to scrawled script. [B] is his recurring boxed-B shorthand mark after dinner entries.
