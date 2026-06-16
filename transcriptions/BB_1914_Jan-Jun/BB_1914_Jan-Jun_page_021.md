@@ -13,7 +13,7 @@ people:
   - Maynard[?]
   - Mrs. Carpenter
   - Guinness
-  - Simon Lexnor
+  - Simon Lexner
 ---
 
 # BB_1914_Jan-Jun — page 21 (left)
