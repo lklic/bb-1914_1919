@@ -9,6 +9,7 @@ location: New York
 people:
   - Eno[?]
   - Griswold
+  - B.G. [Belle Greene]
   - Hapgood
   - Elsie[?]
 ---
@@ -25,10 +26,10 @@ people:
 ## January 14 — Wednesday
 
 > Lunch Hapgood
-> 5 B[elle] G[reene]
+> 5 B.G. [Belle Greene]
 > dine Elsie[?] 8
-> Dinner B[elle Greene]
+> Dinner B. [Belle Green]
 
-**People:** Eno[?], Griswold, Hapgood, Elsie[?]  
+**People:** Eno[?], Griswold, Hapgood, B.G. [Belle Greene], Elsie[?]  
 
 **Transcriber's note:** Social engagements: lunches and dinners. Times noted: 1.15, 8. Some words uncertain ('Eno', 'S.G.', 'Elsie'). Heavy pencil bleed-through across the page ignored; suppressed image confirms the real dark ink lines.
