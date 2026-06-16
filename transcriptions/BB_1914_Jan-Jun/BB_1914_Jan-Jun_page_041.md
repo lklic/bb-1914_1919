@@ -12,7 +12,7 @@ people:
   - Huntington[?]
   - Vanderbilt
   - Lanier
-  - Belle
+  - Belle [Greene]
 ---
 
 # BB_1914_Jan-Jun — page 41 (left)
@@ -35,8 +35,8 @@ people:
 > Vanderbilt
 > Lanier
 > Long walk with
-> Belle
+> Belle [Greene]
 
-**People:** Kahn, Rockefeller[?], Huntington[?], Vanderbilt, Lanier, Belle 
+**People:** Kahn, Rockefeller[?], Huntington[?], Vanderbilt, Lanier, Belle [Greene]
 
 **Transcriber's note:** New York social engagements; lunch with Kahn at 8 East 68th St. List of names under Mar 25, several uncertain. Heavy mirror bleed-through ignored.
