@@ -6,11 +6,12 @@ side: left
 spread: 22
 page_type: entry
 location: At sea (RMS Olympic)
+places:
+  - Ecouen
 people:
   - Schlumberg[er][?]
   - Ludres[?]
-  - Cossé[?]
-  - Schlum[?]
+  - Cossé
 ---
 
 # BB_1914_Jan-Jun — page 43 (left)
@@ -35,6 +36,7 @@ people:
 > ~~Cossé[?] & Schlum[?]~~
 > ~~Dine Shields[?]~~
 
-**People:** Schlumberg[er][?], Ludres[?], Cossé[?], Schlum[?]  
+**Places:** Ecouen
+**People:** Schlumberg[er][?], Ludres[?], Cossé[?]
 
-**Transcriber's note:** Heavy bleed-through ghosts in original but absent in bleed-suppressed image; ignored. 'Olympic' written large at top of each day (likely RMS Olympic). Several entries struck through with diagonal lines.
+**Transcriber's note:** [Countess Charlotte de] Cossé[-Brissac], 1865-1957; [Gustave] Schlumberg[er], 1844-1929 (French Byzantinist). Heavy bleed-through ghosts in original but absent in bleed-suppressed image; ignored. 'Olympic' written large at top of each day (likely RMS Olympic). Several entries struck through with diagonal lines.
