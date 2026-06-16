@@ -8,7 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Mrs. Strong
-  - Papafas
+  - Papafa[va]
   - Venturi
   - Sybil
 ---
@@ -22,7 +22,7 @@ people:
 *(printed: 1st Sunday after Trinity)*
 
 > Mrs. Strong
-> Papafas to tea
+> Papafa[va] to tea
 
 ## June 17 — Wednesday
 
@@ -32,6 +32,6 @@ people:
 > to lunch
 > Dined with Sybil
 
-**People:** Mrs. Strong, Papafas, Venturi, Sybil  
+**People:** Mrs. Strong, Papafa[va], Venturi, Sybil  
 
 **Transcriber's note:** Ink handwriting confirmed in bleed-suppressed image; heavy soft bleed-through in original ignored. 'Mrs. Strong' likely Eugénie Strong.
