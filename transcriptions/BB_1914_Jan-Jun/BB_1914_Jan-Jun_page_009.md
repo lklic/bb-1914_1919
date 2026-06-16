@@ -7,13 +7,13 @@ spread: 5
 page_type: entry
 location: New York
 places:
-  - Vernon
   - Colony Club
 people:
+  - Vernon
   - Hewitt
   - F. Seligmann
   - Robinson
-  - B. G.
+  - B. G. [Belle Greene]
   - Grace[?]
   - Mrs. Pemb. Jones
 ---
@@ -31,14 +31,14 @@ people:
 
 ## January 16 — Friday
 
-> Lunch B. G -
+> Lunch B. G [Belle Greene]-
 > 4.00 Osteopath
 > 4.30 Colony Club .
 > Dine with Grace[?]
-> Dinner B
+> Dinner B [Belle Greene]
 > Mrs. Pemb. Jones 10
 
-**Places:** Vernon, Colony Club  
-**People:** Hewitt, F. Seligmann, Robinson, B. G., Grace[?], Mrs. Pemb. Jones  
+**Places:** Colony Club  
+**People:** Vernon, Hewitt, F. Seligmann, Robinson, B. G. [Belle Greene], Grace[?], Mrs. Pemb. Jones  
 
-**Transcriber's note:** Day headers and handwriting confirmed in bleed-suppressed image. An ink blot sits over the start of the 'F. Seligmann' line. An under-leaf is visible at the left edge ('Jan...') but is not part of this spread.
+**Transcriber's note:** Veron [Lee], Day headers and handwriting confirmed in bleed-suppressed image. An ink blot sits over the start of the 'F. Seligmann' line. An under-leaf is visible at the left edge ('Jan...') but is not part of this spread.
