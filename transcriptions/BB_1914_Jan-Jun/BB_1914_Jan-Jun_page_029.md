@@ -10,7 +10,7 @@ places:
   - Northampton
   - Baltimore
 people:
-  - Belle[?]
+  - Belle [Greene]
   - Agnes
 ---
 
@@ -31,6 +31,6 @@ people:
 > Baltimore
 
 **Places:** Northampton, Baltimore  
-**People:** Belle[?], Agnes  
+**People:** Belle [Greene], Agnes
 
 **Transcriber's note:** Pencil/ink. 'Dina Bulle' uncertain. Much faint bluish/mirror-reversed bleed-through ignored; suppressed image confirms only these lines as real.
