@@ -9,9 +9,8 @@ location: Florence
 people:
   - Mrs. Strong
   - Loie[?]
-  - Nello
+  - Nello[?]
   - Mc Clellan
-  - Florence[?]
   - Lubbock
   - Countess Serristori
 ---
@@ -23,8 +22,8 @@ people:
 ## June 12 — Friday
 
 > Mrs. Strong
-> Loie[?] & Nello tea
-> Mc Clellan, Florence[?]
+> Zoe[?] & Nello[?] tea
+> McClellan, Florence
 > & Lubbock to dine
 
 ## June 13 — Saturday
@@ -33,6 +32,6 @@ people:
 > Countess Serri-
 > tori to tea
 
-**People:** Mrs. Strong, Loie[?], Nello, Mc Clellan, Florence[?], Lubbock, Countess Serristori  
+**People:** Mrs. Strong, Zoe[?], Nello[?], Mc Clellan, Lubbock, Countess Serristori  
 
 **Transcriber's note:** Both days note Mrs. Strong. Surnames uncertain; 'Loie' and 'Florence' uncertain readings. Faint bleed-through ignored.
