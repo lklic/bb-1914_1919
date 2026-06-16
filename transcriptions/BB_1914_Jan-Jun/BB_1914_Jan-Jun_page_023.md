@@ -6,6 +6,8 @@ side: left
 spread: 12
 page_type: entry
 location: New York
+places:
+  - Century [Club]
 people:
   - Chapman
   - Century
@@ -38,6 +40,7 @@ people:
 > 41 East[?] 65 [illegible]
 > Robert Johnston[?]
 
-**People:** Chapman, Century, Miss Bryce, Cox, Mrs. Lanier, Mrs. Sloane, Robert Johnston[?]  
+**Places:** Century [Club]
+**People:** Chapman, Miss Bryce, Cox, Mrs. Lanier, Mrs. Sloane, Robert Johnston[?]  
 
-**Transcriber's note:** Pencil and ink appointments with times; several names uncertain. Bottom two lines faint pencil. Heavy soft bleed-through in original ignored; suppressed image confirms only the dark cursive lines transcribed.
+**Transcriber's note:** [John Jay] Chapman, 1862-1933 (American essayist and poet); [Kenyon] Cox, 1856-1919 (American painter).Pencil and ink appointments with times; several names uncertain. Bottom two lines faint pencil. Heavy soft bleed-through in original ignored; suppressed image confirms only the dark cursive lines transcribed.
