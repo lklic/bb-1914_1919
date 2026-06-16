@@ -34,4 +34,4 @@ people:
 **Places:** Baltimore  
 **People:** Jacobs[?], Cary[?], Thomas  
 
-**Transcriber's note:** Pencil. 'Jacobs' struck through on March 3. 'Cary' uncertain. Bleed-through ignored.
+**Transcriber's note:** [Martha Carey] Thomas, 1857-1935 (American educator and college president, cousin of MB). Pencil. 'Jacobs' struck through on March 3. 'Cary' uncertain. Bleed-through ignored.
