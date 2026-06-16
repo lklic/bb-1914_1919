@@ -28,4 +28,4 @@ people:
 **Places:** Detroit  
 **People:** Freer  
 
-**Transcriber's note:** Travels by train to Detroit on the 20th; on the 21st sees Freer (Charles Lang Freer, the collector). Faint reversed bleed-through ignored.
+**Transcriber's note:** [Charles Lang] Freer, 1854-1919 (American art collector and founder of Freer Gallery of Art, Washington, D.C). Travels by train to Detroit on the 20th; on the 21st sees Freer (Charles Lang Freer, the collector). Faint reversed bleed-through ignored.
