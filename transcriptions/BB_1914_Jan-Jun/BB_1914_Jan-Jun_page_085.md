@@ -8,10 +8,11 @@ page_type: entry
 location: Modena
 places:
   - Boscolungo
+  - Parma
   - Modena
 people:
-  - Miss Laud[?]
-  - Mrs. Story[?]
+  - Miss Sands[?]
+  - Mrs. Strong
 ---
 
 # BB_1914_Jan-Jun — page 85 (left)
@@ -20,9 +21,9 @@ people:
 
 ## June 20 — Saturday
 
-> Miss Laud[?]
-> & Mrs. Story[?]
-> Laud[?]
+> Miss Sands[?]
+> & Mrs. Strong
+> leave
 
 ## June 21 — Sunday
 
@@ -30,10 +31,9 @@ people:
 
 > We leave via
 > Boscolungo
-> Pargia[?]
-> sleep Modena[?]
+> sleep Parma ~~Modena~~
 
-**Places:** Boscolungo, Modena  
-**People:** Miss Laud[?], Mrs. Story[?]  
+**Places:** Boscolungo, Parma, Modena  
+**People:** Miss Sands[?], Mrs. Strong  
 
 **Transcriber's note:** Handwriting in pencil, partly obscured by bleed-through. Names on June 20 uncertain. June 21 records leaving via Boscolungo and sleeping at Modena. 'Pargia' and 'Modena' uncertain.
