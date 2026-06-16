@@ -8,6 +8,8 @@ page_type: entry
 location: New York
 places:
   - New Haven
+people:
+  - Sands[?]
 ---
 
 # BB_1914_Jan-Jun — page 18 (right)
@@ -19,7 +21,7 @@ places:
 *(printed: Septuagesima.)*
 
 > Lunch ?
-> Tea Serada[?] }
+> Tea Sands[?]
 > [illegible struck-through]
 > [illegible struck-through]
 
@@ -29,5 +31,6 @@ places:
 > leave 4.09
 
 **Places:** New Haven  
+**People:** Sands[?]
 
 **Transcriber's note:** Day-entry page. Two lines under Feb 6 are heavily struck through and illegible. Feb 7 records New Haven trip: arrive 10.02, leave 4.09. Heavy bleed-through ignored.
