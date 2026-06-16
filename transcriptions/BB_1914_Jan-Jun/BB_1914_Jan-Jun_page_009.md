@@ -33,7 +33,7 @@ people:
 
 > Lunch B. G [Belle Greene]-
 > 4.00 Osteopath
-> 4.30 Colony Club .
+> 4.30 Colony Club
 > Dine with Grace[?]
 > Dinner B [Belle Greene]
 > Mrs. Pemb. Jones 10
@@ -41,4 +41,4 @@ people:
 **Places:** Colony Club  
 **People:** Vernon, Hewitt, F. Seligmann, Robinson, B. G. [Belle Greene], Grace[?], Mrs. Pemb. Jones  
 
-**Transcriber's note:** Veron [Lee], Day headers and handwriting confirmed in bleed-suppressed image. An ink blot sits over the start of the 'F. Seligmann' line. An under-leaf is visible at the left edge ('Jan...') but is not part of this spread.
+**Transcriber's note:** Vernon [Lee], 1856-1935 (pen name of Violet Paget, English essayist and musicologist). Day headers and handwriting confirmed in bleed-suppressed image. An ink blot sits over the start of the 'F. Seligmann' line. An under-leaf is visible at the left edge ('Jan...') but is not part of this spread.
