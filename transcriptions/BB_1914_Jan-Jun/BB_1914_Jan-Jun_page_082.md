@@ -8,7 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Mrs. Strong
-  - Hutton[?]
+  - Hutton
   - Sybil
 ---
 
@@ -21,7 +21,7 @@ people:
 *(printed: 1st Sunday after Trinity,)*
 
 > Mrs. Strong
-> Hutton[?] luncheon
+> Hutton luncheon
 
 ## June 15 — Monday
 
@@ -30,6 +30,6 @@ people:
 > Mrs. Strong
 > Tea with Sybil
 
-**People:** Mrs. Strong, Hutton[?], Sybil  
+**People:** Mrs. Strong, Hutton, Sybil  
 
 **Transcriber's note:** Mrs. Strong noted each day. 'Hutton' uncertain. Faint bleed-through ignored.
