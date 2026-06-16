@@ -34,4 +34,4 @@ people:
 **Places:** Olympic, Paris  
 **People:** Schlumberger[?], Seligmann  
 
-**Transcriber's note:** April 3: landed off the Olympic at 11 p.m. April 4: reached Paris 5.30 a.m.; Schlumberger and dealer Seligmann named. Printed sub-note under April 3 is a moon-phase line; faint 'Palm Sunday' is bleed-through and ignored.
+**Transcriber's note:** [Gustave] Schlumberg[er], 1844-1929 (French Byzantinist). April 3: landed off the Olympic at 11 p.m. April 4: reached Paris 5.30 a.m.; Schlumberger and dealer Seligmann named. Printed sub-note under April 3 is a moon-phase line; faint 'Palm Sunday' is bleed-through and ignored.
