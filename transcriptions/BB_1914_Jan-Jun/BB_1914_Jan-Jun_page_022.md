@@ -10,8 +10,8 @@ places:
   - Mount Kisco
 people:
   - Eugene Meyer[?]
-  - Balle[?]
-  - Mary
+  - Belle [Greene]
+  - Mary [Berenson]
 ---
 
 # BB_1914_Jan-Jun — page 22 (right)
@@ -24,7 +24,7 @@ people:
 
 > Mount Kisko
 > Eugene Meyer[?]
-> & Balle[?]
+> & Belle [Greene]
 
 ## February 15 — Sunday
 
@@ -32,14 +32,14 @@ people:
 
 > Mount Kisko
 > Eugene
-> Meyer[?] & Balle[?]
-> B engaged[?]
+> Meyer[?] & Belle [Greene]
+> B [Greene] engaged
 
 ### Other writing on page
 
-> Mary at Philadelphia
+> Mary [Berenson] at Philadelphia
 
 **Places:** Mount Kisco  
-**People:** Eugene Meyer[?], Balle[?], Mary  
+**People:** Eugene Meyer[?], Belle, Mary [Berenson]
 
-**Transcriber's note:** Bleed-through in original confirmed against bleed-suppressed image. 'Mary at philadelphia' is written vertically up the right margin. 'Mount Kisko' = Mount Kisco, NY. Names Eugene Meyer and Balle uncertain.
+**Transcriber's note:** Eugene Meyer[?] 1875-1959, American lawyer. Bleed-through in original confirmed against bleed-suppressed image. 'Mary at philadelphia' is written vertically up the right margin. 'Mount Kisko' = Mount Kisco, NY. Names Eugene Meyer and Balle uncertain.
