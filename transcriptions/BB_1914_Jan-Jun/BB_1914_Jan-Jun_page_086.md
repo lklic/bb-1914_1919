@@ -7,8 +7,10 @@ spread: 43
 page_type: entry
 location: Modena
 places:
+  - Parma
+  - Corsa[?] Bianca
   - Torrechiara
-  - S. Donnino
+  - S. Domenico
   - Castell'Arquato
   - Cortemaggiore
   - Cremona
@@ -23,9 +25,9 @@ places:
 
 *(printed: Coronation Day.)*
 
-> Palme[?] Egou[?]
-> Branca. Torrechiara
-> S. Donnino. Cosul[?]
+> Parma Corsa[?]
+> Bianca. Torrechiara
+> S. Domenico. Castell'
 > Arquato, Corte
 > Maggiore. Cremona
 > Hotel Roma
@@ -37,6 +39,6 @@ places:
 > Cremona, Pia-
 > cenza
 
-**Places:** Torrechiara, S. Donnino, Castell'Arquato, Cortemaggiore, Cremona, Piacenza  
+**Places:** Parma, Corso[?] Bianca, Torrechiara, S. Dominico, Castell'Arquato, Cortemaggiore, Cremona, Piacenza  
 
 **Transcriber's note:** June 22 lists a travel itinerary through Emilia: Torrechiara, San Donnino (Fidenza), Castell'Arquato, Cortemaggiore, Cremona, ending at Hotel Roma. June 23 at Cremona and Piacenza. Some place names uncertain (Palme Egou, Branca, Cosul).
