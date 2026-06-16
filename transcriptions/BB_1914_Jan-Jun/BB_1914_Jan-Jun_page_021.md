@@ -36,4 +36,4 @@ people:
 
 **People:** Mrs. Lucy, Lilia, B. G. [Belle Greene], Maynard[?], Mrs. Carpenter, Guinness, Simon Lexner
 
-**Transcriber's note:** Heavy bleed-through ghosts in original; handwriting confirmed in bleed-suppressed image. The line between Guinness and Bengaqu under Feb 13 is struck through and illegible. B.G. is an abbreviation.
+**Transcriber's note:** Simon Lexner, 1863-1946 (American physician and professor). Heavy bleed-through ghosts in original; handwriting confirmed in bleed-suppressed image. The line between Guinness and Bengaqu under Feb 13 is struck through and illegible. B.G. is an abbreviation.
