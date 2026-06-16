@@ -7,7 +7,8 @@ spread: 10
 page_type: entry
 location: New York
 people:
-  - Miss Boyce
+  - Minturn[?]
+  - Miss Bryce
   - A. Johnson[?]
   - Harding[?]
 ---
@@ -20,7 +21,7 @@ people:
 
 *(printed: O 5h. 35m., aft.)*
 
-> 1.30 [illegible]
+> 1.30 Minturn[?]
 > Miss Boyce 5 p.m.
 > Dine U. Johnson[?]
 
@@ -28,6 +29,6 @@ people:
 
 > Harding[?] 8
 
-**People:** Miss Boyce, U. Johnson[?], Harding[?]
+**People:** Minturn[?], Miss Bryce, U. Johnson[?], Harding[?]
 
-**Transcriber's note:** Pencil and ink, very faint with strong bleed-through. Feb 11 has only a single sweeping dark scrawl near the bottom confirmed in the bleed-suppressed image (signature-like, illegible); the soft midpage lines are bleed-through and omitted.
+**Transcriber's note:** [Robert] U. [Underwood] Johnson[?], 1853-1937 (American poet, editor, philanthropist, and diplomat). Pencil and ink, very faint with strong bleed-through. Feb 11 has only a single sweeping dark scrawl near the bottom confirmed in the bleed-suppressed image (signature-like, illegible); the soft midpage lines are bleed-through and omitted.
