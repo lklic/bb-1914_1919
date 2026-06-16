@@ -11,7 +11,7 @@ places:
   - 1731 I St.
 people:
   - Slater
-  - H. Adams
+  - H. [Henry] Adams
 ---
 
 # BB_1914_Jan-Jun — page 33 (left)
@@ -28,9 +28,9 @@ people:
 
 ## March 9 — Monday
 
-> Lunch H. Adams
+> Lunch H. [Henry] Adams
 
 **Places:** Washington, 1731 I St.  
-**People:** Slater, H. Adams  
+**People:** Slater, H. [Henry] Adams  
 
 **Transcriber's note:** In Washington. Soft bleed-through across middle/lower page in original; ignored, only dark strokes transcribed. 'Slater 1731 I St.' appears to be an address; third line uncertain (possibly 'Dine W. music').
