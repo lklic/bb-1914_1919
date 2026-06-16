@@ -9,7 +9,7 @@ location: Mount Kisco
 people:
   - Mrs. Lucy
   - Lilia
-  - B. G.
+  - B. G. [Belle Greene]
   - Maynard[?]
   - Mrs. Carpenter
   - Guinness
@@ -24,7 +24,7 @@ people:
 
 > 1.30 Mrs. Lucy
 > Lilia 5 p.m.
-> B. G. : 7.30
+> B. G. [Belle Greene]: 7.30
 
 ## February 13 — Friday
 
@@ -32,8 +32,8 @@ people:
 > Mrs. Carpenter 5 p.m.
 > 8.30 Guinness
 > ~~Simon Lexner~~
-> ~~B engaged~~
+> ~~B [Belle Greene] engaged~~
 
-**People:** Mrs. Lucy, Lilia, B. G., Maynard[?], Mrs. Carpenter, Guinness, Simon Lexner
+**People:** Mrs. Lucy, Lilia, B. G. [Belle Greene], Maynard[?], Mrs. Carpenter, Guinness, Simon Lexner
 
 **Transcriber's note:** Heavy bleed-through ghosts in original; handwriting confirmed in bleed-suppressed image. The line between Guinness and Bengaqu under Feb 13 is struck through and illegible. B.G. is an abbreviation.
