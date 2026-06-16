@@ -36,4 +36,4 @@ people:
 **Places:** 37 Park Ave.  
 **People:** Mrs. C. Jones[?], Mrs. Scott, Mrs. Markoe[?]  
 
-**Transcriber's note:** Pencil and ink. Heavy bleed-through in original; transcribed only strokes confirmed dark in bleed-suppressed image. First line of Feb 9 is struck through / scribbled out and largely illegible. Park Ave. address suggests New York.
+**Transcriber's note:** Mrs. [Mary] C. [Cadwalader] Jones[?], 1850-1935 (sister-in-law of E. Wharton). Pencil and ink. Heavy bleed-through in original; transcribed only strokes confirmed dark in bleed-suppressed image. First line of Feb 9 is struck through / scribbled out and largely illegible. Park Ave. address suggests New York.
