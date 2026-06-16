@@ -7,6 +7,7 @@ spread: 9
 page_type: entry
 location: New York
 people:
+  - B. G. [Belle Greene]
   - Miss Thursby[?]
   - B. Fletcher[?]
   - Dogherty[?]
@@ -19,16 +20,16 @@ people:
 
 ## February 4 — Wednesday
 
-> Tea B. G.
+> Tea B. G. [Belle Greene]
 > Dine Miss Thursby[?]
 
 ## February 5 — Thursday
 
 > 1 Jay B. Fletcher
-> Crawhurst[?]
+> [illegible]
 > p. m. Dogherty[?]
 > Dine H. E. Field
 
-**People:** Miss Thursby[?], B. Fletcher[?], Dogherty[?], H. L. Field  
+**People:** B. G. [Belle Greene], Miss Thursby[?], Jay B. Fletcher[?], Dogherty[?], H. L. Field  
 
 **Transcriber's note:** Day-entry page. Heavy bleed-through (faint blue-gray ghosts) present in original is absent in bleed-suppressed image and ignored. B. G. likely initialed acquaintance. Several names uncertain due to overlapping show-through and rapid hand.
