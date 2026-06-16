@@ -28,4 +28,4 @@ people:
 
 **People:** Freer  
 
-**Transcriber's note:** Both days note Freer. Printed liturgical sub-notes present (Quinquagesima; Ash Wednesday). Faint mirror-reversed bleed-through ignored.
+**Transcriber's note:** [Charles Lang] Freer, 1854-1919 (American art collector and founder of Freer Gallery of Art, Washington, D.C). Both days note Freer. Printed liturgical sub-notes present (Quinquagesima; Ash Wednesday). Faint mirror-reversed bleed-through ignored.
