@@ -9,7 +9,7 @@ location: New York
 people:
   - Lehmann[?]
   - Mrs. Lilley[?]
-  - B
+  - B. G. [Belle Greene]
 ---
 
 # BB_1914_Jan-Jun — page 10 (right)
@@ -20,7 +20,7 @@ people:
 
 *(printed: 0h. 30m. morn.)*
 
-> 7.30 8.G
+> 7.30 B.G. [Belle Greene]
 
 ## January 18 — Sunday
 
@@ -30,6 +30,6 @@ people:
 > Dine Mrs. Lilley[?]
 > Dinner B
 
-**People:** Lehmann[?], Mrs. Lilley[?], B  
+**People:** Lehmann[?], Mrs. Lilley[?], B. G. 
 
 **Transcriber's note:** Heavy soft bleed-through across the Jan 17 section in the original photo; the bleed-suppressed image confirms only '7.30 8.G' as real ink under that header. The two faint lines above it are bleed-through and are NOT transcribed. Sunday lines confirmed real.
