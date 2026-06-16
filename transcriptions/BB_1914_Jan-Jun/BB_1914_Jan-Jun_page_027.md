@@ -9,7 +9,7 @@ location: Northampton
 people:
   - Miss Sands[?]
   - Mrs. Van Rensaller[?]
-  - B
+  - B [Belle Greene]
   - Mrs. Griswold
   - Bryce[?]
 ---
@@ -24,7 +24,7 @@ people:
 
 > Miss Sands[?]
 > Mrs. Van Rensaller[?]
-> B engaged[?]
+> B [Belle Greene] engaged
 
 ## February 25 — Wednesday
 
@@ -35,4 +35,4 @@ people:
 
 **People:** Miss Sands[?], Mrs. Van Rensaller[?], B, Mrs. Griswold, Bryce[?]  
 
-**Transcriber's note:** Two day entries. Names uncertain; 'Van Rensaller' likely Van Rensselaer. '(B engaged' beneath. Faint bleed-through ignored.
+**Transcriber's note:** Mrs. Van Rensaller[?] may be a mispelling of "Van Renssellaer," a prominent New York family. Two day entries. Names uncertain; 'Van Rensaller' likely Van Rensselaer. '(B engaged' beneath. Faint bleed-through ignored.
