@@ -34,4 +34,4 @@ people:
 **Places:** Olympic, 21 Quai de Bourbon  
 **People:** Mrs Hewitt[?], Tyler, de Cossé  
 
-**Transcriber's note:** [Countess Charlotte de] Cossé[-Brissac], 1865-1957. April 1 second line struck through with a horizontal line. April 2 lines crossed through with a large X. Bluish bleed-through behind text, ignored.
+**Transcriber's note:** [Royall] Tyler, 1884-1953 (American writer and art collector); [Countess Charlotte de] Cossé[-Brissac], 1865-1957. April 1 second line struck through with a horizontal line. April 2 lines crossed through with a large X. Bluish bleed-through behind text, ignored.
