@@ -10,7 +10,7 @@ places:
   - Bryn Mawr
 people:
   - Lanier
-  - Belle
+  - Belle [Greene]
 ---
 
 # BB_1914_Jan-Jun — page 39 (left)
@@ -24,9 +24,9 @@ people:
 ## March 21 — Saturday
 
 > Tea Lanier
-> Dine Belle
+> Dine Belle [Greene]
 
 **Places:** Bryn Mawr  
-**People:** Lanier, Belle 
+**People:** Lanier, Belle [Greene]
 
 **Transcriber's note:** March 20: 'Bryn Mawr'. March 21: tea with Lanier, dine Battle[?]. Considerable mirror-reversed bleed-through in original ignored; handwriting confirmed by bleed-suppressed image.
