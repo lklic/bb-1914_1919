@@ -11,7 +11,7 @@ places:
   - Villa Sylvia[?]
 people:
   - Mrs. Lodge
-  - Rub[?]eu[?]
+  - Bibesco[?]
   - Lydig[?]
 ---
 
@@ -23,7 +23,7 @@ people:
 
 > 12.30 : Mrs. Lodge 55
 > Ave. Marceau
-> 4 Rub[?]eu[?]
+> 4 Bibesco[?]
 > 5.30 Lydig[?]
 
 ## April 12 — Sunday
@@ -33,6 +33,6 @@ people:
 > Villa Sylvia[?]
 
 **Places:** 55 Ave. Marceau, Villa Sylvia[?]  
-**People:** Mrs. Lodge, Rub[?]eu[?], Lydig[?]
+**People:** Mrs. Lodge, Bibesco[?], Lydig[?]
 
 **Transcriber's note:** April 11: 12.30 appointment with Mrs. Lodge at 55 Avenue Marceau (Paris), plus uncertain pencil times 4 and 5.30. The printed line under April 11 header reads mirror-reversed ('Easter Monday (Bank Holiday)') and is bleed-through from the facing page, not this day's note. April 12 (Easter) reads 'Villa Sylvia'. Heavy mirror bleed-through pencil at lower half ignored.
