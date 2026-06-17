@@ -34,4 +34,4 @@ people:
 **Places:** Maison Lafitte  
 **People:** Tyler, de Cossé[?]  
 
-**Transcriber's note:** April 9 lists names Tyler and La Cossé. April 10 (Good Friday) mentions Maison Lafitte; last two lines uncertain pencil. Faint blue bleed-through across the page (suppressed in clean image) ignored.
+**Transcriber's note:** [Royall] Tyler, 1884-1953 (American writer and art collector); [Countess Charlotte de] Cossé[-Brissac], 1865-1957; April 9 lists names Tyler and La Cossé. April 10 (Good Friday) mentions Maison Lafitte; last two lines uncertain pencil. Faint blue bleed-through across the page (suppressed in clean image) ignored.
