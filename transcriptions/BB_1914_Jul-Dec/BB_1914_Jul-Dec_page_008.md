@@ -9,7 +9,7 @@ location: London
 places:
   - 39 Brook St.
   - 18 Grosvenor Sq.
-  - Palace Court
+  - 9 Kensington Palace Garden
   - 46 Grosvenor Street
 people:
   - Crawshay
@@ -17,6 +17,7 @@ people:
   - Mrs. Astor
   - C. P.
   - Lady Lewis
+  - Offenbrenner[?]
 ---
 
 # BB_1914_Jul-Dec — page 8 (right)
@@ -28,8 +29,8 @@ people:
 > 1.30 Crawshay
 > 5.15. 39 Brook St.
 > 4.30. Leonie[?]
-> Offaulkrener[?], 9 Key[?]
-> Singfore[?] Palace Court[?]
+> Offenbrenner[?], 9 Ken-
+> sington Palace Garden
 
 ## July 17 — Friday
 
@@ -37,12 +38,12 @@ people:
 
 > 18 Grosvenor Sq.
 > 1.30 Mrs. Astor[?]
-> 5 C. P. coming to tea
+> 5 C. P. come to tea
 > Lady Lewis 8.30
-> 10.30 Spfger[?] 46 Gros-
+> 10.30 Speyer 46 Gros-
 > venor Street[?]
 
-**Places:** 39 Brook St., 18 Grosvenor Sq., Palace Court, 46 Grosvenor Street  
-**People:** Crawshay, Leonie, Mrs. Astor, C. P., Lady Lewis  
+**Places:** 39 Brook St., 18 Grosvenor Sq., 9 Kensington Palace Garden, 46 Grosvenor Street  
+**People:** Crawshay, Leonie, Mrs. Astor, C. P., Lady Lewis, Offenbrenner[?]
 
 **Transcriber's note:** London entries. Heavy blue/grey bleed-through swirls fill the original; ignored. Real pencil strokes confirmed in bleed-suppressed image. Several names/places uncertain.
