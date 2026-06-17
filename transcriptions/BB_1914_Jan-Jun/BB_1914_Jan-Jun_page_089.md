@@ -12,6 +12,7 @@ people:
   - Bassiano
   - Reinach
   - Lisa[?]
+  - St. Andé[?] 
 ---
 
 # BB_1914_Jan-Jun — page 89 (left)
@@ -28,12 +29,12 @@ people:
 
 ## June 29 — Monday
 
-> 11 Lisa[?] x
-> [illegible]
+> 11 Lisa[?] &
+> lunch
 > Cercle de l'Union[?]
-> 8.15 Ch. Audi[?]
+> 8.15 St. Andé
 
 **Places:** Cercle de l'Union[?]  
-**People:** Bassiano, Reinach, Lisa[?]  
+**People:** Bassiano, Reinach, Lisa[?], St. Andé[?] 
 
-**Transcriber's note:** Pencil/ink. June 28 names fairly clear (Bassiano, Reinach); middle word uncertain. June 29 lower lines faint and partly obscured; 'Cercle de l'Union' and evening 8.15 appointment uncertain. Faint bleed-through in original washed out in suppressed image.
+**Transcriber's note:** Bassiano could refer to a member of the Borghese family, whose title was Bassiano. Pencil/ink. June 28 names fairly clear (Bassiano, Reinach); middle word uncertain. June 29 lower lines faint and partly obscured; 'Cercle de l'Union' and evening 8.15 appointment uncertain. Faint bleed-through in original washed out in suppressed image.
