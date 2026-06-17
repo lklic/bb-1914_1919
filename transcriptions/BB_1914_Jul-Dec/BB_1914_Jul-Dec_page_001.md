@@ -7,7 +7,7 @@ spread: 1
 page_type: entry
 location: Paris
 places:
-  - 5 Rue Montalembert[?]
+  - 5 Rue Montalivet[?]
 people:
   - Mme. de Brigode[?]
   - Henry Adams
@@ -23,19 +23,19 @@ people:
 ## July 2 — Thursday
 
 > 12.45
-> [illegible] at 1 o'clock
+> lunch at 1 o'clock
 > Mme. de Brigode[?]
-> 5 Rue Montalembert[?]
-> 3.45 Mme. de B[illegible]
+> 5 Rue Montalivet[?]
+> 3.45 Mme. de Ludres
 > Henry Adams
 
 ## July 3 — Friday
 
 > 12.30 Chavannes[?]
-> of Lillie[?]
+> 4 Lillie[?]
 > Mme. de Ludre
 
-**Places:** 5 Rue Montalembert[?]  
+**Places:** 5 Rue Montalivet[?]  
 **People:** Mme. de Brigode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre  
 
 **Transcriber's note:** Paris appointments. Heavy grey/blue bleed-through across both day blocks; only dark strokes confirmed in the bleed-suppressed image transcribed. The 3.45 line is partly struck through. Several names uncertain.
