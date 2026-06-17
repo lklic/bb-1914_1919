@@ -10,6 +10,8 @@ places:
   - 32 Dover St.
   - opera
 people:
+  - Leonie[?]
+  - Trevy[?]
   - Mary Crawshay
   - Mrs. Otto Kahn
   - Sybil
@@ -23,7 +25,7 @@ people:
 
 *(printed: 5th Sunday after Trinity.)*
 
-> 2:45 Lronie[?] 317
+> 2:45 Leonie[?] 317
 > 32 Dover St.
 > 3 p.m. Mary Crawshay
 > Mrs. Otto Kahn
@@ -32,11 +34,11 @@ people:
 
 *(printed: 7h. 32m., morn.)*
 
-> 1.30 Trky[?] lunches
+> 1.30 Trevy[?] lunches
 > with me
 > Sybil, opera
 
 **Places:** 32 Dover St., opera  
-**People:** Mary Crawshay, Mrs. Otto Kahn, Sybil  
+**People:** Leonie[?], Mary Crawshay, Trevy[?], Mrs. Otto Kahn, Sybil  
 
-**Transcriber's note:** London entries. Handwriting confirmed in bleed-suppressed image. Faint mirror-reversed printed sub-note bleeds under July 14 header. '2:45 Lronie 317' and 'Trky' uncertain.
+**Transcriber's note:** Leonie[?] may refer to Léonie Leslie, d. 1943 (mother of Shane Leslie, with record of correspondence with BB in 1910). London entries. Handwriting confirmed in bleed-suppressed image. Faint mirror-reversed printed sub-note bleeds under July 14 header. '2:45 Lronie 317' and 'Trky' uncertain.
