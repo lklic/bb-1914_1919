@@ -7,13 +7,13 @@ spread: 2
 page_type: entry
 location: Paris
 places:
-  - 74 Ave. Malakoff
-  - Palace
-  - Palais Dombre[?]
+  - 44 Ave. Malakoff
+  - 2 Place. Palais Bourbon[?]
 people:
   - Durrieu[?]
   - Mrs. Cameron
-  - Mme de Cossé[?]
+  - Mme de Cossé
+  - Castellane[?]
 ---
 
 # BB_1914_Jul-Dec — page 3 (left)
@@ -22,8 +22,8 @@ people:
 
 ## July 6 — Monday
 
-> 10.30 Palace [struck through]
-> 12. 74 Ave. Malakoff
+> ~~10.30 Paolini~~
+> 12. 44 Ave. Malakoff
 > Durrieu[?]
 > Dine Mrs. Cameron
 
@@ -31,12 +31,12 @@ people:
 
 *(printed: O 2h. 0m., aft.)*
 
-> Mme de Cossé[?]
+> Mme de Cossé
 > 5. 45 [illegible]
-> 8.30 Carfallant[?]
-> 2 Palace. Palais Dombre[?]
+> 8.30 Castellane[?]
+> 2 Place. Palais Bourbon[?]
 
-**Places:** 74 Ave. Malakoff, Palace, Palais Dombre[?]  
-**People:** Durrieu[?], Mrs. Cameron, Mme de Cossé[?]  
+**Places:** 44 Ave. Malakoff, 2 Place. Palais Bourbon[?]  
+**People:** Paolini, Durrieu[?], Mrs. Cameron, Mme de Cossé, Castellane[?]
 
-**Transcriber's note:** First hand line on July 6 (10.30 Palace) is struck through. Several words uncertain (pencil cursive). Heavy bleed-through ignored; all transcribed lines confirmed in bleed-suppressed image. Likely Paris (Ave. Malakoff).
+**Transcriber's note:** [Paul] Durrieu, 1855-1925 (French art historian); [Boni de] Castellane[?], 1867-1932 (French politician and art collector). First hand line on July 6 (10.30 Palace) is struck through. Several words uncertain (pencil cursive). Heavy bleed-through ignored; all transcribed lines confirmed in bleed-suppressed image. Likely Paris (Ave. Malakoff).
