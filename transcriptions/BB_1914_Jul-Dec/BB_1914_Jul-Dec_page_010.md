@@ -7,8 +7,10 @@ spread: 5
 page_type: entry
 location: London
 places:
-  - South Street
-  - Hamilton[?]
+  - 16 South Street
+  - 20a Manchester
+  - Tring[?]
+  - 12 Catherine St.
 people:
   - Mrs. Joshua
   - Algar
@@ -22,20 +24,20 @@ people:
 ## July 20 — Monday
 
 > Mrs. Joshua
-> 29a Hamilton[?] [illegible]
-> [illegible, struck through]
-> Troy[?] ah 6.30
+> 20a Manchester[?]
+> ~~Lady Cunard[?]~~
+> Tring[?] at 6.30
 
 ## July 21 — Tuesday
 
-> 11.16 South Street[?]
-> 1.30 De King or[?]
-> with ma.
+> 11. 16 South Street[?]
+> 1.30 Dickinson[?]
+> with me
 > Algar & Theresa
-> 8.15/12 Catherine[?]
-> S.N.
+> 8.15 12 Catherine
+> St.
 
-**Places:** South Street, Hamilton[?]  
-**People:** Mrs. Joshua, Algar, Theresa  
+**Places:** 16 South Street, 20a Manchester, Tring[?], 12 Catherine St.
+**People:** Mrs. Joshua, Lady Cunard, Dickinson[?], Algar, Theresa  
 
-**Transcriber's note:** London appointments continue. One line under 'Mrs. Joshua' is struck through. Bleed-through suppressed in clean image; addresses and several names uncertain.
+**Transcriber's note:** Lady [Maud Alice Burke] Cunard, 1872-1948 (hostess and patron of the arts, mother of Nancy Cunard); Tring[?] could refer to Tring Park, Herfordshire, the manor of Lionel Walter Rothschild, 1868-1937; [G. Lowes] Dickinson, 1862-1932 (English humanist, historian, and philosopher); Algar [Labouchere Thorold], 1853-1936 (English writer); Theresa [Mary Thorold], 1871-1944 (wife of Algar Thorold).  London appointments continue. One line under 'Mrs. Joshua' is struck through. Bleed-through suppressed in clean image; addresses and several names uncertain.
