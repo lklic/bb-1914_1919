@@ -5,17 +5,16 @@ page: 22
 side: right
 spread: 11
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
+  - Ford [Place]
   - Chichester
   - Bosham
-people:
-  - Ford
 ---
 
 # BB_1914_Jul-Dec — page 22 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## August 21 — Friday
 
@@ -29,7 +28,6 @@ people:
 > Chichester
 > Bosham
 
-**Places:** Chichester, Bosham  
-**People:** Ford  
+**Places:** Ford [Place], Chichester, Bosham   
 
 **Transcriber's note:** Aug 22: Chichester and Bosham (travel/sights). Heavy bleed-through across both days, ignored; only dark strokes confirmed in the bleed-suppressed image transcribed.
