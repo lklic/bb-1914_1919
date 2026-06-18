@@ -5,40 +5,39 @@ page: 30
 side: right
 spread: 15
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
   - Ford
   - Arundel Park
   - London
 people:
   - Clausen[?]
-  - Percy
-  - Feilding
+  - Percy Fielding
   - Keynes
 ---
 
 # BB_1914_Jul-Dec — page 30 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## September 6 — Sunday
 
 *(printed: 13th Sunday after Trinity.)*
 
 > Ford
-> Clausen[?] . Florence[?]
-> to[?] . Persian Garden[?]
+> Clouston[?] . Flowers[?]
+> fr.[?] Persian Garden
 > Arundel Park
 
 ## September 7 — Monday
 
-> Ford . Tickner[?]
-> Birrell[?] + Percy
-> Feilding.
+> Ford . Terence[?]
+> Birde[?] + Percy
+> Fielding.
 > London
 > Keynes[?] dinner[?]
 
 **Places:** Ford, Arundel Park, London  
-**People:** Clausen[?], Percy, Feilding, Keynes  
+**People:** Clouston[?], Percy Fielding, Terence[?] Birde[?], Keynes  
 
-**Transcriber's note:** Ink/pencil mix. Heavy bleed-through suppressed. Several names very uncertain: 'Clausen Florence', 'Tickner', 'Birrell', 'Keynes dinner'. Arundel Park (Sussex) clear.
+**Transcriber's note:** [William Alexander] Clouston, 1843-1896 (author of "Flowers from a Persian Garden, and Other Papers" (publ. 1890)); Percy Fielding, 1878-1948 (British art critic, collector, and painter); [John Maynard] Keynes, 1883-1946 (British economist). Ink/pencil mix. Heavy bleed-through suppressed. Several names very uncertain: 'Clausen Florence', 'Tickner', 'Birrell', 'Keynes dinner'. Arundel Park (Sussex) clear.
