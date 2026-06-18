@@ -7,10 +7,10 @@ spread: 11
 page_type: entry
 location: Ford
 places:
+  - Ford [Place]
   - Buckhurst
 people:
-  - Ford
-  - Harris[?]
+  - Henri[?]
   - the Bensons
 ---
 
@@ -21,7 +21,7 @@ people:
 ## August 19 — Wednesday
 
 > Ford
-> Harris[?] leaves
+> Henri[?] leaves
 > Buckhurst
 
 ## August 20 — Thursday
@@ -31,7 +31,7 @@ people:
 > Buckhurst
 > (the Bensons)
 
-**Places:** Buckhurst  
-**People:** Ford, Harris[?], the Bensons  
+**Places:** Ford [Place], Buckhurst 
+**People:** Henri[?], the Bensons  
 
-**Transcriber's note:** At Buckhurst. Aug 19: Ford; Harris[?] leaves. Aug 20: at Buckhurst with the Bensons. Heavy bluish bleed-through ghosts across both days; only dark strokes confirmed in the bleed-suppressed image transcribed. Faint 'Rain'-like mark at bottom of original is bleed-through, ignored.
+**Transcriber's note:** [Robert Henry] Benson, 1850-1929 (English financier and art collector; father of Sir Rex Lindsay Benson)At Buckhurst. Aug 19: Ford; Harris[?] leaves. Aug 20: at Buckhurst with the Bensons. Heavy bluish bleed-through ghosts across both days; only dark strokes confirmed in the bleed-suppressed image transcribed. Faint 'Rain'-like mark at bottom of original is bleed-through, ignored.
