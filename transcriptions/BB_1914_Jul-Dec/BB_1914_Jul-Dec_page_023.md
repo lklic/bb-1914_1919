@@ -6,25 +6,29 @@ side: left
 spread: 12
 page_type: entry
 location: Ford
+places:
+  - Ford [Place]
 people:
-  - Ford
+  - "Trevy"
+  - "Tovey"[?]
 ---
 
 # BB_1914_Jul-Dec — page 23 (left)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## August 23 — Sunday
 
 *(printed: 11th Sunday after Trinity.)*
 
-> Ford boat[?]
+> Ford
 
 ## August 24 — Monday
 
-> Ford boat[?]
-> Vico[?] & Továy[?]
+> Ford
+> "Trevy" & "Tovey"[?]
 
-**People:** Ford  
+**Places:** Ford [Place]  
+**People:** "Trevy", "Tovey"[?]
 
-**Transcriber's note:** Pencil. Heavy soft bleed-through under both entries in original is suppressed in clean image and ignored. Second line of Aug 24 very uncertain. 'Ford boat' recurs each day.
+**Transcriber's note:** "Trevy" likely refers to Robert Calverey Trevelyan, 1872-1951 (English poet); "Tovey" likely refers to [Sir Donald Francis] Tovey, 1875-1940 (English composer). Pencil. Heavy soft bleed-through under both entries in original is suppressed in clean image and ignored. Second line of Aug 24 very uncertain. 'Ford boat' recurs each day.
