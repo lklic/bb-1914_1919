@@ -5,7 +5,7 @@ page: 19
 side: left
 spread: 10
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
   - Ford [Place]
 people:
@@ -14,7 +14,7 @@ people:
 
 # BB_1914_Jul-Dec — page 19 (left)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## August 11 — Tuesday
 
