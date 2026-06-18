@@ -35,9 +35,9 @@ people:
 
 > Ridgeleywich[?] Shel-
 > ley
-> Lady Ripon[?]
-> lunch
-> Speyer[?] & Lucy
+> ~~Lady Ripon[?]~~
+> ~~lunch~~
+> ~~Speyer[?] & Lucy~~
 > St. Pancras
 > 4.15 for Elstree[?]
 
