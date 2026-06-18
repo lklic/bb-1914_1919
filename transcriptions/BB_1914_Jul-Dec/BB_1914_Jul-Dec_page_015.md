@@ -10,10 +10,13 @@ places:
   - 118 Belgrave Road
   - Ford Place
 people:
-  - Bunyou[?]
-  - Sybil[?]
-  - Grace Lozane[?]
-  - Mrs. Karu[?]
+  - Cre[?]
+  - Binyon[?]
+  - Sybil
+  - Grace
+  - Logan
+  - Alys
+  - Karin
 ---
 
 # BB_1914_Jul-Dec — page 15 (left)
@@ -24,18 +27,18 @@ people:
 
 *(printed: Goodwood Cup.)*
 
-> Cra[?] 1.30. ??
-> Bunyou[?] 118 Bel-
+> Cre[?] 1.30. ??
+> Binyon[?] 118 Bel-
 > grave Road
 
 ## July 31 — Friday
 
 > Sybil[?]
 > Ford Place
-> Grace Lozane[?]
-> Mrs. Karu[?]
+> Grace Logan
+> Alys Karin
 
 **Places:** 118 Belgrave Road, Ford Place  
-**People:** Bunyou[?], Sybil[?], Grace Lozane[?], Mrs. Karu[?]  
+**People:** Cre[?], Binyon[?], Sybil, Grace, Logan, Alys, Karin
 
-**Transcriber's note:** Heavy bleed-through across the leaf; only the dark cursive strokes confirmed in the bleed-suppressed image were transcribed. '118 Belgrave Road' is an address. July 31 names are tentative due to the difficult hand.
+**Transcriber's note:** [Robert Lawrence] Binyon, 1869-1943 (English poet, art historian, and critic); Grace may refer to [Grace] Norton, 1834-1926 (American writer and poet); Logan [Pearsall Smith], 1865-1946 (American-born English writer, brother of Mary Berenson); Alys [Russell], 1867-1951 (sister of MB and first wife of Bertrand Russell); Karin [Stephen], 1890-1953 (English pyschologist, daughter of MB by former marriage to Frank Costelloe; wife of Adrian Stephen and sister-in-law of Virginia Wolff. Heavy bleed-through across the leaf; only the dark cursive strokes confirmed in the bleed-suppressed image were transcribed. '118 Belgrave Road' is an address. July 31 names are tentative due to the difficult hand.
