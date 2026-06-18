@@ -5,14 +5,14 @@ page: 18
 side: right
 spread: 9
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
-  - Ford
+  - Ford [Place]
 ---
 
 # BB_1914_Jul-Dec — page 18 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## August 9 — Sunday
 
@@ -26,6 +26,6 @@ places:
 
 > Ford
 
-**Places:** Ford  
+**Places:** Ford [Place]
 
 **Transcriber's note:** Middle/lower cursive lines are faint bleed-through (absent or very faint in bleed-suppressed image); only the dark 'Ford' entries transcribed.
