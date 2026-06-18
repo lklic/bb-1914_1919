@@ -16,7 +16,7 @@ people:
 
 # BB_1914_Jul-Dec — page 21 (left)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## August 19 — Wednesday
 
