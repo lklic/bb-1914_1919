@@ -5,26 +5,26 @@ page: 28
 side: right
 spread: 14
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
+  - Ford [Place]
   - Arundel Park
 people:
-  - Ford
   - Scott
   - Karin
   - Grace
-  - Pierce
+  - Pierce[?]
 ---
 
 # BB_1914_Jul-Dec — page 28 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## September 2 — Wednesday
 
 > Ford
 > Scott
-> Karin[?] & Grace
+> Karin & Grace
 > & Pierce[?]
 
 ## September 3 — Thursday
@@ -32,7 +32,7 @@ people:
 > Ford
 > Arundel Park
 
-**Places:** Arundel Park  
-**People:** Ford, Scott, Karin, Grace, Pierce  
+**Places:** Ford [Place], Arundel Park  
+**People:** Scott, Karin, Grace, Pierce[?]  
 
 **Transcriber's note:** Ink. 'Karin & Grace' likely Karin Costelloe and Grace; last word of that line uncertain ('& Pierce[?]'). Bluish bleed-through in original ignored.
