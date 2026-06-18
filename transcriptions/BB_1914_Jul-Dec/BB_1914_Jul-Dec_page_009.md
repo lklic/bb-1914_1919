@@ -8,11 +8,15 @@ page_type: entry
 location: London
 places:
   - Rutland Garden
+  - Ridgeleywich[?]
   - St. Pancras
+  - Elstree[?]
 people:
   - Kahn
+  - Shelley
+  - Speyer[?]S
+  - Lucy
   - Lady Ripon
-  - Shee
 ---
 
 # BB_1914_Jul-Dec — page 9 (left)
@@ -21,7 +25,7 @@ people:
 
 ## July 18 — Saturday
 
-> 1.45 Dearp[?]
+> 1.45 [illegible]
 > 2 Rutland Garden
 > Kahn 8.15
 
@@ -29,13 +33,15 @@ people:
 
 *(printed: 6th Sunday after Trinity.)*
 
-> Ridgeway[?] th Shee[?]
+> Ridgeleywich[?] Shel-
+> ley
 > Lady Ripon[?]
-> [illegible]
-> [illegible] & R. Pancras[?]
-> 4.15 for Clarke[?]
+> lunch
+> Speyer[?] & Lucy
+> St. Pancras
+> 4.15 for Elstree[?]
 
-**Places:** Rutland Garden, St. Pancras  
-**People:** Kahn, Lady Ripon, Shee  
+**Places:** Rutland Garden,  Ridgeleywich[?], St. Pancras, Elstree[?]
+**People:** Kahn, Shelley, Speyer[?], Lucy, Lady Ripon   
 
-**Transcriber's note:** London engagements. Original has heavy bluish bleed-through, largely removed in the bleed-suppressed image. The Sunday entries are very tangled/overlapping and crossed; several readings tentative.
+**Transcriber's note:** [Otto] Kahn, 1867-1934 (American financier and collector); Lady Ripon could refer to Henrietta Anne Theodosia Robinson, Marchioness of Ripon, 1843–1917 (wife of George Robinson, 1st Marquess of Ripon and former Viceroy of India). London engagements. Original has heavy bluish bleed-through, largely removed in the bleed-suppressed image. The Sunday entries are very tangled/overlapping and crossed; several readings tentative.
