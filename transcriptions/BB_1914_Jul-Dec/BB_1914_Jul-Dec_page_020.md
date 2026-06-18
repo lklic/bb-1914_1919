@@ -5,17 +5,17 @@ page: 20
 side: right
 spread: 10
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
   - Ford [Place]
-  - Amberley
 people:
   - Parrish[?]
+  - Amberley
 ---
 
 # BB_1914_Jul-Dec — page 20 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## August 13 — Thursday
 
@@ -29,7 +29,7 @@ people:
 
 > Ford
 
-**Places:** Ford [Place], Amberley  
-**People:** Parrish[?]  
+**Places:** Ford [Place]  
+**People:** Parrish[?], Amberley  
 
 **Transcriber's note:** Amberley likely refers to Bertrand Russell, 1872-1970 (English philosopher and mathematician; husband of Alys Russell (m. 1894, div. 1921); son of John Russell, Viscount Amberley). Aug 13 'Ford' followed by an uncertain trailing mark. Lower portion of page has faint pencil bleed-through, not transcribed. Aug 14 printed note includes a new-moon time.
