@@ -9,7 +9,7 @@ location: Ford
 places:
   - Ford
 people:
-  - Langwill[?]
+  - Zangwill[?]
   - Geoffrey
 ---
 
@@ -24,10 +24,10 @@ people:
 ## August 8 — Saturday
 
 > Ford
-> Tea with Langwill[?]
-> Geoffrey Le[illegible]
+> Tea with Zangwill[?]
+> Geoffrey Late[?]
 
 **Places:** Ford  
 **People:** Langwill[?], Geoffrey  
 
-**Transcriber's note:** Heavy soft cursive bleed-through in original; only dark on-page strokes confirmed in bleed-suppressed image transcribed. 'Ford' is his location.
+**Transcriber's note:** [Israel] Zangwill, 1864-1926 (English novelist and playwright). Heavy soft cursive bleed-through in original; only dark on-page strokes confirmed in bleed-suppressed image transcribed. 'Ford' is his location.
