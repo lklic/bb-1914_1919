@@ -7,11 +7,11 @@ spread: 16
 page_type: entry
 location: London
 places:
-  - Ford
+  - Ford [Place]
 people:
   - Edith
-  - Gina
-  - Carole
+  - Grace
+  - Sarolea[?]
 ---
 
 # BB_1914_Jul-Dec — page 32 (right)
@@ -31,12 +31,12 @@ people:
 *(printed: 14th Sunday after Trinity)*
 
 > Ford
-> Gina[?] leaves
-> Carole[?]
+> Grace leaves
+> Sarolea[?]
 > "Anglo German
 > problem".
 
-**Places:** Ford  
-**People:** Edith, Gina, Carole  
+**Places:** Ford [Place] 
+**People:** Edith, Grace, Sarolea[?]
 
-**Transcriber's note:** Sept 10: Edith to lunch, motor to Ford. Sept 11 has '"Anglo German problem"' in quotes - likely reflecting the outbreak of WWI. 'Gina leaves' and 'Carole' uncertain. Bleed-through suppressed; dark cursive only transcribed.
+**Transcriber's note:** Edith [Wharton]; Grace [Norton]; Sarolea[?] could refer to Charles Saroléa, 1870-1953 (Belgian scholar and professor at the University Edinborough; wrote extensively on Anglo-German relations and European politics).
