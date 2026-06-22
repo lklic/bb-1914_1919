@@ -44,4 +44,4 @@ people:
 **Places:** Rutland Garden,  Ridgeleywich[?], St. Pancras, Elstree[?]
 **People:** Kahn, Shelley, Speyer[?], Lucy, Lady Ripon   
 
-**Transcriber's note:** [Otto] Kahn, 1867-1934 (American financier and collector); Lady Ripon could refer to Henrietta Anne Theodosia Robinson, Marchioness of Ripon, 1843–1917 (wife of George Robinson, 1st Marquess of Ripon and former Viceroy of India). London engagements. Original has heavy bluish bleed-through, largely removed in the bleed-suppressed image. The Sunday entries are very tangled/overlapping and crossed; several readings tentative.
+**Transcriber's note:** [Otto] Kahn, 1867-1934 (American financier and collector); Lady Ripon could refer to Henrietta Anne Theodosia Robinson, Marchioness of Ripon, 1843–1917 (wife of George Robinson, 1st Marquess of Ripon and former Viceroy of India). London engagements. 
