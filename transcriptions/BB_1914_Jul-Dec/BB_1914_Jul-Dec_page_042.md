@@ -24,21 +24,21 @@ people:
 
 *(printed: D 0h. 3m., aft.)*
 
-> Ford. Lacy wills[?]
+> Ford. Zangwills
 > to tea.
 > Engl. Lit. & the
 > Classics.
 > Adrian Karin
-> Des. McCarthy[?]
+> Dine. McCarthy[?]
 
 ## September 27 — Sunday
 
 *(printed: 16th Sunday after Trinity.)*
 
 > Ford
-> Nina Lang. & Char.
-> & Roman People
+> Wain[?] Lang. & Char.
+> 8 Roman People
 
-**People:** Ford, Lacy wills[?], Adrian, Karin, Des. McCarthy[?], Nina Lang, Char.  
+**People:** Ford, Lacy wills[?], Adrian, Karin, McCarthy[?], Wain[?] Lang, Char.  
 
-**Transcriber's note:** Sat: tea with Ford and others; note about 'Engl. Lit. & the Classics'. Adrian and Karin (Stephen) likely. 'Des. McCarthy' = Desmond McCarthy[?]. Sun: 'Nina Lang & Char. & Roman People' uncertain.
+**Transcriber's note:** [Sir Desmond] McCarthy, 1877-1952 (Anglo-Irish journalist and writer); "Eight Roman People" (publ. 1909) by Arthur Weigell, 1880-1934 (Egyptologist, historian, journalist); "Lang." could refer to [Andrew] Lang, 1844-1912?
