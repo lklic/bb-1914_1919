@@ -46,4 +46,4 @@ people:
 **Places:** 39 Brook St., 18 Grosvenor Sq., 9 Kensington Palace Garden, 46 Grosvenor Street  
 **People:** Crawshay, Leonie, Mrs. Astor, C. P., Lady Lewis, Offenbrenner[?]
 
-**Transcriber's note:** London entries. Heavy blue/grey bleed-through swirls fill the original; ignored. Real pencil strokes confirmed in bleed-suppressed image. Several names/places uncertain.
+**Transcriber's note:** London entries.
