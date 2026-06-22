@@ -30,4 +30,4 @@ places:
 
 **Places:** Ford [Place], Chichester, Bosham   
 
-**Transcriber's note:** Aug 22: Chichester and Bosham (travel/sights). Heavy bleed-through across both days, ignored; only dark strokes confirmed in the bleed-suppressed image transcribed.
+**Transcriber's note:** Aug 22: Chichester and Bosham (travel/sights).
