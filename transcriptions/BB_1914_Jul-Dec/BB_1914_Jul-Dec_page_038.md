@@ -5,9 +5,12 @@ page: 38
 side: right
 spread: 19
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
-  - Ford
+  - Ford [Place]
+people:
+  - Bulow
+  - H.D.
 ---
 
 # BB_1914_Jul-Dec — page 38 (right)
@@ -23,8 +26,9 @@ places:
 ## September 23 — Wednesday
 
 > Ford
-> Wrote to[?] H. D.
+> Wrote to H. D.
 
-**Places:** Ford  
+**Places:** Ford [Place]  
+**People:** Bulow, H.D.
 
-**Transcriber's note:** September 22 records reading Bulow's 'Imperial Germany'. September 23 'Wrote to H.D.' (initials uncertain). 'Ford' likely the place where he is staying.
+**Transcriber's note:** [Prince Bernard von] Bülow, 1849-1929 (German chancellor, 1900-1909; author of "Imperial Germany" (English ed. publ. 1914); H.D. could refer to H. [Hilda] D. [Douglas-West] (secretary to Elsie de Wolfe) or H. [Hilda] D. [Doolitle], 1886-1961 (American poet; lived in London during 1914).
