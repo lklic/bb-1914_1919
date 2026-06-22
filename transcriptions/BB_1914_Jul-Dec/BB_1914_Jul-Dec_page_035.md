@@ -7,10 +7,10 @@ spread: 18
 page_type: entry
 location: Ford
 places:
-  - Daenmark[?]
+  - Ford [Place], Denmark
 people:
-  - Ford
   - Geoffrey Scott
+  - Gosse
 ---
 
 # BB_1914_Jul-Dec — page 35 (left)
@@ -26,10 +26,10 @@ people:
 
 > Ford
 > Geoffrey
-> Goes & Two Visit[?]
-> to Daenmark[?]
+> Gosse's Two Visits
+> to Denmark
 
-**Places:** Daenmark[?]  
-**People:** Ford, Geoffrey Scott  
+**Places:** Ford [Place], Denmark
+**People:** Geoffrey Scott, Gosse 
 
-**Transcriber's note:** Heavy bleed-through across both days in original; only sharp dark ink confirmed in bleed-suppressed image transcribed. Last two lines of Sept 17 hard to read.
+**Transcriber's note:** [Sir Edmund] Gosse, 1849-1928 (English writer; author of "Two Visits to Denmark, 1872, 1874" (publ. 1911)). 
