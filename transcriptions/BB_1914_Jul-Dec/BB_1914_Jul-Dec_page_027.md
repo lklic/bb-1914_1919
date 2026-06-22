@@ -31,4 +31,4 @@ people:
 **Places:** Ford [Place]
 **People:** Hirth, Scott  
 
-**Transcriber's note:** [Friedrich] Hirth, "The Ancient History of China to the End of the Chúo Dynasty" (1908). Ink. 'Hirth Ancient Hist of China' likely a book reference (Friedrich Hirth, The Ancient History of China). 'Ford' recurs across both days. Heavy bluish/mirror bleed-through in original ignored; only dark strokes confirmed in suppressed image transcribed.
+**Transcriber's note:** [Friedrich] Hirth, "The Ancient History of China to the End of the Chúo Dynasty" (1908). Ink. 'Hirth Ancient Hist of China' likely a book reference (Friedrich Hirth, The Ancient History of China). 
