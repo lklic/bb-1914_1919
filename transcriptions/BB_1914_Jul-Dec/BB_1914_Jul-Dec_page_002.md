@@ -40,4 +40,4 @@ people:
 **Places:** 21 Quai de Bourbon, 11 Rue [illegible]  
 **People:** Paolini[?], Royall Tyler, Lillie[?], Hubert[?], Edith 
 
-**Transcriber's note:** [Paolo] Paolini, ?-1924 (Italian art dealer and collector); [Henri] Hubert, 1872-1927 (French ethnologist and anthropologist); Edith [Wharton] Paris appointments. Royall Tyler fairly clear. Times noted (5.30, 8). The 5.30 line is struck through. Purple ink-stamp ghost and heavy bleed-through on original ignored. Sunday entries faint but present in suppressed image.
+**Transcriber's note:** [Paolo] Paolini, ?-1924 (Italian art dealer and collector); [Henri] Hubert, 1872-1927 (French ethnologist and anthropologist); Edith [Wharton]. Paris appointments. 
