@@ -5,9 +5,10 @@ page: 37
 side: left
 spread: 19
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
-  - Ford
+  - Ford [Place]
+  - Sele[?]
 people:
   - Adrian Stephen
   - Karin
@@ -22,7 +23,6 @@ people:
 *(printed: 15th Sunday after Trinity.)*
 
 > Ford
-> [flourish]
 
 ## September 21 — Monday
 
@@ -30,10 +30,10 @@ people:
 > Adrian Stephen
 > engaged to
 > Karin
-> Drive to lake[?] & [illegible]
-> [illegible]
+> Drive to Sele[?] pm
+> return[?] by train
 
-**Places:** Ford  
+**Places:** Ford [Place], Sele[?]  
 **People:** Adrian Stephen, Karin  
 
-**Transcriber's note:** Heavy bleed-through ghosts in original (suppressed image confirms real ink). September 20 has 'Ford' then a single large flourish below. September 21 notes Adrian Stephen engaged to Karin (Karin Costelloe). Last two lines run off the bottom edge, largely illegible/cut off.
+**Transcriber's note:** Sele[?] could refer to district in Hertford, UK.
