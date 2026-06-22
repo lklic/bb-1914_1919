@@ -31,4 +31,4 @@ people:
 **Places:** Ford [Place]  
 **People:** "Trevy", "Tovey"[?]
 
-**Transcriber's note:** "Trevy" likely refers to Robert Calverey Trevelyan, 1872-1951 (English poet); "Tovey" likely refers to [Sir Donald Francis] Tovey, 1875-1940 (English composer). Pencil. Heavy soft bleed-through under both entries in original is suppressed in clean image and ignored. Second line of Aug 24 very uncertain. 'Ford boat' recurs each day.
+**Transcriber's note:** "Trevy" likely refers to Robert Calverey Trevelyan, 1872-1951 (English poet); "Tovey" likely refers to [Sir Donald Francis] Tovey, 1875-1940 (English composer). 
