@@ -8,10 +8,11 @@ page_type: entry
 location: London
 places:
   - 25 Grosvenor Place
-  - Ford
+  - Ford [Place]
 people:
   - Edith
   - Algar[?]
+  - B.M.[?]
   - Lady Cunard
   - Harbord[?]
   - Henry James
@@ -27,8 +28,8 @@ people:
 > Place with Edith
 > lunch with Algar[?]
 > B. M. with Edith
-> Lady Cunard. & Harbord[?]
-> dine Ed. M. Henry James
+> Lady Cunard. & Harbach[?]
+> dine Edith. Henry James
 
 ## September 15 — Tuesday
 
@@ -37,7 +38,7 @@ people:
 > lunch
 > Return to Ford
 
-**Places:** 25 Grosvenor Place, Ford  
-**People:** Edith, Algar[?], Lady Cunard, Harbord[?], Henry James  
+**Places:** 25 Grosvenor Place, Ford [Place] 
+**People:** Edith, Algar, B.M.[?], Lady Cunard, Harbach[?], Henry James  
 
-**Transcriber's note:** In London at 25 Grosvenor Place with Edith Wharton. Lunches, dines with Lady Cunard and Henry James. Sept 15 lunch with Henry James, then return to Ford. A few names uncertain (Algar, Harbord, B.M.).
+**Transcriber's note:** Algar [Thorold], 1866-1936 (English writer); [Maud Alice Burke] Cunard, 1872-1948 (American-born, London-based society hostess). B.M.[?] either refers to a person with initials "B. M." or the British Museum.
