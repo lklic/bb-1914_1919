@@ -35,4 +35,4 @@ people:
 **Places:** Ford [Place], Arundel Park  
 **People:** Scott, Karin, Grace, Pierce[?]  
 
-**Transcriber's note:** Ink. 'Karin & Grace' likely Karin Costelloe and Grace; last word of that line uncertain ('& Pierce[?]'). Bluish bleed-through in original ignored.
+**Transcriber's note:** 
