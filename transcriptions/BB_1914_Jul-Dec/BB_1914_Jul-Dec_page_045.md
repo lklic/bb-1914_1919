@@ -8,7 +8,7 @@ page_type: entry
 location: Ford
 places:
   - Chichester
-  - Ford
+  - Ford [Place]
 people:
   - Sybil
   - Karin
@@ -17,14 +17,14 @@ people:
 
 # BB_1914_Jul-Dec — page 45 (left)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## October 2 — Friday
 
 > Ford
-> Woolfsee[?] to D's
-> Sybil, Chichester
-> funile[?]
+> Wrote[?] to D's
+> Sybil, Chichester[?]
+> trianle[?]
 > Yule's Marco Polo
 
 ## October 3 — Saturday
@@ -35,7 +35,7 @@ people:
 > Sybil leaves
 > Karin & Oliver[?]
 
-**Places:** Chichester, Ford  
+**Places:** Chichester trianle[?], Ford [Place]
 **People:** Sybil, Karin, Oliver  
 
-**Transcriber's note:** At Ford. Repeated 'Ford' heading. Sybil arrives then leaves; Karin and Oliver. 'Yule's Marco Polo' likely Henry Yule's edition. Several words uncertain. Heavy bleed-through ghosts present in original but only sharp dark strokes transcribed.
+**Transcriber's note:** Oliver [Strachey]; [Sir Henry] Yule, 1820-1889 (Scottish orientalist and geographer; translated and edited the classic edition of "The Book of Ser Marco Polo" (major revised ed. 1875))
