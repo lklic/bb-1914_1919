@@ -5,10 +5,13 @@ page: 36
 side: right
 spread: 18
 page_type: entry
-location: Ford
+location: Ford [Place]
+places:
+  - Ford [Place]
 people:
-  - Ford
   - Geoffrey
+  - Yule
+  - Usher
   - Adrian Stephen
   - Karin
 ---
@@ -28,11 +31,12 @@ people:
 *(printed: 9h. 33m., aft.)*
 
 > Ford
-> Usher's "Pau-Ger-
-> manicus"[?]
+> Usher's "Pan-Ger-
+> manism"[?]
 > Adrian Stephen
 > & Karin
 
-**People:** Ford, Geoffrey, Adrian Stephen, Karin  
+**Places:** Ford [Place]
+**People:** Geoffrey, Yule, Usher, Adrian Stephen, Karin  
 
-**Transcriber's note:** Bleed-through visible in original (faint mirror printed headers and cursive) but suppressed image confirms only the dark ink lines transcribed. 'Yule's Marco Polo' = Henry Yule's edition. Adrian Stephen and Karin (Costelloe) Stephen.
+**Transcriber's note:** [Sir Henry] Yule, 1820-1889 (Scottish orientalist and geographer; translated and edited the classic edition of "The Book of Ser Marco Polo" (major revised ed. 1875)); [Roland G.] Usher, 1880-1957 (American historian and political scientist; author of "Pan-Germanism" (publ. 1913)).
