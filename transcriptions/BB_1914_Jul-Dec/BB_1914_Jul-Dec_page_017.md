@@ -30,4 +30,4 @@ people:
 **Places:** Ford [Place]
 **People:** Langwill[?], Geoffrey  
 
-**Transcriber's note:** [Israel] Zangwill, 1864-1926 (English novelist and playwright). Heavy soft cursive bleed-through in original; only dark on-page strokes confirmed in bleed-suppressed image transcribed. 'Ford' is his location.
+**Transcriber's note:** [Israel] Zangwill, 1864-1926 (English novelist and playwright). 
