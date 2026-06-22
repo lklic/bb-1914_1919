@@ -36,4 +36,4 @@ people:
 **Places:** Ford Place  
 **People:** Sidney Webb, Warren, Lewis, Mrs Leigh Smith, Robert Bridges  
 
-**Transcriber's note:** Sidney Webb, 1859-1947 (English Socialist and historian); [Edward Perry] Warren, 1860-1928 (American writer and art collector); Robert [Seymour] Bridges, 1844-1930 (English poet).Ink. Heavy soft blue-grey bleed-through across page, confirmed not real in suppressed version. 'Warren . Lewis' uncertain. Robert Bridges (poet laureate) plausible given company. Ford Place in Sussex.
+**Transcriber's note:** Sidney Webb, 1859-1947 (English Socialist and historian); [Edward Perry] Warren, 1860-1928 (American writer and art collector); Robert [Seymour] Bridges, 1844-1930 (English poet).
