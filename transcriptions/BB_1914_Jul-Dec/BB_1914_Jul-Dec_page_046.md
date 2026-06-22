@@ -5,35 +5,37 @@ page: 46
 side: right
 spread: 23
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
-  - Ford
+  - Ford [Place]
 people:
   - Adrian
+  - Sulley
+  - Brown
   - Barbara
-  - Mrs. Bowen
+  - Mrs. Bowe[?]
 ---
 
 # BB_1914_Jul-Dec — page 46 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## October 4 — Sunday
 
 *(printed: 17th Sunday after Trinity. O 5h. 59m., morn.)*
 
 > Ford
-> Adrian nearly[?]
+> Adrian nearly
 > drowned sailing
 
 ## October 5 — Monday
 
 > Ford
 > Barbara leaves
-> sailing & Brown[?]
-> Tea with Mrs. Bowen[?]
+> Sulley & Brown[?]
+> Tea with Mrs. Bowe[?]
 
-**Places:** Ford  
-**People:** Adrian, Barbara, Mrs. Bowen  
+**Places:** Ford [Place]
+**People:** Adrian, Sulley, Brown, Barbara, Mrs. Bowe[?] 
 
-**Transcriber's note:** Still at Ford. 'Adrian nearly drowned sailing'. Barbara leaves; sailing; tea with Mrs. Bowen[?]. Several words uncertain. Bleed-through present in original, ignored.
+**Transcriber's note:** Adrian [Stephen]; [Arthur Joseph] Sulley, 1853-1930 (English art dealer).
