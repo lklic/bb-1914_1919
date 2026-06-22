@@ -42,4 +42,4 @@ people:
 **Places:** 17 Hyde Park Gate, 13 Grosvenor Sq, Hill [House] 21 Epping  
 **People:** Sybil, Witts, Alexander[?], Ralph[?]
 
-**Transcriber's note:** Based on significant correspondence with BB (1909-1952), Witts likeley refer to [Sir Robert Clermont] Witt, 1872-1952 (English art amateur and collector, founder of Witt Reference Library, London) and [Mary Helene] Witt, 1871-1952 (wife of Sir Robert Clermont Witt); however, there were other important Witts in London high society and Berenson's circle at the time. Bleed-through ghosts present but suppressed version confirms the dark ink lines transcribed. '17 Hyde Park Gate' appears circled. Crossed-out text on the 'Hill' line of July 25. Train times to Epping (3.35, 4.38) noted.
+**Transcriber's note:** Based on significant correspondence with BB (1909-1952), Witts likeley refer to [Sir Robert Clermont] Witt, 1872-1952 (English art amateur and collector, founder of Witt Reference Library, London) and [Mary Helene] Witt, 1871-1952 (wife of Sir Robert Clermont Witt); however, there were other important Witts in London high society and Berenson's circle at the time.
