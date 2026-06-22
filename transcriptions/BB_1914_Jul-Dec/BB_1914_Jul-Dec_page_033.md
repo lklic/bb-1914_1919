@@ -7,11 +7,11 @@ spread: 17
 page_type: entry
 location: London
 places:
-  - Ford
+  - Ford [Place]
+  - Bretham[?]
   - 25 Grosvenor Place
 people:
-  - Marjorie[?]
-  - Rachel[?]
+  - Marjorie Strachey
   - Ray
   - Edith
 ---
@@ -25,7 +25,7 @@ people:
 *(printed: 5h. 48m., aft.)*
 
 > Ford
-> . Brakhan[?]. Marjorie
+> Bretham[?]. Marjorie
 > Strachey[?] &
 > Ray
 
@@ -39,7 +39,7 @@ people:
 > with her to 25
 > Grosvenor Place
 
-**Places:** Ford, 25 Grosvenor Place  
-**People:** Marjorie[?], Rachel[?], Ray, Edith  
+**Places:** Ford [Place], Bretham[?], 25 Grosvenor Place 
+**People:** Marjorie Strachey[?], Ray, Edith  
 
-**Transcriber's note:** Day entries. 'Ford' appears twice (likely a house/place where he is staying). Sept 13: Edith (Wharton) to lunch, then motored back with her to 25 Grosvenor Place in London. Some first names uncertain.
+**Transcriber's note:** Ray [Strachey], 1887-1940 (English writer; daughter of MB by Frank Costelloe).
