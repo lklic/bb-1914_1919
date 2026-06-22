@@ -6,9 +6,12 @@ side: left
 spread: 21
 page_type: entry
 location: Ford
+places:
+  - Ford [Place]
+  - Selham
 people:
-  - Ford
-  - Sabia Fairchild
+  - Lacaita
+  - Sadie[?] Fairchild
   - Geoffrey Scott
 ---
 
@@ -19,15 +22,16 @@ people:
 ## September 24 — Thursday
 
 > Ford
-> Salianiwiski[?] La-
-> carba[?]
-> Sabia[?] Fairchild
+> Selham with La-
+> caita[?]
+> Sadie[?] Fairchild
 
 ## September 25 — Friday
 
 > Ford
 > Geoffrey Scott
 
-**People:** Ford, Sabia Fairchild, Geoffrey Scott  
+**Places:** Ford [Place], Selham
+**People:** Lacaita, Sadie[?] Fairchild, Geoffrey Scott  
 
-**Transcriber's note:** Names under each day. 'Salianiwiski La-carba' uncertain (possibly a place or surname). 'Sabia Fairchild' first name uncertain.
+**Transcriber's note:** [Charles Carmichael] Lacaita, 1853-1933 (British botanist, collector, former MP).
