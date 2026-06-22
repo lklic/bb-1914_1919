@@ -36,4 +36,4 @@ people:
 **Places:** Ford [Place]
 **People:** Mr Parrish, Miss P. [Parrish], G. Moore, Zangwill  
 
-**Transcriber's note:** G. [George] Moore, 1852-1933 (Anglo-Irish novelist; author of three-volume memoir entitled "Hail and Farewell," of which Vol. 2 was entitled "Salve" (publ. 1912)). Faint marks right of 'Ford' are bleed-through, ignored. Printed 'H' (section mark) at lower right. 'G. Moore's Salve' = George Moore's memoir 'Salve'; Zangwill = Israel Zangwill.
+**Transcriber's note:** G. [George] Moore, 1852-1933 (Anglo-Irish novelist; author of three-volume memoir entitled "Hail and Farewell," of which Vol. 2 was entitled "Salve" (publ. 1912)). 
