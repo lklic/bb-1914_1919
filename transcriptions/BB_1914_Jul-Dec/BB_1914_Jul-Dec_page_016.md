@@ -35,4 +35,4 @@ people:
 **Places:** Ford Place  
 **People:** Walter Raleigh, Duncan Grant[?]  
 
-**Transcriber's note:** Duncan Grant[?] , 1885-1978 (Scottish painter, member of Bloomsbury Group). Bleed-through present but the suppressed image confirms the cursive entries. A faint reversed 'Bank Holiday' shows through near the Aug 1 header (ignored). 'Duncan Grant' on Aug 2 is uncertain.
+**Transcriber's note:** Duncan Grant[?] , 1885-1978 (Scottish painter, member of Bloomsbury Group). 
