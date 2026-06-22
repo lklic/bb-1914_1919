@@ -47,4 +47,4 @@ people:
 **Places:** London  
 **People:** Sybil, Mary Crawshay, H. Huntington, Duveen, Lady Wenlock, Berenson, Eva Fairfax, Crawshay, Thelma Thorold  
 
-**Transcriber's note:** Pencil cursive, several surnames uncertain. The top line of Sept 8 ('Mostelli Tertor') is very uncertain. Heavy blue-grey bleed-through across both days; only dark strokes confirmed in the bleed-suppressed image transcribed.
+**Transcriber's note:** 
