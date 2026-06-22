@@ -28,4 +28,4 @@ places:
 
 **Places:** Ford [Place]
 
-**Transcriber's note:** Middle/lower cursive lines are faint bleed-through (absent or very faint in bleed-suppressed image); only the dark 'Ford' entries transcribed.
+**Transcriber's note:** 
