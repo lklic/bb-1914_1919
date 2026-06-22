@@ -41,4 +41,4 @@ people:
 **Places:** 32 Dover St., opera  
 **People:** Leonie[?], Mary Crawshay, Trevy[?], Mrs. Otto Kahn, Sybil  
 
-**Transcriber's note:** Leonie[?] may refer to Léonie Leslie, d. 1943 (mother of Shane Leslie, with record of correspondence with BB in 1910). London entries. Handwriting confirmed in bleed-suppressed image. Faint mirror-reversed printed sub-note bleeds under July 14 header. '2:45 Lronie 317' and 'Trky' uncertain.
+**Transcriber's note:** Leonie[?] may refer to Léonie Leslie, d. 1943 (mother of Shane Leslie, with record of correspondence with BB in 1910). London entries. 
