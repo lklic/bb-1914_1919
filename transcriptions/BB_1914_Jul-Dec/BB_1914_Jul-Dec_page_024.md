@@ -32,4 +32,4 @@ people:
 **Places:** Ford [Place]
 **People:** Scott, Mrs. Scott  
 
-**Transcriber's note:** Pencil. Considerable faint bleed-through/show-through below entries, erased in clean image and not transcribed. Printed sub-note under Aug 26 partly obscured.
+**Transcriber's note:** 
