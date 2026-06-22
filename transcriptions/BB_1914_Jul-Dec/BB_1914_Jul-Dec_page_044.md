@@ -5,25 +5,25 @@ page: 44
 side: right
 spread: 22
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
-  - Ford
+  - Ford [Place]
   - Goodwood
   - Shoreham
 people:
-  - Sibil
+  - Sybil
   - Geoffrey
 ---
 
 # BB_1914_Jul-Dec — page 44 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## September 30 — Wednesday
 
 > Ford
-> Sibil.
-> Goodwood)
+> Sybil.
+> Goodwood
 
 ## October 1 — Thursday
 
@@ -33,7 +33,7 @@ people:
 > Sibil, Shoreham.
 > Geoffrey.
 
-**Places:** Ford, Goodwood, Shoreham  
+**Places:** Ford [Place], Goodwood, Shoreham  
 **People:** Sibil, Geoffrey  
 
-**Transcriber's note:** At Ford. Mentions Sibil, Goodwood, Shoreham; Geoffrey. Printed 'J' page marker at lower right corner. Bleed-through ignored.
+**Transcriber's note:** Goodwood [House], Sussex, the seat of Duke Charles Henry Gordon-Lennox, 8th Duke of Richmond and Gordon (1870-1935).
