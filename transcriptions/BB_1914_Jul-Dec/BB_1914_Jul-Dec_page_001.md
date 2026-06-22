@@ -26,7 +26,7 @@ people:
 > lunch at 1 o'clock
 > Mme. de Brigode[?]
 > 5 Rue Montalivet[?]
-> 3.45 Mme. de Ludres
+> 3.45 Mme. de Ludre
 > Henry Adams
 
 ## July 3 — Friday
@@ -38,4 +38,4 @@ people:
 **Places:** 5 Rue Montalivet[?]  
 **People:** Mme. de Brigode[?], Henry Adams, Chavannes[?], Lillie[?], Mme. de Ludre  
 
-**Transcriber's note:** Paris appointments. Heavy grey/blue bleed-through across both day blocks; only dark strokes confirmed in the bleed-suppressed image transcribed. The 3.45 line is partly struck through. Several names uncertain.
+**Transcriber's note:** Paris appointments.
