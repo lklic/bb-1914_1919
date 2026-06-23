@@ -5,20 +5,21 @@ page: 60
 side: right
 spread: 30
 page_type: entry
-location: Ford
+location: Ford [Place]
 places:
+  - Ford [Place]
   - Arundel Park
   - London[?]
 people:
-  - Ford
   - Bessie Trevelyan
-  - Eva[?]
-  - Dame Ethel[?]
+  - Tolstoi
+  - Eva
+  - Sybil
 ---
 
 # BB_1914_Jul-Dec — page 60 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## November 1 — Sunday
 
@@ -26,19 +27,19 @@ people:
 
 > Ford
 > Bessie Trevelyan.
-> Lonk[?] walk in
+> Last[?] walk in
 > Arundel Park
-> Tolstoi[?] Temple[?] & Italin[?]
+> Tolstoi[?] Pamph[lets] & Studies
 
 ## November 2 — Monday
 
 *(printed: O 11h. 49m., aft.)*
 
-> London[?]
-> tea Eva[?]
-> Dame[?] Ethel[?]
+> London
+> tea Eva
+> Dine Sybil
 
-**Places:** Arundel Park, London[?]  
-**People:** Ford, Bessie Trevelyan, Eva[?], Dame Ethel[?]  
+**Places:** Ford [Place], Arundel Park, London 
+**People:** Bessie Trevelyan, Tolstoi, Eva, Sybil  
 
-**Transcriber's note:** Pencil, faint with heavy bleed-through; lines confirmed against bleed-suppressed scan. 'Bessie Trevelyan' fairly clear. Lines under Nov 2 very faint and uncertain. Printed 'K' page-mark lower right.
+**Transcriber's note:** [Elizabeth] "Bessie" Trevelyan, 1875-1957 (Dutch-born wife of Robert Calverley Trevelyan); [Leo] Tolstoi, 1828-1910 (Russian writer).
