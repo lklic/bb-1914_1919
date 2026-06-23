@@ -7,34 +7,35 @@ spread: 25
 page_type: entry
 location: Ford
 places:
-  - Ford
-  - Chichester[?]
+  - Ford [Place]
   - Goodwood House
 people:
+  - Hirth
   - Mary
+  - Sybil
 ---
 
 # BB_1914_Jul-Dec — page 50 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## October 12 — Monday
 
 *(printed: 9h. 33m., morn.)*
 
 > Ford
-> Finished Hirst's[?]
-> Chichester[?]
-> studies
+> Finished Hirth's[?]
+> Chinesische
+> studien
 > Goodwood House
 
 ## October 13 — Tuesday
 
 > Ford
 > Mary goes to town
-> [illegible]
+> Sybil arrives
 
-**Places:** Ford, Chichester[?], Goodwood House  
-**People:** Mary  
+**Places:** Ford [Place], Goodwood House  
+**People:** Hirth, Mary, Sybil  
 
-**Transcriber's note:** Ink over faint pencil show-through, suppressed in clean image. 'Finished Hirst's' and 'Chichester' uncertain. Last line under Oct 13 illegible. Mary = Mary Berenson.
+**Transcriber's note:** [Friedrich] Hirth, 1845-1927 (German Sinologist). "Hirth's Chinesische studien" likely does not refer to a single work by Hirth but instead to an edited volume containing Hirth's major works entitled "Chinesische studien."
