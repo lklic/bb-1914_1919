@@ -12,9 +12,11 @@ places:
   - Blandford
   - Melford Abbey[?]
 people:
-  - Logan Pearsall Smith[?]
+  - Logan
+  - Nero[?]
   - Henry Adams
   - Miss Adams
+  - Miss Tour
 ---
 
 # BB_1914_Jul-Dec — page 47 (left)
@@ -23,19 +25,19 @@ people:
 
 ## October 6 — Tuesday
 
-> With Logan[?] Mrs[?]
+> With Logan Nero[?]
 > Wimborne to Staple-
 > ton House. Bland-
 > ford. Henry Adams
-> Miss Adams, Mrs
+> Miss Adams, Miss
 > Tour
 
 ## October 7 — Wednesday
 
 > Stapleton House
-> Melford Abbay[?]
+> Melford Abbey[?]
 
 **Places:** Wimborne, Stapleton House, Blandford, Melford Abbey[?]  
-**People:** Logan Pearsall Smith[?], Henry Adams, Miss Adams  
+**People:** Logan, Nero[?], Henry Adams, Miss Adams, Miss Tour  
 
-**Transcriber's note:** Touring in Dorset/Wiltshire. First line names uncertain. 'Bland-/ford' = Blandford. 'Tour' written as an inserted caret note. Faint ghosts at lower half and around date headers are bleed-through, ignored.
+**Transcriber's note:** Touring in Dorset/Wiltshire. 
