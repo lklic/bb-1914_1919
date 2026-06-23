@@ -13,8 +13,8 @@ people:
   - Eugenie Strong
   - Mary Crawshay
   - Sybil
-  - Lady Harbard[?]
-  - Haldane[?]
+  - Lady Herbert[?]
+  - Hackenbroch[?]
 ---
 
 # BB_1914_Jul-Dec — page 54 (right)
@@ -32,13 +32,13 @@ people:
 ## October 21 — Wednesday
 
 > lunch with Sybil
-> 4.15. N. C. Burlington[?]
-> Fine A[rts] B.[?]
-> Lady Harbard[?]
-> Haldane[?] [illegible]
-> [illegible] with us
+> 4.15. M. C. Burlington[?]
+> Fine A.B.[?]
+> Lady Herbert[?]
+> Hackenbroch[?]
+> dine with us
 
 **Places:** 91 Lancaster Gate, Burlington  
-**People:** Eugenie Strong, Mary Crawshay, Sybil, Lady Harbard[?], Haldane[?]  
+**People:** Eugenie Strong, Mary Crawshay, Sybil, Lady Herbert[?], Hackenbroch[?]
 
-**Transcriber's note:** Ink and pencil. 'lunch Eugenie Strong' fairly clear; '91 Lancaster Gate' is an address. 'Burlington' likely Burlington House / Burlington Fine Arts. Last two lines crowded and largely illegible. Faint blue bleed-through across page suppressed in clean image.
+**Transcriber's note:** M.C. likely refers to Mary Crawshay, who appears in BB's preceding Oct 20 entry; Burlington likely refers to Burlington [House] in Piccadilly.
