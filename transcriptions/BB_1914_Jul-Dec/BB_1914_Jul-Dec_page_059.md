@@ -5,30 +5,31 @@ page: 59
 side: left
 spread: 30
 page_type: entry
-location: Ford
+location: Ford [Place]
+places:
+  - Ford [Place]
 people:
-  - Lord
-  - Zangwill[?]
-  - Rosen[?]
-  - Ford[?]
+  - Zangwill
+  - Gosse
 ---
 
 # BB_1914_Jul-Dec — page 59 (left)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## October 30 — Friday
 
 > Lord
-> Zangwill[?] to
+> Zangwills to
 > lunch
-> Rosen[?] Portrait &
-> sketches[?]
+> Gosse's[?] Portraits &
+> sketches
 
 ## October 31 — Saturday
 
-> Ford[?]
+> Ford
 
-**People:** Lord, Zangwill[?], Rosen[?], Ford[?]  
+**Places:** Ford [Place]
+**People:** Zangwill, Gosse  
 
-**Transcriber's note:** Pencil. Heavy blue bleed-through in original confirmed absent in bleed-suppressed scan and ignored. 'Zangwill' likely Israel Zangwill. Line after 'Lord' continues but largely bleed-through.
+**Transcriber's note:** [Edmund] Gosse, 1849-1928 (English poet, author, and critic; author of "Portraits and Sketches" (publ. 1912)).
