@@ -7,17 +7,18 @@ spread: 28
 page_type: entry
 location: London
 places:
-  - 46 Cumberland Place
-  - 156 Strand
+  - 46 Great[?] Cumberland Place
+  - 156 Strand Street
 people:
   - C. Phillips
   - Mrs. Astor
-  - Cassel
   - Leonie
-  - Hare-Naylor
+  - Watts[?]
+  - Havemeyer
   - Walter Berry
-  - Sybel
+  - Sybil
   - Lady Lewis
+  - Ethel[?]
 ---
 
 # BB_1914_Jul-Dec — page 55 (left)
@@ -27,21 +28,21 @@ people:
 ## October 22 — Thursday
 
 > lunch C. Phillips[?]
-> Mrs. Astor .    Cassel[?]
-> 5.30. Leonie[?]    46 Cum-
-> berland Place[?]
-> "Deva" Watts[?]
+> Mrs. Astor .   
+> 5.30. Leonie[?]   46 Great[?] Cum-
+> berland Place
+> Dine Watts[?]
 
 ## October 23 — Friday
 
-> lunch with Hare[?] -
-> Naylor[?] & Walter Berry
-> Sybel[?] 156 Strand
-> [illegible]
+> lunch with Have-
+> meyer[?] & Walter Berry
+> Sybil 156 Strand
+> Street
 > Lady Lewis
-> dine E. Phil[?]
+> dine Ethel[?]
 
-**Places:** 46 Cumberland Place, 156 Strand  
-**People:** C. Phillips, Mrs. Astor, Cassel, Leonie, Hare-Naylor, Walter Berry, Sybel, Lady Lewis  
+**Places:** 46 Great[?] Cumberland Place, 156 Strand Street 
+**People:** C. Phillips, Mrs. Astor, Leonie, Watts[?], Havemeyer, Walter Berry, Sybil, Lady Lewis, Ethel[?] 
 
-**Transcriber's note:** Pencil entries with heavy bluish bleed-through; only the dark strokes confirmed in the bleed-suppressed image transcribed. Many names uncertain. Oct 22: lunch C. Phillips, Mrs. Astor, Cassel; 5.30 Leonie at 46 Cumberland Place; '"Deva" Watts'. Oct 23: lunch with Hare-Naylor[?] & Walter Berry; an address 156 Strand; Lady Lewis.
+**Transcriber's note:** [Sir] C. [Claude] Phillips, 1846-1924 (English art connoisseur and writer); Mrs. Astor likely refers to [Nancy] Astor or Mrs. [Waldorf] Astor, 1879-1964 (American-born British politician; second wife of Waldorf Astor, 2nd Viscount Astor); Léonie [Leslie], d. 1943 (mother of Shane Leslie); [Louise Waldron Elder] Havemeyer, 1855-1929 (American art collector); Walter [Van Rensselauer] Berry, 1857-1927 (American lawyer); Lady [Elizabeth] Lewis, 1878-1961 (wife of Sir George Henry Lewis and mother of Katherine Elizabeth Lewis (1878-1961), frequent correspondent of BB); Ethel could refer to Ethel [Harrison], 1851-1916 (British anti-suffrage essayist; wife of Frederic Harrison, British jurist and historian) OR Ethel [Mary Smyth], 1858-1944 (English composer and writer).
