@@ -8,6 +8,7 @@ page_type: entry
 location: London
 places:
   - London
+  - Ford [Place]
 people:
   - Thorold
   - Theresa
@@ -23,19 +24,19 @@ people:
 
 > London
 > lunch Thorold[?]
-> return to[?]
-> London[?] with
+> return to
+> Ford with
 > Theresa
 
 ## October 25 — Sunday
 
 *(printed: 20th Sunday after Trinity. D 10h. 44m., aft.)*
 
-> Ford)
+> Ford
 > Tea with Sir
 > Hubert Parry
 
-**Places:** London  
-**People:** Thorold, Theresa, Ford, Sir Hubert Parry  
+**Places:** London, Ford [Place]
+**People:** Thorold, Theresa, Sir Hubert Parry  
 
-**Transcriber's note:** Pencil with faint bleed-through behind the Oct 24 lines; dark on-page strokes confirmed in bleed-suppressed image. Oct 24: 'London', lunch Thorold[?], return to London[?] with Theresa. Oct 25: 'Ford)'; tea with Sir Hubert Parry (the composer).
+**Transcriber's note:** [Algar Labouchere] Thorold, 1866-1936 (English writer); Sir Hubert Parry, 1848-1918 (English composer).
