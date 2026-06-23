@@ -9,7 +9,7 @@ location: Ford [Place]
 places:
   - Ford [Place]
   - Arundel Park
-  - London[?]
+  - London
 people:
   - Bessie Trevelyan
   - Tolstoi
