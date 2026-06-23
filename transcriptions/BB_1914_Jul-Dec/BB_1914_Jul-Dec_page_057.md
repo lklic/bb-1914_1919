@@ -7,8 +7,9 @@ spread: 29
 page_type: entry
 location: Ford
 places:
+  - Ford [Place]
   - Brighton
-  - Lewes
+  - Lewes[?] [House] 
 people:
   - Zangwill
   - Kropotkin
@@ -22,7 +23,7 @@ people:
 ## October 26 — Monday
 
 > Ford
-> With Zangwill
+> With Zangwills
 > to Kropotkin's
 > at Brighton
 > Tea with Warren
@@ -34,7 +35,7 @@ people:
 
 > Ford
 
-**Places:** Brighton, Lewes  
+**Places:** Ford [Place], Brighton, Lewes[?] [House] 
 **People:** Zangwill, Kropotkin, Warren  
 
-**Transcriber's note:** Each day opens with the word 'Ford' (recurring heading, probably his base/host). Oct 26: with Zangwill to Kropotkin's at Brighton, tea with Warren at Lewes. 'Lewes' uncertain. Heavy bleed-through behind the writing; only sharp dark strokes confirmed in the bleed-suppressed image are transcribed.
+**Transcriber's note:** [Prince Pyotr] Kropotkin, 1842-1921 (Russian anarchist political philospher and geographer; inhabitant of Brighton 1911-1917); [Edward Perry] Warren, 1860-1928 (American writer and art collector; owner of Lewes House (1888-1928)).
