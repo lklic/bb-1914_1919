@@ -5,35 +5,33 @@ page: 51
 side: left
 spread: 26
 page_type: entry
-location: Ford
-places:
-  - Amberley
+location: Ford [Place]
 people:
-  - Sibil
-  - Zangwill[?]
+  - Sybil
+  - Zangwill
+  - Amberley
 ---
 
 # BB_1914_Jul-Dec — page 51 (left)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## October 14 — Wednesday
 
 *(printed: C 9h. 53m., morn.)*
 
 > Ford
-> Ride w. Sibil to
-> Zangwill[?]
+> With Sybil to
+> Zangwills
 
 ## October 15 — Thursday
 
 *(printed: 18th Sunday after Trinity.)*
 
 > Ford
-> Ride w. Sibil to
-> Amberley[?]
+> With Sybil to
+> Amberley
+  
+**People:** Sybil, Zangwill, Amberley
 
-**Places:** Amberley  
-**People:** Sibil, Zangwill[?]  
-
-**Transcriber's note:** 'Ford' in ink at top of each day. Recurring phrase reads 'Ride w. Sibil to ...'; opening word uncertain (Ride[?]/Wite[?]). Heavy blue pencil bleed-through across both blocks in original but absent in suppressed image, so ignored. Sibil = Sibyl. Last word of Oct 14 uncertain (Zangwill[?]).
+**Transcriber's note:** [Israel] Zangwill; Amberley likely refers to Bertrand Russell, 1872-1970 (English philosopher and mathematician; son of John Russell, Viscount Amberley).
