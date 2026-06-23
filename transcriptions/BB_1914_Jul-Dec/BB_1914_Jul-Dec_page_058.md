@@ -5,12 +5,12 @@ page: 58
 side: right
 spread: 29
 page_type: entry
-location: Ford
+location: Ford [Place]
 ---
 
 # BB_1914_Jul-Dec — page 58 (right)
 
-*Location: **Ford***
+*Location: **Ford [Place]***
 
 ## October 28 — Wednesday
 
@@ -21,4 +21,4 @@ location: Ford
 > Ford
 
 
-**Transcriber's note:** Each day has only the single word 'Ford'. The soft grey cursive in the original is bleed-through (absent in the bleed-suppressed image) and is not transcribed.
+**Transcriber's note:** 
