@@ -7,15 +7,16 @@ spread: 32
 page_type: entry
 location: London
 places:
-  - Folkstone
-  - Folkstone Pier
-  - Dieppe[?]
-  - Grand Hotel
+  - Folk[e]stone
+  - Folk[e]stone Pier
+  - Dieppe
+  - Dieppe Grand Hotel  
 people:
+  - Louis Quiren[?]
   - Sybil
   - Mary
   - Ray
-  - Bernard
+  - Bennett Goldney[?]  
 ---
 
 # BB_1914_Jul-Dec — page 64 (right)
@@ -24,9 +25,9 @@ people:
 
 ## November 9 — Monday
 
-> Louis[?] Quiren[?]
+> Louis Quiren[?]
 > Sybil
-> Uncle Mary & Ray
+> Lunch Mary & Ray
 > motored down
 > to
 > Folkstone
@@ -35,13 +36,13 @@ people:
 
 *(printed: ( 11h. 37m., aft.)*
 
-> Bernard Goldul[?]
-> at Folkstone
+> Bennett Goldney[?]
+> at Folk[e]stone
 > Pier.
 > Crossed to Dieppe[?]
 > Grand Hotel
 
-**Places:** Folkstone, Folkstone Pier, Dieppe[?], Grand Hotel  
-**People:** Sybil, Mary, Ray, Bernard  
+**Places:** Folk[e]stone, Folk[e]stone Pier, Dieppe, Dieppe Grand Hotel  
+**People:** Louis Quiren[?], Sybil, Mary, Ray, Bennett Goldney[?]  
 
-**Transcriber's note:** Bleed-through present but suppressed image confirms real ink. Travel: motored to Folkstone, crossed by sea, stayed Grand Hotel. Some names uncertain.
+**Transcriber's note:** [Francis] Bennett-Goldney[?], 1865-1918 (antiquary; MP; author of "The First Arrivals of Wounded at Folkestone Pier and the Early Importance and Developments of the Bevan Military Hospital at Sandgate" (publ. 191[7])); Mary [Berenson] and Ray [Costelloe Strachey].
