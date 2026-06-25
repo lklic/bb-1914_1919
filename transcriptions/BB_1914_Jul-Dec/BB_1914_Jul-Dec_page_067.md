@@ -10,10 +10,10 @@ places:
   - 25 Rue Montaigne
 people:
   - Seligmann
-  - Murat[?]
+  - Mme. Murat[?]
   - Mme. de Ludre[?]
   - Mrs. Bliss
-  - Gauterop[?]
+  - E. Gauderat[?]  
 ---
 
 # BB_1914_Jul-Dec — page 67 (left)
@@ -24,19 +24,19 @@ people:
 
 *(printed: 23rd Sunday after Trinity.)*
 
-> 30 C. Gauterat[?]
-> 25 Rue Mont[a]igne
+> ~~12.30 E. Gauderat[?]~~
+> 25 Rue Montaigne
 > Seligmann
-> [illegible]
-> [illegible] dine[?] Murat[?]
+> ~~V. Berard to~~
+> Mm. ~~dinner~~ Murat
 
 ## November 16 — Monday
 
-> lunch Gauterop[?]
+> lunch Gauderat[?]
 > 5 Mme. de Ludre[?]
 > Mrs. Bliss to dine
 
 **Places:** 25 Rue Montaigne  
-**People:** Seligmann, Murat[?], Mme. de Ludre[?], Mrs. Bliss, Gauterop[?]  
+**People:** Seligmann, Mme. Murat[?], Mme. de Ludre[?], Mrs. Bliss, E. Gauderat[?]  
 
-**Transcriber's note:** First line struck through. Some lines crossed out. Several names uncertain owing to pencil and bleed-through. Likely in Paris (Rue Montaigne, French names).
+**Transcriber's note:** [Jacques] Seligmann, 1858-1923 (French art dealer); Mm. [Princess Cécile] Murat (Marie Cécile Ney d'Elchingen), 1867-1960 (French hostess; wife of Joachim Napoléon Murat, 5th Prince Murat); V. [Victor] Bérard; Mrs. [Mildred] Bliss, 1875-1969 (wife of Robert Woods Bliss; donor of Dumbarton Oaks to Harvard University)
