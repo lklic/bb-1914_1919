@@ -12,12 +12,13 @@ places:
 people:
   - Sybil
   - W. B.
-  - Bella Harper[?]
+  - Bella Herbert[?]
   - George Moore
+  - Ethel
   - Otto
   - Mary Crawshay
   - Mrs. Astor
-  - Diana
+  - Eva  
 ---
 
 # BB_1914_Jul-Dec — page 63 (left)
@@ -28,22 +29,22 @@ people:
 
 > Richmond & lunch
 > with Sybil at Hampton Ct.
-> 3.30 W. B. chez nor[?]
-> 5.30 Bella Harper[?]
+> 3.30 W. B. chez-moi
+> 5.30 Bella Herbert[?]
 > George Moore 8
 
 ## November 8 — Sunday
 
 *(printed: 22nd Sunday after Trinity.)*
 
-> Lunch & dine[?]
+> Lunch Ethel[?]
 > Otto
 > Mary Crawshay
 > Mrs. Astor
-> Megs[?]
-> Diana & Sybil
+> Eva
+> Dine Sybil
 
-**Places:** Richmond, Hampton Ct.  
-**People:** Sybil, W. B., Bella Harper[?], George Moore, Otto, Mary Crawshay, Mrs. Astor, Diana  
+**Places:** Richmond, Hampton Ct. 
+**People:** Sybil, W. B., Bella Herbert[?], George Moore, Ethel, Otto, Mary Crawshay, Mrs. Astor, Eva  
 
-**Transcriber's note:** Heavy bleed-through across whole page; suppressed image confirms the real ink lines. '5.30 Bella Harper' line is faint but present in suppressed image. 'W. B. chez nor' uncertain.
+**Transcriber's note:** George Moore, 1852-1933 (Anglo-Irish novelist); Otto [Kahn]; Mrs. [Nancy Waldorf] Astor.
