@@ -7,16 +7,20 @@ spread: 31
 page_type: entry
 location: London
 places:
-  - Mayfair
-  - Hyde Park Gate
+  - 88 Portland Place
+  - Mayfair 1998[?]
+  - Lulling[?] Hall
+  - 17 Hyde Park Gate
   - London
 people:
   - Lady Lewis
   - Eva
-  - Mary
+  - Mary Crawshay
   - Lady Cunard
+  - Bassiano
   - Lady Charles Beresford
   - Lady Herbert
+  - Cook
 ---
 
 # BB_1914_Jul-Dec — page 61 (left)
@@ -27,13 +31,14 @@ people:
 
 *(printed: 21st Sunday after Trinity)*
 
-> go Portland[?]
+> 88 Portland Place[?]
 > 1.30 Lady Lewis
-> 3.30 Eva at[?] our[?] house[?]
-> 5.15 Mary Hill[?]
-> Lucchi[?]
+> 3.30 Eva at[?] any[?] hotel[?]
+> 5.15 Mary Crawshay
+> 8 Lulling[?] Hall
 > with Lady Cunard
-> Mayfair 199[?]
+> Mayfair 19[?]1
+> Supped[?] with Bassiano
 
 ## November 4 — Wednesday
 
@@ -42,7 +47,7 @@ people:
 > Dine 8 Cook 17
 > Hyde Park Gate
 
-**Places:** Mayfair, Hyde Park Gate, London  
-**People:** Lady Lewis, Eva, Mary, Lady Cunard, Lady Charles Beresford, Lady Herbert  
+**Places:** 88 Portland Place, Mayfair 1998[?], Lulling[?] Hall, 17 Hyde Park Gate, London  
+**People:** Lady Lewis, Eva, Mary Crawshay, Lady Cunard, Bassiano, Lady Charles Beresford, Lady Herbert, Cook 
 
-**Transcriber's note:** London social engagements with times and appointments. Heavy blue-green bleed-through in original (faint, soft script), all suppressed in the clean image; only sharp dark pencil transcribed. There is a vertical pencil scrawl/brace down the left margin near the gutter (not legible words). 'Lucchi' and 'Mayfair 199' tentative. 'Cook 17 Hyde Park Gate' likely a dinner address.
+**Transcriber's note:** Lady [Elizabeth] Lewis, 1878-1961 (wife of Sir George Henry Lewis; mother of Katherine Elizabeth Lewis (1878-1961), frequent correspondent of BB; owner of 88 Portland Place); [Roffredo Caetani, Prince of] Bassiano and Duke of Sermoneta, 1871-1962 (Italian composer; husband of Marguerite Caetani); Lady Charles Beresford, 1848-1922 (English social hostess; wife of Admiral Lord Charles Beresford); [Herbert Frederick] Cook, 1868-1939 (English art collector).
