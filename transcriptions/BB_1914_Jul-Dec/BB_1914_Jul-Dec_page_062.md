@@ -7,15 +7,18 @@ spread: 31
 page_type: entry
 location: London
 places:
-  - Covent Garden
-  - old Bond Street
+  - Box 56 Covent Garden
+  - 40 Aluburn[?] Place
+  - 30 Old Bond Street
   - Waterloo
   - London
 people:
   - Sybil
   - Mary
-  - Sanderson
+  - Cobden[?] Sanderson[?]
   - Mrs. Austin
+  - Cook
+  - C. P.
 ---
 
 # BB_1914_Jul-Dec — page 62 (right)
@@ -25,10 +28,10 @@ people:
 ## November 5 — Thursday
 
 > N.B. Sybil & Mary lunch.
-> have[?]
-> Box 56 Covent
-> Garden.
-> Coltieri[?] Sanderson[?]
+> here
+> ~~Box 56 Covent~~
+> ~~Garden.~~
+> Cobden[?] Sanderson[?]
 > Mrs. Austin
 
 ## November 6 — Friday
@@ -36,13 +39,16 @@ people:
 *(printed: 22nd Sunday after Trinity)*
 
 > 1. o'clock C. P. 40
-> Clybren[?] Place
-> + 2.0 Hutton[?] 30
-> old Bond Street[?]
-> Cook[?] Eshg[?]
+> Aluburn[?] Place
+> 1.30 Hunter[?] 30
+> Old Bond Street[?]
+> Cook Esha[?]
 > 6.05 Waterloo
 
-**Places:** Covent Garden, old Bond Street, Waterloo, London  
-**People:** Sybil, Mary, Sanderson, Mrs. Austin  
+**Places:** Box 56 Covent Garden, 40 Aluburn[?] Place, 30 Old Bond Street, Waterloo, London  
+**People:** Sybil, Mary, Cobden[?] Sanderson[?], Mrs. Austin, Cook, C. P.
 
-**Transcriber's note:** Opera box at Covent Garden (Box 56). 'Coltieri Sanderson' possibly Cobden-Sanderson. Some lines struck through. Faint bleed-through in original suppressed in clean image; only confirmed dark strokes transcribed. Several names/addresses uncertain. Closes with 6.05 Waterloo (train departure).
+**Transcriber's note:** Opera box at Covent Garden (Box 56). Mary likely refers to Mary [Crawshay], who appears in the previous day's entry; [Thomas James] Cobden-Sanderson, 1840-1922 (founder of Doves Press; central figure in Arts and Crafts movement); [Sir] C. [Claude] P. [Phillips], 1846-1924 (English art connoisseur and writer); [Herbert Frederick] Cook, 1868-1939 (English art collector).
+ 
+
+'Coltieri Sanderson' possibly Cobden-Sanderson. Some lines struck through. Faint bleed-through in original suppressed in clean image; only confirmed dark strokes transcribed. Several names/addresses uncertain. Closes with 6.05 Waterloo (train departure).
