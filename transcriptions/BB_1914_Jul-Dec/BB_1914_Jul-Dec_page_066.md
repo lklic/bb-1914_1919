@@ -13,8 +13,9 @@ people:
   - Schlumberger[?]
   - Mrs. Lucy
   - Ma. de Ludre
-  - Loraine[?]
-  - V. Bérard
+  - Forain[?]
+  - Vignier[?]
+  - V. Berard
 ---
 
 # BB_1914_Jul-Dec — page 66 (right)
@@ -33,12 +34,12 @@ people:
 
 > Paris
 > lunch with Ma. de
-> Ludre, met Loraine[?]
-> Aiguier[?]
+> Ludre, met Forain[?]
+> Vignier[?]
 > Mme. de Cossé[?]
-> Dined (see V. Bérard)
+> Dined (see V. Berard)
 
 **Places:** Paris  
-**People:** Mme. de Cossé[?], Schlumberger[?], Mrs. Lucy, Ma. de Ludre, Loraine[?], V. Bérard  
+**People:** Mme. de Cossé[?], Schlumberger[?], Mrs. Lucy, Ma. de Ludre, Forain[?], Vignier[?], V. Bérard  
 
-**Transcriber's note:** In Paris; social calls and dinners. Several names uncertain. Bluish-grey bleed-through throughout ignored; only dark ink confirmed in suppressed image transcribed.
+**Transcriber's note:** [Jean-Louis] Forain, 1852-1931 (French painter, caricaturist, printmaker); [Charles] Vignier, 1863-1934 (Paris-based Oriental/Asian art dealer); V. [Victor] Bérard, 1864-1931 (French Hellenist).
