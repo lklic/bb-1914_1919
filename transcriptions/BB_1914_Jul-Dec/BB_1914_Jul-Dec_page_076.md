@@ -5,10 +5,11 @@ page: 76
 side: right
 spread: 38
 page_type: entry
-location: Genoa
+location: Pisa
 places:
   - Pisa
-  - Campo Santo
+  - CampoSanto
+  - [Pisa] Cathedral
   - I Tatti
 people:
   - Geoffrey
@@ -18,7 +19,7 @@ people:
 
 # BB_1914_Jul-Dec — page 76 (right)
 
-*Location: **Genoa***
+*Location: **Pisa***
 
 ## December 3 — Thursday
 
@@ -36,11 +37,7 @@ people:
 > Dine Geoffrey &
 > Cecil
 
-### Other writing on page
-
-> L
-
-**Places:** Pisa, Campo Santo, I Tatti  
+**Places:** Pisa, Campo Santo, [Pisa] Cathedral, I Tatti  
 **People:** Geoffrey, Cecil, Carlo P.  
 
-**Transcriber's note:** Dec 3 lunch at Pisa Camposanto and Cathedral, then I Tatti (BB's villa near Florence) at 4.30 with Geoffrey & Cecil. Dec 4 at I Tatti, lunch with Carlo P., dine with Geoffrey & Cecil. 'L' printed at lower corner. Bleed-through suppressed; handwriting confirmed in clean version.
+**Transcriber's note:** Geoffrey [Scott]; Cecil [Pinsent]; Carlo P. [Placci].
