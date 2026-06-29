@@ -9,11 +9,12 @@ location: Nice
 places:
   - Ville Sylvia
   - ITALY
-  - Hotel Royal
+  - Hotel Royal [San Remo]
   - San Remo
+  - Grand [Alassio Hotel]
   - Alassio
   - Genoa
-  - Hotel Miramar
+  - [Grand] Hotel Miramar[e]  
 ---
 
 # BB_1914_Jul-Dec — page 74 (right)
@@ -24,7 +25,7 @@ places:
 
 *(printed: 1st Sunday in Advent.)*
 
-> lunch Ville Sylvia[?]
+> lunch Ville Sylvia
 > ITALY
 > Hotel Royal
 > San Remo.
@@ -38,6 +39,6 @@ places:
 > Genoa
 > Hotel Miramar
 
-**Places:** Ville Sylvia, ITALY, Hotel Royal, San Remo, Alassio, Genoa, Hotel Miramar  
+**Places:** Ville Sylvia, ITALY, Hotel Royal [San Remo], San Remo, Grand [Alassio Hotel], Alassio, Genoa, [Grand] Hotel Miramar[e]  
 
-**Transcriber's note:** Crosses into Italy; 'ITALY' in block capitals marks the border. Travels San Remo -> Alassio -> Genoa. 'Ville Sylvia' and 'Grand' uncertain. Bleed-through ghosts suppressed; cursive hotel/place names confirmed dark in suppressed image.
+**Transcriber's note:** Ville Sylvia, owned by Ralph (Wormeley) Curtis, 1854-1922 (American painter and art collector). Crosses into Italy; 'ITALY' in block capitals marks the border. Travels San Remo -> Alassio -> Genoa. 'Ville Sylvia' and 'Grand' uncertain. Bleed-through ghosts suppressed; cursive hotel/place names confirmed dark in suppressed image.
