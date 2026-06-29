@@ -8,10 +8,12 @@ page_type: entry
 location: Nice
 places:
   - Aix
-  - Costabella
+  - Costabelle
   - St. Raphael
   - Nice
   - Hotel Cecil
+people:
+  - Bourget
 ---
 
 # BB_1914_Jul-Dec — page 73 (left)
@@ -21,8 +23,8 @@ places:
 ## November 27 — Friday
 
 > Aix lunch
-> Costabella[?], via[?]
-> Bouquet[?] .
+> Costabelle, the
+> Bourgets.
 
 ## November 28 — Saturday
 
@@ -30,6 +32,7 @@ places:
 > Nice
 > Hotel Cecil
 
-**Places:** Aix, Costabella, St. Raphael, Nice, Hotel Cecil  
+**Places:** Aix, Costabelle, St. Raphael, Nice, Hotel Cecil
+**People:** Bourget
 
-**Transcriber's note:** Travel along the French Riviera. Several words uncertain on Nov 27 (Costabella, last word). Faint soft bleed-through present in original but absent in bleed-suppressed image, so ignored; only the dark cursive lines transcribed.
+**Transcriber's note:** Travel along the French Riviera. [Paul] Bourget, 1852-1935 (French novelist; owner of Le Plantier de Costabelle (1896-1935))
