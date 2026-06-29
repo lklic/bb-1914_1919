@@ -39,4 +39,4 @@ people:
 **Places:** 25 Rue Montaigne  
 **People:** Seligmann, Mme. Murat[?], Mme. de Ludre[?], Mrs. Bliss, E. Gauderat[?]  
 
-**Transcriber's note:** [Jacques] Seligmann, 1858-1923 (French art dealer); Mm. [Princess Cécile] Murat (Marie Cécile Ney d'Elchingen), 1867-1960 (French hostess; wife of Joachim Napoléon Murat, 5th Prince Murat); V. [Victor] Bérard; Mrs. [Mildred] Bliss, 1875-1969 (wife of Robert Woods Bliss; donor of Dumbarton Oaks to Harvard University)
+**Transcriber's note:** [Jacques] Seligmann, 1858-1923 (French art dealer); Mme [Thérèse Bianchi, Comtesse] Murat, 1870-1940 (wife of Gaétan Murat, Comte Murat); V. [Victor] Bérard; Mrs. [Mildred] Bliss, 1875-1969 (wife of Robert Woods Bliss; donor of Dumbarton Oaks to Harvard University)
