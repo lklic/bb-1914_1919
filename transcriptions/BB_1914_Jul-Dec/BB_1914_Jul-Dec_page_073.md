@@ -32,7 +32,7 @@ people:
 > Nice
 > Hotel Cecil
 
-**Places:** Aix, Costabelle, St. Raphael, Nice, Hotel Cecil
+**Places:** Aix, Costebelle, St. Raphael, Nice, Hotel Cecil
 **People:** Bourget
 
 **Transcriber's note:** Travel along the French Riviera. [Paul] Bourget, 1852-1935 (French novelist; owner of Le Plantier de Costabelle (1896-1935))
