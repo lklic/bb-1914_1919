@@ -11,11 +11,12 @@ places:
 people:
   - Seligmann
   - Edith W.
-  - Mme. Heinrich[?]
+  - Mme. Henraux
   - Reinach
   - Hubert[?]
   - Blanche[?]
-  - Clermont-Tonnerre[?]
+  - Gaudeard[?]
+  - Duchesse Clermont-Tonnerre[?] 
 ---
 
 # BB_1914_Jul-Dec — page 69 (left)
@@ -26,7 +27,7 @@ people:
 
 > 11.30 Seligmann
 > lunch[?] Edith W.
-> 5.30 Mme. Heinrich[?]
+> 5.30 Mme. Henraux
 > 8 Reinach
 
 ## November 20 — Friday
@@ -34,11 +35,11 @@ people:
 > Paris
 > 4.30 here Hubert[?]
 > 5 here tea, Blanche[?]
-> here Gauchard[?] de
-> [illegible] Clermont-
-> Tonnerre[?]
+> here Gaudeard[?] & Du-
+> chesse Clermont-
+> Tonnerre[?] to dine
 
 **Places:** Paris  
-**People:** Seligmann, Edith W., Mme. Heinrich[?], Reinach, Hubert[?], Blanche[?], Clermont-Tonnerre[?]  
+**People:** Seligmann, Edith W., Mme. Henraux, Reinach, Hubert[?], Blanche[?], Gaudeard[?], Duchesse Clermont-Tonnerre[?]  
 
-**Transcriber's note:** In Paris. Nov 19 appointments with Seligmann, lunch with Edith W., Mme Heinrich(?) and Reinach. Nov 20 'Paris' written large; afternoon tea visitors, names uncertain in lower lines which run into the gutter.
+**Transcriber's note:** [Jacques] Seligmann, 1858-1923 (Parisian art dealer); Edith W. [Wharton]; Mme. [Elizabetta de Piccolellis] Henraux, 1892-1965 (wife of Lucien Henraux, art collector (m. April 1914)); [Salomon] Reinach, 1858-1932 (French archeologist and humanist); [Henri] Hubert, 1872-1927 (French ethnologist and anthropologist); [Jacques Emile] Blanche, 1861-1941 (French painter); [Élisabeth de Gramont], Duchesse Clermont-Tonnerre, 1875-1954 (French writer).
