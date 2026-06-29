@@ -8,9 +8,12 @@ page_type: entry
 location: Genoa
 places:
   - Genoa
+  - Sestri [Levante]
+  - Hotel Jensch
   - Viareggio
+  - Hotel Royal [Viareggio] 
 people:
-  - Laura Gropallo[?]
+  - Laura Gropallo
   - Guido Cagnola
 ---
 
@@ -23,7 +26,7 @@ people:
 *(printed: Queen Alexandra's Birthday.)*
 
 > Genoa.
-> Laura Gropallo[?] to
+> Laura Gropallo to
 > lunch
 > Guido Cagnola to
 > dinner
@@ -32,12 +35,12 @@ people:
 
 *(printed: O 6h. 21m., aft.)*
 
-> lunched Serli[?]
-> Hotel Krusch[?]
+> lunched Sestri[?]
+> Hotel Jensch[?]
 > Viareggio, Hotel
 > Royal
 
-**Places:** Genoa, Viareggio  
+**Places:** Genoa, Sestri [Levante], Hotel Jensch, Viareggio, Hotel Royal [Viareggio] 
 **People:** Laura Gropallo[?], Guido Cagnola  
 
-**Transcriber's note:** Dec 1 at Genoa: lunch with Laura Gropallo, dinner with Guido Cagnola. Dec 2 lunched (Serli?), Hotel name uncertain, then Viareggio, Hotel Royal. Some surnames uncertain. Heavy bleed-through suppressed; handwriting confirmed in clean version.
+**Transcriber's note:** Laura Gropallo, 1872-1937 (Italian writer and playwright; cousin of Guido Cagnola); [Don] Guido Cagnola, 1862-1954 (Italian art collector; cousin of Laur Gropallo).
