@@ -24,9 +24,9 @@ people:
 *(printed: 11h. 32m., morn.)*
 
 > Guido
-> Placci to[?]
-> lunch[?]
+> Placci to
+> lunch
 
 **People:** Guido, Placci  
 
-**Transcriber's note:** Pencil. Heavy bleed-through (some mirror-reversed) ignored; confirmed against bleed-suppressed image. 'Placci to lunch' uncertain.
+**Transcriber's note:** Guido [Cagnola]; [Carlo] Placci.
