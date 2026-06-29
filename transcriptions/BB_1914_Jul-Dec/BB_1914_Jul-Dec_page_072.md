@@ -11,6 +11,8 @@ places:
   - Lyons
   - Valence
   - Avignon
+  - Palais [des Papes]
+  - Rocher [des Doms]
 ---
 
 # BB_1914_Jul-Dec — page 72 (right)
@@ -30,6 +32,6 @@ places:
 > Palais, Rocher by
 > moonlight
 
-**Places:** Macon, Lyons, Valence, Avignon  
+**Places:** Macon, Lyons, Valence, Avignon, Palais [des Papes], Rocher [des Doms]
 
 **Transcriber's note:** Continuing south. 'Palais, Rocher by moonlight' = Palais des Papes and Rocher des Doms at Avignon.
