@@ -8,7 +8,9 @@ page_type: entry
 location: Florence
 people:
   - American Consul
-  - Geoffry Cecil
+  - Geoffrey
+  - Cecil
+  - Naima
 ---
 
 # BB_1914_Jul-Dec — page 77 (left)
@@ -18,15 +20,14 @@ people:
 ## December 5 — Saturday
 
 > American Consul
+> Geoffrey. Cecil
+> & Naima
 
 ## December 6 — Sunday
 
 *(printed: 2nd Sunday in Advent.)*
 
-> Geoffry[?] Cecil
-> v Wasin[?]
-> S
 
-**People:** American Consul, Geoffry Cecil  
+**People:** American Consul, Geoffrey, Cecil, Naima 
 
-**Transcriber's note:** Ink/pencil entries confirmed in bleed-suppressed image. 'American Consul' under Dec 5. 'Geoffry Cecil' with a smaller inserted word/'v Wasin' below it sits just above the Dec 6 header; reading uncertain. A flourish ('S') under Dec 6. Heavy bluish bleed-through across page ignored.
+**Transcriber's note:** Geoffrey [Scott]; Cecil [Pinsent]; Naima [Löfroth] (Berenson's masseuse).
