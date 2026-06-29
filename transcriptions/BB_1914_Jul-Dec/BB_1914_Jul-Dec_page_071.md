@@ -8,9 +8,9 @@ page_type: entry
 location: Macon
 places:
   - Paris
-  - Sens
   - Fontainebleau
   - Auxerre
+  - Hotel Moderne
   - Vezelay
   - Avallon
   - Autun
@@ -25,7 +25,7 @@ places:
 ## November 23 — Monday
 
 > Leave Paris 10. A.M.
-> Sens[?] Fontainbleau
+> lunch Fontainbleau
 > Auxerre
 > Hotel Moderne
 
@@ -39,6 +39,6 @@ places:
 > Cluny
 > Macon
 
-**Places:** Paris, Sens, Fontainebleau, Auxerre, Vezelay, Avallon, Autun, Cluny, Macon  
+**Places:** Paris, Fontainebleau, Auxerre, Hotel Moderne, Vezelay, Avallon, Autun, Cluny, Macon  
 
-**Transcriber's note:** Beginning of a tour south from Paris through Burgundy. Strong mirror-reversed bleed-through across both pages, ignored. Second line of Nov 23 uncertain (Sens / Fontainbleau). Hotel Moderne at Auxerre. Nov 24 city before Macon read as Cluny (Autun-Cluny-Macon route).
+**Transcriber's note:** Beginning of a tour south from Paris through Burgundy.
