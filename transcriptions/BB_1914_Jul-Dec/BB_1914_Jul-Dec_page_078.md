@@ -7,9 +7,10 @@ spread: 39
 page_type: entry
 location: Florence
 people:
+  - Strong
   - Mrs. Ross
-  - Guido Cagnola[?]
-  - Maraini[?]
+  - Guido Cagnola
+  - Maraini 
 ---
 
 # BB_1914_Jul-Dec — page 78 (right)
@@ -18,18 +19,17 @@ people:
 
 ## December 7 — Monday
 
-> S
-> Tea with Strong[?]
+> Tea with Strong
 > Mrs. Ross
 
 ## December 8 — Tuesday
 
 *(printed: 11h 32m, morn.)*
 
-> Guido Cagnola[?]
+> Guido Cagnola
 > arrives
-> Maraini[?] to dine
+> Maraini to dine
 
-**People:** Mrs. Ross, Guido Cagnola[?], Maraini[?]  
+**People:** Strong, Mrs. Ross, Guido Cagnola, Maraini  
 
-**Transcriber's note:** Entries sharp/dark in bleed-suppressed image. Flourish 'S' under Dec 7 header. 'Tea with Strong'(?) and 'Mrs. Ross'. Dec 8 printed sub-note is a moon-phase time. 'Guido Cagnola arrives' and 'Maraini to dine' tentative readings. Bluish bleed-through ignored.
+**Transcriber's note:** [Charles Augustus] Strong, 1862-1940 (American philosopher and psychologist; owner of Villa Le Balze in Fiesole (purch. 1911)); Mrs. [Janet] Ross, 1842-1927 (owner of villa at Poggio Gherard); [Antonio] Maraini, 1886-1964 (Italian sculptor). 
