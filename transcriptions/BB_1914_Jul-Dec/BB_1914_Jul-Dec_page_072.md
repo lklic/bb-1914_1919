@@ -32,4 +32,4 @@ places:
 
 **Places:** Macon, Lyons, Valence, Avignon  
 
-**Transcriber's note:** Continuing south. 'Palais, Rocher by moonlight' = Palais des Papes and Rocher des Doms at Avignon. Last lines faint pencil, best effort.
+**Transcriber's note:** Continuing south. 'Palais, Rocher by moonlight' = Palais des Papes and Rocher des Doms at Avignon.
