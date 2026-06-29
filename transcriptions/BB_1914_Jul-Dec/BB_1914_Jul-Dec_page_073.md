@@ -8,7 +8,7 @@ page_type: entry
 location: Nice
 places:
   - Aix
-  - Costabelle
+  - Costebelle
   - St. Raphael
   - Nice
   - Hotel Cecil
@@ -23,7 +23,7 @@ people:
 ## November 27 — Friday
 
 > Aix lunch
-> Costabelle, the
+> Costebelle, the
 > Bourgets.
 
 ## November 28 — Saturday
