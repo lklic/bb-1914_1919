@@ -8,6 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Vivarini[?]
+  - Clausewitz
   - Maraini[?]
   - Placci
 ---
@@ -21,14 +22,14 @@ people:
 *(printed: Sunday after Christmas.)*
 
 > S. & A. Vivarini[?]
-> comparison[?] to
-> Clausewitz[?]
+> Companion to
+> Clausewitz
 
 ## December 28 — Monday
 
 > Maraini[?] & Placci
 > to dine.
 
-**People:** Vivarini[?], Maraini[?], Placci  
+**People:** Vivarini[?], Clausewitz, Maraini[?], Placci 
 
-**Transcriber's note:** Faint bleed-through ignored. Dec 28 has a small isolated pencil squiggle/flourish below the header (real but not legible as words). Placci likely Carlo Placci, a BB associate. 'S. & A. Vivarini' = the painters Antonio & Bartolomeo Vivarini (art-historical note).
+**Transcriber's note:** "S. & A. Vivarini[?]" could be a reference to the fifteenth-century painters A. [Antonio] Vivarini or A. [Alvise] Vivarini; "[The Reality of War: A] Companion to Clausewitz" (publ. 1914 by Major Stewart L. Murray); [Carl von] Clausewitz, 1780-1831 (Prussian general and military theorist; author of Vom Kriege (On War), publ. 1832); [Antonio] Maraini; [Carlo] Placci.  
