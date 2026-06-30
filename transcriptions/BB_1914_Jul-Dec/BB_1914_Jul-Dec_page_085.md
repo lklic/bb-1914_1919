@@ -8,6 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Loeser
+  - Marain[i]
   - Lionello Venturi
 ---
 
@@ -17,7 +18,7 @@ people:
 
 ## December 21 — Monday
 
-> Loeser & Marais[?]
+> Loeser & Marain[i]
 
 ## December 22 — Tuesday
 
@@ -25,6 +26,6 @@ people:
 
 > Lionello Venturi
 
-**People:** Loeser, Lionello Venturi  
+**People:** Loeser, Marain[i], Lionello Venturi  
 
-**Transcriber's note:** Heavy blue bleed-through in original. The bleed-suppressed image keeps only two dark cursive lines: 'Loeser & Marais[?]' under Dec 21 and 'Lionello Venturi' under Dec 22. The top 'Mrs & Mlle...' line and the faint bottom line seen in the original are bleed-through and not transcribed.
+**Transcriber's note:** [Charles Alexander] Loeser, 1864-1928 (American art connoisseur and collector); [Antonio] Marain[i], 1886-1964 (Italian sculptor); Lionelle Venturi, 1885-1961 (Italian art historian, son of Adolfo Venturi).
