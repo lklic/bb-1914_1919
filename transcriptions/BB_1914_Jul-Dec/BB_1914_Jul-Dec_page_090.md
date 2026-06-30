@@ -8,6 +8,7 @@ page_type: entry
 location: Florence
 people:
   - Crivelli
+  - Steed
 ---
 
 # BB_1914_Jul-Dec — page 90 (right)
@@ -21,9 +22,9 @@ people:
 ## January 1 — Friday
 
 > Crivelli
-> [Steed's?] Hapsburg
+> Steed's Hapsburg
 > Monarchy
 
-**People:** Crivelli  
+**People:** Crivelli, Steed 
 
-**Transcriber's note:** Reading/study notes. 'Crivelli' = Carlo Crivelli, painter. 'Hapsburg Monarchy' likely H. W. Steed, The Hapsburg Monarchy (1913); first word uncertain, read as 'Steed's[?]'.
+**Transcriber's note:** Reading/study notes. [Carlo] Crivelli, fifteenth-century Italian painter; [Henry Wickham] Steed, 1871-1956 (English journalist and historian; author "The Hapsburg Monarchy" (publ. 1913)).
