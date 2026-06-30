@@ -28,9 +28,9 @@ people:
 
 *(printed: 8h. 25m., morn. (moon phase); Bank Holiday.)*
 
-> Henderson Seikrieg[?]
-> & War.
+> Henderson Science
+> of War.
 
 **People:** Gravina, Houghton, Henderson  
 
-**Transcriber's note:** Bleed-through present but the listed dark lines are confirmed in the bleed-suppressed image. 'Tea with Gravina' and 'Houghton dined / here' are clear. The faint earlier lines under Dec 24 ('Frank...', etc.) are bleed-through; only the bottom 'Henderson Seikrieg[?] & War.' is real. Second word of that line uncertain (possibly 'Seekrieg'/sea-war).
+**Transcriber's note:** [Blandine Elisabeth von Bülow, Countess] Gravina, 1863-1941 (wife of Count Biago Gravina); [Edmund] Houghton (Cecil Pinsent's "adopted father" according to Mary Berenson); [Colonel G. F. R.] Henderson, 1854-1903 (author of "The Science of War: A Collection of Essays and Lectures" (publ. 1905)).
