@@ -7,9 +7,11 @@ spread: 41
 page_type: entry
 location: Florence
 people:
-  - Guido Crav[?]
-  - Salvemini[?]
+  - Guido
+  - Salvemini
   - Placci
+  - Nello
+  - Yoi[?]
 ---
 
 # BB_1914_Jul-Dec — page 81 (left)
@@ -20,14 +22,14 @@ people:
 
 *(printed: 3rd Sunday in Advent.)*
 
-> Guido Crav[?]
-> Salvemini[?]
+> Guido leaves
+> Salvemini &
 > Placci
 
 ## December 14 — Monday
 
-> Valts[?] & Loi[?]
+> Nello & Joi[?]
 
-**People:** Guido Crav[?], Salvemini[?], Placci  
+**People:** Guido, Salvemini, Placci, Nello, Yoi[?]
 
-**Transcriber's note:** Ink; heavy bleed-through fills the middle of the page in the original. Only strokes confirmed dark in the bleed-suppressed image are transcribed. 'Valts & Loi' written low on the page, assigned to Dec 14; reading uncertain.
+**Transcriber's note:** Guido [Cagnola]; [Gaetano] Salvemini, 1873-1957 (Italian historian); [Carlo] Placci; [Lio]nello [Venturi], 1885-1961 (Italian art historian, son of Adolfo Venturi); Yoï [Maraini], 1877-1944 (English-born wife of Antonio Maraini, mother of Fosco Maraini).
