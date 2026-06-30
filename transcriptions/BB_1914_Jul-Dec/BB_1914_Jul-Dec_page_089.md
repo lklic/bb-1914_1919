@@ -24,8 +24,7 @@ people:
 ## December 30 — Wednesday
 
 > Vivarini
-> [illegible]
 
 **People:** Dickinson, Vivarini  
 
-**Transcriber's note:** Reading/study notes rather than locations. 'Dickinson's Appearances' = G. Lowes Dickinson, Appearances (1914). 'Vivarini' = Venetian painter family. Lower lines on Dec 30 partly obscured by show-through and illegible.
+**Transcriber's note:** Vivarini refers to the Venetian fifteenth-century painter family; G. [Goldsworthy] Lowes Dickinson, 1862-1932 (English humanist, historian, and philosopher; author of "Appearances: Being Notes of Travel" (publ. 1914)). 'Vivarini' = Venetian fifteenth-century painter family. 
