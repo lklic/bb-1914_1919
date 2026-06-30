@@ -7,10 +7,10 @@ spread: 42
 page_type: entry
 location: Florence
 people:
-  - Nani
+  - Nanni
   - Cecil
-  - Trotty
-  - Laure
+  - Geoffrey
+  - Savill[?]
 ---
 
 # BB_1914_Jul-Dec — page 84 (right)
@@ -19,15 +19,15 @@ people:
 
 ## December 19 — Saturday
 
-> Nani, Cecil
-> & Trotty[?]
+> Nanni, Cecil
+> & Geoffrey
 
 ## December 20 — Sunday
 
 *(printed: 4th Sunday in Advent.)*
 
-> Laure[?]
+> Savill[?]
 
-**People:** Nani, Cecil, Trotty, Laure  
+**People:** Nanni, Cecil, Geoffrey, Savill[?]  
 
-**Transcriber's note:** Pencil/ink, faint. Dec 19 entry written just above the Dec 20 header. Faint marks below Dec 20 are bleed-through (absent in bleed-suppressed image) and not transcribed.
+**Transcriber's note:** Cecil [Pinsent]; Geoffrey [Scott].
