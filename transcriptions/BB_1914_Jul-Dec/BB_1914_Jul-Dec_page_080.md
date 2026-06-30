@@ -9,11 +9,10 @@ location: Florence
 people:
   - Guido
   - Cecil
-  - Geoffry Lees
-  - Hamilton
-  - O. Gutekunst
-  - Naomi
   - Geoffrey
+  - Ojetti[?]
+  - Naima[?]
+  - Genhans[?] Hamilton
 ---
 
 # BB_1914_Jul-Dec — page 80 (right)
@@ -23,16 +22,16 @@ people:
 ## December 11 — Friday
 
 > Guido
-> Tea with Cecil[?]
-> & Geoffry[?] Lees[?]
-> Guen[?]hans[?] Hamilton[?]
+> Tea with Cecil
+> & Geoffrey, Loeser[?]
+> Genhans[?] Hamilton
 
 ## December 12 — Saturday
 
 > Guido
-> Lunch with O. Gutekunst[?]
-> Naomi, Geoffrey
+> Lunch with Ojetti[?]
+> Naima[?], Geoffrey
 
-**People:** Guido, Cecil, Geoffry Lees, Hamilton, O. Gutekunst, Naomi, Geoffrey  
+**People:** Guido, Cecil, Geoffrey, Ojetti[?], Naima[?], Genhans[?] Hamilton  
 
-**Transcriber's note:** Pencil. Faint '3rd Sunday in Advent' near Dec 11 header is bleed-through (forward/mirror ghost), not a real printed note for Friday - omitted. 'Tea with Cecil & Geoffry Lees' and 'Hamilton' uncertain; 'Lunch with O. Gutekunst' uncertain ('with' is interlinear). Bleed-through ignored.
+**Transcriber's note:** Guido [Cagnola]; Cecil [Pinsent]; Geoffrey [Scott]; Naima[?] [Löfroth]; [Ugo] Ojetti, 1871-1946 (Italian journalist, literary critic, art collector and connoisseur, director of Corriere della Sera, 1919-1925); [Charles Alexander] Loeser, 1864-1928 (American art connoisseur and collector).
