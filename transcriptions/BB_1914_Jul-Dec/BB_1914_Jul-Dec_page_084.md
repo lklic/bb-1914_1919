@@ -10,7 +10,7 @@ people:
   - Naimi
   - Cecil
   - Geoffrey
-  - Savill[?]
+  - Laure[?]
 ---
 
 # BB_1914_Jul-Dec — page 84 (right)
@@ -26,8 +26,8 @@ people:
 
 *(printed: 4th Sunday in Advent.)*
 
-> Savill[?]
+> Laure[?]
 
-**People:** Naimi, Cecil, Geoffrey, Savill[?]  
+**People:** Naimi, Cecil, Geoffrey, Laure[?]  
 
 **Transcriber's note:** Naimi [Löfroth]; Cecil [Pinsent]; Geoffrey [Scott].
