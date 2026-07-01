@@ -7,7 +7,7 @@ spread: 42
 page_type: entry
 location: Florence
 people:
-  - Nanni
+  - Naimi
   - Cecil
   - Geoffrey
   - Savill[?]
@@ -19,7 +19,7 @@ people:
 
 ## December 19 — Saturday
 
-> Nanni, Cecil
+> Naimi, Cecil
 > & Geoffrey
 
 ## December 20 — Sunday
@@ -28,6 +28,6 @@ people:
 
 > Savill[?]
 
-**People:** Nanni, Cecil, Geoffrey, Savill[?]  
+**People:** Naimi, Cecil, Geoffrey, Savill[?]  
 
-**Transcriber's note:** Cecil [Pinsent]; Geoffrey [Scott].
+**Transcriber's note:** Naimi [Löfroth]; Cecil [Pinsent]; Geoffrey [Scott].
